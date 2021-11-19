@@ -17,7 +17,7 @@ xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css", "tachyons"))
 
 ## Introduction
 
-Until the 20th Century, infectious diseases were the leading cause of death in children in adults. Influenza, pneumonia, tuberculosis, and diarrhea/enteric diseases were the top three causes of death in Western countries. The average life expectancy of adults was less than 50 years, and 2% of children failed to reach the age of 5. However, by the mid 19th century, industrialization and growing wealth brought improvements in sanitation and drinking water in many coutries leading to dramatic reductions in communicable disease.
+Until the 20th Century, infectious diseases were the leading cause of death in children in adults. Influenza, pneumonia, tuberculosis, and diarrhea/enteric diseases were the top three causes of death in Western countries. The average life expectancy of adults was less than 50 years, and 2% of children failed to live beyond 5. By the mid 19th century, industrialization and growing wealth brought improvements in sanitation and drinking water in many countries lead to dramatic reductions in communicable disease.
 
 <iframe src="https://ourworldindata.org/grapher/life-expectancy?tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
