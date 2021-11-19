@@ -1,0 +1,24 @@
+---
+title: "Global Management of Antimicrobial Resistance"
+subtitle: 97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES
+author: "Russell E. Lewis, Associate Professor, Infectious Diseases"
+date: "11/1/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r xaringanExtra, echo=FALSE}
+xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css", "tachyons"))
+```
+<br>
+
+## Introduction
+
+Until the 20th Century, infectious diseases were the leading cause of death in children in adults. Influenza, pneumonia, tuberculosis, and diarrhea/enteric diseases were the top three causes of death in Western countries. Prior to 1900, the average life expectancy of adults was less than 50 years. This pattern changed by the mid 19th century as industrailization and greater wealth brought improvements in sanitation and drinking water.
+
+<iframe src="https://ourworldindata.org/grapher/life-expectancy?tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+/Users/russelllewis/Desktop/skeleton.bib
