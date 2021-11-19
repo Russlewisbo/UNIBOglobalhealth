@@ -1,12 +1,13 @@
 ---
 title: "Global Management of Antimicrobial Resistance"
+subtitle: "97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES"
 author: "Russell E. Lewis, Associate Professor, Infectious Diseases"
 date: "11/1/2022"
 output:
-  html_document: default
-  pdf_document: default
-  always_allow_html: true
-subtitle: 97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES
+  html_document:
+     theme: flatly
+     toc: TRUE
+     toc_float: TRUE 
 ---
 
 ```{r setup, include=FALSE}
@@ -19,7 +20,7 @@ xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css", "tachyons"))
 
 <br>
 
-## Brief Overview of Antibiotic Resistance
+## Overview
 
 Until the 20th Century, infectious diseases were the leading cause of death in children in adults. Influenza, pneumonia, tuberculosis, and diarrhea/enteric diseases were the top three causes of death in Western countries. The average life expectancy of adults was less than 50 years, and 2% of children failed to live beyond age 5. <br>
 
@@ -41,7 +42,7 @@ By the mid 19th century, industrialization and growing wealth in many countries 
 
 ![Figure 1. Antibiotic discovery timeline](ab-discovery-timeline.png "Figure 1. Antibiotic discovery timeline")
 
-## Current resistance landscape
+## Current situtation
 
 <br> Recognizing the threat of antibiotic resistance to global health, The World Health Organization (WHO) in 2017 developed a [Priority Pathogen List](https://www.who.int/medicines/publications/WHO-PPL-Short_Summary_25Feb-ET_NM_WHO.pdf) for research and development of new antibiotics. This list is in addition to M*ycobacteria* (including *Mycobacterium tuberculosis,* the cause of human tuberculosis), which wasglobally established priority for which innovative new treatments are urgently needed The list breaks down pathogens into three priority groups:
 
@@ -105,6 +106,6 @@ In 2017, a [report](https://www.ecdc.europa.eu/en/publications-data/ecdc-country
 
 If these trends continue, what impact will increasing resistance have in Italy and the world?
 
-## One-Health perspective on antimicrobial resistance
+## One-Health Perspective
 
-## Antimicrobial Resistance in low-middle income countries
+## Low-Middle Income Countries
