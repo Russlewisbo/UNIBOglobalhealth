@@ -1,9 +1,12 @@
 ---
 title: "Global Management of Antimicrobial Resistance"
-subtitle: 97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES
 author: "Russell E. Lewis, Associate Professor, Infectious Diseases"
 date: "11/1/2022"
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
+  always_allow_html: true
+subtitle: 97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES
 ---
 
 ```{r setup, include=FALSE}
@@ -13,12 +16,69 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r xaringanExtra, echo=FALSE}
 xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css", "tachyons"))
 ```
+
 <br>
 
-## Introduction
+## Brief History of Antibiotic Resistance
 
-Until the 20th Century, infectious diseases were the leading cause of death in children in adults. Influenza, pneumonia, tuberculosis, and diarrhea/enteric diseases were the top three causes of death in Western countries. The average life expectancy of adults was less than 50 years, and 2% of children failed to live beyond 5. By the mid 19th century, industrialization and growing wealth brought improvements in sanitation and drinking water in many countries lead to dramatic reductions in communicable disease.
+Until the 20th Century, infectious diseases were the leading cause of death in children in adults. Influenza, pneumonia, tuberculosis, and diarrhea/enteric diseases were the top three causes of death in Western countries. The average life expectancy of adults was less than 50 years, and 2% of children failed to live beyond age 5. <br>
 
-<iframe src="https://ourworldindata.org/grapher/life-expectancy?tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+By the mid 19th century, industrialization and growing wealth in many countries brought improvements in sanitation and drinking water, leading to dramatic reductions in communicable enteric infections. The first vaccines for pertussis, tuberculosis, diptheria and yellow fever were also developed. This was accompanied by dramatically improving life expectancy that continued uninterrupted until World War I and the "Spanish Flu" pandemic in 1918, and World War II in the 1940's.
 
-/Users/russelllewis/Desktop/skeleton.bib
+<iframe src="https://ourworldindata.org/grapher/life-expectancy?tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;">
+
+</iframe>
+
+<br> Within the next 20 years, the first vaccines and/or anti-toxins for pertussis,tetanus, tuberculosis, diptheria and yellow fever were developed. However, it was Paul Ehrlich's idea that a "magic bullet" could be found by screening organic compounds that selectively target disease-causing microbes and not hosts that ultimately lead to the first antibiotic, Salvarsan, for the treatment of syphilis. During the early days of antibiotic research, this approach also lead to the discovery of the first sulfa antibiotics (e.g., sulfamidochrysoidine, sulfanilamide).
+
+<br> The serendipitous discovery of penicillin on September 3, 1928 by Alexander Fleming and the subsequent purification of the drug in quantities needed for clinical testing by Florey and Chain eventually led to mass production and distribution of penicillin by 1945- ushering in the modern antibiotic age. Alexander Fleming as also among the first ho cautioned about the potential resistance to penicillin if used too little or for a too short of period during treatment.
+
+<br> The discovery of these first three antimicrobials (Salvarsan, Prontosil and penicillin) set the stage for an "arms race" between discovery or novel antibiotics and antimicrobial resistance. Although resistant infections were frequently encountered in the early days of antibiotic use, a flow of new antibiotics provided alternative treatments. It was possible to simply switch treatment once resistance against a specific antibiotic became a major problem. But then the antibiotics stopped coming. The latest discovery of a new antibiotic class that has reached the market was in 1987. Since then, there has been a lack of innovation in the field, and today there are few novel antibiotic classes in the drug pipeline. The consequences are seen worldwide as more and more bacterial infections are becoming hard to treat once again. Especially worrisome is the lack of antibiotics against Gram-negative bacteria Especially alarming is the rapid global spread of multi- and pan-resistant bacteria (also known as "superbugs") that cause infections that are not treatable with existing antibiotics.
+
+<br>
+
+![Figure 1. Antibiotic discovery timeline](ab-discovery-timeline.png "Figure 1. Antibiotic discovery timeline")
+
+## Current resistance landscape
+
+<br> Recognizing the threat of antibiotic resistance to global health, The World Health Organization (WHO) in 2017 developed a [Priority Pathogen List](https://www.who.int/medicines/publications/WHO-PPL-Short_Summary_25Feb-ET_NM_WHO.pdf) for research and development of new antibiotics. This list is in addition to M*ycobacteria* (including *Mycobacterium tuberculosis,* the cause of human tuberculosis), which wasglobally established priority for which innovative new treatments are urgently needed The list breaks down pathogens into three priority groups:
+
+<br>
+
++----------------+--------------------------------------------------------------------------------------------+
+| Priority group | Pathogens included                                                                         |
++================+============================================================================================+
+| Critical       | *Acinetobacter baumannii* (Carbapenem-resistant)                                           |
+|                |                                                                                            |
+|                | *Pseudomonas aeruginosa* (Carbapenem-resistant)                                            |
+|                |                                                                                            |
+|                | Enterbacterales (3rd generation cephalosporin, carbapenem-resistant)                       |
++----------------+--------------------------------------------------------------------------------------------+
+| High           | *Enterococcus faecium*, vancomycin-resistant                                               |
+|                |                                                                                            |
+|                | *Staphylococcus aureus*, methicillin-resistant, vancomycin intermediate and resistant      |
+|                |                                                                                            |
+|                | *Helicobacter pylori*, clarithromycin-resistant                                            |
+|                |                                                                                            |
+|                | *Campylobacter*, fluoroquinolone-resistant                                                 |
+|                |                                                                                            |
+|                | S*almonella* spp., fluoroquinolone-resistant                                               |
+|                |                                                                                            |
+|                | *Neisseria gonorrhoeae*, 3rd generation cephalosporin-resistant, fluoroquinolone-resistant |
++----------------+--------------------------------------------------------------------------------------------+
+| Medium         | *Streptococcus pneumoniae*, penicillin-non-susceptible                                     |
+|                |                                                                                            |
+|                | *Haemophilus influenzae*, ampicillin-resistant                                             |
+|                |                                                                                            |
+|                | *Shigella* spp., fluoroquinolone-resistant                                                 |
++----------------+--------------------------------------------------------------------------------------------+
+
+: Table 1. WHO antibiotic resistance priority pathogens list
+
+<br>
+
+Southern Europe, including Italy have among the highest resistance rates of WHO "critical pathogens". For example, surveillance data from the European Centres for Disease Control (ECDC) (see interactive resistance [atlas](https://atlas.ecdc.europa.eu/public/index.aspx?Dataset=27&HealthTopic=4)) have reported and dramatical increase in carbapenem-resistance in Italy since 2009 with now more than one-third of *Klebsiella pneumoniae* resistant to previously-considered last-line antibiotics such as carbapenems.
+
+## Antimicrobial resistance projections
+
+## Antimicrobial Resistance in low-middle income countries
