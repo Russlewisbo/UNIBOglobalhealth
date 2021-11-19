@@ -19,7 +19,7 @@ xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css", "tachyons"))
 
 <br>
 
-## Brief History of Antibiotic Resistance
+## Brief Overview of Antibiotic Resistance
 
 Until the 20th Century, infectious diseases were the leading cause of death in children in adults. Influenza, pneumonia, tuberculosis, and diarrhea/enteric diseases were the top three causes of death in Western countries. The average life expectancy of adults was less than 50 years, and 2% of children failed to live beyond age 5. <br>
 
@@ -33,7 +33,9 @@ By the mid 19th century, industrialization and growing wealth in many countries 
 
 <br> The serendipitous discovery of penicillin on September 3, 1928 by Alexander Fleming and the subsequent purification of the drug in quantities needed for clinical testing by Florey and Chain eventually led to mass production and distribution of penicillin by 1945- ushering in the modern antibiotic age. Alexander Fleming as also among the first ho cautioned about the potential resistance to penicillin if used too little or for a too short of period during treatment.
 
-<br> The discovery of these first three antimicrobials (Salvarsan, Prontosil and penicillin) set the stage for an "arms race" between discovery or novel antibiotics and antimicrobial resistance. Although resistant infections were frequently encountered in the early days of antibiotic use, a flow of new antibiotics provided alternative treatments. It was possible to simply switch treatment once resistance against a specific antibiotic became a major problem. But then the antibiotics stopped coming. The latest discovery of a new antibiotic class that has reached the market was in 1987. Since then, there has been a lack of innovation in the field, and today there are few novel antibiotic classes in the drug pipeline. The consequences are seen worldwide as more and more bacterial infections are becoming hard to treat once again. Especially worrisome is the lack of antibiotics against Gram-negative bacteria Especially alarming is the rapid global spread of multi- and pan-resistant bacteria (also known as "superbugs") that cause infections that are not treatable with existing antibiotics.
+<br> The discovery of these first three antimicrobials (Salvarsan, Prontosil and penicillin) set the stage for an "arms race" between discovery or novel antibiotics and antimicrobial resistance. Although resistant infections were frequently encountered in the early days of antibiotic use, a flow of new antibiotics provided alternative treatments. It was possible to simply switch treatment once resistance against a specific antibiotic became a major problem. But then the antibiotics stopped coming. The latest discovery of a new antibiotic class that has reached the market was in 1987. Since then, there has been a lack of innovation in the field, and today there are few novel antibiotic classes in the drug pipeline. In Module 2 we will scientific and market forces in both developed and low-middle-income countries (LMICs) that have lad to this problem. Once a resistant bacterium has developed, it can spread from a colonised person to another person if appropriate hygienic precautions (e.g., hand hygiene, isolation) are not taken. The risk of resistant bacteria spreading is higherin crowded environments and even greater when people in the surrounding area are receiving antibiotics - a common situation in hospitals and other healthcare facilities.
+
+<br> The consequences of faltering antibiotic discovery are now seen worldwide as more and more bacterial infections are becoming hard to treat once again. Especially worrisome is the lack of antibiotics against Gram-negative bacteria. Especially alarming is the rapid global spread of multi- and pan-resistant bacteria (also known as "superbugs") that cause infections that are not treatable with existing antibiotics. Antibiotic resistance has been described as a *tragedy of the commons* and a crises similar to global warming. A *tragedy of the commons* occurs when people in a community unduly diminish (or even exhaust) a limited, shared resource, despite the fact that disappearance of the resource is not in the community's long-term interests \
 
 <br>
 
@@ -77,8 +79,32 @@ By the mid 19th century, industrialization and growing wealth in many countries 
 
 <br>
 
-Southern Europe, including Italy have among the highest resistance rates of WHO "critical pathogens". For example, surveillance data from the European Centres for Disease Control (ECDC) (see interactive resistance [atlas](https://atlas.ecdc.europa.eu/public/index.aspx?Dataset=27&HealthTopic=4)) have reported and dramatical increase in carbapenem-resistance in Italy since 2009 with now more than one-third of *Klebsiella pneumoniae* resistant to previously-considered last-line antibiotics such as carbapenems.
+Southern Europe, including Italy have among the highest resistance rates of WHO "critical pathogens". For example, surveillance data from the European Centres for Disease Control (ECDC) have documented a dramatic increase in carbapenem-resistance in Italy since 2009 with now more than one-third of *Klebsiella pneumoniae* resistant to previously-considered last-line antibiotics such as carbapenems. (see link to interactive resistance atlas [here)](https://atlas.ecdc.europa.eu/public/index.aspx?Dataset=27&HealthTopic=4) Similarly, the The Italian [Micronet Resistance Surveillance](https://www.epicentro.iss.it/antibiotico-resistenza/epidemiologia-italia) program reported that:
 
-## Antimicrobial resistance projections
+-   26.4% of *Escherichia coli* are resistant to 3rd generation cephalosporins
+-   29.5% of *Klebsiella pneumoniae* are resistant to carbapenems (including 33.1% resistant to multiple drug classes)
+-   15.9% of *Pseudomonas aeruginosa* are resistant to carbapenemase
+-   80.8% of *Acinetobacter* spp. are resistant to carbapenems with 78.8% of species resistant to multiple drug classes
+-   For *Staphylococcus aureus* , the percentage of methicillin-resistant isolates (MRSA) remained stable, around 34%, while a worrying trend continues to increase in the percentage of *Enterococcus faecium isolates* resistant to vancomycin, which in 2020 was equal at 23.6%
+-   For Streptococcus pneumoniae there was a slight increase in both the percentage of isolates resistant to penicillin (13.6%) and those resistant to erythromycin (24.5%).
+-   Higher resistance rates (around 40%) were observed in ICUs than in other wards for both carbapenem-resistant *K. pneumoniae* and methicillin-resistant *S. aureus*.
+
+<br>
+
+![Figure 2. Regional difference in CRE bloodstream infection incidence per 100,000 residents in Italy. Source:Micronet <https://www.epicentro.iss.it/antibiotico-resistenza/cre-dati>](Italia_CRE.png)
+
+In 2017, a [report](https://www.ecdc.europa.eu/en/publications-data/ecdc-country-visit-italy-discuss-antimicrobial-resistance-issues) by the the ECDC noted that:
+
+> Observations from this ECDC country visit confirm that the AMR situation in Italian hospitals and regions poses a major public health threat to the country. The levels of carbapenem-resistant Enterobacteriaceae (CRE) and *Acinetobacter baumannii* have now reached hyper-endemic levels and, together with methicillin-resistant *Staphylococcus aureus* (MRSA), this situation causes Italy to be one of the Member States with the highest level of resistance in Europe. During conversations in Italy, ECDC often gained the impression that these high levels of AMR appear to be accepted by stakeholders throughout the healthcare system, as if they were an unavoidable state of affairs. The factors that contribute negatively to this situation seem to be:
+>
+> -   Little sense of urgency about the current AMR situation from most stakeholders and a tendency by many stakeholders to avoid taking charge of the problem
+> -   Lack of institutional support at national, regional and local level
+> -   Lack of professional leadership at each level
+> -   Lack of accountability at each level
+> -   Lack of coordination of the activities between and within levels.
+
+If these trends continue, what impact will increasing resistance have in Italy and the world?
+
+## One-Health perspective on antimicrobial resistance
 
 ## Antimicrobial Resistance in low-middle income countries
