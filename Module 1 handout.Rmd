@@ -29,6 +29,7 @@ Industrialization and growing wealth in the 19th century brought improvements in
 <iframe src="https://ourworldindata.org/grapher/life-expectancy?tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;">
 
 </iframe>
+Figure 1. Changes in life expectancy over 500 years
 
 <br> The microbiologist and immunologist Paul Ehrlich (1854-1915) is generally credited with the first discovery of an antibiotic for the medical treatment of syphilis-arsphenamine or Salvarsan. The term "antibiotic" was later introduced by in 1943 by Selman Waksman-the discoverer of streptomycin. Erlich's approach of screening synthetic libraries of chemicals for selective antimicrobial properties was the basis of early antibiotic research and led to the discovery of the first sulfa antibiotics (e.g., sulfamidochrysoidine, sulfanilamide).
 
@@ -44,7 +45,7 @@ Industrialization and growing wealth in the 19th century brought improvements in
 
 <br> The consequences of faltering antibiotic discovery are now seen worldwide as more and more bacterial infections are becoming hard to treat once again. Especially worrisome is the lack of antibiotics against Gram-negative bacteria. The rapid global spread of multi- and pan-resistant bacteria (also known in the lay press as "superbugs") can cause infections that are not treatable with existing antibiotics.
 
-![Figure 1. Antibiotic discovery timeline](ab-discovery-timeline.png "Figure 1. Antibiotic discovery timeline")
+![Figure 2. Antibiotic discovery timeline](ab-discovery-timeline.png "Figure 1. Antibiotic discovery timeline")
 
 ## Current situation
 
@@ -114,6 +115,8 @@ In 2017, a [report](https://www.ecdc.europa.eu/en/publications-data/ecdc-country
 > -   Lack of accountability at each level
 > -   Lack of coordination of the activities between and within levels.
 
+## <br>
+
 ## How will medicine change in the next 20 years if antimicrobial resistance cannot be better addressed?
 
 -   Drug-resistant diseases already cause at least 700,000 deaths globally a year, including 230,000 deaths from multidrug-resistant tuberculosis, a figure that could increase to 10 million deaths globally per year by 2050 under the most alarming scenario if no action is taken. Around 2.4 million people could die in highincome countries between 2015 and 2050 without a sustained effort to contain antimicrobial resistance.
@@ -132,10 +135,16 @@ goals.
 
 ![Figure 3. A One Health response to address the drivers and impact of antimicrobial resistance. From <https://www.who.int/docs/default-source/documents/no-time-to-wait-securing-the-future-from-drug-resistant-infections-en.pdfsfvrsn=5b424d7_6>](onehealth.png)
 
+
+<iframe src="https://ourworldindata.org/grapher/antibiotic-use-in-livestock" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+Figure 4.Antibiotic use in animals
+
 ## Low-Middle Income Countries
 
-## Cross-Boarder Spread of Resistance
-
-![European air traffic visualization] (https://https://vimeo.com/88093956)
+## Cross-Border Spread of Resistance
+<br> European flight patterns, 2014
+<video width="620" height="540" controls>
+  <source src="Europe 24.mp4" type="video/mp4">
+</video>
 
 ## Simulation Exercise on Microsoft Teams
