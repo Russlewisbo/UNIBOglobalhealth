@@ -8,6 +8,7 @@ output:
      theme: flatly
      toc: TRUE
      toc_float: TRUE 
+bibliography: references.bib
 ---
 
 ```{r setup, include=FALSE}
@@ -29,6 +30,7 @@ Industrialization and growing wealth in the 19th century brought improvements in
 <iframe src="https://ourworldindata.org/grapher/life-expectancy?tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;">
 
 </iframe>
+
 Figure 1. Changes in life expectancy over 500 years
 
 <br> The microbiologist and immunologist Paul Ehrlich (1854-1915) is generally credited with the first discovery of an antibiotic for the medical treatment of syphilis-arsphenamine or Salvarsan. The term "antibiotic" was later introduced by in 1943 by Selman Waksman-the discoverer of streptomycin. Erlich's approach of screening synthetic libraries of chemicals for selective antimicrobial properties was the basis of early antibiotic research and led to the discovery of the first sulfa antibiotics (e.g., sulfamidochrysoidine, sulfanilamide).
@@ -105,46 +107,71 @@ The WHO also published a [Priority Pathogen List](https://www.who.int/medicines/
 
 ![Figure 2. Regional difference in CRE bloodstream infection incidence per 100,000 residents in Italy. Source:Micronet <https://www.epicentro.iss.it/antibiotico-resistenza/cre-dati>](Italia_CRE.png){width="800"}
 
-In 2017, a [report](https://www.ecdc.europa.eu/en/publications-data/ecdc-country-visit-italy-discuss-antimicrobial-resistance-issues) by the the ECDC noted that:
+In 2017, a [report](https://www.ecdc.europa.eu/en/publications-data/ecdc-country-visit-italy-discuss-antimicrobial-resistance-issues) by the the ECDC noted that the AMR situation in Italian hospitals and regions poses a major public health threat to the country. The levels of carbapenem-resistant Enterobacteriaceae (Enterobacterales) (CRE) and *Acinetobacter baumannii* have now reached hyper-endemic levels and, together with methicillin-resistant *Staphylococcus aureus* (MRSA), this situation causes Italy to be one of the Member States with the highest level of resistance in Europe. During conversations in Italy, ECDC often gained the impression that these high levels of AMR appear to be accepted by stakeholders throughout the healthcare system, as if they were an unavoidable state of affairs. The factors that contribute negatively to this situation seem to be:
 
-> Observations from this ECDC country visit confirm that the AMR situation in Italian hospitals and regions poses a major public health threat to the country. The levels of carbapenem-resistant Enterobacteriaceae (Enterobacterales) (CRE) and *Acinetobacter baumannii* have now reached hyper-endemic levels and, together with methicillin-resistant *Staphylococcus aureus* (MRSA), this situation causes Italy to be one of the Member States with the highest level of resistance in Europe. During conversations in Italy, ECDC often gained the impression that these high levels of AMR appear to be accepted by stakeholders throughout the healthcare system, as if they were an unavoidable state of affairs. The factors that contribute negatively to this situation seem to be:
->
-> -   Little sense of urgency about the current AMR situation from most stakeholders and a tendency by many stakeholders to avoid taking charge of the problem
-> -   Lack of institutional support at national, regional and local level
-> -   Lack of professional leadership at each level
-> -   Lack of accountability at each level
-> -   Lack of coordination of the activities between and within levels.
+-   Little sense of urgency about the current AMR situation from most stakeholders and a tendency by many stakeholders to avoid taking charge of the problem
+-   Lack of institutional support at national, regional and local level
+-   Lack of professional leadership at each level
+-   Lack of accountability at each level
+-   Lack of coordination of the activities between and within levels.
 
-## <br>
+<br>
 
-## How will medicine change in the next 20 years if antimicrobial resistance cannot be better addressed?
+## The future
 
--   Drug-resistant diseases already cause at least 700,000 deaths globally a year, including 230,000 deaths from multidrug-resistant tuberculosis, a figure that could increase to 10 million deaths globally per year by 2050 under the most alarming scenario if no action is taken. Around 2.4 million people could die in highincome countries between 2015 and 2050 without a sustained effort to contain antimicrobial resistance.
--   Many common infections will not be treatable. Routine medical procedures or surgery become much more dangerous. Lifesaving Immunosuppression, cancer chemotherapy and transplantations may become associated with unacceptable risk to the patient
--   Economic and social progress in many countries will be dramatically impacted threatening to reverse a century of progress. The economic damage of uncontrolled antimicrobial
-    resistance could be comparable to the shocks experienced during the 2008-2009 global financial
-    crisis as a result of dramatically increased health care expenditures; impact on food and feed production, trade and livelihoods; and increased poverty and inequality. The impact in LMIC will be even greater and longer lasting
+-   Drug-resistant diseases already cause at least 700,000 deaths globally a year, including 230,000 deaths from multidrug-resistant tuberculosis, a figure that could increase to 10 million deaths globally per year by 2050 under the most alarming scenario if no action is taken. Around 2.4 million people could die in high income countries between 2015 and 2050 without a sustained effort to contain antimicrobial resistance.
+-   Increasing resistance will lead to an unthinkable future of untreatable infections, reversing more than a 100 years of medical progress. Routine medical procedures or surgery become much more dangerous. Lifesaving Immunosuppression, cancer chemotherapy and transplantations may become associated with unacceptable risk to the patient
+-   Economic and social progress in many countries will be dramatically impacted leading to political and social instability. The economic damage of uncontrolled antimicrobial resistance could be comparable to the shocks experienced during the 2008-2009 global financial crisis as a result of dramatically increased health care expenditures; impact on food and feed production, trade and livelihoods; and increased poverty and inequality. The impact in LMIC will be even greater and longer lasting
 
 ## One-Health Perspective
 
-Because the drivers of antimicrobial resistance lie in humans, animals, plants, food and the environment, a
-sustained One Health response is essential to engage and unite everyone around a shared vision and
-goals.
+Because the drivers of antimicrobial resistance lie in humans, animals, plants, food and the environment, a sustained One Health response is essential to engage and unite everyone around a shared vision and goals.
 
 "One Health" refers to designing and implementing programmes, policies, legislation and research in a way that enables multiple sectors engaged in human, terrestrial and aquatic animal and plant health, food and feed production and the environment to communicate and work together to achieve better public health outcomes.
 
-![Figure 3. A One Health response to address the drivers and impact of antimicrobial resistance. From <https://www.who.int/docs/default-source/documents/no-time-to-wait-securing-the-future-from-drug-resistant-infections-en.pdfsfvrsn=5b424d7_6>](onehealth.png)
+<br>
 
+![Figure 3. A One Health response to address the drivers and impact of antimicrobial resistance. Source:[WHO](ttps://www.who.int/docs/default-source/documents/no-time-to-wait-securing-the-future-from-drug-resistant-infections-en.pdfsfvrsn=5b424d7_6)](onehealth.png)
 
-<iframe src="https://ourworldindata.org/grapher/antibiotic-use-in-livestock" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
-Figure 4.Antibiotic use in animals
+### Veterinary use of antimicrobial therapy
 
-## Low-Middle Income Countries
+-   75% if human infectious diseases that have emerged or re-emrged in recent decades are zoonotic-i.e. they orginated in animals [@WoolhouseGowtage-Sequeria2005].
+-   Few antimicrobial classes are reserved exclusively for humans- (i.e. e.g., isoniazid used for tuberculosis) or drugs limited to veterinary use because of toxicity. The vast majority of antibiotics are used both in humans and animals, including domestic mammals, birds, farmed fish and shellfish, honeybees and others.
+-   In horticulture, tetracyclines, streptomycin, and other antimicrobials are used for the prophylaxis and treatment of bacterial infections (e.g., fire blight *Erwinea amylovora*)
+-   In veterinary medicine, major differences in the way antibiotics are used for companion animals (e.g., dogs, cats, pet birds, horses) versus food-producing animals- Antibiotic use in companion animals is broadly similar to humans to treat clinical infections or in select cases prophylaxis, such as post-surgery.
+-   In the case of food animals, if some animals are infected antibiotics may be administered through feed or water to the entire group for reasons of practicality or efficiency. *Metaphylaxis* is a term used to describe therapeutic/prophylaxis treatment at a group level.
+-   The most controversial type of group treatment in food animals is long-term, low-dose mass antibiotic treatment for purposes of growth promotion. This practice has a high propensity to select to antibiotic microbial resistance and is based on economic grounds rather than treatment of clinical infection.
+-   The reported benefits of using antibiotics for growth promotion is low and ranges widely in the literature (1-10%). Concerns have been expressed that antimicrobial growth promoters are often used to compensate for poor hygiene/housing and healthy management.
+-   The WHO has advocated for the termination of using antimicrobials for growth promotion.
+-   In 2022, new [EU legislation](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0006&from=EN) will prohibit all forms of routine antibiotic use in farming, including
+    preventative group treatments and medicated feeding except in extraordinary circumstances.
+
+### 
+
+<iframe src="https://ourworldindata.org/grapher/antibiotic-use-in-livestock" loading="lazy" style="width: 100%; height: 600px; border: 0px none;">
+
+</iframe>
+
+### Case studies human-animal antimicrobial resistance
+
+#### Case study 1
+
+Third generation cephalosporins (ceftotaxime, ceftriaxone) are widely used for serious infections in humans, including urinary tract, abdominal, lung and bloodstream infections and are classified as "critically-important" for human health (WHO AGISAR). Cetiofur, cefpodoxime, and cefoperazone are 2nd and 3rd generation cephalosporins approved for veterinary use and predominantly for treating bacterial infections in food-producing animals including chickens and cattle.
+
+Resistance to 3rd generation cephalosporins is mediated by extended-spectrum beta-lactamases (ESBLs) and AmpC. ESBL genese are highly mobile and transmitted on plasmids, transposons and other genetic elements horizontally and vertically. Resistance to 3rd generation cephalosporins is common among *Escherichia coli* and *Klebsiella pneumonia* requiring greater reliance on the few remaining classes of antimicrobials such as carbapenems.
+
+A number of studies comparing isolates from animals, food and human infections have found a high similarity in ESBL genes and plasmids, as well as similar clonal isolates [@LazarusEtAl2015].
+
+#### Case study 2
+
+Figure 4. Antibiotic use in animals
+
+-   (example of colistin stoppage in Vietman in chickens)
+
+## LMICs
 
 ## Cross-Border Spread of Resistance
-<br> European flight patterns, 2014
-<video width="620" height="540" controls>
-  <source src="Europe 24.mp4" type="video/mp4">
-</video>
 
-## Simulation Exercise on Microsoft Teams
+<br> European flight patterns, 2014 <video width="620" height="540" controls> <source src="Europe 24.mp4" type="video/mp4"> </video>
+
+## References
