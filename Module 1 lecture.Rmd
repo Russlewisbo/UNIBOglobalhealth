@@ -16,6 +16,7 @@ output:
       countIncrementalSlides: false
       ratio: '16:9'
 ---
+
 ```{r xaringanExtra, echo=FALSE}
 xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css", "tachyons"))
 ```
