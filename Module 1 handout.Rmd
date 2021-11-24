@@ -33,33 +33,35 @@ Industrialization and growing wealth in the 19th century brought improvements in
 
 Figure 1. Changes in life expectancy over 500 years
 
-<br> The microbiologist Paul Ehrlich (1854-1915) is generally credited with the first discovery and medical application of a synthetic drug (arsphenamine or Salvarsan) for the treatment of syphilis. The term "antibiotic" was later introduced by in 1943 by Selman Waksman-the discoverer of streptomycin. Erlich's approach of screening libraries of chemicals for selective antimicrobial properties formed the basis of early antibiotic research and led to the discovery of the first sulfa antibiotics (e.g., sulfamidochrysoidine, sulfanilamide).
+<br> The microbiologist Paul Ehrlich (1854-1915) is generally credited with the first discovery and medical application of a synthetic drug (arsphenamine or Salvarsan) for the treatment of syphilis. The term "antibiotic" was later introduced by in 1943 by Selman Waksman-the discoverer of streptomycin and the first effective antibiotic for tuberculosis. Erlich's approach of screening libraries of chemicals for selective antimicrobial properties formed the basis of early antibiotic research and led to the discovery of the first sulfa antibiotics (e.g., sulfamidochrysoidine, sulfanilamide) that are still in clinical use today.
 
-<br> The serendipitous discovery of penicillin on September 3, 1928 by Alexander Fleming, and its subsequent purification of the drug in quantities needed for clinical testing by Florey and Chain in the late 1930s, was a major breakthrough in establishing the clinical efficacy of antibiotics for common bacterial infections. Alexander Fleming was also among the first clincians to caution about the risks of resistance to penicillin if used too little or for a too short of period during treatment.
+<br> The serendipitous discovery of penicillin on September 3, 1928 by Alexander Fleming, and its subsequent purification of the drug in quantities needed for clinical testing by Florey and Chain in the late 1930s, was a major breakthrough in establishing the clinical efficacy of antibiotics for common bacterial infections. Alexander Fleming was also among the first physicians to caution about the risks of resistance to penicillin if used too little or for a too short of period during treatment.
 
 > It is not difficult to make microbes resistant to penicillin in the laboratory by exposing them to concentrations not sufficient to kill them, and the same thing has occasionally happened in the body. The time may come when penicillin can be bought by anyone in the shops. Then there is the danger that the ignorant man may easily under-dose himself and by exposing his microbes to non-lethal quantities of the drug make them resistant. -Sir Alexander Fleming
 
-<br> Indeed, Fleming's predictions were proven to be true within a couple of years, with the first case of penicillin resistance reported in 1947. Thus the "arms race" between discovery or novel antibiotics and evolution of the antimicrobial resistance to available antibiotics began.
+<br> Fleming's predictions were proven to be true within a couple of years, with the first cases of penicillin resistance reported in 1947. Thus the "arms race" between antimicrobial resistance and the discovery of new antibiotics to treat new pathogens with new forms of antibiotic resistance began.
 
-<br>Although resistant infections were frequently encountered in the early days of antibiotic use, a flow of new antibiotics from 1950s-1980's provided alternative treatments. For many forms of clinically-encountered resistance, It was possible to simply switch treatment once resistance against a specific antibiotic became a major problem. But then the antibiotic discovery began to slow. The latest discovery of a new antibiotic class that has reached the market was in 1987. Since then, there has been a lack of innovation in the field, and today there are few novel antibiotic classes in the drug pipeline. In Module 2 we will examine the scientific challenges and market forces that have made new antibiotic discovery increasingly difficult in both in both developed and low-middle-income countries (LMICs)
+<br> Although resistant infections were frequently encountered in the early days of antibiotic use, a flow of new antibiotics from 1950s-1980's provided alternative treatments. For many forms of clinically-encountered resistance, It was possible to simply switch treatment once resistance against a specific antibiotic became a major problem. But then the antibiotic discovery began to slow. The latest discovery of a new antibiotic class that has reached the market was in 1987. Since then, there has been a lack of innovation in the field, and today there are few novel antibiotic classes in the drug pipeline. In Module 2 we will examine the scientific challenges and market forces that have made new antibiotic discovery increasingly difficult in both in both developed and low-middle-income countries (LMICs)
 
-<br>Once resistance has developed in a bateria, it can spread from a colonised patient to another patient if appropriate hygienic precautions (e.g., hand hygiene, isolation) are not taken. The risk of resistant bacteria spreading is enhanced in crowded environments, especially when people in the surrounding area are receiving antibiotics - a common situation in hospitals and other healthcare facilities.
+<br> Once resistance has developed in a bacteria, it can spread from a colonised patient to another patient if appropriate hygienic precautions (e.g., hand hygiene, isolation) are not taken. The risk of resistant bacteria spreading is enhanced in crowded environments, especially when people in the surrounding area are receiving antibiotics - a common situation in hospitals and other healthcare facilities.
 
 <br> The consequences of faltering antibiotic discovery are now seen worldwide as more and more bacterial infections are becoming hard to treat once again. Especially worrisome is the lack of antibiotics against Gram-negative bacteria. The rapid global spread of multi- and pan-resistant bacteria (also known in the lay press as "superbugs") can cause infections that are not treatable with existing antibiotics.
 
+<center>
+
 ![Figure 2. Antibiotic discovery timeline](ab-discovery-timeline.png "Figure 1. Antibiotic discovery timeline")
 
-<br> \#\# Current situation
+</center>
 
-<br> Recognizing the growing global threat of antibiotic resistance (AMR) on human health but also the economy and human development, The World Health Organization (WHO) in 2017 developed a [Global Action Plan on AMR](https://www.who.int/publications/i/item/9789241509763). The global health plan outlines 21 strategies and 5 strategic objectives action plans that should be implemented in member states to address AMR.
+<br> Recognizing the growing global threat of antibiotic resistance (AMR) on human health but also the economy and human development, in 2017 The World Health Organization (WHO) developed a [Global Action Plan on AMR](https://www.who.int/publications/i/item/9789241509763). The plan outlines 21 strategies and 5 strategic objectives action plans that should be implemented in member states to address AMR.
 
-1.  Improve awareness and understanding of antimicrobial resistance through effective communication, education and training
-2.  Strengthen the knowledge and evidence base through surveillance and research
-3.  Reduce the incidence of infection through effective sanitation, hygiene and infection prevention measures
-4.  Optimize the use of antimicrobial medicines in human and animal health
-5.  Develop the economic case for sustainable investment that takes account of the needs of all countries, and increase investment in new medicines, diagnostic tools, vaccines and other interventions
+1.  Improvements in the awareness and understanding of antimicrobial resistance through effective communication, education and training
+2.  Strengthening of knowledge and evidence base of AMR through surveillance and research
+3.  Reductions in the incidence of infection through effective sanitation, hygiene and infection prevention measures
+4.  Optimization the use of antimicrobial medicines in human and animal health
+5.  Development the economic case for sustainable investment that takes account of the needs of all countries, and increase investment in new medicines, diagnostic tools, vaccines and other interventions
 
-The WHO also published a [Priority Pathogen List](https://www.who.int/medicines/publications/WHO-PPL-Short_Summary_25Feb-ET_NM_WHO.pdf) for research and development of new antibiotics. This priority list includes bacterial pathogens that are considered to be be the biggest threat to human health in addition to *Mycobacterium tuberculosis,*, which was previously listed as a priority pathogen for which innovative new treatments are urgently needed. The WHO list breaks down pathogens into three groups:
+The WHO also published a [Priority Pathogen List](https://www.who.int/medicines/publications/WHO-PPL-Short_Summary_25Feb-ET_NM_WHO.pdf) for research and development of new antibiotics. This priority list includes bacterial pathogens that are considered to be be the biggest threat to human health beyond *Mycobacterium tuberculosis,*, which was previously listed as health priority pathogen for which innovative new treatments are urgently needed. The WHO list breaks down pathogens into three groups:
 
 <br>
 
@@ -95,7 +97,7 @@ The WHO also published a [Priority Pathogen List](https://www.who.int/medicines/
 
 ## Situation in Italy
 
-<br>Southern Europe, including Italy, haas among the highest currently reported resistance rates among pathogens on the WHO "critical pathogens" list. For example, surveillance data from the European Centres for Disease Control (ECDC) have documented a dramatic increase in carbapenem-resistance in Italy since 2009, with now more than one-third of *Klebsiella pneumoniae* resistant to previously-considered last-line antibiotics such as carbapenems. (see link to interactive resistance atlas [here)](https://atlas.ecdc.europa.eu/public/index.aspx?Dataset=27&HealthTopic=4) Similarly, the The Italian [Micronet Resistance Surveillance](https://www.epicentro.iss.it/antibiotico-resistenza/epidemiologia-italia) program reported that:
+<br>Southern Europe, including Italy, has among the highest currently reported resistance rates among pathogens on the WHO "critical pathogens" list. For example, surveillance data from the European Centres for Disease Control (ECDC) have reported a dramatic increase in carbapenem-resistance in Italy since 2009, with now more than one-third of *Klebsiella pneumoniae* resistant to previously-considered last-line antibiotics such as carbapenems. (see link to interactive resistance atlas [here)](https://atlas.ecdc.europa.eu/public/index.aspx?Dataset=27&HealthTopic=4) Similarly, the The Italian [Micronet Resistance Surveillance] program (<https://www.epicentro.iss.it/antibiotico-resistenza/epidemiologia-italia>) has reported:
 
 -   26.4% of *Escherichia coli* are resistant to 3rd generation cephalosporins
 -   29.5% of *Klebsiella pneumoniae* are resistant to carbapenems (including 33.1% resistant to multiple drug classes)
@@ -105,11 +107,15 @@ The WHO also published a [Priority Pathogen List](https://www.who.int/medicines/
 -   For *Streptococcus pneumoniae* there was a slight increase in both the percentage of isolates resistant to penicillin (13.6%) and those resistant to erythromycin (24.5%).
 -   Overall, higher antimicrobial resistance rates (around 40%) are observed in ICUs versus general medical wards for both carbapenem-resistant *K. pneumoniae* and methicillin-resistant *S. aureus*.
 
+<center>
+
 ![Figure 3. Regional difference in CRE bloodstream infection incidence per 100,000 residents in Italy. Source:Micronet <https://www.epicentro.iss.it/antibiotico-resistenza/cre-dati>](Italia_CRE.png){width="800"}
+
+</center>
 
 <br>
 
-In 2017, a [report](https://www.ecdc.europa.eu/en/publications-data/ecdc-country-visit-italy-discuss-antimicrobial-resistance-issues) by the the ECDC noted that the AMR situation in Italian hospitals and regions poses a major public health threat to the country. The levels of carbapenem-resistant Enterobacteriaceae (Enterobacterales) (CRE) and *Acinetobacter baumannii* have now reached hyper-endemic levels in many hospitals, and together with increasing methicillin-resistance ramong the Gram-postive species *Staphylococcus aureus* (MRSA) has fuled Italy's ranking as a Member States with one of the highest level of antibioic resistance in Europe. Factors noted by the ECDC that contribute negatively to the poor control of antibiotic resistance in Italy include:
+In 2017, a [report](https://www.ecdc.europa.eu/en/publications-data/ecdc-country-visit-italy-discuss-antimicrobial-resistance-issues) by the the ECDC noted that the AMR situation in Italian hospitals and regions poses a major public health threat to the country. The levels of carbapenem-resistant Enterobacteriaceae (Enterobacterales) (CRE) and *Acinetobacter baumannii* have now reached hyper-endemic levels in many hospitals, and together with increasing methicillin-resistance among the Gram-positive species *Staphylococcus aureus* (MRSA) has fueled Italy's ranking as one of the Member States with one of the highest level of antibiotic resistance in Europe. Factors noted by the ECDC that contribute negatively to the poor control of antibiotic resistance in Italy include:
 
 -   Little sense of urgency about the current AMR situation from most stakeholders and a tendency by many stakeholders to avoid taking charge of the problem
 -   Lack of institutional support at national, regional and local level
@@ -121,15 +127,21 @@ In 2017, a [report](https://www.ecdc.europa.eu/en/publications-data/ecdc-country
 
 ## The future
 
--   Drug-resistant diseases already cause at least 700,000 deaths globally a year, including 230,000 deaths from multidrug-resistant tuberculosis, a figure that could increase to 10 million deaths globally per year by 2050 under the most alarming scenario if no action is taken. Around 2.4 million people could die in high income countries between 2015 and 2050 without a sustained effort to contain antimicrobial resistance.
--   Increasing resistance will lead to an unthinkable future of untreatable infections, reversing more than a 100 years of medical progress. Routine medical procedures or surgery become much more dangerous and associated with higher complication rates. Immunosuppression, cancer chemotherapy and transplantations may become associated with unacceptable risk to the patients if infections cannot be effectively prevented and treated.
--   Economic and social progress in many countries will be dramatically impacted leading to political and social instability. The economic damage of uncontrolled antimicrobial resistance could be comparable to the shocks experienced during the 2008-2009 global financial crisis and result in dramatically-increased healthcare expenditures; reductions in food and feed production, reduced economic outpout, and increased poverty and inequality. The economic impact of antimicrobial resistance will be even greater and longer lasting on low-and middle-income (LMIC) countries.
+-   Drug-resistant diseases already cause at least 700,000 deaths globally a year, including 230,000 deaths from multidrug-resistant tuberculosis, a figure that could increase to 10 million deaths globally per year by 2050 under current projections if no action is taken. In India, antibiotic-resistant neonatal infections cause the deaths of nearly 60,000 new-borns each year Around 2.4 million people could die in high income countries between 2015 and 2050 without a sustained effort to contain antimicrobial resistance.
+-   Increasing resistance could lead to an unthinkable future of untreatable infections, reversing more than a 100 years of medical progress. Routine medical procedures or surgery become much more dangerous and associated with higher complication rates. Immunosuppression, cancer chemotherapy and transplantations may become associated with unacceptable risk for many patients if infections cannot be effectively prevented and treated.
+-   Economic and social progress in many countries will be dramatically impacted leading to political and social instability. The economic damage of uncontrolled antimicrobial resistance will be comparable to the shocks experienced during the 2008-2009 global financial crisis and result in dramatically-increased healthcare expenditures; reductions in food and feed production, reduced economic output, and [increased poverty and inequality](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/323311493396993758/final-report). The economic impact of antimicrobial resistance will be even greater and longer lasting on low-and middle-income (LMIC) countries.
+
+<center>
+
+[![Figure 4. Projected deaths due to antimicrobial resistance in 2050. Source: 2016 [O'Neil Report on Tackling Antibiotic Resistance](Figure x. Projected deaths due to antimicrobial resistance in 2050)](AMR_deaths_2050.png "Figure x. Projected deaths due to antimicrobial resistance in 2050"){width="600"}](https://amr-review.org/sites/default/files/160525_Final%20paper_with%20cover.pdf)
+
+</center>
 
 <br>
 
 ## LMICs
 
-<br>
+<br>The real implications of spreading drug resistance will be felt the world over, with developing countries and large emerging nations bearing the brunt of this problem
 
 ## One-Health Perspective
 
@@ -171,9 +183,15 @@ Resistance to 3rd generation cephalosporins is mediated by extended-spectrum bet
 
 A number of studies comparing isolates from animals, food and human infections have found a high similarity in ESBL genes and plasmids, as well as similar clonal isolates [@LazarusEtAl2015].
 
-Ceftiofur was injected in small quantities to many thousands of hatching eggs or chicks intended for treated flocks. The main reason for this treatment is prophylaxis against *Escherichia coli* infections and/or yolk sac infections.This practice has been shown to select for cephalosporin resistance in *Salmonella enterica* serovar Heidelberg- an important cause of human illness in many countries that is typically associated with consumption of contaminated poultry products [@SmithEtAl2008a].
+In some countries, ceftiofur was injected in small quantities to many thousands of hatching eggs or chicks intended for treated flocks. The main reason for this treatment is prophylaxis against *Escherichia coli* infections and/or yolk sac infections.This practice has been shown to select for cephalosporin resistance in *Salmonella enterica* serovar Heidelberg- an important cause of human illness in many countries that is typically associated with consumption of contaminated poultry products [@SmithEtAl2008a].
 
-Surveillance conductedby the Canadian Integrated Program for AntimicrobialResistance Surveillance detected a high degree of temporal correlation in trends of resistance to ceftiofur (and ceftriaxone, a drug of choice for the treatment of severe cases of salmonellosis in children and pregnant women) among *Salmonella* Heidelberg from clinical infections in humans, from poultry samples collected at retail stores, and in *E. coli* from poultry samples collected at retail stores [@Canada2009]. Voluntary termination of this use of ceftiofur in hatcheries in the province of Quebec was followed by a precipitous drop in the prevalence of resistance to ceftiofur; subsequent reintroduction of ceftiofur in a more limited way was followed by a return to higher levels of resistance (Figure 5.)
+<center>
+
+![Figure 6. Automatic egg injector, center](egg_injector.png "Figure 6. Automatic egg injector")
+
+</center>
+
+Studies conducted by the Canadian Integrated Program for Antimicrobial Resistance Surveillance detected a high degree of temporal correlation in trends of resistance to ceftiofur (and ceftriaxone, a drug of choice for the treatment of severe cases of salmonellosis in children and pregnant women) among *Salmonella* Heidelberg from clinical infections in humans, from poultry samples collected at retail stores, and in *E. coli* from poultry samples collected at retail stores [@Canada2009]. Voluntary termination of this use of ceftiofur in hatcheries in the province of Quebec was followed by a precipitous drop in the prevalence of resistance to ceftiofur; subsequent reintroduction of ceftiofur in a more limited way was followed by a return to higher levels of resistance (Figure 7.)
 
 #### Case study 2
 
