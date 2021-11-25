@@ -10,6 +10,7 @@ output:
      toc: TRUE
      toc_float: TRUE 
 bibliography: references.bib
+csl: vancouver.csl
 ---
 
 ```{r setup, include=FALSE}
@@ -28,11 +29,19 @@ Until the 20th Century, influenza, pneumonia, tuberculosis, and diarrhea/enteric
 
 Industrialization and growing wealth in the 19th century brought improvements in sanitation and drinking water, leading to dramatic improvements in life expectancy. By the early 20th century, vaccination was becoming established for many preventable infectious diseases, including vaccines for pertussis, diptheria, yellow fever and tuberculosis. However, life-threatening bacterial infections remained a common threat. Strep throat was sometimes a fatal infection, ear infections could lead deafness, mastoiditis or meningitis with a 90% mortality rate, and surgery or childbirth was much more dangerous.
 
+<figure>
+
 <iframe src="https://ourworldindata.org/grapher/life-expectancy?tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;">
 
 </iframe>
 
+<figcaption>
+
 Figure 1. Changes in life expectancy over 500 years
+
+</figcaption>
+
+</figure>
 
 <br> The microbiologist Paul Ehrlich (1854-1915) is generally credited with the first discovery and medical application of a synthetic drug (arsphenamine or Salvarsan) for the treatment of syphilis. The term "antibiotic" was later introduced by in 1943 by Selman Waksman-the discoverer of streptomycin and the first effective antibiotic for tuberculosis. Erlich's approach of screening libraries of chemicals for selective antimicrobial properties formed the basis of early antibiotic research and led to the discovery of the first sulfa antibiotics (e.g., sulfamidochrysoidine, sulfanilamide) that are still in clinical use today.
 
@@ -50,9 +59,19 @@ Figure 1. Changes in life expectancy over 500 years
 
 <center>
 
-![Figure 2. Antibiotic discovery timeline](ab-discovery-timeline.png "Figure 1. Antibiotic discovery timeline")
+<figure>
+
+![](ab-discovery-timeline.png)
 
 </center>
+
+<figcaption>
+
+Figure 2. Antibiotic discovery timeline
+
+</figcaption>
+
+</figure>
 
 <br> Recognizing the growing global threat of antibiotic resistance (AMR) on human health but also the economy and human development, in 2017 The World Health Organization (WHO) developed a [Global Action Plan on AMR](https://www.who.int/publications/i/item/9789241509763). The plan outlines 21 strategies and 5 strategic objectives action plans that should be implemented in member states to address AMR.
 
@@ -65,6 +84,14 @@ Figure 1. Changes in life expectancy over 500 years
 The WHO also published a [Priority Pathogen List](https://www.who.int/medicines/publications/WHO-PPL-Short_Summary_25Feb-ET_NM_WHO.pdf) for research and development of new antibiotics. This priority list includes bacterial pathogens that are considered to be be the biggest threat to human health beyond *Mycobacterium tuberculosis,*, which was previously listed as health priority pathogen for which innovative new treatments are urgently needed. The WHO list breaks down pathogens into three groups:
 
 <br>
+
+<figure>
+
+<figcaption>
+
+Table 1. WHO priority pathogens
+
+</figcaption>
 
 +----------------+--------------------------------------------------------------------------------------------+
 | Priority group | Pathogens included                                                                         |
@@ -94,7 +121,7 @@ The WHO also published a [Priority Pathogen List](https://www.who.int/medicines/
 |                | *Shigella* spp., fluoroquinolone-resistant                                                 |
 +----------------+--------------------------------------------------------------------------------------------+
 
-: Table 1. WHO antibiotic resistance priority pathogens list
+</figure>
 
 ## Situation in Italy
 
@@ -110,7 +137,15 @@ The WHO also published a [Priority Pathogen List](https://www.who.int/medicines/
 
 <center>
 
-![Figure 3. Regional difference in CRE bloodstream infection incidence per 100,000 residents in Italy. Source:Micronet <https://www.epicentro.iss.it/antibiotico-resistenza/cre-dati>](Italia_CRE.png){width="600"}
+<figure>
+
+![](Italia_CRE.png){width="600"}
+
+<figcaption>
+
+Figure 3. Regional difference in CRE bloodstream infection incidence per 100,000 residents in Italy
+
+</figure>
 
 </center>
 
@@ -132,11 +167,19 @@ In 2017, a [report](https://www.ecdc.europa.eu/en/publications-data/ecdc-country
 -   Increasing resistance could lead to an unthinkable future of untreatable infections, reversing more than a 100 years of medical progress. Routine medical procedures or surgery become much more dangerous and associated with higher complication rates. Immunosuppression, cancer chemotherapy and transplantations may become associated with unacceptable risk for many patients if infections cannot be effectively prevented and treated.
 -   Economic and social progress in many countries will be dramatically impacted leading to political and social instability. The economic damage of uncontrolled antimicrobial resistance will be comparable to the shocks experienced during the 2008-2009 global financial crisis and result in dramatically-increased healthcare expenditures; reductions in food and feed production, reduced economic output, and [increased poverty and inequality](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/323311493396993758/final-report). The economic impact of antimicrobial resistance will be even greater and longer lasting on low-and middle-income (LMIC) countries.
 
+<figure>
+
 <center>
 
-![Figure 4. Projected deaths due to antimicrobial resistance in 2050. Source: 2016 [O'Neil Report on Tackling Antibiotic Resistance](Figure%20x.%20Projected%20deaths%20due%20to%20antimicrobial%20resistance%20in%202050)](AMR_deaths_2050.png "Figure 4. Projected deaths due to antimicrobial resistance in 2050. Source: 2016 O'Neil Report on Tackling Antibiotic Resistance"){width="600"}
+![](AMR_deaths_2050.png){width="600"}
+<figcaption>
 
+Figure 4. Projected deaths due to animicrobial resistance in 2050
+
+</figcaption>
 </center>
+
+</figure>
 
 <br>
 
@@ -163,6 +206,7 @@ Because the drivers of antimicrobial resistance lie in humans, animals, plants, 
 -   In the case of food animals, if some animals are infected antibiotics may be administered through feed or water to the entire group for reasons of practicality or efficiency. *Metaphylaxis* is a term used to describe therapeutic/prophylaxis treatment at a group level.
 -   The most controversial type of group treatment in food animals is long-term, low-dose mass antibiotic treatment for purposes of growth promotion. This practice has a high propensity to select to antibiotic microbial resistance and is based on economic grounds rather than treatment of clinical infection.
 -   The reported benefits of using antibiotics for growth promotion is low and ranges widely in the literature (1-10%). Concerns have been expressed that antimicrobial growth promoters are often used to compensate for poor hygiene/housing and healthy management.
+-   Historically, regulations have focused on the presence of antimicrobial residues in animal tissue, milk or other edible products (i.e. eggs) from treated animals along with toxicological dose response data - *so called minimum residue levels (MRLs) compatible with acceptable risk in humans.* While MRLs are well-understood and enforced with longstanding testing programs and penalties, these programs do not take into account selection of antimicrobial resistance.
 -   The WHO has advocated for the termination of using antimicrobials for growth promotion. A recent [report from the ECDC](https://www.ecdc.europa.eu/sites/default/files/documents/JIACRA-III-Antimicrobial-Consumption-and-Resistance-in-Bacteria-from-Humans-and-Animals.pdf) has suggested some progress. Using surveillance data from 2017, the report found that the EU/EEA population mean antibiotic consumption in the 29 countries was 130 mg per kg of estimated biomass in humans and 108.3 mg per kg in food-producing animals. *This first time since the agencies began publishing the joint reports in 2011 that antibiotic use in humans has exceeded use in livestock.* Consumption of third- and fourth-generation cephalosporins, fluoroquinolones, and aminopenicillins was considerably higher in people, while consumption of macrolides was similar, and consumption of tetracyclines and polymyxins---a last-resort class of antibiotics that includes colistin---was significantly higher in food-producing animals.
 -   In 2022, new [EU legislation](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0006&from=EN) will prohibit all forms of routine antibiotic use in farming, including preventative group treatments and medicated feeding except in extraordinary circumstances.
 
@@ -207,6 +251,16 @@ Intravenous polymyxin is now increasingly used as a *drug of last resort* for ca
 -   In 2014, colistin use in animals was higher than humans with a reported 485 tonnes- 99.7% in oral form or oral medicated feed [@EuropeanMedicinesAgency2016]. In China, with the world's largest production of pigs and poultry an estimated 12,000 tonnes of colistin was used in the food production industry [@LiuEtAl2016a].
 
 -   In 2015, Lui and colleagues reported plasmid-mediated colistin-resistance gene, *mcr-1*, in *Escherichia coli* isolates obtained from animals, food and human bloodstream infections in China [@LiuEtAl2016a]. Alarmingly, the resistance gene has also been detected in 5% of healthy travellers [@zotero-7665].
+
+-   The *mcr-1* gene has also been detected in isolates obtained from wildlife and surface water samples, demonstrating environmental contamination[@ZurfuhEtAl]
+
+-   Additional plasmid-mediated colistin-resistance genes have been reported in many other bacterial species and countries, including *mcr-2* from pigs in Belgium, and *mcr-3,4,5* in other coutries[@BorowiakEtAl2017]
+
+-   Colistin illustrates important *One-Health Dimensions* of AMR that differ from third generation cephaloporins. Specifically, large volumes of colistin use in animals, rather than humans, have probably have driven colistin resistance now observed in humans. Using large quantities of colistin for group treatment or growth promotion in animals has probably lead to antimicrobial resistance proglems in human health, even through colistin was considered in the past to be less important because other less toxic treatments were still available.
+
+    > In the 1990s avoparcin, a glycopeptide antimicrobial, was widely used in growth promotion in pigs and poultry production that was not initially thought to be of public health importance. Surveillance and research were eventually able to show that avoparcin use in animals contributed to the selection and wide dissemination of what type of resistance?
+
+<br>
 
 <center>
 
