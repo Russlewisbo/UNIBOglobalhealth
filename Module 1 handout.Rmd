@@ -64,7 +64,7 @@ Figure 2. Antibiotic discovery timeline
 
 </figure>
 
-<br> <br> Recognizing the growing global threat of antibiotic resistance (AMR) on human health but also the economy and human development, The World Health Organization (WHO) proposed as a [Global Action Plan for AMR](https://www.who.int/publications/i/item/9789241509763) in 2017. The plan outlines 21 strategies and 5 strategic objectives action plans that should be implemented in member states to address AMR. These include
+<br> Recognizing the growing global threat of antibiotic resistance (AMR) on human health but also the economy and human development, The World Health Organization (WHO) proposed as a [Global Action Plan for AMR](https://www.who.int/publications/i/item/9789241509763) in 2017. The plan outlines 21 strategies and 5 strategic objectives action plans that should be implemented in member states to address AMR. These include
 
 1.  Improvements in the awareness and understanding of antimicrobial resistance through effective communication, education and training
 2.  Strengthening of knowledge and evidence base of AMR through surveillance and research
@@ -116,7 +116,7 @@ Table 1. WHO priority pathogens
 
 # AMR situation in Italy
 
-<br>Southern Europe, including Italy, has among the highest currently reported rates of resistance among pathogens included on the WHO Priority Pathogen list. For example, surveillance data from the European Centres for Disease Control (ECDC) have reported a dramatic increase in multidrug-resistance (MDR)\^ [Standardized definitions of resistance,see Magiorakos et al [@MagiorakosEtAl2012a]] in Italy since 2009, with now more than one-third of *Klebsiella pneumoniae* resistant to previously-considered last-line antibiotics such as carbapenems. (see link to interactive resistance atlas [here)](https://atlas.ecdc.europa.eu/public/index.aspx?Dataset=27&HealthTopic=4) Similarly, the The Italian [Micronet Resistance Surveillance] program (<https://www.epicentro.iss.it/antibiotico-resistenza/epidemiologia-italia>) has reported:
+<br>Southern Europe, including Italy, has among the highest currently reported rates of resistance among pathogens included on the WHO Priority Pathogen list. For example, surveillance data from the European Centres for Disease Control (ECDC) have reported a dramatic increase in multidrug-resistance (MDR)\^ \[Standardized definitions of resistance,see Magiorakos et al [@MagiorakosEtAl2012a]\] in Italy since 2009, with now more than one-third of *Klebsiella pneumoniae* resistant to previously-considered last-line antibiotics such as carbapenems. (see link to interactive resistance atlas [here)](https://atlas.ecdc.europa.eu/public/index.aspx?Dataset=27&HealthTopic=4) Similarly, the The Italian \[Micronet Resistance Surveillance\] program (<https://www.epicentro.iss.it/antibiotico-resistenza/epidemiologia-italia>) has reported:
 
 -   26.4% of *Escherichia coli* are resistant to 3rd generation cephalosporins
 -   29.5% of *Klebsiella pneumoniae* are resistant to carbapenems (including 33.1% resistant to multiple drug classes)
@@ -196,7 +196,7 @@ Because the drivers of antimicrobial resistance lie in humans, animals, plants, 
 
 <figcaption>
 
-Figure 4. Projected deaths due to antimicrobial resistance in 2050. Source: O'Neil Report [@ONeill2016].
+Figure 5. Rationale for one-health model for addressing AMR: Source: WHO
 
 </figcaption>
 
@@ -207,27 +207,26 @@ Figure 4. Projected deaths due to antimicrobial resistance in 2050. Source: O'Ne
 ## Antibiotic use in food production
 
 -   75% if human infectious diseases that have emerged or re-emerged in recent decades are zoonotic-i.e. they originated in animals [@WoolhouseGowtage-Sequeria2005].
--   Few antimicrobial classes are reserved exclusively for humans- (e.g., isoniazid used for tuberculosis) or drugs limited to veterinary use because of toxicity. The vast majority of antibiotics are used both in humans and animals, including domestic mammals, birds, farmed fish and shellfish, honeybees and others.
+-   Few antimicrobial classes are reserved exclusively for humans. The vast majority of antibiotics are used both in humans and animals, including domestic mammals, birds, farmed fish and shellfish, honeybees and others.
 -   In horticulture, tetracyclines, streptomycin, and other antimicrobials are used for the prophylaxis and treatment of bacterial infections (e.g., fire blight *Erwinea amylovora*)
--   In veterinary medicine, major differences in the way antibiotics are used for companion animals (e.g., dogs, cats, pet birds, horses) versus food-producing animals- Antibiotic use in companion animals is broadly similar to humans to treat clinical infections or in select cases prophylaxis, such as post-surgery.
--   In the case of food animals, if some animals are infected antibiotics may be administered through feed or water to the entire group for reasons of practicality or efficiency. *Metaphylaxis* is a term used to describe therapeutic/prophylaxis treatment at a group level.
--   The most controversial type of group treatment in food animals is long-term, low-dose mass antibiotic treatment for purposes of growth promotion. This practice has a high propensity to select to antibiotic microbial resistance and is based on economic grounds rather than treatment of clinical infection.
--   The reported benefits of using antibiotics for growth promotion is low and ranges widely in the literature (1-10%). Concerns have been expressed that antimicrobial growth promoters are often used to compensate for poor hygiene/housing and healthy management.
--   Historically, regulations have focused on the presence of antimicrobial residues in animal tissue, milk or other edible products (i.e. eggs) from treated animals along with toxicological dose response data - *so called minimum residue levels (MRLs) compatible with acceptable risk in humans.* While MRLs are well-understood and enforced with longstanding testing programs and penalties, these programs do not take into account selection of antimicrobial resistance.
--   The WHO has advocated for the termination of using antimicrobials for growth promotion. A recent [report from the ECDC](https://www.ecdc.europa.eu/sites/default/files/documents/JIACRA-III-Antimicrobial-Consumption-and-Resistance-in-Bacteria-from-Humans-and-Animals.pdf) has suggested some progress. Using surveillance data from 2017, the report found that the EU/EEA population mean antibiotic consumption in the 29 countries was 130 mg per kg of estimated biomass in humans and 108.3 mg per kg in food-producing animals. *This first time since the agencies began publishing the joint reports in 2011 that antibiotic use in humans has exceeded use in livestock.* Consumption of third- and fourth-generation cephalosporins, fluoroquinolones, and aminopenicillins was considerably higher in people, while consumption of macrolides was similar, and consumption of tetracyclines and polymyxins---a last-resort class of antibiotics that includes colistin---was significantly higher in food-producing animals.
+-   In veterinary medicine, major differences in the way antibiotics are used for companion animals (e.g., dogs, cats, pet birds, horses) versus food-producing animals. Antibiotic use in companion animals is broadly similar to humans to treat clinical infections or in select cases prophylaxis, such as post-surgery. In the case of food animals, if some animals are infected antibiotics may be administered through feed or water to the entire group for reasons of practicality or efficiency. *Metaphylaxis is a term used to describe therapeutic/prophylaxis treatment at a group level.*
+-   The most controversial type of group treatment in food animals is long-term, low-dose mass antibiotic treatment for purposes of growth promotion. This practice has a high propensity to select for antimicrobial resistance and is driven by economic factors rather than treatment of clinical infection.
+-   The reported benefits of using antibiotics for growth promotion is controversial ranges widely in the literature (1-10%). Concerns have been expressed that antimicrobial growth promoters are often used to compensate for poor hygiene/housing and healthy management[@McEwenCollignon2018].
+-   Historically, governmental regulations have focused on toxicological dose-response data and the presence of antimicrobial residues in tissue, milk or other edible products (i.e. eggs) from treated animals - *so called minimum residue levels (MRLs) compatible with acceptable risk in humans.* While MRLs are well-understood and enforced withtesting programs and penalties, these programs do not take into account selection of antimicrobial-resistant pathogens.
+-   The WHO has advocated for the termination of using antimicrobials for growth promotion. A recent [report from the ECDC](https://www.ecdc.europa.eu/sites/default/files/documents/JIACRA-III-Antimicrobial-Consumption-and-Resistance-in-Bacteria-from-Humans-and-Animals.pdf) has suggested some progress. Using surveillance data from 2017, the EU/EEA population mean antibiotic consumption in the 29 countries was 130 mg per kg of estimated biomass in humans and 108.3 mg per kg in food-producing animals. *This first time since the agencies began publishing the joint reports in 2011 that antibiotic use in humans has exceeded use in livestock.* Consumption of third- and fourth-generation cephalosporins, fluoroquinolones, and aminopenicillins was considerably higher in human medicine, while consumption of macrolides was similar, and consumption of tetracyclines and polymyxins---a last-resort class of antibiotics that includes colistin---was significantly higher in food-producing animals.
 -   In 2022, new [EU legislation](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0006&from=EN) will prohibit all forms of routine antibiotic use in farming, including preventative group treatments and medicated feeding except in extraordinary circumstances.
 
 <br>
 
 <figure>
 
-<iframe src="https://ourworldindata.org/grapher/antibiotic-use-in-livestock" loading="lazy" style="width: 100%; height: 600px; border: 0px none;">
+<iframe src="https://ourworldindata.org/grapher/antibiotic-use-in-livestock" loading="lazy" style="width: 100%; height: 800px; border: 0px none;">
 
 </iframe>
 
 <figcaption>
 
-Figure 5. Antibiotic use in livestock reported in 2010
+Figure 6. Antibiotic use in livestock reported in 2010
 
 </figcaption>
 
@@ -235,17 +234,17 @@ Figure 5. Antibiotic use in livestock reported in 2010
 
 ## Impacts on Human AMR
 
-### Case study 1
+### Case study 1-Cephalosporins
 
-Third generation cephalosporins (ceftotaxime, ceftriaxone) are widely used for serious infections in humans, including urinary tract, abdominal, lung and bloodstream infections and are classified as "critically-important" for human health (WHO AGISAR). Cetiofur, cefpodoxime, and cefoperazone are 2nd and 3rd generation cephalosporins approved for veterinary use and predominantly for treating bacterial infections in food-producing animals including chickens and cattle.
+Third generation cephalosporins (ceftotaxime, ceftriaxone) are widely used for serious infections in humans, including the treatment of urinary tract, abdominal, lung and bloodstream infections. These antibiotics are classified as "critically-important" for human health ([WHO AGISAR](http://www.agisar.org/)). Cetiofur, cefpodoxime, and cefoperazone are similar cephalosporins approved veterinary antibiotics and used predominantly for treating bacterial infections in food-producing animals including chickens and cattle.
 
-Resistance to 3rd generation cephalosporins is mediated by extended-spectrum beta-lactamases (ESBLs) and AmpC. ESBL genes are highly mobile and transmitted on plasmids, transposons and other genetic elements horizontally (to surrounding bacteria) and vertically (to daughter cells). Resistance to 3rd generation cephalosporins is common among *Escherichia coli* and *Klebsiella pneumonia* requiring greater reliance on the few remaining classes of antimicrobials such as carbapenems.
+Resistance to 3rd generation cephalosporins is mediated by extended-spectrum beta-lactamases (ESBLs) and AmpC enzymes. ESBL genes are highly mobile and transmitted on plasmids, transposons and other genetic elements horizontally (to surrounding bacteria) and vertically (to daughter cells). The consequences are that resistance can spread rapidly from patient-to-patient and among different bacterial species. In recent years, growing resistance to 3rd generation cephalosporins is common among *Escherichia coli* and *Klebsiella pneumonia* has required greater reliance on the few remaining classes of antimicrobials such as carbapenems.
 
 A number of studies comparing isolates from animals, food and human infections have found a high similarity in ESBL genes and plasmids, as well as similar clonal isolates [@LazarusEtAl2015].
 
-In some countries, ceftiofur was injected in small quantities to many thousands of hatching eggs or chicks intended for treated flocks. The main reason for this treatment is prophylaxis against *Escherichia coli* infections and/or yolk sac infections.This practice has been shown to select for cephalosporin resistance in *Salmonella enterica* serovar Heidelberg- an important cause of human illness in many countries that is typically associated with consumption of contaminated poultry products [@SmithEtAl2008a].
+Ceftiofur is frequently injected in small quantities to hatching eggs or chicks as metaphylaxis as prophylaxis against *Escherichia coli* infections and/or yolk sac infections [@McEwenCollignon2018]. This practice has been shown to select for cephalosporin resistance in *Salmonella enterica* serovar Heidelberg- an important cause of human illness in many countries that is typically associated with consumption of contaminated poultry products [@SmithEtAl2008a].
 
-<br> Studies conducted by the Canadian Integrated Program for Antimicrobial Resistance Surveillance detected a high degree of temporal correlation in trends of resistance to ceftiofur (and ceftriaxone, a drug of choice for the treatment of severe cases of salmonellosis in children and pregnant women) among *Salmonella* Heidelberg from clinical infections in humans, from poultry samples collected at retail stores, and in *E. coli* from poultry samples collected at retail stores [@Canada2009]. Voluntary termination of this use of ceftiofur in hatcheries in the province of Quebec was followed by a precipitous drop in the prevalence of resistance to ceftiofur; subsequent reintroduction of ceftiofur in a more limited way was followed by a return to higher levels of resistance (Figure 7.)
+<br> Studies conducted by the Canadian Integrated Program for Antimicrobial Resistance Surveillance detected a high degree of temporal correlation in trends of resistance to ceftiofur (and ceftriaxone, a drug of choice for the treatment of severe cases of salmonellosis in children and pregnant women) among *Salmonella* Heidelberg from clinical infections in humans, from poultry samples collected at retail stores, and in *E. coli* from poultry samples collected at retail stores [@Canada2009]. Voluntary termination of ceftiofur metaphylaxis in hatcheries in the province of Quebec was followed by a precipitous drop in the prevalence of resistance to ceftiofur; subsequent reintroduction of ceftiofur in a more limited way was followed by a return to higher levels of resistance (Figure 7.)
 
 <figure>
 
@@ -263,19 +262,19 @@ Figure 7. Ceftiofur resistance in chicken and human *Salmonella* Heidelberg and 
 
 </figure>
 
-In Japan, voluntary withdrawal of the off-label use of ceftiofur in hatcheries in 2012 was also followed by a significant decrease in broad-spectrum cephalosporin resistance in *E. coli* from chickens prepared for cooking. Some other countries (e.g., Denmark) have also placed voluntary restrictions on its use. The label claim for day-old injection of poultry flocks was withdrawn in Europe, while some countries have banned off-label use of third-generation cephalosporins, and in other countries there is a requirement that use be restricted to situations where no other effective approved drugs are available for treatment.
+In Japan, voluntary withdrawal of the off-label use of ceftiofur in hatcheries in 2012 was also associted with significant decrease in broad-spectrum cephalosporin resistance in *E. coli* from chickens prepared for cooking. Some other countries (e.g., Denmark) have placed voluntary restrictions on its use. The label claim for day-old injection of poultry flocks was withdrawn in Europe, while some countries have banned off-label use of third-generation cephalosporins, and in other countries there is a requirement that use be restricted to situations where no other effective approved drugs are available for treatment.
 
-The use of cephalosporin antibiotics that are considered critically important for both human and animal health and for which the main concerns for selection and spread of resistance from animals to humans derive from their use as mass medications in large numbers of animals. In this regard,there are parallels with fluoroquinolones, another class of critically important antimicrobials, to which resistance among *Campylobacter jejuni* isolates emerged following mass medication of poultry flocks [@EndtzEtAl1991].
+This case study illustrates the danger of using antibiotics from the same class as critical therapies used to treat human infections for metaphylaxis or treatment in large numbers of animals. A similar pattern in poultry was also observed with mass medication of poultry flocks using fluoroquinolones antibiotics and selection of fluoroquinone- resistant *Campylobacter jejuni* infections in humans [@EndtzEtAl1991].
 
-### Case study 2
+### Case study 2- Colistin
 
-Colistin is a member of the polymixin class of antibiotics, which have been used in both human and veterinary medicine for over 50 years. Until relatively recently, polymixin were rarely used in humans because of dose-limiting neurotoxicity and nephrotoxicity except for topical therapy or inhalational therapy for adjunctive suppression of MDR *Pseudomonas aeruginosa* in patients with cystic fibrosis.
+Colistin is a member of the polymixin class of antibiotics, which have been used in both human and veterinary medicine for over 50 years. Until relatively recently, polymixins were rarely prescribed beyond topical or inhalational therapy in rare cases because of dose-limiting neurotoxicity and nephrotoxicity of the drugs.
 
-Intravenous polymyxin is now increasingly used as a *drug of last resort* for carbapenem-resistant *Pseudomonas aeruginosa*, *Acinetobacter baumannii* and *Klebsiella pneumoniae.* However, colistin continued to be used in Brazil, Europe and China and administered orally in pigs, poultry and calves and for growth promotion in parts of Asia
+However, use of intravenous colistin has surged in the last decade with the increase in carbapenem-resistant *Pseudomonas aeruginosa*, *Acinetobacter baumannii* and *Klebsiella pneumoniae.* Even as human use has increased, colistin continues to be used in Brazil, Europe and China a a growth promoting and antibiotic treatment for pigs, poultry and calves.
 
--   In 2014, colistin use in animals was higher than humans with a reported 485 tonnes- 99.7% in oral form or oral medicated feed [@EuropeanMedicinesAgency2016]. In China, with the world's largest production of pigs and poultry an estimated 12,000 tonnes of colistin was used in the food production industry [@LiuEtAl2016a].
+-   In 2014, colistin use in EU member states in animals was higher than humans with a reported 485 tonnes- 99.7% in oral form or oral medicated feed [@EuropeanMedicinesAgency2016]. In China, with the world's largest production of pigs and poultry, an estimated 12,000 tonnes of colistin was used in the food production industry [@LiuEtAl2016a].
 
--   In 2015, Lui and colleagues reported plasmid-mediated colistin-resistance gene, *mcr-1*, in *Escherichia coli* isolates obtained from animals, food and human bloodstream infections in China [@LiuEtAl2016a]. Alarmingly, the resistance gene has also been detected in 5% of healthy travellers [@zotero-7665].
+-   In 2015, Lui and colleagues reported plasmid-mediated colistin-resistance gene, *mcr-1*, in *Escherichia coli* isolates obtained from animals, food and human bloodstream infections in China [@LiuEtAl2016a]. Alarmingly, the resistance gene has also been detected in 5% of healthy travellers from China in other parts of the world [@zotero-7665].
 
 -   The *mcr-1* gene has also been detected in isolates obtained from wildlife and surface water samples, demonstrating environmental contamination[@ZurfuhEtAl]
 
