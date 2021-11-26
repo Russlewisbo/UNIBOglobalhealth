@@ -1,225 +1,2885 @@
 ---
-title: "Global Management of Antimicrobial Resistance"
-description: |
-   97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES
-author:
-  - name: Russell Lewis
-    url: https://www.unibo.it/sitoweb/russeledward.lewis
-    affiliation: Department of Medical and Surgical Sciences, University of Bologna
-    affiliation_url: https://dimec.unibo.it/it
+title: "Sharing on Short Notice"
+subtitle: "How to Get Your Teaching Materials Online with R Markdown"
+author: Alison Hill
 date: "`r Sys.Date()`"
-output: distill::distill_article
+output:
+  xaringan::moon_reader:
+    css: ["default", "assets/css/my-theme.css", "assets/css/my-fonts.css"]
+    seal: false 
+    lib_dir: libs
+    nature:
+      # autoplay: 5000
+      highlightStyle: solarized-light
+      highlightLanguage: ["r", "css", "yaml"]
+      slideNumberFormat: "" 
+      highlightLines: true
+      countIncrementalSlides: false
+      ratio: "16:9"
 ---
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(collapse = TRUE,
+                      fig.retina = 3)
+
+library(ymlthis)
+library(tidyverse)
 ```
 
-## Overview
+layout: true
 
-Until the 20th Century, influenza, pneumonia, tuberculosis, and diarrhea/enteric diseases were the top three causes of death in Western countries. The average life expectancy of adults was less than 50 years, and 2% of children failed to live beyond age 5 years with most deaths caused by communicable diseases. <br>
+<a class="footer-link" href="https://rstudio-education.github.io/sharing-short-notice/">rstd.io/sharing</a>
 
-Industrialization and growing wealth in the 19th century brought improvements in sanitation and drinking water, leading to dramatic improvements in life expectancy. By the early 20th century, vaccination was becoming established for many preventable infectious diseases, including vaccines for pertussis, diptheria, yellow fever and tuberculosis. However, life-threatening bacterial infections remained a common threat. Strep throat was sometimes a fatal infection, ear infections could lead deafness, mastoiditis or meningitis with a 90% mortality rate, and surgery or childbirth was much more dangerous.
+---
 
-<iframe src="https://ourworldindata.org/grapher/life-expectancy?tab=chart" loading="lazy" style="width: 100%; height: 600px; border: 0px none;">
+class: title-slide, center, bottom
 
-</iframe>
+# `r rmarkdown::metadata$title`
 
-Figure 1. Changes in life expectancy over 500 years
+## `r rmarkdown::metadata$subtitle`
 
-<br> The microbiologist Paul Ehrlich (1854-1915) is generally credited with the first discovery and medical application of a synthetic drug (arsphenamine or Salvarsan) for the treatment of syphilis. The term "antibiotic" was later introduced by in 1943 by Selman Waksman-the discoverer of streptomycin and the first effective antibiotic for tuberculosis. Erlich's approach of screening libraries of chemicals for selective antimicrobial properties formed the basis of early antibiotic research and led to the discovery of the first sulfa antibiotics (e.g., sulfamidochrysoidine, sulfanilamide) that are still in clinical use today.
+### `r rmarkdown::metadata$author` &#183; Desirée De Leon
 
-<br> The serendipitous discovery of penicillin on September 3, 1928 by Alexander Fleming, and its subsequent purification of the drug in quantities needed for clinical testing by Florey and Chain in the late 1930s, was a major breakthrough in establishing the clinical efficacy of antibiotics for common bacterial infections. Alexander Fleming was also among the first physicians to caution about the risks of resistance to penicillin if used too little or for a too short of period during treatment.
+???
 
-> It is not difficult to make microbes resistant to penicillin in the laboratory by exposing them to concentrations not sufficient to kill them, and the same thing has occasionally happened in the body. The time may come when penicillin can be bought by anyone in the shops. Then there is the danger that the ignorant man may easily under-dose himself and by exposing his microbes to non-lethal quantities of the drug make them resistant. -Sir Alexander Fleming
+Welcome to the webinar on sharing on short notice
 
-<br> Fleming's predictions were proven to be true within a couple of years, with the first cases of penicillin resistance reported in 1947. Thus the "arms race" between antimicrobial resistance and the discovery of new antibiotics to treat new pathogens with new forms of antibiotic resistance began.
+Where we'll show you how to get your teaching materials online with R Markdown.
 
-<br> Although resistant infections were frequently encountered in the early days of antibiotic use, a flow of new antibiotics from 1950s-1980's provided alternative treatments. For many forms of clinically-encountered resistance, It was possible to simply switch treatment once resistance against a specific antibiotic became a major problem. But then the antibiotic discovery began to slow. The latest discovery of a new antibiotic class that has reached the market was in 1987. Since then, there has been a lack of innovation in the field, and today there are few novel antibiotic classes in the drug pipeline. In Module 2 we will examine the scientific challenges and market forces that have made new antibiotic discovery increasingly difficult in both in both developed and low-middle-income countries (LMICs)
+---
+name: clouds
+class: center, middle
+background-image: url(images/Clouds.jpg)
+background-size: cover
 
-<br> Once resistance has developed in a bacteria, it can spread from a colonised patient to another patient if appropriate hygienic precautions (e.g., hand hygiene, isolation) are not taken. The risk of resistant bacteria spreading is enhanced in crowded environments, especially when people in the surrounding area are receiving antibiotics - a common situation in hospitals and other healthcare facilities.
+```{r meta, echo=FALSE}
+library(metathis)
+meta() %>%
+  meta_general(
+    description = "How to Get Your Teaching Materials Online with R Markdown",
+    generator = "xaringan and remark.js"
+  ) %>% 
+  meta_name("github-repo" = "rstudio-education/sharing-short-notice") %>% 
+  meta_social(
+    title = "Sharing on Short Notice",
+    url = "https://rstd.io/sharing",
+    image = "https://repository-images.githubusercontent.com/248553842/408a8d80-7363-11ea-96ae-d04b664002df",
+    image_alt = "The first slide features a flying machine",
+    og_type = "website",
+    twitter_card_type = "summary_large_image"
+  )
+```
 
-<br> The consequences of faltering antibiotic discovery are now seen worldwide as more and more bacterial infections are becoming hard to treat once again. Especially worrisome is the lack of antibiotics against Gram-negative bacteria. The rapid global spread of multi- and pan-resistant bacteria (also known in the lay press as "superbugs") can cause infections that are not treatable with existing antibiotics.
+---
+template: clouds
 
-<center>
+## .big-text[Hello.]
 
-![Figure 2. Antibiotic discovery timeline](ab-discovery-timeline.png "Figure 1. Antibiotic discovery timeline")
+???
 
-</center>
+So hello- we're so happy you could join us today. 
 
-<br> Recognizing the growing global threat of antibiotic resistance (AMR) on human health but also the economy and human development, in 2017 The World Health Organization (WHO) developed a [Global Action Plan on AMR](https://www.who.int/publications/i/item/9789241509763). The plan outlines 21 strategies and 5 strategic objectives action plans that should be implemented in member states to address AMR.
+---
+name: clouds2
+background-image: url(images/Clouds2.jpg)
+background-size: cover
 
-1.  Improvements in the awareness and understanding of antimicrobial resistance through effective communication, education and training
-2.  Strengthening of knowledge and evidence base of AMR through surveillance and research
-3.  Reductions in the incidence of infection through effective sanitation, hygiene and infection prevention measures
-4.  Optimization the use of antimicrobial medicines in human and animal health
-5.  Development the economic case for sustainable investment that takes account of the needs of all countries, and increase investment in new medicines, diagnostic tools, vaccines and other interventions
+---
+template: clouds2
+class: middle, center
 
-The WHO also published a [Priority Pathogen List](https://www.who.int/medicines/publications/WHO-PPL-Short_Summary_25Feb-ET_NM_WHO.pdf) for research and development of new antibiotics. This priority list includes bacterial pathogens that are considered to be be the biggest threat to human health beyond *Mycobacterium tuberculosis,*, which was previously listed as health priority pathogen for which innovative new treatments are urgently needed. The WHO list breaks down pathogens into three groups:
+.pull-left[
+### Alison Hill 
 
-<br>
+<img style="border-radius: 50%;" src="https://conf20-intro-ml.netlify.com/authors/alison/avatar.jpg" width="150px"/>
 
-+----------------+--------------------------------------------------------------------------------------------+
-| Priority group | Pathogens included                                                                         |
-+:===============+:===========================================================================================+
-| Critical       | *Acinetobacter baumannii* (Carbapenem-resistant)                                           |
-|                |                                                                                            |
-|                | *Pseudomonas aeruginosa* (Carbapenem-resistant)                                            |
-|                |                                                                                            |
-|                | Enterbacterales (3rd generation cephalosporin, carbapenem-resistant)                       |
-+----------------+--------------------------------------------------------------------------------------------+
-| High           | *Enterococcus faecium*, vancomycin-resistant                                               |
-|                |                                                                                            |
-|                | *Staphylococcus aureus*, methicillin-resistant, vancomycin intermediate and resistant      |
-|                |                                                                                            |
-|                | *Helicobacter pylori*, clarithromycin-resistant                                            |
-|                |                                                                                            |
-|                | *Campylobacter*, fluoroquinolone-resistant                                                 |
-|                |                                                                                            |
-|                | *Salmonella* spp., fluoroquinolone-resistant                                               |
-|                |                                                                                            |
-|                | *Neisseria gonorrhoeae*, 3rd generation cephalosporin-resistant, fluoroquinolone-resistant |
-+----------------+--------------------------------------------------------------------------------------------+
-| Medium         | *Streptococcus pneumoniae*, penicillin-non-susceptible                                     |
-|                |                                                                                            |
-|                | *Haemophilus influenzae*, ampicillin-resistant                                             |
-|                |                                                                                            |
-|                | *Shigella* spp., fluoroquinolone-resistant                                                 |
-+----------------+--------------------------------------------------------------------------------------------+
+[`r icon::fa("github")` @apreshill](https://github.com/apreshill)  
+[`r icon::fa("twitter")` @apreshill](https://twitter.com/apreshill)
 
-: Table 1. WHO antibiotic resistance priority pathogens list
+]
 
-## Situation in Italy
+???
 
-<br>Southern Europe, including Italy, has among the highest currently reported resistance rates among pathogens on the WHO "critical pathogens" list. For example, surveillance data from the European Centres for Disease Control (ECDC) have reported a dramatic increase in carbapenem-resistance in Italy since 2009, with now more than one-third of *Klebsiella pneumoniae* resistant to previously-considered last-line antibiotics such as carbapenems. (see link to interactive resistance atlas [here)](https://atlas.ecdc.europa.eu/public/index.aspx?Dataset=27&HealthTopic=4) Similarly, the The Italian [Micronet Resistance Surveillance] program (<https://www.epicentro.iss.it/antibiotico-resistenza/epidemiologia-italia>) has reported:
+My name is Alison Hill, and I'm a data scientist and professional educator at RStudio.
 
--   26.4% of *Escherichia coli* are resistant to 3rd generation cephalosporins
--   29.5% of *Klebsiella pneumoniae* are resistant to carbapenems (including 33.1% resistant to multiple drug classes)
--   15.9% of *Pseudomonas aeruginosa* are resistant to carbapenemase
--   80.8% of *Acinetobacter* spp. are resistant to carbapenems with 78.8% of species resistant to multiple drug classes
--   For *Staphylococcus aureus* , the percentage of methicillin-resistant isolates (MRSA) remained stable, around 34%, while a worrying trend continues to increase in the percentage of *Enterococcus faecium isolates* resistant to vancomycin, which in 2020 was equal at 23.6%
--   For *Streptococcus pneumoniae* there was a slight increase in both the percentage of isolates resistant to penicillin (13.6%) and those resistant to erythromycin (24.5%).
--   Overall, higher antimicrobial resistance rates (around 40%) are observed in ICUs versus general medical wards for both carbapenem-resistant *K. pneumoniae* and methicillin-resistant *S. aureus*.
+--
 
-<center>
+.pull-right[
+### Desirée De Leon  
 
-![Figure 3. Regional difference in CRE bloodstream infection incidence per 100,000 residents in Italy. Source:Micronet <https://www.epicentro.iss.it/antibiotico-resistenza/cre-dati>](Italia_CRE.png){width="600"}
+<img style="border-radius: 50%;" src="https://conf20-intro-ml.netlify.com/authors/desiree/avatar.jpg" width="150px"/>
 
-</center>
+[`r icon::fa("github")` @dcossyleon](https://github.com/dcossyleon)  
+[`r icon::fa("twitter")` @dcossyle](https://twitter.com/dcossyle)
 
-<br>
+]
 
-In 2017, a [report](https://www.ecdc.europa.eu/en/publications-data/ecdc-country-visit-italy-discuss-antimicrobial-resistance-issues) by the the ECDC noted that the AMR situation in Italian hospitals and regions poses a major public health threat to the country. The levels of carbapenem-resistant Enterobacteriaceae (Enterobacterales) (CRE) and *Acinetobacter baumannii* have now reached hyper-endemic levels in many hospitals, and together with increasing methicillin-resistance among the Gram-positive species *Staphylococcus aureus* (MRSA) has fueled Italy's ranking as one of the Member States with one of the highest level of antibiotic resistance in Europe. Factors noted by the ECDC that contribute negatively to the poor control of antibiotic resistance in Italy include:
+???
 
--   Little sense of urgency about the current AMR situation from most stakeholders and a tendency by many stakeholders to avoid taking charge of the problem
--   Lack of institutional support at national, regional and local level
--   Lack of professional leadership at each level
--   Lack of accountability at each level
--   Lack of coordination of the activities between and within levels.
+And I'm Desirée De Leon. I interned with Alison last summer at RStudio on the education team.
 
-<br>
+---
+template: clouds2
+class: middle, center
 
-## The future
+.pull-left[
+### Alison Hill 
 
--   Drug-resistant diseases already cause at least 700,000 deaths globally a year, including 230,000 deaths from multidrug-resistant tuberculosis, a figure that could increase to 10 million deaths globally per year by 2050 under current projections if no action is taken. In India, antibiotic-resistant neonatal infections cause the deaths of nearly 60,000 new-borns each year Around 2.4 million people could die in high income countries between 2015 and 2050 without a sustained effort to contain antimicrobial resistance.
--   Increasing resistance could lead to an unthinkable future of untreatable infections, reversing more than a 100 years of medical progress. Routine medical procedures or surgery become much more dangerous and associated with higher complication rates. Immunosuppression, cancer chemotherapy and transplantations may become associated with unacceptable risk for many patients if infections cannot be effectively prevented and treated.
--   Economic and social progress in many countries will be dramatically impacted leading to political and social instability. The economic damage of uncontrolled antimicrobial resistance will be comparable to the shocks experienced during the 2008-2009 global financial crisis and result in dramatically-increased healthcare expenditures; reductions in food and feed production, reduced economic output, and [increased poverty and inequality](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/323311493396993758/final-report). The economic impact of antimicrobial resistance will be even greater and longer lasting on low-and middle-income (LMIC) countries.
+<img src="https://media.giphy.com/media/WTEdeICMGkw91sHEy1/giphy.gif" style="width: 82.07%; display: block; margin: 1 auto;">
+[`r icon::fa("github")` @apreshill](https://github.com/apreshill)  
+[`r icon::fa("twitter")` @apreshill](https://twitter.com/apreshill)
 
-<center>
+]
 
-![Figure 4. Projected deaths due to antimicrobial resistance in 2050. Source: 2016 [O'Neil Report on Tackling Antibiotic Resistance](Figure%20x.%20Projected%20deaths%20due%20to%20antimicrobial%20resistance%20in%202050)](AMR_deaths_2050.png "Figure 4. Projected deaths due to antimicrobial resistance in 2050. Source: 2016 O'Neil Report on Tackling Antibiotic Resistance"){width="600"}
+.pull-right[
+### Desirée De Leon  
 
-</center>
+<img src="https://media.giphy.com/media/hoqxB6HRhWtySSjO2S/giphy.gif">
+[`r icon::fa("github")` @dcossyleon](https://github.com/dcossyleon)  
+[`r icon::fa("twitter")` @dcossyle](https://twitter.com/dcossyle)
 
-<br>
+]
 
-## LMICs
+???
 
-<br>The real implications of spreading drug resistance will be felt the world over, with developing countries and large emerging nations bearing the brunt of this problem.
+And even though we don't have a video feed in this webinar, we promise we are real live humans who are stuck at home right now just like you all, sitting in front our computers.
 
-## One-Health Perspective
+---
+class: freight-slide, center, middle, inverse
 
-Because the drivers of antimicrobial resistance lie in humans, animals, plants, food and the environment, a sustained One Health response is essential to engage and unite everyone around a shared vision and goals.
+# .shadow-text[We ship a lot of websites.]
 
-"One Health" refers to designing and implementing programmes, policies, legislation and research in a way that enables multiple sectors engaged in human, terrestrial and aquatic animal and plant health, food and feed production and the environment to communicate and work together to achieve better public health outcomes.
+???
 
-<br>
+I am a developmental psychologist
 
-![Figure 5. A One Health response to address the drivers and impact of antimicrobial resistance. Source:[WHO](ttps://www.who.int/docs/default-source/documents/no-time-to-wait-securing-the-future-from-drug-resistant-infections-en.pdfsfvrsn=5b424d7_6)](onehealth.png)
+Desirée is a neuroscientist
 
-### Antibiotic use in food production
+Neither of us is a web developer
 
--   75% if human infectious diseases that have emerged or re-emerged in recent decades are zoonotic-i.e. they originated in animals [@WoolhouseGowtage-Sequeria2005].
--   Few antimicrobial classes are reserved exclusively for humans- (e.g., isoniazid used for tuberculosis) or drugs limited to veterinary use because of toxicity. The vast majority of antibiotics are used both in humans and animals, including domestic mammals, birds, farmed fish and shellfish, honeybees and others.
--   In horticulture, tetracyclines, streptomycin, and other antimicrobials are used for the prophylaxis and treatment of bacterial infections (e.g., fire blight *Erwinea amylovora*)
--   In veterinary medicine, major differences in the way antibiotics are used for companion animals (e.g., dogs, cats, pet birds, horses) versus food-producing animals- Antibiotic use in companion animals is broadly similar to humans to treat clinical infections or in select cases prophylaxis, such as post-surgery.
--   In the case of food animals, if some animals are infected antibiotics may be administered through feed or water to the entire group for reasons of practicality or efficiency. *Metaphylaxis* is a term used to describe therapeutic/prophylaxis treatment at a group level.
--   The most controversial type of group treatment in food animals is long-term, low-dose mass antibiotic treatment for purposes of growth promotion. This practice has a high propensity to select to antibiotic microbial resistance and is based on economic grounds rather than treatment of clinical infection.
--   The reported benefits of using antibiotics for growth promotion is low and ranges widely in the literature (1-10%). Concerns have been expressed that antimicrobial growth promoters are often used to compensate for poor hygiene/housing and healthy management.
--   The WHO has advocated for the termination of using antimicrobials for growth promotion. A recent [report from the ECDC](https://www.ecdc.europa.eu/sites/default/files/documents/JIACRA-III-Antimicrobial-Consumption-and-Resistance-in-Bacteria-from-Humans-and-Animals.pdf) has suggested some progress. Using surveillance data from 2017, the report found that the EU/EEA population mean antibiotic consumption in the 29 countries was 130 mg per kg of estimated biomass in humans and 108.3 mg per kg in food-producing animals. *This first time since the agencies began publishing the joint reports in 2011 that antibiotic use in humans has exceeded use in livestock.* Consumption of third- and fourth-generation cephalosporins, fluoroquinolones, and aminopenicillins was considerably higher in people, while consumption of macrolides was similar, and consumption of tetracyclines and polymyxins---a last-resort class of antibiotics that includes colistin---was significantly higher in food-producing animals.
--   In 2022, new [EU legislation](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R0006&from=EN) will prohibit all forms of routine antibiotic use in farming, including preventative group treatments and medicated feeding except in extraordinary circumstances.
+But we both ship a lot of websites for teaching data science.
 
-<Br>
+Here are just a few of them.
 
-<iframe src="https://ourworldindata.org/grapher/antibiotic-use-in-livestock" loading="lazy" style="width: 100%; height: 600px; border: 0px none;">
 
-</iframe>
+---
+class: freight-slide, center, middle, inverse
 
-Figure 5. Antibiotic use in livestock reported in 2010
+# .shadow-text[We ship a lot of websites.]
 
-### Impacts on Human AMR
+http://bit.ly/giraffe-stats
 
-#### Case study 1
+https://education.rstudio.com/
 
-Third generation cephalosporins (ceftotaxime, ceftriaxone) are widely used for serious infections in humans, including urinary tract, abdominal, lung and bloodstream infections and are classified as "critically-important" for human health (WHO AGISAR). Cetiofur, cefpodoxime, and cefoperazone are 2nd and 3rd generation cephalosporins approved for veterinary use and predominantly for treating bacterial infections in food-producing animals including chickens and cattle.
+https://bookdown.org/yihui/blogdown/
 
-Resistance to 3rd generation cephalosporins is mediated by extended-spectrum beta-lactamases (ESBLs) and AmpC. ESBL genes are highly mobile and transmitted on plasmids, transposons and other genetic elements horizontally (to surrounding bacteria) and vertically (to daughter cells). Resistance to 3rd generation cephalosporins is common among *Escherichia coli* and *Klebsiella pneumonia* requiring greater reliance on the few remaining classes of antimicrobials such as carbapenems.
+https://stat545.com/
 
-A number of studies comparing isolates from animals, food and human infections have found a high similarity in ESBL genes and plasmids, as well as similar clonal isolates [@LazarusEtAl2015].
+https://conf20-intro-ml.netlify.com/
 
-In some countries, ceftiofur was injected in small quantities to many thousands of hatching eggs or chicks intended for treated flocks. The main reason for this treatment is prophylaxis against *Escherichia coli* infections and/or yolk sac infections.This practice has been shown to select for cephalosporin resistance in *Salmonella enterica* serovar Heidelberg- an important cause of human illness in many countries that is typically associated with consumption of contaminated poultry products [@SmithEtAl2008a].
+https://summer-of-blogdown.netlify.com/
 
-<center>
+https://apreshill.github.io/data-vis-labs-2018/
 
-![Figure 6. Automatic egg injector, center](egg_injector.png "Figure 6. Automatic egg injector"){width="180"}
 
-</center>
+???
 
-Studies conducted by the Canadian Integrated Program for Antimicrobial Resistance Surveillance detected a high degree of temporal correlation in trends of resistance to ceftiofur (and ceftriaxone, a drug of choice for the treatment of severe cases of salmonellosis in children and pregnant women) among *Salmonella* Heidelberg from clinical infections in humans, from poultry samples collected at retail stores, and in *E. coli* from poultry samples collected at retail stores [@Canada2009]. Voluntary termination of this use of ceftiofur in hatcheries in the province of Quebec was followed by a precipitous drop in the prevalence of resistance to ceftiofur; subsequent reintroduction of ceftiofur in a more limited way was followed by a return to higher levels of resistance (Figure 7.)
+If you type the short link on the bottom right of this slide into your browser right now, you'll be able to follow along.
 
-<center>
+All of these links are clickable from the slides.
 
-![Figure 7. Ceftiofur resistance in chicken and human Salmonella Heidelberg and chicken E. coli.](Canada_ecoli.png "Figure 7. Ceftiofur resistance in chicken and human Salmonella Heidelberg and chicken E. coli."){width="600"}
+Each site was built using R Markdown, with different tools chosen depending on what we needed.
 
-</center>
+---
+template: clouds
 
-In Japan, voluntary withdrawal of the off-label use of ceftiofur in hatcheries in 2012 was also followed by a significant decrease in broad-spectrumcephalosporin resistance in *E. coli f*rom chicken prepared for cooking. Some other countries (e.g., Denmark) have also placed voluntary restrictions on its use. The label claim for day-old injection of poultry flocks was withdrawn in Europe, while some countries have banned off-label use of third-generation cephalosporins, and in other countries there is a requirementthat use be restricted to situations where no other effective approved drugs are available for treatment.
+# Who are you?
 
-The use of cephaloporin antibiotics that are considered critically important for both human and animal health and for which the main concerns for selection and spread of resistance from animals to humans derive from their use as mass medications in large numbers of animals. In this regard,there are parallels with fluoroquinolones, another class of critically important antimicrobials, to which resistance among *Campylobacter jejunii* isolates emerged following mass medication of poultry flocks [@EndtzEtAl1991].
+???
 
-#### Case study 2
+So that's us. Who are you?
 
-Colistin is a member of the polymixin class of antibiotics, which have been used in both human and veterinary medicine for over 50 years. Until relatively recently, polymixins were rarely used in humans because of dose-limiting neurotoxicity and nephrotoxicity except for topical therapy or inhalational therapy for adjunctive suppression of MDR *Pseudomonas aeruginosa* in patients with cystic fibrosis.
 
-Intravenous polymyxin is now increasingly used as a *drug of last resort* for carbapenem-resistant *Pseudomonas aeruginosa*, *Acinetobacter baumannii* and *Klebsiella pneumoniae.* However, colistin continued to be used in Brazil, Europe and China and administered orally in pigs, poultry and calves and for growth promotion in parts of Asia
+---
+class: middle, center
 
--   In 2014, colistin use in animals was higher than humans with a reported 485 tonnes- 99.7% in oral form or oral medicated feed [@EuropeanMedicinesAgency2016]. In China, with the world's largest production of pigs and poultry an estimated 12,000 tonnes of colistin was used in the food production industry [@LiuEtAl2016a].
--   (example of colistin stoppage in Vietman in chickens)
+<div class="flex" style="margin: 0 1em;">
+  <div class="column">
+    <h3> You're an educator <h3>
+    <img src="images/rawpixel/educator.jpg" style="width: 100%;">
+  </div>
+  
+???
 
-<center>
 
-![Figure 7. Chicken farm in the United States. Foto credit: The Guardian](chicken_farm.png "1. Chicken farm in the United States. Foto credit: The Guardian"){width="500"}
+Here's who we think you are...
 
-</center>
+You're an educator
+  
+--
 
-### Environmental concerns
+   <div class="column"style="margin: 0 1em;">
+    <h3> You've got lots of .Rmds </h3>
+    <img src="images/rmd-buddy.jpg" style="width: 100%;">
+  </div>
+  
 
-## International spread of AMR
+???
 
-<center>
+You have R Markdown files for teaching...
 
-![Figure 8. World airline route map 2014](worldairlineroute2014.png "Figure 8. World airline route map 2014"){width="800"}
 
-</center>
+---
+class: middle, center
 
-## References
+
+<div class="flex" style="margin: 0 1em;">
+  <div class="column">
+    <h3> You're an educator </h3>
+    <img src="images/rawpixel/educator.jpg" style="width: 100%;">
+  </div>
+  
+  <div class="column"style="margin: 0 1em;">
+    <h3> You've got lots of .Rmds </h3>
+    <img src="images/rmd-buddy-help.jpg" style="">
+  </div>
+  
+???
+
+
+But they're stuck on your computer, and you need to share them easily others with out filling up their inboxes.
+  
+--
+  <div class="column" style="margin: 0 1em;">
+    <h3> Your new classroom </h3>
+    <img src="images/internet.jpg"  style="">
+  </div>
+</div>
+
+???
+
+And--- you probably have a new classroom space that looks like this-- so sharing needs to be done 100% online
+
+---
+class: center
+background-image: url("images/rawpixel/lesson-time.jpg")
+background-size: contain
+background-color: #f6f6f6
+
+## You might feel like this right now.
+
+???
+
+And you might feel like this right now.
+
+Everything seems to need your attention,
+
+but you cannot do everything.
+
+---
+class: middle, center
+
+# Sharing on **short notice**
+
+???
+
+With that in mind, today we'll give you a quick tour of the...
+
+---
+class: middle, center
+background-image: url("images/short1.jpg")
+background-size: cover
+
+# Sharing on **short notice**
+
+???
+
+**R Markdown tools** you can use to get your course materials...
+
+---
+class: middle, center
+background-image: url("images/short2.jpg")
+background-size: cover
+
+# Sharing on **short notice**
+
+???
+
+**online**...
+
+---
+class: middle, center
+background-image: url("images/short3.jpg")
+background-size: cover
+
+# Sharing on **short notice**
+
+???
+
+on **short notice**.
+
+---
+class: middle, center
+background-image: url("images/rawpixel/inflation.jpg")
+background-size: contain
+background-color: #EBEAE6
+
+???
+
+So we'll show you how to build a course website to help you teach and reach learners using R Markdown, and friends. 
+
+Our goal is to give you a quick boost to help you get your site UP off the ground...
+
+---
+class: inverse, center
+background-image: url("images/rawpixel/blue-balloon.jpg")
+background-size: cover
+
+# This
+
+???
+
+with a shareable link so that you can get on with your teaching...
+
+---
+class: top center
+background-image: url("images/rawpixel/balloon-ouch.jpg")
+background-position: bottom center
+background-size: 40%
+
+# Not this
+
+???
+
+and hopefully avoid crashing in the process.
+
+---
+class: center, top
+
+
+## Why make a course website?
+
+
+```{r why-site, echo=FALSE}
+ knitr::include_graphics("images/rawpixel/fortress.jpg")
+```
+
+
+
+???
+
+Why make a course website at all?  
+
+I think of it as a way first to help me organize my own stuff -- 
+to get all my piles of teaching documents into some kind of order.
+
+That makes it more **reproducible** -- for myself and others.
+
+But it is also a way to make me more resilient --
+if I'm organized AND online I can be more nimble when changes need to happen.
+
+The side benefit of all this is that it is ALSO more **shareable**, so it makes it easier for learners too b/c they see what I see.
+
+Because we'll be building websites with R Markdown, we'll start by talking about a single file. Desiree - you're up! 
+
+---
+template: clouds
+
+# What does an .Rmd look like?
+
+???
+
+Jumping right in, what *does* an R Markdown file look like?
+
+---
+class: center, middle
+
+```{r single-rmd, echo=FALSE}
+knitr::include_graphics("images/screenshots/Rproj1.png")
+```
+
+???
+
+Here is an r project folder for a lab. 
+
+---
+class: center middle
+
+```{r echo=FALSE}
+knitr::include_graphics("images/screenshots/Rproj2.png")
+```
+
+
+???
+Inside that folder, you'll notice an RProj file. Opening that file in RStudio takes us...
+
+---
+background-image: url(images/screenshots/Single-rmd.png)
+background-size: contain
+class: middle, center
+
+???
+
+**here**, where we can see our single R Markdown file. This one is for a lab for visualizing data from the Museum of Modern Art.
+
+Let's quickly walk through some of the key parts of this file.
+
+---
+background-image: url(images/screenshots/Single-rmd0.png)
+background-size: contain
+class: middle, center
+
+???
+
+It starts with metadata, written in YAML, which is a list of keys on the left and their values on the right.
+
+---
+class: middle, center
+background-image: url(images/screenshots/Single-rmd1.png)
+background-size: contain
+
+???
+
+The first key you see is the TITLE, which is `Lab 02: MoMA Museum Tour`.
+
+---
+class: middle, center
+background-image: url(images/screenshots/Single-rmd2.png)
+background-size: contain
+
+???
+
+The last YAML section is all about output. Here the output is an html document.
+
+
+---
+class: middle, center
+background-image: url(images/screenshots/Single-rmd3.png)
+background-size: contain
+
+???
+
+Beneath that, we can add options to our html document -- for example, a table of contents, with the key TOC set to TRUE. 
+
+---
+class: middle, center
+background-image: url(images/screenshots/Single-rmd4.png)
+background-size: contain
+
+???
+
+So that's the metadata, but the real meat in your R Markdown file 
+is text written in markdown...
+
+
+---
+class: middle, center
+background-image: url(images/screenshots/Single-rmd5.png)
+background-size: contain
+
+
+???
+
+and your code, written in R.
+
+So these 3 things: metadata, text, and code make up an R Markdown document.
+
+---
+class: top center
+
+<video width="1530" height="610" controls>
+    <source src="images/single-doc-knit.mp4" type="video/mp4"> </video>
+
+???
+
+ALISON says:
+
+Of course, Desiree, the real magic happens, when you click on the Knit icon, and see your file turned into HTML. 
+
+So, here's what that looks like: 
+
+- We knit
+- We can watch in this bottom pane as our R Markdown document gets processed.
+- And voila! -- we see our rendered HTML file. 
+- We can choose to open this up in a real browser window.
+- And then just test a few things out. 
+
+---
+class: middle center
+background-image: url(images/screenshots/Single-knit1.png)
+background-size: contain
+
+???
+
+Here is what we knit. 
+
+--
+
+<img src="images/screenshots/Single-knit2.png" style="
+  position: absolute; 
+  width: 91%; 
+  top: -53px;
+  right: 5px;
+">
+
+???
+
+Using the `THEME:` key in our YAML, we changed our font and colors.
+
+--
+
+<img src="images/screenshots/Single-knit3.png" style="
+  position: absolute; 
+  width: 97%; 
+  top: -45px;
+  right: -51px;
+">
+
+???
+
+And we have this nice table of contents floating off to the side...
+
+--
+
+<img src="images/screenshots/Single-knit4.png" style="
+  position: absolute; 
+  width: 73%; 
+  bottom: 10px;
+  right: 80px;
+">
+
+???
+
+But this is still local and stuck on my computer. 
+
+A *link* would make it easier to share. 
+
+
+---
+template: clouds
+class: center, middle
+
+# How do we start .emphasis[sharing]?
+
+???
+
+So how do we start sharing?
+
+---
+background-image: url("images/Server.jpg")
+background-size: 80%
+background-position: bottom
+class: center, top
+
+# How do we start .emphasis[sharing]?
+
+???
+
+We need a **web server**...
+
+--
+<img src="https://github.com/nolistic.png" style="
+  position: absolute; 
+  width: 10%; 
+  top: 140px;
+  right: 60px;
+  border-radius: 50%;
+">
+
+???
+
+which is basically a big computer in the clouds
+
+hat/tip to Heather Nolis for that analogy.
+
+--
+<img src="images/Netlify.png" style="
+  position: absolute; 
+  width: 23%; 
+  top: 218px;
+  right: 301px;
+">
+
+???
+
+And for this webinar, we'll use servers provided by Netlify.
+
+
+---
+class: top center
+
+# How do we start .emphasis[sharing]?
+
+.pull-left[
+## Go here:
+#### [app.netlify.com/drop](https://app.netlify.com/drop)
+]
+
+.pull-right[
+<img src= "https://summer-of-blogdown.netlify.com/assets/netlify-drop.png" style="width: 85%;">
+]
+
+???
+
+We are going to drag and drop our project folder into Netlify and put our webpage online.
+
+So, Alison-- let's do our first drag and drop!
+
+
+---
+class: center, middle
+
+<video width="1200" height="625" controls>
+    <source src="images/single-doc-dnd.mp4" type="video/mp4">
+</video>
+
+???
+
+ALISON says:
+
+So, I open up my browser, and go to app.netlify.com/drop -- 
+
+and  drag n drop the folder in. 
+
+A few seconds later, Netlify has  auto-generated a silly-name link and deployed our page -- this link is where our Lab02 page now lives,  and you can share your page with whomever you choose --  
+
+BOTH: hooray!
+
+---
+class: center, middle
+background-image: url(images/Clouds.jpg)
+background-size: cover
+
+# What just happened?
+
+???
+
+What just happened?
+
+---
+background-image: url(images/what-happened/single-doc/Slide1.jpeg)
+class: middle center
+background-size: contain
+
+
+???
+
+**We started with an R Markdown file named index**
+
+We knit this to convert to an internet-ready HTML file
+
+It looked great, but still only lived locally in our R Project folder
+
+So then we dragged and dropped our folder
+
+Netlify deployed our page
+
+and generated a link! Woohoo!
+
+---
+background-image: url(images/what-happened/single-doc/Slide2.jpeg)
+class: middle center
+background-size: contain
+
+
+???
+
+We started with an R Markdown file named index
+
+**We knit this to convert to an internet-ready HTML file**
+
+It looked great, but still only lived locally in our R Project folder
+
+So then we dragged and dropped our folder
+
+Netlify deployed our page
+
+and generated a link! Woohoo!
+
+---
+background-image: url(images/what-happened/single-doc/Slide3.jpeg)
+class: middle center
+background-size: contain
+
+
+???
+
+We started with an R Markdown file named index
+
+We knit this to convert to an internet-ready HTML file
+
+**It looked great, but still only lived locally in our R Project folder**
+
+So then we dragged and dropped our folder
+
+Netlify deployed our page
+
+and generated a link! Woohoo!
+
+---
+background-image: url(images/what-happened/single-doc/Slide4.jpeg)
+class: middle center
+background-size: contain
+
+
+???
+
+We started with an R Markdown file named index
+
+We knit this to convert to an internet-ready HTML file
+
+It looked great, but still only lived locally in our R Project folder
+
+**So then we dragged and dropped our folder**
+
+Netlify deployed our page
+
+and generated a link! Woohoo!
+
+---
+background-image: url(images/what-happened/single-doc/Slide5.jpeg)
+class: middle center
+background-size: contain
+
+
+???
+
+We started with an R Markdown file named index
+
+We knit this to convert to an internet-ready HTML file
+
+It looked great, but still only lived locally in our R Project folder
+
+So then we dragged and dropped our folder
+
+**Netlify deployed our page**
+
+and generated a link! Woohoo!
+
+---
+background-image: url(images/what-happened/single-doc/Slide6.jpeg)
+class: middle center
+background-size: contain
+
+
+???
+
+We started with an R Markdown file named index
+
+We knit this to convert to an internet-ready HTML file
+
+It looked great, but still only lived locally in our R Project folder
+
+So then we dragged and dropped our folder
+
+Netlify deployed our page
+
+**and generated a link! Woohoo!**
+
+
+---
+background-image: url(images/rawpixel/single-balloon.jpg)
+background-size: contain
+background-position: left
+class: middle, center
+
+.pull-right[
+### But that is just one .Rmd file...
+]
+
+???
+
+But that is just one R Markdown file...
+
+
+---
+background-image: url(images/rawpixel/bunch-balloons.jpg)
+background-size: contain
+background-position: right
+class: middle, center
+
+.pull-left[
+### We want to share many .Rmd files!
+]
+
+
+???
+
+We want to share many R Markdown files!
+
+---
+background-image: url(images/mtsalsa0.jpg)
+background-position: bottom center
+background-size: contain
+class: top, center
+
+## So where are we going?
+
+???
+
+So we're going to hike Markdown mountain today...
+
+---
+background-image: url(images/mtsalsa.jpg)
+background-position: bottom center
+background-size: contain
+class: top, center
+
+## So where are we going?
+
+???
+
+And our goal for the rest of this webinar is to show you 4 R Markdown tools that are for turning a *COLLECTION* of RMDs into a web*site*.
+
+
+---
+name: default_site
+class:  top, center
+background-image: url(images/mtsalsa-rmd.jpg)
+background-size: contain
+background-position: center, bottom
+
+# `install.packages("rmarkdown")`
+
+???
+
+So let's begin with an R Markdown site.
+
+To make one, you only need the `rmarkdown` package installed, which is already done for you if you use RStudio.
+
+---
+template: clouds2
+class: center, top
+
+<https://apreshill.github.io/data-vis-labs-2018>
+
+<img src= "images/screenshots/RMD-site-wild.png" style="margin-top: -20px;">
+
+???
+
+Here is an R Markdown site for a course about data visualization. Actually, the MoMA lab we just turned into a webpage was one of the labs from this course.
+
+Now this course website is a place to share **all** of the labs.
+
+The biggest addition here is this top navigation bar...
+
+--
+
+<img src="images/Circle-nav.png" style="
+  position: absolute; 
+  width: 16%; 
+  top: 126px;
+  left: 253px;
+">
+
+???
+
+which allows us to link to other webpages...
+
+
+
+---
+template: clouds2
+class: center middle
+
+<https://apreshill.github.io/data-vis-labs-2018>
+
+
+<img src= "images/screenshots/RMD-site-wild.png" style="width: 110%; margin-top: -20px; visibility: hidden;">
+
+
+<img src= "images/screenshots/RMD-site-wild1.png" 
+  style="
+    position: absolute; 
+    width: 103%; 
+    top: 2px;
+    left: -1px;
+  ">
+
+???
+
+including ones made with R Markdown, like this page with slides and readings...
+    
+---
+template: clouds2
+class: center middle
+
+<https://apreshill.github.io/data-vis-labs-2018>
+
+<img src= "images/screenshots/RMD-site-wild.png" style="width: 110%; margin-top: -20px; visibility: hidden;">
+
+
+<img src= "images/screenshots/RMD-site-wild2.png" 
+  style="
+    position: absolute; 
+    width: 103%; 
+    top: 2px;
+    left: -1px;
+  ">
+
+
+???
+
+Or other websites, like this one here which goes to a learning management system.
+
+---
+name: build1
+
+## Build your site
+
+.pull-left[
+
+```{r eval=FALSE}
+.
+├── rstats101.Rproj #<<
+├── _site.yml
+├── index.Rmd 
+├── schedule.Rmd 
+├── lab01.Rmd
+└── lab02.Rmd
+```
+]
+
+.pull-right[
+```{r echo=FALSE}
+knitr::include_graphics("images/rproj.png")
+```
+
+]
+???
+
+So let's build a minimal R Markdown site of our own. 
+
+Imagine that this box on the left is the list of files that are inside of our R Project folder. 
+
+---
+name: build5
+
+## Build your site
+
+.left-column[
+
+```{r eval=FALSE}
+.
+├── rstats101.Rproj
+├── _site.yml 
+├── index.Rmd 
+├── schedule.Rmd 
+├── lab01.Rmd 
+└── lab02.Rmd 
+```
+]
+
+.right-column[
+<img src="images/screenshots/build-site.png" style="margin-top: -28px;">
+]
+
+???
+
+To knit all these pages in our R Markdown site, you can mouse over to the Build Tab in RStudio and then click "Build Website".
+
+---
+name: build6
+
+## Build your site
+
+.left-column[
+
+```{r eval=FALSE}
+.
+├── rstats101.Rproj
+├── _site/ #<<
+├── _site.yml 
+├── index.Rmd 
+├── schedule.Rmd 
+├── lab01.Rmd 
+└── lab02.Rmd 
+```
+]
+
+.right-column[
+<img src="images/screenshots/build-site.png" style="margin-top: -28px;">
+]
+
+???
+
+Now you can see that it created a new folder called `_site`- that is where our html files live.
+
+
+---
+template: clouds2
+class: center top
+
+![](images/screenshots/RMD-site.png)
+
+???
+
+Here is the site we just built. We have a navbar, a theme -- and even a dropdown menu!
+
+Let's look under the hood at some of these files.
+
+---
+background-image: url("images/rawpixel/bunch-balloons-rmd1.jpg")
+background-position: right
+background-size: contain
+
+## .hidden[Inside the `index.Rmd`]
+
+.left-column[
+
+```{r eval=FALSE}
+.
+├── rstats101.Rproj
+├── _site/ 
+├── _site.yml
+├── index.Rmd #<<
+├── schedule.Rmd 
+├── lab01.Rmd
+└── lab02.Rmd
+```
+]
+
+???
+
+Let's start with index.Rmd. 
+
+Index is a special file name in any website- because it is the homepage.  
+
+So if each of our R Markdown files in our site was a hot air balloon here, `index` would be the first you would see. 
+
+---
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+
+## Inside the `index.Rmd`
+
+.left-column[
+```{r eval=FALSE}
+.
+├── rstats101.Rproj
+├── _site/ 
+├── _site.yml
+├── index.Rmd #<<
+├── schedule.Rmd 
+├── lab01.Rmd
+└── lab02.Rmd
+```
+]
+
+.right-column[
+```
+---
+title: "rstats 101"
+---
+
+# Welcome to the course!
+
+This is the course website...
+```
+]
+
+
+???
+
+If we take a peek inside index.Rmd, we don't see anything special-
+
+in fact, you can take *any* existing R Markdown document that you already have, rename it `index`, and turn it into your site's homepage.
+
+
+
+---
+background-image: url("images/rawpixel/bunch-balloons-rmd2.jpg")
+background-position: right
+background-size: contain
+
+
+## .hidden[Inside the `_site.yml`]
+
+.left-column[
+```{r eval=FALSE}
+.
+├── rstats101.Rproj
+├── _site/ 
+├── _site.yml #<<
+├── index.Rmd 
+├── schedule.Rmd 
+├── lab01.Rmd
+└── lab02.Rmd
+```
+]
+
+???
+
+The `_site.yml` is new. 
+
+This is the file that ties all the pages together.
+
+It is called the site configuration file, written in YAML.
+
+Let's take a look inside...
+
+---
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+
+## Inside the `_site.yml`
+
+.left-column1[
+
+```{r echo=FALSE}
+yml_empty() %>%
+  yml_navbar(
+    title = "rstats101",
+    left = list(
+      navbar_page("Schedule", href = "schedule.html"),
+      navbar_page("Labs", 
+                  menu = list(
+                    navbar_page("Lab 1", href = "lab01.html"),
+                    navbar_page("Lab 2", href = "lab02.html")
+                    )
+                  )
+      )) %>% 
+  yml_output(html_document(theme = "flatly")) %>% 
+  asis_yaml_output(fences = FALSE)
+```
+]
+
+.right-column1[
+```{r, echo=FALSE}
+knitr::include_graphics("images/screenshots/RMD-site.png")
+```
+]
+
+
+???
+
+The first thing you may notice is this is a YAML file, so there are no fences, but it is a list of keys and values.
+
+The first key is `navbar:`, and this is how you build your site's navigation.
+
+--
+<img src="images/screenshots/RMD-site-title.png" style="
+  position: absolute;
+  width: 64%;
+  top: 135px;
+  right: 6px;">
+  
+???
+there is key for the title... 
+
+--
+
+<img src="images/screenshots/RMD-site-left.png" style="
+  position: absolute;
+  width: 64%;
+  top: 135px;
+  right: 6px;">
+
+???
+
+Whether we want links on the left or right... 
+
+--
+
+<img src="images/screenshots/RMD-site-menu.png" style="
+  position: absolute;
+  width:64%;
+  top: 135px;
+  right: 6px;">
+
+???
+
+And if we want links listed in a dropdown menu, we can do that too... 
+
+--
+
+???
+
+For all the pages you link to in your navbar, the `href:` needs to point to an .html file, even though the source may be R Markdown.
+
+Finally, we set up a theme that applies to the navbar and all pages.
+
+---
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+
+## Inside the `_site.yml`
+
+.left-column1[
+
+```{r eval=FALSE}
+navbar:
+  title: rstats101
+  left:
+  - text: Schedule
+    href: schedule.html #<<
+  - text: Labs
+    menu:
+    - text: Lab 1
+      href: lab01.html #<<
+    - text: Lab 2
+      href: lab02.html #<<
+output:
+  html_document:
+    theme: flatly
+```
+]
+
+.right-column1[
+```{r, echo=FALSE}
+knitr::include_graphics("images/screenshots/RMD-site.png")
+```
+]
+
+<img src="images/screenshots/RMD-site-title.png" style="
+  position: absolute;
+  width: 64%;
+  top: 135px;
+  right: 6px;">
+
+<img src="images/screenshots/RMD-site-left.png" style="
+  position: absolute;
+  width: 64%;
+  top: 135px;
+  right: 6px;">
+
+<img src="images/screenshots/RMD-site-menu.png" style="
+  position: absolute;
+  width:64%;
+  top: 135px;
+  right: 6px;">
+
+???
+
+For all the pages you link to in your navbar, the `href:` needs to point to an .html file, even though the source may be R Markdown.
+---
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+
+## Inside the `_site.yml`
+
+.left-column1[
+
+```{r eval=FALSE}
+navbar:
+  title: rstats101
+  left:
+  - text: Schedule
+    href: schedule.html
+  - text: Labs
+    menu:
+    - text: Lab 1
+      href: lab01.html
+    - text: Lab 2
+      href: lab02.html
+output:
+  html_document:
+    theme: flatly #<<
+```
+]
+
+.right-column1[
+```{r, echo=FALSE}
+knitr::include_graphics("images/screenshots/RMD-site.png")
+```
+]
+
+<img src="images/screenshots/RMD-site-title.png" style="
+  position: absolute;
+  width: 64%;
+  top: 135px;
+  right: 6px;">
+
+<img src="images/screenshots/RMD-site-left.png" style="
+  position: absolute;
+  width: 64%;
+  top: 135px;
+  right: 6px;">
+
+<img src="images/screenshots/RMD-site-menu.png" style="
+  position: absolute;
+  width:64%;
+  top: 135px;
+  right: 6px;">
+
+
+???
+
+Finally, we set up a theme that applies to the navbar and all pages.
+
+---
+background-image: url("images/rawpixel/bunch-balloons-rmd3.jpg")
+background-position: right
+background-size: contain
+
+## .hidden[Other `.Rmd`s]
+.left-column[
+
+```{r eval=FALSE}
+.
+├── rstats101.Rproj
+├── _site/ 
+├── _site.yml 
+├── index.Rmd 
+├── schedule.Rmd #<<
+├── lab01.Rmd #<<
+└── lab02.Rmd #<<
+```
+]
+
+???
+
+As for the other R Markdown pages, there is nothing special about them. 
+
+As long as you link to a page in `_site.yml`, you can take any existing R Markdown file and turn it into a page within a website.
+
+---
+class: middle, center
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+
+![](images/screenshots/Lab1.png)
+
+???
+
+quiz Alison, what do you think the YAML for this lab page looks like??
+
+---
+class: middle, center
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+
+![](images/screenshots/Lab1-annotated.png)
+
+???
+
+Answer:
+
+toc
+toc_float
+and code download
+
+---
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+
+## Inside a page
+
+.left-column[
+```{r eval=FALSE}
+.
+├── rstats101.Rproj
+├── _site/ 
+├── _site.yml 
+├── index.Rmd 
+├── schedule.Rmd 
+├── lab01.Rmd #<<
+└── lab02.Rmd
+```
+]
+
+.right-column[
+```{r echo=FALSE}
+ yml_empty() %>%
+  yml_output(html_document(toc = TRUE, toc_float = TRUE, code_download = TRUE)) %>% 
+  asis_yaml_output()
+```
+
+```
+# Lab One
+
+In our first week together, 
+we'll cover the syllabus 
+and how to use Zoom.
+
+```
+]
+
+???
+
+Good job, Alison!
+
+That is exactly what we see. You can set the YAML for each page if you want.
+
+If you wanted these output options on every page in your site, we could have added these to the `_site.yml` instead.
+
+
+---
+background-image: url("images/rawpixel/bunch-balloons-rmd4.jpg")
+background-position: right
+background-size: contain
+
+## Sharing your site
+
+.left-column[
+
+```{r eval=FALSE}
+.
+├── rstats101.Rproj
+├── _site/ #<<
+├── _site.yml 
+├── index.Rmd 
+├── schedule.Rmd 
+├── lab01.Rmd 
+└── lab02.Rmd
+```
+]
+
+???
+
+Okay, we're finally, ready to share our R Markdown site -- we'll do this the same way as before. All of our HTML, website-ready pages are stored in the _site/ folder. So This this is the only folder, we need to ddrag and drop 
+
+---
+class: middle, center
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+
+<video width="1316" height="630" controls>
+    <source src="images/rmd-site-dnd.mp4" type="video/mp4">
+</video>
+
+???
+
+And we will drop that folder back into netlify to make our site. 
+
+---
+class: left
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+
+# But...
+
+.left-column[
+![](https://media.giphy.com/media/3orif5e8QhgoL9TvmU/giphy.gif)
+]
+
+.right-column[
+
+<img src="images/screenshots/24hrs.png" style="margin-top: -28px;">
+
+]
+
+???
+
+But you may have noticed...
+
+unclaimed sites are deleted after 24 hours. We have to create an account with Netlify to keep our site online permanently.
+
+So let's go back to Netlify and do that. 
+
+---
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+class: middle center
+
+<video width="1510" height="638" controls>
+    <source src="images/netlify-account.mp4" type="video/mp4">
+</video>
+
+???
+
+ALISON
+
+If you already use GitHub or BitBucket, then I recommend you use that to sign in becuase you're workflow will be smoother if your accounts are connected. But for today, I'm just going to sign up with email...
+
+Once you've signed up, you'll see you have an account dashboard. And your silly-named link is now here to stay. 
+
+
+---
+template: clouds
+
+# What if I make a change?
+
+---
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+
+## What if I make a change?
+
+.left-column1[
+```{r eval=FALSE}
+navbar:
+  title: rstats101
+  left:
+  - text: Schedule
+    href: schedule.html
+  - text: Labs
+    menu:
+    - text: Lab 1
+      href: lab01.html
+    - text: Lab 2
+      href: lab02.html
+output:
+  html_document:
+    theme: united #<<
+```
+]
+
+
+.right-column1[
+<img src="images/screenshots/build-site.png" style="margin-top: -28px;">
+]
+
+???
+
+Let's say I want to use the united theme, instead of flatly.
+
+I change that in my site yaml, re-build my site, then...
+
+---
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+class: center, middle
+
+<video width="1560" height="620" controls>
+    <source src="images/netlify-update.mp4" type="video/mp4">
+</video>
+
+???
+
+ALISON
+
+Once we've re-built our site wiith the changes we want. We'll go back to our _site/ folder. 
+
+In netlify, we can make sure we are in the "deploy" tab of our dashboard -- and there's a spot specifically for updating. WE can drag and drop again here. 
+
+We click on the link--and see our new theme has been applied.
+
+---
+template: clouds
+
+# Thoughts on R Markdown Sites
+
+???
+
+You now you know how to build and update R Markdown sites...
+
+---
+class: middle
+background-image: url(images/rawpixel/balloon-ouch.jpg)
+background-position: left
+background-size: contain
+
+.pull-right[
+### The good
+
+* Source stays same
+
+* Built-in themes
+
+### The bad
+
+* No Subfolders
+
+]
+
+???
+
+Some great thing about R Markdown sites:
+
+You don't have to change much from your original docs. 
+You get to use built in themes
+
+One not to great thing is that you can't use subfolders -- which means you can end up with a lot of files in your directory. That can get messy, but that's how it is.
+
+
+With those points in mind, let's move on to our next tool.
+
+
+---
+name: distill
+class:  top, center
+background-image: url(images/mtsalsa-distill.jpg)
+background-size: contain
+background-position: center, bottom
+
+# `install.packages("distill")`
+
+???
+
+Our next stop on Markdown Mountain is Distill, which you'll need to install before you can use it. 
+
+---
+class: middle, center
+template: clouds2
+
+<https://rstudio.github.io/distill/>
+
+<video width="1094" height="600" controls>
+    <source src="images/distill-tour.mp4" type="video/mp4"> </video>
+
+???
+
+This is a distill website.
+
+The style is not easy to change without CSS, but it looks pretty slick out-of-the-box.
+
+Think of distill as the nerdier sibling of an R Markdown site- it is built for technical and scientific communication. 
+
+For example...
+
+---
+class: middle, center
+template: clouds2
+
+<https://rstudio.github.io/distill/>
+<img src="images/screenshots/distill-authors.png" style="margin-top: -28px;">
+
+???
+
+There's a way to list multiple authors and their affiliations...
+
+---
+class: middle, center
+template: clouds2
+
+<https://rstudio.github.io/distill/>
+<img src="images/screenshots/distill-aside.png" style="margin-top: -28px;">
+
+???
+
+You can include footers and asides...
+
+---
+class: middle, center
+template: clouds2
+
+<https://rstudio.github.io/distill/>
+<img src="images/screenshots/distill-reuse.png" style="margin-top: -28px;">
+
+???
+
+And you can display reuse licenses for your educational content.
+
+---
+## Build your site
+
+.left-column[
+
+```{r eval=FALSE}
+.
+├── DataViz.Rproj
+├── _site/ #<<
+├── _site.yml 
+├── index.Rmd 
+├── lab01.Rmd
+├── lab02.Rmd 
+└── project.Rmd
+
+```
+]
+
+.right-column[
+<img src="images/screenshots/build-distill.png" style="margin-top: -28px;">
+]
+
+
+???
+
+So now let's build a minimal Distill site of our own. 
+
+Just like we did with the R Markdown site, we use the build tab to knit all our files at once.
+
+This creates a `_site` folder for our HTML files.
+
+---
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+
+![](images/screenshots/min-distill.png)
+--
+
+<img src="images/screenshots/min-distill0.png" style="
+  position: absolute; 
+  width: 100%; 
+  top: 0px;
+  left: 0px;
+">
+
+--
+<img src="images/screenshots/min-distill1.png" style="
+  position: absolute; 
+  width: 100%; 
+  top: 0px;
+  left: 0px;
+">
+
+--
+
+<img src="images/screenshots/min-distill2.png" style="
+  position: absolute; 
+  width: 100%; 
+  top: 0px;
+  right: 70px;
+">
+
+
+???
+
+Quick things to notice -- let's look inside.
+
+---
+class: middle
+background-image: url("images/rawpixel/bunch-balloons-rmd1.jpg")
+background-position: right
+background-size: contain
+
+
+.left-column[
+```{r eval=FALSE}
+.
+├── DataViz.Rproj
+├── _site/
+├── _site.yml 
+├── index.Rmd #<<
+├── lab01.Rmd
+├── lab02.Rmd 
+└── project.Rmd 
+```
+]
+
+???
+
+The index page in a distill site will work just the same as in an R Markdown site. 
+
+It will be the site's home page. 
+
+Any existing R Markdown document you have will do.
+
+But there is one addition we make inside of this file. 
+
+---
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+## Inside the `index.Rmd`
+
+.left-column[
+```{r eval=FALSE}
+.
+├── DataViz.Rproj
+├── _site/
+├── _site.yml 
+├── index.Rmd #<<
+├── lab01.Rmd
+├── lab02.Rmd 
+└── project.Rmd 
+```
+]
+
+.right-column[
+```{r eval=FALSE}
+---
+title: Intro to Data Visualization
+description: Spring 2020 Course Website
+author:
+  - name: Alison Hill
+    affiliation: RStudio
+  - name: Desirée De Leon
+    affiliation: Teacup Giraffes, Inc.
+site: distill::distill_website #<<
+---
+
+# Welcome to the course!
+```
+]
+
+
+???
+
+`site: distill::distill_website` should be added to the YAML.
+
+Including a title and short description is nice too. 
+
+[*note*: `site: distill::website` is only necessary if you wanna make the blog later]
+
+---
+background-image: url(images/rawpixel/bunch-balloons-rmd2.jpg)
+background-position: right
+background-size: contain
+
+## .hidden[Inside the `_site.yml`]
+
+.left-column[
+```{r eval=FALSE}
+.
+├── DataViz.Rproj
+├── _site/
+├── _site.yml #<<
+├── index.Rmd
+├── lab01.Rmd
+├── lab02.Rmd 
+└── project.Rmd 
+```
+
+]
+
+???
+
+Next we move on to the `_site.yml` page. 
+It's still for site configuration. This should sound a bit familiar...
+
+---
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+## Inside the `_site.yml`
+
+.left-column[
+```{r eval=FALSE}
+.
+├── DataViz.Rproj
+├── _site/
+├── _site.yml #<<
+├── index.Rmd
+├── lab01.Rmd
+├── lab02.Rmd 
+└── project.Rmd 
+```
+
+]
+
+.right-column[
+
+```{r eval = FALSE}
+title: DataViz 
+navbar:
+  right:
+    - text: Labs
+      menu:
+      - text: Lab 1
+        href: lab01.html
+      - text: Lab 2
+        href: lab02.html
+    - text: Project
+      href: project.html
+output: distill::distill_article #<<
+```
+]
+
+
+???
+
+The YAML navbar keys here are all similar to what we used in an R Markdown site, with one important change:
+
+The output **must** specify that this is a Distill article.
+
+---
+background-image: url(images/Whisper.jpg)
+background-size: contain
+
+<div class="word-bubble" style="
+  position: absolute; 
+  text-align: center;
+  width: 50%; 
+  top: 100px;
+  left: 310px;
+  font-size: 1.3em;
+"> Alas, I have kept one important thing <br> from you about Distill websites. </div>
+
+???
+
+And.. there is one more thing I need to tell you.
+
+---
+template: clouds
+class: center middle
+
+#  A Distill Blog
+
+???
+
+Part of your Distill site can be in a blog format!
+
+---
+class: middle, center
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+
+<img src="https://rstudio.github.io/distill/images/site-listing.png" style="width: 80%;">
+
+???
+
+You can have a single page made up of clickable posts, like this.
+Each post is itself its own page, and it doesn't need to be built into the navigation bar.  
+
+---
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+
+## Add a listing page
+
+.left-column[
+```{r eval=FALSE}
+.
+├── DataViz101.Rproj
+├── _site/
+├── _site.yml
+├── index.Rmd
+├── lab1.Rmd 
+├── lab2.Rmd 
+├── project.Rmd 
+└── schedule.Rmd #<<
+
+```
+
+]
+
+.right-column[
+```
+---
+title: Schedule
+listing: posts
+---
+```
+]
+
+???
+
+Instead, we create a listing page -- an R Markdown document whose only job is to have a title and a listing YAML key and value.
+
+We'll call our "schedule".
+
+---
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+
+## Update the `_site.yml`
+
+.left-column[
+```{r eval=FALSE}
+.
+├── DataViz101.Rproj
+├── _site/
+├── _site.yml #<<
+├── index.Rmd
+├── lab1.Rmd 
+├── lab2.Rmd 
+├── project.Rmd 
+└── schedule.Rmd
+```
+
+]
+
+.right-column[
+```{r eval = FALSE}
+title: Data Viz
+navbar:
+  right:
+    - text: Labs
+      menu: 
+      - text: Lab 1
+        href: lab01.html
+      - text: Lab 2
+        href: lab02.html
+    - text: Project
+      menu: project.html
+    - text: Schedule #<<
+      menu: schedule.html #<<
+output: distill::distill_article
+```
+]
+
+???
+
+Then, we link our listing page to navigation bar.
+
+Now we are ready to make some posts.
+
+---
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+
+## Create a post
+
+.pull-left[
+```{r eval=FALSE}
+.
+├── DataViz.Rproj
+├── _site/
+├── _site.yml
+├── index.Rmd
+├── Project1.Rmd 
+├── Project2.Rmd
+└── _posts/ #<<
+```
+]
+
+.pull-right[
+```{r, eval = FALSE}
+distill::create_post("Week1")
+```
+]
+
+???
+
+In your console, run the `distill::create_post( )` function, and give your post a title in quotes. 
+
+This will make a new folder called `posts/`, a sub-directory for your new post, and it will open up a new R Markdown file for you to edit.
+
+You can rinse and repeat -- creating as many new posts as you'd like. 
+
+Let's look inside one.
+
+---
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+
+## Inside a post
+
+.left-column[
+```{r eval=FALSE}
+_posts/ 
+├── Week1/ #<<
+  └── Week1.Rmd #<<
+├── Week2/
+└── Week3/
+```
+]
+
+.right-column[
+```
+---
+title: Week 1
+date: 03-24-2020
+output: distill::distill_article
+---
+
+During our first week we will 
+make our first plots with `ggplot2`.
+```
+]
+
+???
+
+(You can see on the left what I mean by the sub-directory for your post.)
+
+On the right, we see the YAML of your new post will be automatically populated with the appropriate keys, but you can edit them if you'd like.
+
+Now you can paste in the body content of any existing R Markdown file into your post, **knit**, and you'll be good to go. 
+
+Unfortunately, each posts **does** have to be knit individually.
+
+---
+## Build once more
+
+.left-column[
+
+```{r eval=FALSE}
+.
+├── DataViz.Rproj
+├── _site/ #<<
+├── _site.yml 
+├── index.Rmd 
+├── lab01.Rmd
+├── lab02.Rmd 
+└── project.Rmd
+
+```
+]
+
+.right-column[
+<img src="images/screenshots/build-distill.png" style="margin-top: -28px;">
+]
+
+???
+
+Finally, you'll need to build once more, so that the listing page will be updated with the new posts.
+
+---
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+class: middle center
+
+## A minimal "blog" page
+
+![](images/screenshots/distill-min-blog.png)
+
+???
+
+Here's what this "blog page" looks like when it's rendered.
+
+Which means that we're now about done with Distill and...
+
+---
+class: center
+
+## Sharing your site
+
+```{r echo=FALSE}
+knitr::include_graphics("images/screenshots/drop-distill.png")
+```
+
+
+???
+and we're ready to share using the ol' drag n drop. 
+So, we'll use the `_site` folder just like we did with RMD sites. 
+
+
+---
+class: middle
+background-image: url(images/rawpixel/balloon-ouch.jpg)
+background-position: left
+background-size: contain
+
+.pull-right[
+
+### The good
+
+* Nice features out-of-the-box
+
+* 2 content flavors
+
+### The bad
+
+* Knit posts one-by-one (but no manual adding to menus!)
+
+]
+
+???
+
+With that, we've now covered the first two R Markdown tools. 
+
+
+---
+name: bookdown
+class:  top, center
+background-image: url(images/mtsalsa-book.jpg)
+background-size: contain
+background-position: center, bottom
+
+
+# `install.packages("bookdown")`
+
+
+???
+
+Now, Alison will be our guide for the rest of our ascent up markdown mountain.
+
+ALISON:
+
+Thank you Desiree! We'll start with bookdown, which is an additional package that you need to install before using it.
+
+---
+background-image: url("images/rawpixel/writing-machine.jpg")
+background-size: contain
+background-position: right
+class: middle
+
+# Online book with...
+
+???
+
+So as the name of the package suggests, bookdown is a way to build books with R Markdown. 
+
+You can use it to build an online book with a...
+
+--
+
++ Table of contents
+
+???
+
+table of contents
+
+--
+
++ Chapters
+
+???
+
+Multiple chapters, in fact as many as you want!
+
+--
+
++ Bells & whistles
+
+
+???
+
+and lots of bells and whistles that we can't cover today.
+
+
+---
+class: middle, center
+template: clouds2
+
+<https://bookdown.org/yihui/bookdown/>
+
+<iframe src="https://bookdown.org/yihui/bookdown/" height="600" width="1200" frameborder="0"></iframe> 
+
+???
+
+They are all covered in the bookdown book, which you can see here.
+
+It's also a bookdown book itself!
+
+You can see that instead of using a top navbar, this format gives me a way to navigate the book using a very long but scrollable table of contents in this left sidebar.
+
+Each chapter is an R Markdown file, which when I click on it, shows up in the right pane.
+
+Bookdown also comes with search built-in.
+
+---
+template: clouds2
+
+![](images/screenshots/min-bookdown.png)
+
+
+???
+
+Here is a much shorter bookdown book, which I'll use now to give you a quick tour.
+
+It has 3 labs from a course I taught on data visualization.
+
+---
+## Build your book
+
+.left-column1[
+
+```{r eval=FALSE}
+.
+├── 01-hotdogs.Rmd
+├── 02-moma.Rmd
+├── 03-meow.Rmd
+├── _bookdown.yml
+├── dataviz-book.Rproj
+├── images/
+├── index.Rmd 
+└── _book/ #<<
+```
+]
+
+.right-column1[
+<img src="images/screenshots/build-bookdown.png" style="margin-top: -28px;">
+]
+
+???
+
+The files in this project are on the left.
+
+To make the book from these files, we click on the build book button in the top right pane.
+
+This creates a new folder called `_book`, which is where our book now lives.
+
+Let's look at some of the other files...
+
+---
+background-image: url("images/rawpixel/bunch-balloons-book1.jpg")
+background-position: right
+background-size: contain
+
+## .hidden[Inside the `index.Rmd`]
+
+.left-column1[
+
+```{r eval=FALSE}
+.
+├── 01-hotdogs.Rmd
+├── 02-moma.Rmd
+├── 03-meow.Rmd
+├── _bookdown.yml
+├── dataviz-book.Rproj
+├── images/
+├── index.Rmd #<<
+└── _book/ 
+```
+]
+
+???
+
+The index.Rmd file turns into the first chapter. 
+
+---
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+
+## Inside the `index.Rmd`
+
+.left-column1[
+
+```{r eval=FALSE}
+.
+├── 01-hotdogs.Rmd
+├── 02-moma.Rmd
+├── 03-meow.Rmd
+├── _bookdown.yml
+├── dataviz-book.Rproj
+├── images/
+├── index.Rmd #<<
+└── _book/ 
+```
+]
+
+.right-column1[
+
+```{r echo=FALSE, comment='#'}
+# x <- as_yml("knit: bookdown::render_book")
+yml_empty() %>%
+  yml_title("Principles & Practice of Data Visualization") %>%
+  yml_subtitle("Spring 2020") %>% 
+  yml_author("Alison Hill") %>%
+  yml_bookdown_site() %>% 
+  yml_output(bookdown::gitbook()) %>% 
+  # yml_toplevel(x) %>% 
+  asis_yaml_output()
+cat("Welcome {-}")
+```
+
+]
+
+???
+
+If we peek inside, we see some familiar YAML at the top, like a title and author.
+
+We also have 2 new YAML keys: `site` and `output`. Both are necessary for building an HTML book.
+
+Then the rest of that file can be a regular R Markdown file.
+
+---
+background-image: url("images/rawpixel/bunch-balloons-book2.jpg")
+background-position: right
+background-size: contain
+
+## .hidden[Inside the `_bookdown.yml`]
+
+.left-column1[
+```{r eval=FALSE}
+.
+├── 01-hotdogs.Rmd
+├── 02-moma.Rmd
+├── 03-meow.Rmd
+├── _bookdown.yml #<<
+├── dataviz-book.Rproj
+├── images/
+├── index.Rmd 
+└── _book/ 
+```
+]
+
+???
+
+Like with our other sites, we have a separate yaml file too.
+
+This one is named `_bookdown.yml`, and it works with the index.Rmd file to tie all our chapters together.
+
+---
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+
+## Inside the `_bookdown.yml`
+
+.left-column1[
+```{r eval=FALSE}
+.
+├── 01-hotdogs.Rmd
+├── 02-moma.Rmd
+├── 03-meow.Rmd
+├── _bookdown.yml #<<
+├── dataviz-book.Rproj
+├── images/
+├── index.Rmd 
+└── _book/
+```
+]
+
+.right-column1[
+```{r echo=FALSE}
+yml_empty() %>%
+  yml_bookdown_opts(new_session = TRUE) %>% 
+  asis_yaml_output(fences = FALSE)
+```
+]
+
+???
+
+I recommend using this file to set at least one new key: new session as true.
+
+This makes sure that each chapter is knit in separate R sessions.
+
+You might notice that my chapter files right now are named with numbers as prefixes...
+
+---
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+
+## Inside the `_bookdown.yml`
+
+.left-column1[
+```{r eval=FALSE}
+.
+├── hotdogs.Rmd
+├── moma.Rmd
+├── meow.Rmd
+├── _bookdown.yml #<<
+├── dataviz-book.Rproj
+├── images/
+├── index.Rmd 
+└── _book/
+```
+]
+
+.right-column1[
+```{r echo=FALSE}
+yml_empty() %>%
+  yml_bookdown_opts(
+    new_session = TRUE,
+    rmd_files = c("index.Rmd", "hotdogs.Rmd", "moma.Rmd", "meow.Rmd")
+    ) %>% 
+  asis_yaml_output(fences = FALSE)
+```
+]
+
+???
+
+If you don't want them numbered, you can use this yaml file to specify the order of the rmd chapters by filename instead.
+
+---
+background-image: url("images/rawpixel/bunch-balloons-book3.jpg")
+background-position: right
+background-size: contain
+
+## Inside the chapters
+
+.left-column1[
+
+```{r eval=FALSE}
+.
+├── 01-hotdogs.Rmd #<<
+├── 02-moma.Rmd #<<
+├── 03-meow.Rmd #<<
+├── _bookdown.yml 
+├── dataviz-book.Rproj
+├── images/
+├── index.Rmd 
+└── _book/ 
+```
+]
+
+???
+
+The chapters themselves are each separate R markdown files. With one major change...
+
+---
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+
+## Inside one chapter
+
+.left-column1[
+
+```{r eval=FALSE}
+.
+├── 01-hotdogs.Rmd 
+├── 02-moma.Rmd #<<
+├── 03-meow.Rmd 
+├── _bookdown.yml 
+├── dataviz-book.Rproj
+├── images/
+├── index.Rmd 
+└── _book/ 
+```
+]
+
+.right-column1[
+
+```
+# MoMA Museum Tour 
+
+We’ll use data from the Museum of 
+Modern Art (MoMA), 
+publicly available on GitHub 
+and as analyzed by [fivethirtyeight.com](https://fivethirtyeight.com/features/a-nerds-guide-to-the-2229-paintings-at-moma/).
+```
+
+]
+
+???
+
+None of the chapters can have a YAML. 
+
+This will mean that you'll need to change any individual R Markdown file that you want to convert into chapters in a book.
+
+Each chapter has to start with a level 1 markdown header like "MoMA Museum Tour" here.
+
+---
+background-image: url(images/bookdown-km.png)
+background-size: contain
+
+
+---
+background-image: url("images/rawpixel/bunch-balloons-book4.jpg")
+background-position: right
+background-size: contain
+
+## Sharing your book
+
+.left-column1[
+
+```{r eval=FALSE}
+.
+├── 01-hotdogs.Rmd 
+├── 02-moma.Rmd 
+├── 03-meow.Rmd 
+├── _bookdown.yml 
+├── dataviz-book.Rproj
+├── images/
+├── index.Rmd 
+└── _book/ #<<
+```
+]
+
+???
+
+So, how do we share the book once it's written and built? We know our HTML files live in the _book folder so this should seem like old hat to you now...
+
+---
+class: middle center
+
+```{r echo=FALSE, out.width='80%'}
+knitr::include_graphics("images/screenshots/drop-book.png")
+```
+
+
+???
+
+We would drag that folder straight into Netlify to get a link.
+
+
+---
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+
+<video width="1084" height="610" controls><source src="images/netlify-domain.mp4" type="video/mp4"></video>
+
+???
+
+But these random domain names are hard to remember and keep track of.
+
+We can update the domain on netlify.com to make the link easier to share.
+
+...
+
+And it really is there- the new link works right away.
+
+
+
+---
+class: middle
+background-image: url(images/rawpixel/balloon-ouch.jpg)
+background-position: right
+background-size: contain
+
+.pull-left[
+### The good
+
++ Hard to get lost
+
+### The bad
+
++ Converting
+
++ (Still) no subfolders
+
+]
+
+???
+
+The best part about bookdown is it is hard to get lost. The TOC and search functions really help, and because we have more real estate in the TOC vertically, you can squeeze a lot more content in.
+
+The hard parts are that to convert existing files over, you may need to rename them and you definitely have to remove the YAMLs. You also still don't get to have subfolders. 
+
+---
+name: blogdown
+class: top, center
+background-image: url(images/mtsalsa-blogdown.jpg)
+background-size: contain
+background-position: center, bottom
+
+
+# `install.packages("blogdown")`
+
+
+???
+
+So Desiree- we have made it to the summit- blogdown!
+
+---
+background-image: url(images/rawpixel/knight.jpg)
+background-size: contain
+background-color: #F5ECE0
+
+???
+
+Blogdown is a great package for building custom and unique websites with R Markdown.
+
+But, it is not for the faint of heart.
+
+It also may not be good for you to adopt on short notice, because there is a lot to learn.
+
+But I want you to know about it in case you've already tried the tools we just covered and are still not quite satisfied with the options.
+
+---
+class: center, middle, inverse
+
+```{r echo=FALSE}
+knitr::include_graphics("images/hugo.svg")
+```
+
+<https://gohugo.io/>
+
+???
+
+So what is blogdown? It is an R package that helps you build a website using a generator called HUGO.
+
+The package lets you use the RStudio IDE and R Markdown to make your site.
+
+---
+class: center, middle
+background-image: url(images/rawpixel/so-many.jpg)
+background-position: left
+background-size: contain
+
+.pull-right[
+<https://themes.gohugo.io/>
+]
+
+???
+
+One of the best and worst things about Hugo is that there are themes- so you can really get creative.
+
+But you can also easily get overwhelmed by the choices- there are over 100 themes to choose from.
+
+---
+class: center, middle
+template: clouds2
+
+<https://academic-demo.netlify.com/>
+
+<iframe src="https://academic-demo.netlify.com/" height="600" width="1200" frameborder="0"></iframe> 
+
+???
+
+For course websites, my favorite theme to use is the Hugo academic theme, because it is well documented and flexible.
+
+This theme also has search built-in, which is nice.
+
+---
+class: center, middle
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+
+<https://share-blogdown.netlify.com/>
+
+<iframe src="https://share-blogdown.netlify.com/" height="600" width="1200" frameborder="0"></iframe> 
+
+???
+
+Here is a hugo academic site I built for this webinar as a demo.
+
+I took my old data visualization course website made with R Markdown that Desiree started with, and converted it to blogdown to show you what is possible.
+
+---
+template: clouds2
+
+![](images/screenshots/blogdown-labs.png)
+
+
+---
+template: clouds2
+
+![](images/screenshots/blogdown-lab02.png)
+
+---
+template: clouds2
+
+![](images/screenshots/blog-1.png)
+
+---
+## Build your site
+
+.left-column1[
+```{r eval=FALSE}
+.
+├── R/
+├── config/_default
+├── content/
+├── data/
+├── resources/_gen
+├── static/
+├── themes/hugo-academic
+├── config.toml
+├── index.Rmd
+├── share-blogdown.Rproj
+└── _public #<<
+```
+
+]
+
+.right-column1[
+
+<img src="images/screenshots/build-blogdown.png" style="margin-top: -28px;">
+
+]
+
+---
+background-image: url(images/rawpixel/bunch-balloons.jpg)
+background-position: right
+background-size: contain
+
+## .hidden[Primary content]
+
+.pull-left[
+```{r eval=FALSE}
+.
+├── R/ 
+├── config/_default
+├── content/ #<<
+├── data/
+├── resources/_gen
+├── static/ 
+├── themes/hugo-academic
+├── config.toml
+├── index.Rmd
+├── share-blogdown.Rproj
+└── _public 
+```
+
+]
+
+???
+
+The content folder is probably the place you'll dig into the most.
+
+Your primary content will live here, in either R Markdown or plain Markdown files. The YAML will depend on your theme.
+
+This means you'll need to change any existing YAML to adapt to your theme.
+
+And this is how you get locked into a theme.
+
+---
+background-image: url(images/rawpixel/bunch-balloons.jpg)
+background-position: right
+background-size: contain
+
+## .hidden[Stash]
+
+.pull-left[
+```{r eval=FALSE}
+.
+├── R/ #<<
+├── config/_default
+├── content/
+├── data/
+├── resources/_gen
+├── static/ #<<
+├── themes/hugo-academic
+├── config.toml
+├── index.Rmd
+├── share-blogdown.Rproj
+└── _public 
+```
+
+]
+
+???
+
+Sometimes I stash and build other R Markdown documents in the static folder.
+
+You can see how I did that in the demo files with my R Markdown labs and xaringan slides.
+
+---
+class: middle
+background-image: url(images/rawpixel/blue-balloon-side.jpg)
+background-position: left
+background-size: contain
+
+.pull-right[
+### The good
+
++ Subfolders!
+
++ Knit *anything*
+
++ `bookdown`
+
+### The bad
+
++ Hugo `r emo::ji("grimace")`
+
++ Complex
+
++ **not** for short notice
+
+]
+
+---
+background-image: url(images/rawpixel/balloon-ouch.jpg)
+background-position: left
+background-size: contain
+class: middle
+
+.pull-right[
+
+## `blogdown` advice
+
+]
+
+.pull-right[
+
++ Don't update Hugo during your course.
+
+]
+
+--
+
+.pull-right[
+
++ Don't update your Hugo theme during your course.
+
+]
+--
+
+.pull-right[
+
++ Seriously, just don't update anything during your course.
+
+]
+
+---
+## Share your site
+
+<video width="1010" height="600" controls><source src="images/drop-blog.mp4" type="video/mp4"></video>
+
+
+---
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+class: center
+
+## Here's a shortcut you can use
+
+<video width="900" height="500" controls><source src="images/deploy-button.mp4" type="video/mp4"></video>
+
+
+---
+background-image: url(images/Clouds2.jpg)
+background-size: cover
+
+## Ideas & resources
+
++ Continuous deployment
+
++ More here: https://github.com/rstudio-education/sharing-short-notice
+
+---
+background-image: url("images/rawpixel/site-dreams.jpg")
+background-size: 80%
+background-position: bottom, center
+class: center, top
+background-color: #FCFEF8
+
+## Thank you
+
+???
+
+Thanks for joining us today. We hope we've left you with some ideas you can use now and later. And we hope we leave you with visions of websites dancing in your heads :)
