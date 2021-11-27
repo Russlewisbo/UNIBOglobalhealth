@@ -55,7 +55,6 @@ Figure 1.1. Changes in life expectancy over 500 years. Data source: World Health
 </center>
 
 ![](images/ab-discovery-timeline.png){width="800"}
-
 <figcaption>
 
 Figure 1.2. Antibiotic discovery timeline
@@ -83,7 +82,6 @@ The WHO also published a [Priority Pathogen List](https://www.who.int/medicines/
 Table 1.1 WHO priority pathogens
 
 </figcaption>
-
 +----------------+--------------------------------------------------------------------------------------------+
 | Priority group | Pathogens included                                                                         |
 +:===============+:===========================================================================================+
@@ -139,7 +137,6 @@ Table 1.1 WHO priority pathogens
 <figcaption>
 
 Figure 1.3. Regional difference in carbapenem-resistant Enterobacterales (CRE) bloodstream infection- 2020 incidence per 100,000 residents in Italy
-
 </figcaption>
 
 </figure>
@@ -173,7 +170,6 @@ In 2017, a [report](https://www.ecdc.europa.eu/en/publications-data/ecdc-country
 <figcaption>
 
 Figure 1.4. Projected deaths due to antimicrobial resistance in 2050. Source: O'Neil Report [@ONeill2016].
-
 </figcaption>
 
 </center>
@@ -201,7 +197,6 @@ Because the drivers of antimicrobial resistance lie in humans, animals, plants, 
 <figcaption>
 
 Figure 1.5. Rationale for one-health model for addressing AMR: Source: WHO
-
 </figcaption>
 
 </center>
@@ -231,14 +226,13 @@ Figure 1.5. Rationale for one-health model for addressing AMR: Source: WHO
 <figcaption>
 
 Figure 1.6. Antibiotic use in livestock reported in 2010
-
 </figcaption>
 
 </figure>
 
 ### Impacts on Human AMR
 
-#### Case study 1-Cephalosporins
+#### Case study-Cephalosporins
 
 Third generation cephalosporins (ceftotaxime, ceftriaxone) are widely used for serious infections in humans, including the treatment of urinary tract, abdominal, lung and bloodstream infections. These antibiotics are classified as "critically-important" for human health ([WHO AGISAR](http://www.agisar.org/)). Cetiofur, cefpodoxime, and cefoperazone are similar cephalosporins approved veterinary antibiotics and used predominantly for treating bacterial infections in food-producing animals including chickens and cattle.
 
@@ -261,7 +255,6 @@ Ceftiofur is frequently injected in small quantities to hatching eggs or chicks 
 <figcaption>
 
 Figure 1.7. Ceftiofur resistance in chicken and human *Salmonella* Heidelberg and chicken *E. coli*.
-
 </figcaption>
 
 </center>
@@ -272,14 +265,13 @@ In Japan, voluntary withdrawal of the off-label use of ceftiofur in hatcheries i
 
 This case study illustrates the danger of using antibiotics from the same class as critical therapies used to treat human infections for metaphylaxis or treatment in large numbers of animals. A similar pattern in poultry was also observed with mass medication of poultry flocks using fluoroquinolones antibiotics and selection of fluoroquinone- resistant *Campylobacter jejuni* infections in humans [@EndtzEtAl1991].
 
-#### Case study 2- Colistin
+#### Case study- Colistin
 
 <figure>
 
 <center>
 
 ![](images/chicken_farm.png){width="600"}
-
 <figcaption>
 
 Figure 1.8. Chicken farm in the United States of America.
@@ -312,7 +304,6 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 <div class = "blue">
 **For further study:** In the 1990s avoparcin, a glycopeptide antimicrobial, was widely used in growth promotion in pigs and poultry production that was not initially thought to be of public health importance. Surveillance and research were eventually able to show that avoparcin use in animals contributed to the selection and wide dissemination of what type of resistance?
 </div>
-
 
 <br>
 

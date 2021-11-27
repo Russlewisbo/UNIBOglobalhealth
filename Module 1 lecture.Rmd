@@ -38,6 +38,39 @@ style_mono_light(
   code_font_google   = google_font("Fira Mono")
 )
 ```
+<div style = "position:fixed; visibility: hidden">
+$$\require{color}\definecolor{red}{rgb}{1, 0, 0}$$
+$$\require{color}\definecolor{green}{rgb}{0, 1, 0}$$
+$$\require{color}\definecolor{blue}{rgb}{0, 0, 1}$$
+</div>
+
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  TeX: {
+    Macros: {
+      red: ["{\\color{red}{#1}}", 1],
+      green: ["{\\color{green}{#1}}", 1],
+      blue: ["{\\color{blue}{#1}}", 1]
+    },
+    loader: {load: ['[tex]/color']},
+    tex: {packages: {'[+]': ['color']}}
+  }
+});
+</script>
+
+<style>
+.red {color: #FF0000;}
+.green {color: #00FF00;}
+.blue {color: #0000FF;}
+</style>
+
+```{r flair_color, echo=FALSE}
+library(flair)
+red <- "#FF0000"
+green <- "#00FF00"
+blue <- "#0000FF"
+```
+
 ## 97039-Global Heath, Antimicrobial Drugs and Vaccines
 ### Global Aspects of Antimicrobial Resistance
 <br>
@@ -47,7 +80,7 @@ Department of Medical and Surgical Sciences <br>
 russeledward.lewis@unibo.it <br>
 12/1/2021 <br>
 <br>
-<img src="logo.png" width="10%" />
+<img src="images/logo.png" width="10%" />
 
 
 
