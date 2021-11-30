@@ -1,6 +1,6 @@
 ---
 title: "97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES"
-subtitle: "Global Management of Antimicrobial Resistance"
+subtitle: "Global Aspects of Antimicrobial Resistance"
 author: "Russell E. Lewis, Associate Professor, Infectious Diseases, University of Bologna"
 orcid id: 0000-0002-2002-4339
 date: "11/26/2022"
@@ -36,9 +36,11 @@ Figure 1. Changes in life expectancy over 500 years. Data source: World Health B
 
 Products with antimicrobial activity had been used for millennia to treat infections even if the causes of infection were not known until the 19th and 20th centuries. The microbiologist and immunologist Paul Erlich (1854-1915) is credited with the discovery and first medical application of a synthetic antibiotic arsphenamine (Salvarsan) in the treatment of bacterial infection- syphilis. However, it was the serendipitous discovery of penicillin on September 3, 1928 by Alexander Fleming, and its subsequent purification of the drug in quantities needed for clinical testing in humans by Drs. Florey and Chain in the late 1930s, that lead to the major breakthrough of antibiotic treatment for common bacterial infections. Alexander Fleming was also among the first physicians to caution about the risks of resistance to penicillin if used too little or for a too short of period during treatment.
 
+<br>
+
 > "It is not difficult to make microbes resistant to penicillin in the laboratory by exposing them to concentrations not sufficient to kill them, and the same thing has occasionally happened in the body. The time may come when penicillin can be bought by anyone in the shops. Then there is the danger that the ignorant man may easily under-dose himself and by exposing his microbes to non-lethal quantities of the drug make them resistant." -Sir Alexander Fleming, Nobel Prize Lecture, December 11, 1945
 
-By 1947, Fleming's predictions were realized as the first cases of penicillin resistance reported. Thus began the "arms race" between the "emergence" and spread of new antimicrobial resistance mechanisms and discovery of new antibiotics to treat these resistant pathogens. Initially, antibiotic discovery seemed to keep pace with resistance as a host of new chemical classes were developed and introduced in the 1950s-1980's. During this time, it was often possible to simply switch treatment once resistance against a specific antibiotic became a major problem. By the 1980's the discovery of new agents began to slow (Fig 2). The latest discovery of a new antibiotic class that has reached the market was in 1987. Since then, there has been a lack of innovation in the field, and today there are few novel antibiotic classes in the drug pipeline. In Module 2 we will examine the scientific challenges and market forces that have made new antibiotic discovery increasingly difficult and how access to newer antibiotics is limited in many parts of the world.
+<br> By 1947, Fleming's predictions were realized as the first cases of penicillin resistance reported. Thus began the "arms race" between the "emergence" and spread of new antimicrobial resistance mechanisms and discovery of new antibiotics to treat these resistant pathogens. Initially, antibiotic discovery seemed to keep pace with resistance as a host of new chemical classes were developed and introduced in the 1950s-1980's. During this time, it was often possible to simply switch treatment once resistance against a specific antibiotic became a major problem. By the 1980's the discovery of new agents began to slow (Fig 2). The latest discovery of a new antibiotic class that has reached the market was in 1987. Since then, there has been a lack of innovation in the field, and today there are few novel antibiotic classes in the drug pipeline. In Module 2 we will examine the scientific challenges and market forces that have made new antibiotic discovery increasingly difficult and how access to newer antibiotics is limited in many parts of the world.
 
 Once resistance has developed, it can spread from a colonised patient to another patient if appropriate hygienic precautions (e.g., hand hygiene, isolation) are not taken. The risk of resistant bacteria spreading is amplified in crowded environments, especially when people in the surrounding area are receiving antibiotics - a common situation in hospitals and other healthcare facilities.
 
@@ -402,7 +404,7 @@ The international focus on awareness, surveillance, infection prevention, stewar
 
 What are the possible solutions? Recently COVID-19 has refocused attention that in infectious diseases The Access to COVID-19 Tools (ACT)-Accelerator that we will discuss in Model 2 has shown that financial contributions from HICs to a LMIC-pool can improve equitable access to diagnostics, therapeutics and vaccines, but it is conceivable that the same model could be broadened to encompass tools that would support major social change for AMR.
 
-## Cross-boarder spread of AMR {.unnumbered}
+## Cross-border spread of AMR {.unnumbered}
 
 <figure>
 
