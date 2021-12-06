@@ -466,7 +466,7 @@ Decades of funding neglect, combined with continuously increasing global antibio
 
 Therefore, strong multilateral collaboration is essential for the world to absorb these shocks and refocus on the silent but growing pandemic of AMR. Pandemics are opportunities to re-imagine governance structures and learn from previous experiences. COVID-19 has shown the importance of multilateral collaboration in diverse areas, including research and knowledge sharing, discovery, development and distribution of vaccines and medicines and access to diagnostics and medicines. Action is needed now to reverse the unthinkable future of untreatable infections.
 
-<iframe src="https://slides.com/russelllewis/pharmacokinetics-of-antiinfectives-in-the-icu/embed" width="576" height="420" title="Pharmacokinetics of antiinfectives in the ICU" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://slides.com/russelllewis/pharmacokinetics-of-antiinfectives-in-the-icu/embed" width="576" height="420" title="Global_antimicrobial_resistance" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## References {.unnumbered}
 
