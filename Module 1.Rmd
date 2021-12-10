@@ -34,7 +34,9 @@ Figure 1. Changes in life expectancy over 500 years. Data source: World Health B
 
 </figure>
 
-Products with antimicrobial activity had been used for millennia to treat infections even if the causes of infection were not known until the 19th and 20th centuries. The microbiologist and immunologist Paul Erlich (1854-1915) is credited with the discovery and first medical application of a synthetic antibiotic arsphenamine (Salvarsan) in the treatment of bacterial infection- syphilis. However, it was the serendipitous discovery of penicillin on September 3, 1928 by Alexander Fleming, and its subsequent purification of the drug in quantities needed for clinical testing in humans by Drs. Florey and Chain in the late 1930s, that lead to the major breakthrough of antibiotic treatment for common bacterial infections. Alexander Fleming was also among the first physicians to caution about the risks of resistance to penicillin if used too little or for a too short of period during treatment.
+Bacteria and mechanisms of bacterial resistance to natural metabolites produces by other bacteria nad fungi have existed for over 2-2.5 billion years. In contrast, it is estimated that that first humans emerged 2 million years ago. While products with antimicrobial activity had been used as medicines for millennia to treat infections, the causes of infection were not known until the 19th and 20th centuries. Therefore, it cannot be said that humans are the cause of antimicrobial resistance.
+
+<br> The microbiologist and immunologist Paul Erlich (1854-1915) is credited with the discovery and first medical application of a synthetic antibiotic arsphenamine (Salvarsan) in the treatment of bacterial infection- syphilis. However, it was the serendipitous discovery of penicillin on September 3, 1928 by Alexander Fleming, and its subsequent purification of the drug in quantities needed for clinical testing in humans by Drs. Florey and Chain in the late 1930s, that lead to the major breakthrough of antibiotic treatment for common bacterial infections. Alexander Fleming was also among the first physicians to caution about the risks of resistance to penicillin if used too little or for a too short of period during treatment.
 
 <br>
 
@@ -152,13 +154,27 @@ Strategies for the prevention and containment of AMR frequently focus on:
 
 Antimicrobial stewardship is a coordinated program that promotes and focuses on the appropriate use of antimicrobials (including antibiotics), improves patient outcomes, reduces microbial resistance, and decreases the spread of infections caused by multidrug-resistant organisms. These programs may be implemented through the use of institution-specific treatment guidelines and an antibiotic stewardship team (typically infectious diseases physicians with a clinical pharmacist) who carry out full-time activities to promote and encourage appropriate antibiotic use. While these programs have been shown to be successful, many gaps remain in the knowledge of how to optimally design and sustain stewardship programs in the hospital, and such programs are rarely implemented outside of the hospital where most antibiotic prescribing takes place.
 
+![](images/stewardship%20actions.png)
+
+![](images/stewardship_impl.png)
+
+<figcaption>
+
+Figure 4. Examples of antimicrobial stewardship efforts and outcomes. Source: [ECDC](https://antibiotic.ecdc.europa.eu/en/infographics-about-antibiotic-stewardship-programmes)
+
+</figcaption>
+
+</center>
+
+</figure>
+
 ## AMR situation in Italy {.unnumbered}
 
 Southern Europe, including Italy, has among the highest rates of resistance for pathogens included on the WHO Priority Pathogen list. For example, surveillance data from the European Centres for Disease Control (ECDC) have reported a dramatic increase in multidrug-resistance (MDR) in Italy since 2009, with now more than one-third of *Klebsiella pneumoniae* resistant to previously-considered last-line antibiotics such as carbapenems (Fig 1.4). The link to interactive ECDC resistance atlas can be found [here](https://atlas.ecdc.europa.eu/public/index.aspx?Dataset=27&HealthTopic=4). Similarly, the Italian [Micronet Resistance Surveillance](https://www.epicentro.iss.it/antibiotico-resistenza/epidemiologia-italia)) program has reported:
 
 -   26.4% of *Escherichia coli* are resistant to 3rd generation cephalosporins
 -   29.5% of *Klebsiella pneumoniae* are resistant to carbapenems (including 33.1% resistant to multiple drug classes)
--   15.9% of *Pseudomonas aeruginosa* are resistant to carbapenemase
+-   15.9% of *Pseudomonas aeruginosa* are resistant to carbapenems
 -   80.8% of *Acinetobacter* spp. are resistant to carbapenems with 78.8% of species resistant to multiple drug classes
 -   For the Gram-positive organism *Staphylococcus aureus*, the percentage of methicillin-resistant isolates (MRSA) remained stable, around 34%, while a worrying trend continues to increase in the percentage of *Enterococcus faecium isolates* resistant to vancomycin, which in 2020 was equal at 23.6%
 -   For *Streptococcus pneumoniae* there was a slight increase in both the percentage of isolates resistant to penicillin (13.6%) and those resistant to erythromycin (24.5%).
@@ -466,7 +482,11 @@ Decades of funding neglect, combined with continuously increasing global antibio
 
 Therefore, strong multilateral collaboration is essential for the world to absorb these shocks and refocus on the silent but growing pandemic of AMR. Pandemics are opportunities to re-imagine governance structures and learn from previous experiences. COVID-19 has shown the importance of multilateral collaboration in diverse areas, including research and knowledge sharing, discovery, development and distribution of vaccines and medicines and access to diagnostics and medicines. Action is needed now to reverse the unthinkable future of untreatable infections.
 
-<iframe src="https://slides.com/russelllewis/pharmacokinetics-of-antiinfectives-in-the-icu/embed" width="576" height="420" title="Global_antimicrobial_resistance" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+## Lecture Slides {.unnumbered}
+
+<iframe src="https://slides.com/russelllewis/module1/embed" width="576" height="420" title="Global_antimicrobial_resistance" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+
+</iframe>
 
 ## References {.unnumbered}
 
