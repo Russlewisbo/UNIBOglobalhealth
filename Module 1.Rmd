@@ -4,10 +4,21 @@ subtitle: "Global Aspects of Antimicrobial Resistance"
 author: "Russell E. Lewis, Associate Professor, Infectious Diseases, University of Bologna"
 orcid id: 0000-0002-2002-4339
 date: "11/26/2022"
-output: bookdown::gitbook
+output:
+  bookdown::gitbook:
+    lib_dir: assets
+    split_by: section
+    config:
+      toolbar:
+        position: static
+  bookdown::pdf_book:
+    keep_tex: true
+  bookdown::html_book:
+    css: toc.css
+documentclass: book
 site: bookdown::bookdown_site
 bibliography: references.bib
-csl: vancouver.csl
+csl: nature.csl
 ---
 
 ```{r setup, include=FALSE}
@@ -16,9 +27,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## A brief history of antimicrobial resistance (AMR) {.unnumbered}
 
-Until the 20th Century, influenza and pneumonia, tuberculosis, and enteric infections were among the top thee causes of death. The average life expectancy of adults in Western Europe was less than 50 years (Fig 1), and 2% of children failed to live beyond 5 years of age due to deaths caused by infectious diseases.
+Until the 20th Century, influenza and pneumonia, tuberculosis, and enteric infections were among the top three causes of death. The average life expectancy of an adult in Western Europe was less than 50 years, and 2% of children failed to live beyond 5 years of age due to deaths caused by infectious diseases.
 
-Industrialization and growing wealth during the 19th century brought improvements in drinking water and sanitation in many countries, reducing communicable enteric infections and improvements in life expectancy. By the early 20th century, advances in immunization led to the introduction of vaccines for pertussis, diptheria, yellow fever and tuberculosis. However, common bacterial infections remained a common cause of death. Streptococcal throat infections were sometimes fatal, ear infections could lead to deafness, mastoiditis or meningitis with a 90% mortality rate, and surgery or childbirth was associated with high complication rates and frequent maternal deaths.
+Industrialization and growing wealth during the 19th century brought improvements in drinking water and sanitation in many countries, leading to reductions in communicable enteric infections and dramatic improvements in life expectancy. By the early 20th century, advances in immunization began to further reduce mortality associated with infectious diseases as vaccines for pertussis, diptheria, yellow fever and tuberculosis were introduced. However, common bacterial infections remained a common caused of morbidity and mortality. Streptococcal throat infections were sometimes fatal, ear infections could progress to deafness, mastoiditis or meningitis associated 90% mortality rate, minor surgeries carried significant infection risk, and it was common for mothers to develop life threatening infections and/or bleeding after childbirth.
+
+<br>
 
 <figure>
 
@@ -28,13 +41,15 @@ Industrialization and growing wealth during the 19th century brought improvement
 
 <figcaption>
 
-Figure 1. Changes in life expectancy over 500 years. Data source: World Health Bank
+**Figure 1. Changes in life expectancy over 500 years**. Data source: World Health Bank
 
 </figcaption>
 
 </figure>
 
-Bacteria and mechanisms of bacterial resistance to natural metabolites produces by other bacteria nad fungi have existed for over 2-2.5 billion years. In contrast, it is estimated that that first humans emerged 2 million years ago. While products with antimicrobial activity had been used as medicines for millennia to treat infections, the causes of infection were not known until the 19th and 20th centuries. Therefore, it cannot be said that humans are the cause of antimicrobial resistance.
+<br> Antibacterial resistance mechanisms emerged at the same time as bacteria life on earth approximately 2-2.5 billion years ago. In contrast, the first humans are believed to have emerged around 2 million years ago. *Therefore, it cannot be said that humans are the cause of antimicrobial resistance*.
+
+There is evidence that early Egyptians, Greeks, Chinese and Products with antimicrobial activity had been used as medicines for millennia to treat infections, the causes of infection were not known until the 19th and 20th centuries. Therefore, it cannot be said that humans are the cause of antimicrobial resistance.
 
 <br> The microbiologist and immunologist Paul Erlich (1854-1915) is credited with the discovery and first medical application of a synthetic antibiotic arsphenamine (Salvarsan) in the treatment of bacterial infection- syphilis. However, it was the serendipitous discovery of penicillin on September 3, 1928 by Alexander Fleming, and its subsequent purification of the drug in quantities needed for clinical testing in humans by Drs. Florey and Chain in the late 1930s, that lead to the major breakthrough of antibiotic treatment for common bacterial infections. Alexander Fleming was also among the first physicians to caution about the risks of resistance to penicillin if used too little or for a too short of period during treatment.
 
@@ -42,7 +57,7 @@ Bacteria and mechanisms of bacterial resistance to natural metabolites produces 
 
 > "It is not difficult to make microbes resistant to penicillin in the laboratory by exposing them to concentrations not sufficient to kill them, and the same thing has occasionally happened in the body. The time may come when penicillin can be bought by anyone in the shops. Then there is the danger that the ignorant man may easily under-dose himself and by exposing his microbes to non-lethal quantities of the drug make them resistant." -Sir Alexander Fleming, Nobel Prize Lecture, December 11, 1945
 
-<br> By 1947, Fleming's predictions were realized as the first cases of penicillin resistance reported. Thus began the "arms race" between the "emergence" and spread of new antimicrobial resistance mechanisms and discovery of new antibiotics to treat these resistant pathogens. Initially, antibiotic discovery seemed to keep pace with resistance as a host of new chemical classes were developed and introduced in the 1950s-1980's. During this time, it was often possible to simply switch treatment once resistance against a specific antibiotic became a major problem. By the 1980's the discovery of new agents began to slow (Fig 2). The latest discovery of a new antibiotic class that has reached the market was in 1987. Since then, there has been a lack of innovation in the field, and today there are few novel antibiotic classes in the drug pipeline. In Module 2 we will examine the scientific challenges and market forces that have made new antibiotic discovery increasingly difficult and how access to newer antibiotics is limited in many parts of the world.
+<br> By 1947, Fleming's predictions were realized as the first cases of penicillin resistance reported. Thus began the "arms race" between the emergence and spread of new antimicrobial resistance mechanisms and discovery of new antibiotics to treat these resistant pathogens. Initially, antibiotic discovery seemed to keep pace with resistance as a host of new chemical classes were developed and introduced in the 1950s-1980's. During this time, it was often possible to simply switch treatment once resistance against a specific antibiotic became a major problem. By the 1980's the discovery of new agents began to slow (Fig 2). The latest discovery of a new antibiotic class that has reached the market was in 1987. Since then, there has been a lack of innovation in the field, and today there are few novel antibiotic classes in the drug pipeline. In Module 2 we will examine the scientific challenges and market forces that have made new antibiotic discovery increasingly difficult and how access to newer antibiotics is limited in many parts of the world.
 
 Once resistance has developed, it can spread from a colonised patient to another patient if appropriate hygienic precautions (e.g., hand hygiene, isolation) are not taken. The risk of resistant bacteria spreading is amplified in crowded environments, especially when people in the surrounding area are receiving antibiotics - a common situation in hospitals and other healthcare facilities.
 
@@ -58,7 +73,7 @@ The consequences of faltering antibiotic discovery are now seen worldwide as mor
 
 <figcaption>
 
-Figure 2. Antibiotic discovery timeline. Source ReACT Group 2015.
+**Figure 2. Antibiotic discovery timeline.** [Source ReACT Group 2015](https://www.reactgroup.org/).
 
 </figcaption>
 
@@ -72,13 +87,13 @@ Recognizing the growing global threat of antibiotic resistance (AMR) on human he
 4.  Optimization the use of antimicrobial medicines in human and animal health
 5.  Development of an economic case for sustainable investment in AMR research that takes account of the needs of all countries, and increase investment in new medicines, diagnostic tools, vaccines and other interventions
 
-The WHO also published a [Priority Pathogen List](https://www.who.int/medicines/publications/WHO-PPL-Short_Summary_25Feb-ET_NM_WHO.pdf) for research and development of new antibiotics (Table 1). This priority list includes bacterial pathogens that are considered to be be the biggest threat to human health in addition to *Mycobacterium tuberculosis.* The WHO list breaks down pathogens into three groups:
+The WHO also developed a [Priority Pathogen List](https://www.who.int/medicines/publications/WHO-PPL-Short_Summary_25Feb-ET_NM_WHO.pdf) for research and development of new antibiotics (Table 1). This priority list includes bacterial pathogens that are considered to be be the biggest threat to human health in addition to *Mycobacterium tuberculosis.* The WHO list breaks down pathogens into three groups:
 
 <figure>
 
 <figcaption>
 
-Table 1. WHO priority pathogens
+**Table 1. WHO priority pathogens**
 
 </figcaption>
 
