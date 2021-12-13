@@ -45,7 +45,7 @@ Industrialization and growing wealth during the 19th century brought improvement
 
 </figure>
 
-Antibacterial resistance emerged with bacteria on earth approximately 2-2.5 billion years ago. In contrast, the first humans are believed to have existed around 2 million years ago. Therefore, it cannot be said that humans are the cause of antimicrobial resistance.Antibiotic resistance pre-dates the use of antibiotics in medicine.
+Antibacterial resistance emerged with bacteria on earth approximately 2-2.5 billion years ago. In contrast, the first humans are believed to have existed around 2 million years ago. Therefore, it cannot be said that humans are the cause of antimicrobial resistance.Antibiotic resistance pre-dates the use of antibiotics in medicine. Indeed, antibiotic use is inevitable. Any use of an an antibiotic will eventually select for antimicrobial resistance.
 
 The first recorded use of antimicrobial -like substances was by the early Egyptians, Greeks, and Chinese, who used natural products with antimicrobial activity for millennia to treat wounds and infections, even if the causes of these diseases were unknown until the 19th and 20th century..
 
@@ -228,7 +228,7 @@ The singular effectiveness of access to clean water, sanitation and hygiene, cal
 -   1 in 3 healthcare facilities lacks soap and water or hand sanitizer where staff provide patient care. Billions of patients worldwide must rely on these facilities.
 -   In some countries, up to 90% of women receive routine prophylactic antibiotics during childbirth, highlighting the conditions under which they are delivering their babies and what would cause the inevitability of infection
 
-The cumulative lack of WASH adds up to children and adults not only getting unnecessarily sick---with the associated suffering, medical costs and loss of income or schooling---they are relying on antibiotics to get better.[@Denny2021a] The challenge here is that WASH is a public works solution for a public health problem. WASH is not a pill or 'quick fix'. It requires capital investment, system strengthening, and behaviour change to ensure that clean water and functional toilets are available and utilized day-in and day-out. These issues require a different set of skills than those possessed by medical and public health professionals.
+The cumulative lack of WASH adds up to children and adults not only getting unnecessarily sick---with the associated suffering, medical costs and loss of income or schooling---they are relying on antibiotics to get better.[@Denny2021] The challenge here is that WASH is a public works solution for a public health problem. WASH is not a pill or 'quick fix'. It requires capital investment, system strengthening, and behaviour change to ensure that clean water and functional toilets are available and utilized day-in and day-out. These issues require a different set of skills than those possessed by medical and public health professionals.
 
 In LMICs, an estimated 670 million people still practice [open defaecation in 2017](https://blogs.worldbank.org/opendata/open-defeca%20tion-nearly-halved-2000-still-practiced-670-million), and only one in three people have access to safe drinking water, resulting in high rates of diarrheal disease and equally large amounts of inappropriate antibiotic use.[@Denny2021] According to [WHO surveys](https://www.who.int/news-room/%20fact-sheets/detail/immunization-coverage.), vaccination, a cornerstone of infection prevention and reducing the need for antibiotic use, is suboptimal in both HICs and LMICs. In 2019, global third-dose coverage for childhood pneumococcal vaccination in 149 member states was only 48%, and global rotavirus vaccine coverage was estimated at 39%. In South Africa, middle-income country, procures less than 1 million doses of influenza vaccine for its annual influenza season, despite in excess of 10 million people being identified as high-risk for influenza and prioritized for vaccination.[@Mendelson2021]
 
@@ -481,7 +481,7 @@ However, use of intravenous colistin has surged in the last decade with the incr
 
 -   In 2014, colistin use in EU member states in animals was higher than humans with a reported 485 tonnes- 99.7% in oral form or oral medicated feed.[@EuropeanMedicinesAgency2016] In China, with the world's largest production of pigs and poultry, an estimated 12,000 tonnes of colistin was used in the food production industry.[@LiuEtAl2016a]
 
--   In 2015, Lui and colleagues reported plasmid-mediated colistin-resistance gene, *mcr-1*, in *Escherichia coli* isolates obtained from animals, food and human bloodstream infections in China.[@LiuEtAl2016a] Alarmingly, the resistance gene has also been detected in 5% of healthy travellers from China in other parts of the world.[@zotero-7665]
+-   In 2015, Lui and colleagues reported plasmid-mediated colistin-resistance gene, *mcr-1*, in *Escherichia coli* isolates obtained from animals, food and human bloodstream infections in China.[@LiuEtAl2016a] Alarmingly, the resistance gene has also been detected in 5% of healthy travellers from China in other parts of the world.[@LaxminarayanEtAl2013a]
 
 -   The *mcr-1* gene has also been detected in isolates obtained from wildlife and surface water samples, demonstrating environmental contamination.[@ZurfuhEtAl]
 
