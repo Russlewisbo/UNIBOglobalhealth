@@ -152,7 +152,7 @@ Antimicrobials are among the most commonly prescribed drugs used in human medici
 
 In medicine, the concentration of antibiotic prescribing might be highest in inpatient settings, with 30--40% of patients on antibiotics in European hospitals. However, the overall highest *quantity* of antimicrobial consumption is highest in the community setting.
 
-Yet, more antimicrobials are used in food production than in human beings, with marked national differences in the number of antimicrobial drugs used in food producing animals. **It has been estimated that 75% of all antibiotic use per by weight is for food production in animals.**[@BoeckelEtAl2015]Various studies have shown that antimicrobial resistance has, at least in part, emerged as a result of the selective pressure exerted by antimicrobial use outside of human medicine, namely in veterinary medicine, food-animal and fish production, and agriculture. Therefore to effectively AMR, a multifaceted or *ONE-HEALTH* approach is required.
+Yet, more antimicrobials are used in food production than in human beings, with marked national differences in the number of antimicrobial drugs used in food producing animals. **It has been estimated that 65% of all antibiotic use per by weight is for food production in animals.**[@BoeckelEtAl2015]Various studies have shown that antimicrobial resistance has, at least in part, emerged as a result of the selective pressure exerted by antimicrobial use outside of human medicine, namely in veterinary medicine, food-animal and fish production, and agriculture. Therefore to effectively AMR, a multifaceted or *ONE-HEALTH* approach is required.
 
 <figure>
 
@@ -276,19 +276,26 @@ Because the drivers of antimicrobial resistance lie in humans, animals, plants, 
 
 ### Antibiotic use in animal food production {.unnumbered}
 
-Few antimicrobial classes are reserved exclusively for humans. The vast majority of antibiotics are used both in humans and animals, including domestic mammals, birds, farmed fish and shellfish, honeybees and others. As noted earlier, **75% of all antibiotic consumption per weight is used for food production in animals.** This is an important point because more than two-third of all human infectious diseases that have emerged or re-emerged in recent decades are zoonotic-i.e. they originated in animals [@WoolhouseGowtage-Sequeria2005].
+Few antimicrobial classes are reserved exclusively for humans. The vast majority of antibiotics are used both in humans and animals, including domestic mammals, birds, farmed fish and shellfish, honeybees and others. As noted earlier, **65% of all antibiotic consumption per weight is used for food production in animals.** This is an important point because more than two-third of all human infectious diseases that have emerged or re-emerged in recent decades are zoonotic-i.e. they originated in animals [@WoolhouseGowtage-Sequeria2005].
 
 In horticulture, tetracyclines, streptomycin, and other antimicrobials are used for the prophylaxis and treatment of bacterial infections that affect plants (e.g., fire blight *Erwinea amylovora*)
 
-In veterinary medicine, there are major differences in the way antibiotics are used for companion animals (e.g., dogs, cats, pet birds, horses) versus food-producing animals. Antibiotic use in companion animals is broadly similar to humans to treat clinical infections or in select cases prophylaxis, such as post-surgery. In the case of food animals, if some animals are infected antibiotics may be administered through feed or water to the entire group for reasons of practicality or efficiency. *Metaphylaxis is a term used to describe therapeutic/prophylaxis antibiotic treatment at a group level.*
+In veterinary medicine, there are major differences in the way antibiotics are used for companion animals (e.g., dogs, cats, pet birds, horses) versus food-producing animals. Antibiotic use in companion animals is broadly similar to humans for the treatment of infections or in select cases prophylaxis, such as post-surgery. In the case of food animals, if some animals are infected antibiotics may be administered through feed or water to the entire group for reasons of practicality or efficiency. *Metaphylaxis is a term used to describe therapeutic/prophylaxis antibiotic treatment at a group level.*
 
 The most controversial type of group treatment in food animals is long-term, low-dose mass antibiotic treatment for purposes of growth promotion. This practice has a high propensity to select for antimicrobial resistance and is driven by economic factors rather than treatment of clinical infection. The practice was banned by the EU in 2006 but still continues in some countries such as the United States and China.
 
 The reported benefits of using antibiotics for growth promotion is controversial ranges widely in the literature (1-10%). Concerns have been expressed that antimicrobial growth promoters are often used to compensate for poor hygiene/housing and healthy management[@McEwenCollignon2018].
 
-In reality,
+In reality, there are 4 factors that typically determine the health of animals, (e.g., chickens):
 
-Historically, governmental regulations have focused on toxicological dose-response data and the presence of antimicrobial residues in animal tissue, milk or other edible products (i.e. eggs) from treated animals - *so called minimum residue levels (MRLs) compatible with acceptable risk in humans.* While MRLs are well-understood and enforced withtesting programs and penalties, these programs do not take into account selection of antimicrobial-resistant pathogens.
+1.  The genetic stock of the animals
+2.  Adequate nutrition
+3.  Hygiene of living conditions
+4.  Adequate veterinary care
+
+While antibiotics may be able to improve deficiencies in 1 of the 4 areas, if multiple aspects are missing then antimicrobial resistance is unlikely to improve animal health or growth. Ideally, a key goal to reduce antibiotic use in animals is to further strengthen the 4 non-antibiotic aspects that are important to animal health so antibiotics rarely need to be used.
+
+Historically, governmental regulations have focused on toxicological dose-response data and the presence of antimicrobial residues in animal tissue, milk or other edible products (i.e. eggs) from treated animals - *so called minimum residue levels (MRLs) compatible with acceptable risk in humans.* While MRLs are well-understood and enforced with testing programs and penalties, these programs do not take into account selection of antimicrobial-resistant pathogens.
 
 The WHO has advocated for the termination of using antimicrobials for growth promotion. A recent [report from the ECDC](https://www.ecdc.europa.eu/sites/default/files/documents/JIACRA-III-Antimicrobial-Consumption-and-Resistance-in-Bacteria-from-Humans-and-Animals.pdf) has suggested some progress in addressing this problem. Using surveillance data from 2017, the EU/EEA population mean antibiotic consumption in the 29 countries was 130 mg per kg of estimated biomass in humans and 108.3 mg per kg in food-producing animals (Fig 1.6). *This first time since the agencies began publishing the joint reports in 2011 that antibiotic use in humans has exceeded use in livestock.* Consumption of third- and fourth-generation cephalosporins, fluoroquinolones, and aminopenicillins was considerably higher in human medicine, while consumption of macrolides was similar, and consumption of tetracyclines and polymyxins---a last-resort class of antibiotics that includes colistin---was significantly higher in food-producing animals.
 
@@ -308,7 +315,7 @@ Figure 7. Antibiotic use in livestock reported in 2010
 
 </figure>
 
-### Impacts Animal antibiotic use on Human AMR {.unnumbered}
+### The impact of animal antibiotic use on human AMR {.unnumbered}
 
 #### Case study-cephalosporins {.unnumbered}
 
@@ -375,6 +382,24 @@ However, use of intravenous colistin has surged in the last decade with the incr
 -   Additional plasmid-mediated colistin-resistance genes have been reported in many other bacterial species and countries, including *mcr-2* from pigs in Belgium, and *mcr-3,4,5* in other countries.[@BorowiakEtAl2017]
 
 -   Colistin illustrates important *One-Health Dimensions* of AMR that differ from third generation cephalosporins. Specifically, large volumes of colistin use in animals, rather than humans, have probably have driven colistin resistance now observed in humans. Using large quantities of colistin for group treatment or growth promotion in animals has probably lead to antimicrobial resistance problems in human health, even through colistin was considered in the past to be less important because other less toxic treatments were still available.
+
+-   In 2017, China banned the use of colistin as a food additive for animals. Colistin is currently not approved as a food additive in Europe or the United States, but is still be used in LMICs as a growth promoting agent.
+
+### Resistance in LMICs {.unnumbered}
+
+<figure>
+
+<iframe src="https://resistancebank.org/" loading="lazy" style="width: 100%; height: 600px; border: 0px none;">
+
+</iframe>
+
+<figcaption>
+
+**Figure 10. Global hotsports of antimicrobial resistance in animals.** Data source: <https://resistancebank.org/>
+
+</figcaption>
+
+</figure>
 
 ```{=html}
 <style>
