@@ -55,7 +55,7 @@ Alexander Fleming was among the first physicians to caution about the risks of r
 
 <br>
 
-> "It is not difficult to make microbes resistant to penicillin in the laboratory by exposing them to concentrations not sufficient to kill them, and the same thing has occasionally happened in the body. The time may come when penicillin can be bought by anyone in the shops. Then there is the danger that the ignorant man may easily under-dose himself and by exposing his microbes to non-lethal quantities of the drug make them resistant." <br> -Sir Alexander Fleming, Nobel Prize Lecture, December 11, 1945
+> "It is not difficult to make microbes resistant to penicillin in the laboratory by exposing them to concentrations not sufficient to kill them, and the same thing has occasionally happened in the body. The time may come when penicillin can be bought by anyone in the shops. Then there is the danger that the ignorant man may easily under-dose himself and by exposing his microbes to non-lethal quantities of the drug make them resistant." <br> <br> -Sir Alexander Fleming, Nobel Prize Lecture, December 11, 1945
 
 <br> By 1947, Fleming's predictions had come true as the first cases of penicillin resistance were already being reported. Thus began the modern era's "arms race" between new antibiotic discovery and increasing antimicrobial resistance.
 
@@ -152,7 +152,7 @@ Antimicrobials are among the most commonly prescribed drugs used in human medici
 
 In medicine, the concentration of antibiotic prescribing might be highest in inpatient settings, with 30--40% of patients on antibiotics in European hospitals. However, the overall highest *quantity* of antimicrobial consumption is highest in the community setting.
 
-Yet, more antimicrobials are used in food production than in human beings, with marked national differences in the number of antimicrobial drugs used in food producing animals. **It has been estimated that 65% of all antibiotic use per by weight is for food production in animals.**[@BoeckelEtAl2015]Various studies have shown that antimicrobial resistance has, at least in part, emerged as a result of the selective pressure exerted by antimicrobial use outside of human medicine, namely in veterinary medicine, food-animal and fish production, and agriculture. Therefore to effectively AMR, a multifaceted or *ONE-HEALTH* approach is required.
+Yet, more antimicrobials are used in food production than in human beings, with marked national differences in the number of antimicrobial drugs used in food producing animals. **It has been estimated that 73% of all antibiotic use per by weight is for food production in animal.**[@BoeckelEtAl2015]Various studies have shown that antimicrobial resistance has, at least in part, emerged as a result of the selective pressure exerted by antimicrobial use outside of human medicine, namely in veterinary medicine, food-animal and fish production, and agriculture. Therefore to effectively AMR, a multifaceted or *ONE-HEALTH* approach is required.
 
 <figure>
 
@@ -214,6 +214,8 @@ Southern Europe, including Italy, has among the highest rates of resistance for 
 
 ![](images/Italia_CRE.png){width="500"}
 
+</center>
+
 <figcaption>
 
 **Figure 4. Regional differences in carbapenem-resistant Enterobacterales (CRE) bloodstream infection- 2020 incidence per 100,000 residents in Italy.** Source Micronet Resistance Surveillance Program
@@ -222,9 +224,7 @@ Southern Europe, including Italy, has among the highest rates of resistance for 
 
 </figure>
 
-</center>
-
-In 2017, a [report](https://www.ecdc.europa.eu/en/publications-data/ecdc-country-visit-italy-discuss-antimicrobial-resistance-issues) by the the ECDC noted that the AMR situation in Italian hospitals and regions poses a major public health threat to the country. The levels of carbapenem-resistant Enterobacteriaceae (Enterobacterales) (CRE) and *Acinetobacter baumannii* have now reached hyperendemic levels in many hospitals. Together with increasing methicillin-resistance among the Gram-positive species*Staphylococcus aureus* (MRSA), **these resistance trends has led to Italy's ranking as one of the Member States with one of the highest level of antibiotic resistance in Europe.** Factors noted by the ECDC that contributed negatively to the poor control of antibiotic resistance in Italy include:
+<br> In 2017, a [report](https://www.ecdc.europa.eu/en/publications-data/ecdc-country-visit-italy-discuss-antimicrobial-resistance-issues) by the the ECDC noted that the AMR situation in Italian hospitals and regions poses a major public health threat to the country. The levels of carbapenem-resistant Enterobacteriaceae (Enterobacterales) (CRE) and *Acinetobacter baumannii* have now reached hyperendemic levels in many hospitals. Together with increasing methicillin-resistance among the Gram-positive species *Staphylococcus aureus* (MRSA), **these resistance trends has led to Italy's ranking as one of the Member States with one of the highest level of antibiotic resistance in Europe.** Factors noted by the ECDC that contributed negatively to the poor control of antibiotic resistance in Italy include:
 
 -   Little sense of urgency about the current AMR situation from most stakeholders and a tendency by many stakeholders to avoid taking charge of the problem
 -   Lack of institutional support at national, regional and local level
@@ -276,7 +276,7 @@ Because the drivers of antimicrobial resistance lie in humans, animals, plants, 
 
 ### Antibiotic use in animal food production {.unnumbered}
 
-Few antimicrobial classes are reserved exclusively for humans. The vast majority of antibiotics are used both in humans and animals, including domestic mammals, birds, farmed fish and shellfish, honeybees and others. As noted earlier, **65% of all antibiotic consumption per weight is used for food production in animals.** This is an important point because more than two-third of all human infectious diseases that have emerged or re-emerged in recent decades are zoonotic-i.e. they originated in animals [@WoolhouseGowtage-Sequeria2005].
+Few antimicrobial classes are reserved exclusively for humans. The vast majority of antibiotics are used both in humans and animals, including domestic mammals, birds, farmed fish and shellfish, honeybees and others. As noted earlier, **73% of all antibiotic consumption per weight is used for food production in animals.**[@BoeckelEtAl2015]Critically, two-third of all human infectious diseases that have emerged or re-emerged in recent decades are zoonotic-i.e. they originated in animals.[@WoolhouseGowtage-Sequeria2005] Therefore the transmission of antibiotic resistance organisms from the foodchain to humans is a major health concern.
 
 In horticulture, tetracyclines, streptomycin, and other antimicrobials are used for the prophylaxis and treatment of bacterial infections that affect plants (e.g., fire blight *Erwinea amylovora*)
 
@@ -284,16 +284,34 @@ In veterinary medicine, there are major differences in the way antibiotics are u
 
 The most controversial type of group treatment in food animals is long-term, low-dose mass antibiotic treatment for purposes of growth promotion. This practice has a high propensity to select for antimicrobial resistance and is driven by economic factors rather than treatment of clinical infection. The practice was banned by the EU in 2006 but still continues in some countries such as the United States and China.
 
-The reported benefits of using antibiotics for growth promotion is controversial ranges widely in the literature (1-10%). Concerns have been expressed that antimicrobial growth promoters are often used to compensate for poor hygiene/housing and healthy management[@McEwenCollignon2018].
+<figure>
 
-In reality, there are 4 factors that typically determine the health of animals, (e.g., chickens):
+<center>
+
+![](images/pigs.png){width="700"}
+
+<figcaption>
+
+**Figure 7. Pigs in cages, Quanzhou, China.** As the largest consumer of veterinary antimicrobials, China is critical for combating antimicrobial resistance (AMR). From Van Boekel et al.[@VanBoeckelEtAl2017]
+
+</figcaption>
+
+</center>
+
+</figure>
+
+The reported benefits of using antibiotics for growth promotion is controversial and reports of the beneficial effects in terms of weight gains vary widely widely in the literature (1-10%). Concerns have been expressed that antimicrobial growth promoters are often used to compensate for poor hygiene/housing and healthy management.[@McEwenCollignon2018]
+
+Unfortunately, use of antibiotic for growth promotion has increased dramatically with the growing demand in meat-based diets. Since 2000, meat production has plateaued in high-income countries but has grown by 68%, 64%, and 40% in Africa, Asia, and South America, respectively.[@BoeckelEtAl2015] The transition to high-protein diets in low- and middle-income countries (LMICs) has been facilitated by the global expansion of intensive animal production systems, in which antimicrobials are used routinely to maintain health and productivity.
+
+There are 4 factors that typically determine the health of animals, (e.g., chickens):
 
 1.  The genetic stock of the animals
 2.  Adequate nutrition
 3.  Hygiene of living conditions
 4.  Adequate veterinary care
 
-While antibiotics may be able to improve deficiencies in 1 of the 4 areas, if multiple aspects are missing then antimicrobial resistance is unlikely to improve animal health or growth. Ideally, a key goal to reduce antibiotic use in animals is to further strengthen the 4 non-antibiotic aspects that are important to animal health so antibiotics rarely need to be used.
+While antibiotics may be able to improve deficiencies in 1 of the 4 areas, if multiple aspects are missing then antimicrobial resistance is unlikely to improve animal health or growth. Thus, antimicrobials are often surrogates for good hygiene on farms. Ideally, a key goal to reduce antibiotic use in animals is to further strengthen the 4 non-antibiotic aspects that are important to animal health so antibiotic use can be avoided.
 
 Historically, governmental regulations have focused on toxicological dose-response data and the presence of antimicrobial residues in animal tissue, milk or other edible products (i.e. eggs) from treated animals - *so called minimum residue levels (MRLs) compatible with acceptable risk in humans.* While MRLs are well-understood and enforced with testing programs and penalties, these programs do not take into account selection of antimicrobial-resistant pathogens.
 
@@ -309,7 +327,7 @@ In 2022, new [EU legislation](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF
 
 <figcaption>
 
-Figure 7. Antibiotic use in livestock reported in 2010
+**Figure 8. Antibiotic use in livestock reported in 2010.** Source: Our World in Data.
 
 </figcaption>
 
@@ -323,27 +341,27 @@ Third generation cephalosporins (ceftotaxime, ceftriaxone) are widely used for s
 
 Resistance to 3rd generation cephalosporins is mediated by extended-spectrum beta-lactamases (ESBLs) and AmpC enzymes. ESBL genes are highly mobile and transmitted on plasmids, transposons and other genetic elements that can spread horizontally (to surrounding bacteria and different bacterial species) and vertically (to daughter cells through replication). Consequently, resistance can spread rapidly from patient-to-patient and among different bacterial species. In recent years, growing resistance to 3rd generation cephalosporins is common among *Escherichia coli* and *Klebsiella pneumonia* has required greater reliance on the few remaining classes of antimicrobials such as carbapenems.
 
-A number of studies comparing isolates from animals, food and human infections have found a high genetic similarity or clonal isolates that carry the same ESBL genes and plasmids colonizing animals used for food production and isolates causing clinical infections in patients [@LazarusEtAl2015].
+A number of studies comparing isolates from animals, food and human infections have found a high genetic similarity or clonal isolates that carry the same ESBL genes and plasmids colonizing animals used for food production and isolates causing clinical infections in patients.[@LazarusEtAl2015]
 
-Ceftiofur is frequently injected in small quantities to hatching eggs or chicks as metaphylaxis for *Escherichia coli* infections and/or yolk sac infections [@McEwenCollignon2018] (Fig1.7). This practice has been shown to select for cephalosporin resistance in *Salmonella enterica* serovar Heidelberg- an important cause of human illness in many countries that is typically associated with consumption of contaminated poultry products [@SmithEtAl2008a].
+Ceftiofur is frequently injected in small quantities to hatching eggs or chicks as metaphylaxis for *Escherichia coli* infections and/or yolk sac infections.[@McEwenCollignon2018] (Fig1.7) This practice has been shown to select for cephalosporin resistance in *Salmonella enterica* serovar Heidelberg- an important cause of human illness in many countries that is typically associated with consumption of contaminated poultry products.[@SmithEtAl2008a]
 
 <figure>
 
 <center>
 
-![](images/chicken_farm.png){width="500"}
-
-<figcaption>
-
-**Figure 8. Chicken farm in the United States of America.** Image source: The Guardian
-
-</figcaption>
+![](images/chicken_farm.png){width="800"}
 
 </center>
 
+<figcaption>
+
+**Figure 9. Chicken farm in the United States of America.** Image source: The Guardian
+
+</figcaption>
+
 </figure>
 
-Studies conducted by the Canadian Integrated Program for Antimicrobial Resistance Surveillance detected a high degree of temporal correlation in trends of resistance to ceftiofur and ceftriaxone (a drug of choice for the treatment of severe cases of salmonellosis in children and pregnant women) among *Salmonella* Heidelberg from clinical infections in humans, from poultry samples collected at retail stores, and in *E. coli* from poultry samples collected at retail stores[@Canada2009]. Voluntary termination of ceftiofur metaphylaxis in hatcheries in the province of Quebec was followed by a precipitous drop in the prevalence of resistance to ceftiofur; subsequent reintroduction of ceftiofur in a more limited way was followed by a return to higher levels of resistance (Fig 1.9)
+Studies conducted by the Canadian Integrated Program for Antimicrobial Resistance Surveillance detected a high degree of temporal correlation in trends of resistance to ceftiofur and ceftriaxone (a drug of choice for the treatment of severe cases of salmonelloses in children and pregnant women) among *Salmonella* Heidelberg from clinical infections in humans, from poultry samples collected at retail stores, and in *E. coli* from poultry samples collected at retail stores[@Canada2009]. Voluntary termination of ceftiofur metaphylaxis in hatcheries in the province of Quebec was followed by a precipitous drop in the prevalence of resistance to ceftiofur; subsequent reintroduction of ceftiofur in a more limited way was followed by a return to higher levels of resistance (Fig 1.9)
 
 <figure>
 
@@ -351,11 +369,11 @@ Studies conducted by the Canadian Integrated Program for Antimicrobial Resistanc
 
 <center>
 
-![](images/Canada_ecoli.png){width="500"}
+![](images/Canada_ecoli.png){width="700"}
 
 <figcaption>
 
-**Figure 9. Ceftiofur resistance in chicken and human *Salmonella* Heidelberg and chicken *E. coli*.** [@Canada2009]
+**Figure 10. Ceftiofur resistance in chicken and human *Salmonella* Heidelberg and chicken *E. coli*.** [@Canada2009]
 
 </figcaption>
 
@@ -385,7 +403,9 @@ However, use of intravenous colistin has surged in the last decade with the incr
 
 -   In 2017, China banned the use of colistin as a food additive for animals. Colistin is currently not approved as a food additive in Europe or the United States, but is still be used in LMICs as a growth promoting agent.
 
-### Resistance in LMICs {.unnumbered}
+### Antimicrobial resistance in animals in LMICs {.unnumbered}
+
+Many farmers in LMICs are sustenance farmers, and their livelihood is at stake if an animal becomes ills. Therefore, they may not have the resources for optimally nutritious feed and housing space/conditions. These challenges, combined with looser regulations on veterinary drugs, may facilitate the use of antimicrobials in feeding.[@BoeckelEtAl2015]
 
 <figure>
 
@@ -395,11 +415,19 @@ However, use of intravenous colistin has surged in the last decade with the incr
 
 <figcaption>
 
-**Figure 10. Global hotsports of antimicrobial resistance in animals.** Data source: <https://resistancebank.org/>
+**Figure 11. Global hotspots of antimicrobial resistance in animals.** Data source [resistancebank.org](https://resistancebank.org/)
 
 </figcaption>
 
 </figure>
+
+The largest hotspots of AMR in animals were in Asia and India. Asia is home to 56% of the world's pigs and 54% of the chickens. Other growing hotspots of AMR are found in central India and Kenya, where resistance to multiple drugs has appeared but not yet reached 50%.
+
+These data suggest that in areas such as Asia, targeted interventions such as legislative action and subsidies to improve farm hygiene could reduce the need for antimicrobials in animal production, thereby preserving important drugs for human medicine and the treatment of sick animals. In these regions, meat consumption is still low and animal production is gradually intensifying. Here, there may be a window of opportunity to contain AMR by imposing strict hygiene standards in newly built farms. This approach could reduce the risk of the spread of resistant pathogens such as *mcr*1--carrying *E. coli* that have emerged in regions where intensive meat production has been facilitated by enormous quantities of veterinary antimicrobials.
+
+In Africa, resistance maps reveal the absence of major AMR hotspots, except for the Johannesburg metropolitan area. This suggests, on the basis of the regions surveyed, that Africa probably bears proportionately less of the current global burden of AMR than high- and upper- to middle income countries. Policy-makers coordinating an international response to AMR might therefore spare Africa from the most aggressive measures, which may undermine livestock-based economic development and rightfully be perceived as unfair.
+
+Clearly the the transition to sustainable animal production in both HIC and LMICs with improvements in farm-level biosafety and biosecurity are essential to reduce the future risk of AMR.
 
 ```{=html}
 <style>
@@ -426,7 +454,7 @@ General measures to address antimicrobial resistance in the wider environment in
 
 <center>
 
-![](images/hotspots.png){width="500"}
+![](images/hotspots.png){width="800"}
 
 <figcaption>
 
@@ -441,6 +469,22 @@ General measures to address antimicrobial resistance in the wider environment in
 ## AMR in Low-Middle Income Countries (LMICs) {.unnumbered}
 
 COVID-19 has focused global attention on the inequitable access to the tools needed to control the pandemic, with high-income countries (HICs) and low- and middle-income countries (LMICs) at opposite ends of the scale. In the case of antibiotic resistance, a pandemic projected to cause four times more deaths per year than occurred from COVID-19 during 2020, inequity between HICs and LMICs is a major challenge:[@Mendelson2021]
+
+<figure>
+
+<center>
+
+![](images/ft_vaccine%20differences.png){width="800"}
+
+</center>
+
+<figcaption>
+
+**Figure 11. Progress on vaccinations by GDP per capita, circle size represents population. Source:** [Financial Times](https://www.ft.com/visual-and-data-journalism)
+
+</figcaption>
+
+</figure>
 
 -   Lack of access to antibiotics in some poorer countries, a driver of mortality particularly in children under 5 years of age;
 -   Lack of access to newer, expensive antibiotics needed to treat the increasing toll of MDR and XDR bacterial infections;
@@ -465,15 +509,15 @@ As discussed above, the emergence of antimicrobial resistance (AMR) is a complex
 
 <center>
 
-![](images/gdp.png){width="600"}
+![](images/gdp.png){width="800"}
+
+</center>
 
 <figcaption>
 
-**Figure 10. Prevalence of third-generation cephalosporin-resistant (3GCR)Klebsiella spp .by gross national income per capita and predicted values with 95% confidence intervals according to a linear regression model.** Data are from reference. [@Alvarez-UriaEtAl2016].
+**Figure 12. Prevalence of third-generation cephalosporin-resistant (3GCR)Klebsiella spp .by gross national income per capita and predicted values with 95% confidence intervals according to a linear regression model.** Data are from reference. [@Alvarez-UriaEtAl2016].
 
 </figcaption>
-
-</center>
 
 </figure>
 
@@ -487,11 +531,11 @@ What are the possible solutions? Recently COVID-19 has refocused attention that 
 
 <center>
 
-![](images/worldairlineroute2014.png){width="500"}
+![](images/worldairlineroute2014.png){width="800"}
 
 <figcaption>
 
-Figure 11. World airline travel routes in 2014
+**Figure 11. World airline travel routes in 2014.** Photo credit Jpatokal/Wikimedia (CC BY-SA 2.5)
 
 </figcaption>
 
@@ -531,7 +575,7 @@ Table 1.2 Global successes and shortcomings in the multilateral response to the 
 |                                                    |                                                                                                                                               | -   Restrictions on travel to countries of high COVID-19 incidence contribute little to control in these countries |
 +----------------------------------------------------+-----------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------+
 
-The actions of the EU during the pandemic illustrate the tension between short-term nationalistic incentives and long-term imperatives for cooperation towards achieving global public goods such as reducing antimicrobial resistance. The EU has struggled to balance preferences of individual member-states (and those of their political leaderships), with the collective interests of all member-states. Such tensions are especially challenging when health care and health policy issues are involved, given how these have hitherto remained largely the responsibility of the member-states. In a pandemic, this can lead to inertia and political indecisiveness at the EU level, with member-states filling the gap with potentially contradictory or competing decisions.
+**The actions of the EU during the pandemic illustrate the tension between short-term nationalistic incentives and long-term imperatives for cooperation towards achieving global public goods such as reducing antimicrobial resistance.** The EU has struggled to balance preferences of individual member-states (and those of their political leaderships), with the collective interests of all member-states. Such tensions are especially challenging when health care and health policy issues are involved, given how these have hitherto remained largely the responsibility of the member-states. In a pandemic, this can lead to inertia and political indecisiveness at the EU level, with member-states filling the gap with potentially contradictory or competing decisions.
 
 Looking ahead, it is likely that there will be several changes to the global health architecture, possibly including a new pandemic treaty and additional international collaborative mechanisms to promote preparedness and coordinate responses. In the following sections, we explore what those developments might look like in three key areas.
 
