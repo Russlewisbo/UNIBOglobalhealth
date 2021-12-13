@@ -170,6 +170,94 @@ Yet, more antimicrobials are used in food production than in human beings, with 
 
 </figure>
 
+## AMR in Low-Middle Income Countries (LMICs) {.unnumbered}
+
+COVID-19 has focused global attention on the inequitable access to the tools needed to control the pandemic, with high-income countries (HICs) and low- and middle-income countries (LMICs) at opposite ends of the scale. In the case of antibiotic resistance, a pandemic projected to cause four times more deaths per year than occurred from COVID-19 during 2020, inequity between HICs and LMICs is a major challenge:[@Mendelson2021]
+
+```{=html}
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+```
+::: blue
+**How is LMIC defined?** The World Bank defines lower middle income economies as countries where the per capita gross national income (GNI) falls between \$1,026 and \$3,955. The countries that are part of the upper MIC classification with a GNI that falls between \$3,956 and \$12,475.
+:::
+
+LMICs are particularly susceptible to the emergence and rapid spread of AMR for several reasons:
+
+-   High population density
+-   Lack of access to clean water, suboptimal sewage systems, poor sanitation
+-   Poor healthcare infection control practices
+-   Increasing consumption of antimicrobials in humans
+-   Lack of regulation on antimicrobial use in farming, and pharmaceutical industry pollution
+
+<br> The health and economic impact of AMR is also more severe and longer lasting in LMICs versus HICs. AMR is generally associated with:
+
+-   Increased mortality and health costs
+
+-   Antibiotics effective against AMR are more expensive and not affordable for many patients
+
+-   Increasing use of antibiotics with efficacy against AMR leads to higher resistance to "last-line" antibiotics
+
+    -   In fact, carbapenem consumption is increasing at a rapid pace in poor economies.[@KleinEtAl2021a] <br>
+
+        <figure>
+
+<center>
+
+![](images/ft_vaccine%20differences.png){width="800"}
+
+</center>
+
+<figcaption>
+
+**Figure 4. Progress on vaccinations by GDP per capita, circle size represents population. Source:** [Financial Times](https://www.ft.com/visual-and-data-journalism)
+
+</figcaption>
+
+</figure>
+
+-   Lack of access to antibiotics in some poorer countries, a driver of mortality particularly in children under 5 years of age;
+-   Lack of access to newer, expensive antibiotics needed to treat the increasing toll of MDR and XDR bacterial infections;
+-   Inequity in ability to provide the basic public health interventions that drive many of the social determinants of infectious diseases in LMICs
+
+The singular effectiveness of access to clean water, sanitation and hygiene, called [WASH,](https://www.who.int/health-topics/water-sanitation-and-hygiene-wash) in preventing the spread of disease is well understood, yet billions of people around the world still lack access to these necessities.[@BurgmannEtAl2018]
+
+-   Currently, 2.1 billion people live without access to safe drinking water and 4.5 billion people are without access to adequate sanitation.
+-   Every day, 1300 children under 5 die from preventable diarrhoeal diseases, including cholera, caused by contaminated water and poor sanitation.
+-   1 in 3 healthcare facilities lacks soap and water or hand sanitizer where staff provide patient care. Billions of patients worldwide must rely on these facilities.
+-   In some countries, up to 90% of women receive routine prophylactic antibiotics during childbirth, highlighting the conditions under which they are delivering their babies and what would cause the inevitability of infection
+
+The cumulative lack of WASH adds up to children and adults not only getting unnecessarily sick---with the associated suffering, medical costs and loss of income or schooling---they are relying on antibiotics to get better.[@Denny2021a] The challenge here is that WASH is a public works solution for a public health problem. WASH is not a pill or 'quick fix'. It requires capital investment, system strengthening, and behaviour change to ensure that clean water and functional toilets are available and utilized day-in and day-out. These issues require a different set of skills than those possessed by medical and public health professionals.
+
+In LMICs, an estimated 670 million people still practice [open defaecation in 2017](https://blogs.worldbank.org/opendata/open-defeca%20tion-nearly-halved-2000-still-practiced-670-million), and only one in three people have access to safe drinking water, resulting in high rates of diarrheal disease and equally large amounts of inappropriate antibiotic use.[@Denny2021] According to [WHO surveys](https://www.who.int/news-room/%20fact-sheets/detail/immunization-coverage.), vaccination, a cornerstone of infection prevention and reducing the need for antibiotic use, is suboptimal in both HICs and LMICs. In 2019, global third-dose coverage for childhood pneumococcal vaccination in 149 member states was only 48%, and global rotavirus vaccine coverage was estimated at 39%. In South Africa, middle-income country, procures less than 1 million doses of influenza vaccine for its annual influenza season, despite in excess of 10 million people being identified as high-risk for influenza and prioritized for vaccination.[@Mendelson2021]
+
+Optimizing infection prevention on farms and making improvements to housing conditions and feed to reduce illness in animals is also critical in food production to offset the need for antibiotic growth promotion or metaphylaxis in food production animals. While there has been progress in the reduction of antibiotic use in farms in the EU and other HICs, attention nor funding for such improvements in LMICs has not even been proposed. "It's one thing being told to reduce your antibiotic use in food production, it's another to have the means to do so, even for the most committed resource-poor farmer.[@Mendelson2021]
+
+As discussed above, the emergence of antimicrobial resistance (AMR) is a complex phenomenon and is intensified by selective pressure through antibiotic use in humans, animals, and agriculture. The transmission of AMR to humans occurs from contact with animals (including food), other humans, and the environment. Transmission is facilitated by several factors, including high population density, lack of access to clean water, suboptimal sewage systems, poor sanitation, and poor healthcare infection control practices, all of which are more common in LMICs. With the increasing consumption of antimicrobials in humans, lack of regulation on antimicrobial use in farming, and pharmaceutical industry pollution, it may not be surprising that relatively higher levels of AMR among human pathogens are being reported from LMIC.
+
+<figure>
+
+<center>
+
+![](images/gdp.png){width="800"}
+
+</center>
+
+<figcaption>
+
+**Figure 5. Prevalence of third-generation cephalosporin-resistant (3GCR) Klebsiella spp. by gross national income per capita and predicted values with 95% confidence intervals according to a linear regression model.** Data are from reference. [@Alvarez-UriaEtAl2016].
+
+</figcaption>
+
+</figure>
+
+The impact of
+
+The international focus on awareness, surveillance, infection prevention, stewardship and research and development (R&D) of new antibiotics is actually widening the equity gap by pouring millions of dollars into R&D of new antibiotics and surveillance systems, while the intervention that could benefit LMICs the most, infection prevention, has received a relatively few resources.
+
+What are the possible solutions? Recently COVID-19 has refocused attention that in infectious diseases The Access to COVID-19 Tools (ACT)-Accelerator that we will discuss in Model 2 has shown that financial contributions from HICs to a LMIC-pool can improve equitable access to diagnostics, therapeutics and vaccines, but it is conceivable that the same model could be broadened to encompass tools that would support major social change for AMR.
+
 ### How can the effectiveness of antimicrobials be preserved? {.unnumbered}
 
 Strategies for the prevention and containment of AMR often focus on:
@@ -188,7 +276,7 @@ Antimicrobial stewardship is a coordinated program that promotes and focuses on 
 
 <figcaption>
 
-**Figure 4. Examples of antimicrobial stewardship efforts and outcomes**. Source: [ECDC](https://antibiotic.ecdc.europa.eu/en/infographics-about-antibiotic-stewardship-programmes)
+**Figure 6. Examples of antimicrobial stewardship efforts and outcomes**. Source: [ECDC](https://antibiotic.ecdc.europa.eu/en/infographics-about-antibiotic-stewardship-programmes)
 
 </figcaption>
 
@@ -218,7 +306,7 @@ Southern Europe, including Italy, has among the highest rates of resistance for 
 
 <figcaption>
 
-**Figure 4. Regional differences in carbapenem-resistant Enterobacterales (CRE) bloodstream infection- 2020 incidence per 100,000 residents in Italy.** Source Micronet Resistance Surveillance Program
+**Figure 7. Regional differences in carbapenem-resistant Enterobacterales (CRE) bloodstream infection- 2020 incidence per 100,000 residents in Italy.** Source Micronet Resistance Surveillance Program
 
 </figcaption>
 
@@ -246,7 +334,7 @@ Southern Europe, including Italy, has among the highest rates of resistance for 
 
 <figcaption>
 
-**Figure 5. Projected deaths due to antimicrobial resistance in 2050.** Source: O'Neil Report. [@ONeill2016]
+**Figure 8. Projected deaths due to antimicrobial resistance in 2050.** Source: O'Neil Report. [@ONeill2016]
 
 </figcaption>
 
@@ -266,7 +354,7 @@ Because the drivers of antimicrobial resistance lie in humans, animals, plants, 
 
 <figcaption>
 
-**Figure 6. Rationale for one-health model for addressing AMR**. Source: WHO
+**Figure 9. Rationale for one-health model for addressing AMR**. Source: WHO
 
 </figcaption>
 
@@ -292,7 +380,7 @@ The most controversial type of group treatment in food animals is long-term, low
 
 <figcaption>
 
-**Figure 7. Pigs in cages, Quanzhou, China.** As the largest consumer of veterinary antimicrobials, China is critical for combating antimicrobial resistance (AMR). From Van Boekel et al.[@VanBoeckelEtAl2017]
+**Figure 10. Pigs in cages, Quanzhou, China.** As the largest consumer of veterinary antimicrobials, China is critical for combating antimicrobial resistance (AMR). From Van Boekel et al.[@VanBoeckelEtAl2017]
 
 </figcaption>
 
@@ -327,7 +415,7 @@ In 2022, new [EU legislation](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF
 
 <figcaption>
 
-**Figure 8. Antibiotic use in livestock reported in 2010.** Source: Our World in Data.
+**Figure 11. Antibiotic use in livestock reported in 2010.** Source: Our World in Data.
 
 </figcaption>
 
@@ -355,7 +443,7 @@ Ceftiofur is frequently injected in small quantities to hatching eggs or chicks 
 
 <figcaption>
 
-**Figure 9. Chicken farm in the United States of America.** Image source: The Guardian
+**Figure 12. Chicken farm in the United States of America.** Image source: The Guardian
 
 </figcaption>
 
@@ -373,7 +461,7 @@ Studies conducted by the Canadian Integrated Program for Antimicrobial Resistanc
 
 <figcaption>
 
-**Figure 10. Ceftiofur resistance in chicken and human *Salmonella* Heidelberg and chicken *E. coli*.** [@Canada2009]
+**Figure 13. Ceftiofur resistance in chicken and human *Salmonella* Heidelberg and chicken *E. coli*.** [@Canada2009]
 
 </figcaption>
 
@@ -415,7 +503,7 @@ Many farmers in LMICs are sustenance farmers, and their livelihood is at stake i
 
 <figcaption>
 
-**Figure 11. Global hotspots of antimicrobial resistance in animals.** Data source [resistancebank.org](https://resistancebank.org/)
+**Figure 14. Global hotspots of antimicrobial resistance in animals.** Data source [resistancebank.org](https://resistancebank.org/)
 
 </figcaption>
 
@@ -458,72 +546,13 @@ General measures to address antimicrobial resistance in the wider environment in
 
 <figcaption>
 
-**Figure 10. Hotspots of antimicrobial resistance.**
+**Figure 15. Hotspots of antimicrobial resistance.**
 
 </figcaption>
 
 </center>
 
 </figure>
-
-## AMR in Low-Middle Income Countries (LMICs) {.unnumbered}
-
-COVID-19 has focused global attention on the inequitable access to the tools needed to control the pandemic, with high-income countries (HICs) and low- and middle-income countries (LMICs) at opposite ends of the scale. In the case of antibiotic resistance, a pandemic projected to cause four times more deaths per year than occurred from COVID-19 during 2020, inequity between HICs and LMICs is a major challenge:[@Mendelson2021]
-
-<figure>
-
-<center>
-
-![](images/ft_vaccine%20differences.png){width="800"}
-
-</center>
-
-<figcaption>
-
-**Figure 11. Progress on vaccinations by GDP per capita, circle size represents population. Source:** [Financial Times](https://www.ft.com/visual-and-data-journalism)
-
-</figcaption>
-
-</figure>
-
--   Lack of access to antibiotics in some poorer countries, a driver of mortality particularly in children under 5 years of age;
--   Lack of access to newer, expensive antibiotics needed to treat the increasing toll of MDR and XDR bacterial infections;
--   Inequity in ability to provide the basic public health interventions that drive many of the social determinants of infectious diseases in LMICs
-
-The singular effectiveness of access to clean water, sanitation and hygiene, called [WASH,](https://www.who.int/health-topics/water-sanitation-and-hygiene-wash) in preventing the spread of disease is well understood, yet billions of people around the world still lack access to these necessities.[@BurgmannEtAl2018]
-
--   Currently, 2.1 billion people live without access to safe drinking water and 4.5 billion people are without access to adequate sanitation.
--   Every day, 1300 children under 5 die from preventable diarrhoeal diseases, including cholera, caused by contaminated water and poor sanitation.
--   1 in 3 healthcare facilities lacks soap and water or hand sanitizer where staff provide patient care. Billions of patients worldwide must rely on these facilities.
--   In some countries, up to 90% of women receive routine prophylactic antibiotics during childbirth, highlighting the conditions under which they are delivering their babies and what would cause the inevitability of infection
-
-The cumulative lack of WASH adds up to children and adults not only getting unnecessarily sick---with the associated suffering, medical costs and loss of income or schooling---they are relying on antibiotics to get better.[@Denny2021a] The challenge here is that WASH is a public works solution for a public health problem. WASH is not a pill or 'quick fix'. It requires capital investment, system strengthening, and behaviour change to ensure that clean water and functional toilets are available and utilized day-in and day-out. These issues require a different set of skills than those possessed by medical and public health professionals.
-
-In LMICs, an estimated 670 million people still practice [open defaecation in 2017](https://blogs.worldbank.org/opendata/open-defeca%20tion-nearly-halved-2000-still-practiced-670-million), and only one in three people have access to safe drinking water, resulting in high rates of diarrheal disease and equally large amounts of inappropriate antibiotic use.[@Denny2021] According to [WHO surveys](https://www.who.int/news-room/%20fact-sheets/detail/immunization-coverage.), vaccination, a cornerstone of infection prevention and reducing the need for antibiotic use, is suboptimal in both HICs and LMICs. In 2019, global third-dose coverage for childhood pneumococcal vaccination in 149 member states was only 48%, and global rotavirus vaccine coverage was estimated at 39%. In South Africa, middle-income country, procures less than 1 million doses of influenza vaccine for its annual influenza season, despite in excess of 10 million people being identified as high-risk for influenza and prioritized for vaccination.[@Mendelson2021]
-
-Optimizing infection prevention on farms and making improvements to housing conditions and feed to reduce illness in animals is also critical in food production to offset the need for antibiotic growth promotion or metaphylaxis in food production animals. While there has been progress in the reduction of antibiotic use in farms in the EU and other HICs, attention nor funding for such improvements in LMICs has not even been proposed. "It's one thing being told to reduce your antibiotic use in food production, it's another to have the means to do so, even for the most committed resource-poor farmer.[@Mendelson2021]
-
-As discussed above, the emergence of antimicrobial resistance (AMR) is a complex phenomenon and is intensified by selective pressure through antibiotic use in humans, animals, and agriculture. The transmission of AMR to humans occurs from contact with animals (including food), other humans, and the environment. Transmission is facilitated by several factors, including high population density, lack of access to clean water, suboptimal sewage systems, poor sanitation, and poor healthcare infection control practices, all of which are more common in LMICs. With the increasing consumption of antimicrobials in humans, lack of regulation on antimicrobial use in farming, and pharmaceutical industry pollution, it may not be surprising that relatively higher levels of AMR among human pathogens are being reported from LMIC.
-
-<figure>
-
-<center>
-
-![](images/gdp.png){width="800"}
-
-</center>
-
-<figcaption>
-
-**Figure 12. Prevalence of third-generation cephalosporin-resistant (3GCR)Klebsiella spp .by gross national income per capita and predicted values with 95% confidence intervals according to a linear regression model.** Data are from reference. [@Alvarez-UriaEtAl2016].
-
-</figcaption>
-
-</figure>
-
-The international focus on awareness, surveillance, infection prevention, stewardship and research and development (R&D) of new antibiotics is actually widening the equity gap by pouring millions of dollars into R&D of new antibiotics and surveillance systems, while the intervention that could benefit LMICs the most, infection prevention, has received a relatively few resources.
-
-What are the possible solutions? Recently COVID-19 has refocused attention that in infectious diseases The Access to COVID-19 Tools (ACT)-Accelerator that we will discuss in Model 2 has shown that financial contributions from HICs to a LMIC-pool can improve equitable access to diagnostics, therapeutics and vaccines, but it is conceivable that the same model could be broadened to encompass tools that would support major social change for AMR.
 
 ## Cross-border spread of AMR {.unnumbered}
 
@@ -535,7 +564,7 @@ What are the possible solutions? Recently COVID-19 has refocused attention that 
 
 <figcaption>
 
-**Figure 11. World airline travel routes in 2014.** Photo credit Jpatokal/Wikimedia (CC BY-SA 2.5)
+**Figure 16. World airline travel routes in 2014.** Photo credit Jpatokal/Wikimedia (CC BY-SA 2.5)
 
 </figcaption>
 
