@@ -173,6 +173,8 @@ Yet, more antimicrobials are used in food production than in human beings, with 
 
 ## AMR in Low-Middle Income Countries (LMICs) {.unnumbered}
 
+AMR is a global problem, but its prevalence across the globe varies with antibiotic consumption, access to clean water and adequate sanitation, vaccination coverage, and access to quality healthcare. The latest WHO report, based on AMR data from 66 countries, illustrates an alarming picture of the global status of AMR as an increasing number of countries are now reporting high rates of resistance among antimicrobials used to treat common infections
+
 COVID-19 has focused global attention on the inequitable access to the tools needed to control the pandemic, with high-income countries (HICs) and low- and middle-income countries (LMICs) at opposite ends of the scale. In the case of antibiotic resistance, a pandemic projected to cause four times more deaths per year than occurred from COVID-19 during 2020, inequity between HICs and LMICs is a major challenge:[@Mendelson2021]
 
 ```{=html}
