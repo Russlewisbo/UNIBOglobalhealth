@@ -1,6 +1,7 @@
 ---
 title: "97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES"
 subtitle: "Global Aspects of Antimicrobial Resistance"
+titlerunning: "Antibiotic Resistance"
 author: "Russell E. Lewis, Associate Professor, Infectious Diseases, University of Bologna"
 orcid id: 0000-0002-2002-4339
 date: "11/26/2022"
@@ -240,19 +241,33 @@ As discussed above, the emergence of antimicrobial resistance (AMR) is a complex
 
 <center>
 
-![](images/gdp.png){width="800"}
-
 </center>
+
+![](images/worldwideresistance.png)
 
 <figcaption>
 
-**Figure 5. Prevalence of third-generation cephalosporin-resistant (3GCR) Klebsiella spp. by gross national income per capita and predicted values with 95% confidence intervals according to a linear regression model.** Data are from reference. [@Alvarez-UriaEtAl2016].
+**Figure X. Global antibiotic use and resistance by income class.** (A) High-income countries (HICs); and (B) Low-Middle Income Countries (LMICs).
 
 </figcaption>
 
 </figure>
 
-The impact of
+<figure>
+
+<center>
+
+![](images/DRI.png){width="800"}
+
+<figcaption>
+
+**Figure X. Drug resistance index (DRI) across countries**. The drug resistance index is a composite score derived by multiplying the proportion of each antibiotic used to treat a set of pathogens by the proportion of all isolates that were resistant to that drug.\[@CenterforDiseaseDynamicsEconomicsandPolicy2021\] Blue bars represent high-income countries (HICs) dark blue bars represent low-middle income countries (LMICs).
+
+</figcaption>
+
+</figure>
+
+</center>
 
 The international focus on awareness, surveillance, infection prevention, stewardship and research and development (R&D) of new antibiotics is actually widening the equity gap by pouring millions of dollars into R&D of new antibiotics and surveillance systems, while the intervention that could benefit LMICs the most, infection prevention, has received a relatively few resources.
 
