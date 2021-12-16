@@ -2,7 +2,6 @@
 title: "97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES"
 subtitle: "Global Aspects of Antimicrobial Resistance"
 titlerunning: "Antibiotic Resistance"
-zotero: false
 author: "Russell E. Lewis, Associate Professor, Infectious Diseases, University of Bologna"
 orcid id: 0000-0002-2002-4339
 date: "11/26/2022"
