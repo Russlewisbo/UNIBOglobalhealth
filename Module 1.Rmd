@@ -92,7 +92,7 @@ Recognizing the growing global threat of antibiotic resistance (AMR) on human he
 4.  Optimization the use of antimicrobial medicines in human and animal health
 5.  Development of an economic case for sustainable investment in AMR research that takes account of the needs of all countries, and increase investment in new medicines, diagnostic tools, vaccines and other interventions
 
-The WHO also proposed a [Priority Pathogen List](https://www.who.int/medicines/publications/WHO-PPL-Short_Summary_25Feb-ET_NM_WHO.pdf) for research and development of new antibiotics and established a global antimicrobial use and surveillance program. \[@World_Heath_Organization2021-rr\]. This list includes bacterial pathogens that are considered to be be the biggest threat to human health in addition to *Mycobacterium tuberculosis.* The WHO list breaks down pathogens into three groups:
+The WHO also proposed a [Priority Pathogen List](https://www.who.int/medicines/publications/WHO-PPL-Short_Summary_25Feb-ET_NM_WHO.pdf) for research and development of new antibiotics and established a global antimicrobial use and surveillance program. This list includes bacterial pathogens that are considered to be be the biggest threat to human health in addition to *Mycobacterium tuberculosis.* The WHO list breaks down pathogens into three groups:
 
 <figure>
 
@@ -132,7 +132,7 @@ The WHO also proposed a [Priority Pathogen List](https://www.who.int/medicines/p
 
 </figure>
 
-These pathogens may exhibit multi-drug resistance (MDR), extensive drug resistance (XDR) or pan-drug resistance (PDR).[@Magiorakos2012-mq\] Difficult-to-treat resistance (DTR) is a newer definition used to define isolate resistance patterns that require the use of less-effective or more toxic "reserve" antibiotics- e.g., *Acinetobacter baumanii* susceptible only to colistin and tobramycin.\[@Kadri2018-dp]
+These pathogens may exhibit multi-drug resistance (MDR), extensive drug resistance (XDR) or pan-drug resistance (PDR). [@MagiorakosEtAl2012a\] Difficult-to-treat resistance (DTR) is a newer definition used to define isolate resistance patterns that require the use of less-effective or more toxic "reserve" antibiotics- e.g., *Acinetobacter baumanii* susceptible only to colistin and tobramycin.\[@KadriEtAl2018a]
 
 ```{=html}
 <style>
@@ -153,7 +153,7 @@ Antimicrobials are among the most commonly prescribed drugs used in human medici
 
 In medicine, the concentration of antibiotic prescribing might be highest in inpatient settings, with 30--40% of patients on antibiotics in European hospitals. However, the overall highest *quantity* of antimicrobial consumption is highest in the community setting.
 
-Yet, more antimicrobials are used in food production than in human beings, with marked national differences in the number of antimicrobial drugs used in food producing animals. **It has been estimated that 73% of all antibiotic use per by weight is for food production in animal.**\[@Van_Boeckel2015-tn\]Various studies have shown that antimicrobial resistance has, at least in part, emerged as a result of the selective pressure exerted by antimicrobial use outside of human medicine, namely in veterinary medicine, food-animal and fish production, and agriculture. Therefore to effectively AMR, a multifaceted or *ONE-HEALTH* approach is required.
+Yet, more antimicrobials are used in food production than in human beings, with marked national differences in the number of antimicrobial drugs used in food producing animals. **It has been estimated that 73% of all antibiotic use per by weight is for food production in animal.** [@VanBoeckelEtAl2017]Various studies have shown that antimicrobial resistance has, at least in part, emerged as a result of the selective pressure exerted by antimicrobial use outside of human medicine, namely in veterinary medicine, food-animal and fish production, and agriculture. Therefore to effectively AMR, a multifaceted or *ONE-HEALTH* approach is required.
 
 <figure>
 
@@ -163,7 +163,7 @@ Yet, more antimicrobials are used in food production than in human beings, with 
 
 <figcaption>
 
-**Figure 3. Modifiable risk factors that drive antimicrobial resistance**. Figure from Homes et al. [@Holmes2016-qs]
+**Figure 3. Modifiable risk factors that drive antimicrobial resistance**. Figure from Homes et al. [@HolmesEtAl2016b]
 
 </figcaption>
 
@@ -175,7 +175,7 @@ Yet, more antimicrobials are used in food production than in human beings, with 
 
 AMR is a global problem, but its prevalence across the globe varies with antibiotic consumption, access to clean water and adequate sanitation, vaccination coverage, and access to quality healthcare. The latest WHO report, based on AMR data from 66 countries, illustrates an alarming picture of the global status of AMR as an increasing number of countries are now reporting high rates of resistance among antimicrobials used to treat common infections
 
-COVID-19 has focused global attention on the inequitable access to the tools needed to control the pandemic, with high-income countries (HICs) and low- and middle-income countries (LMICs) at opposite ends of the scale. In the case of antibiotic resistance, a pandemic projected to cause four times more deaths per year than occurred from COVID-19 during 2020, inequity between HICs and LMICs is a major challenge:[@Mendelson2016-zx]
+COVID-19 has focused global attention on the inequitable access to the tools needed to control the pandemic, with high-income countries (HICs) and low- and middle-income countries (LMICs) at opposite ends of the scale. In the case of antibiotic resistance, a pandemic projected to cause four times more deaths per year than occurred from COVID-19 during 2020, inequity between HICs and LMICs is a major challenge:[@MendelsonEtAl2016]
 
 ```{=html}
 <style>
@@ -202,7 +202,7 @@ LMICs are particularly susceptible to the emergence and rapid spread of AMR for 
 
 -   Increasing use of antibiotics with efficacy against AMR leads to higher resistance to "last-line" antibiotics
 
-    -   In fact, carbapenem consumption is increasing at a rapid pace in poor economies.[@Klein2021-dl] <br>
+    -   In fact, carbapenem consumption is increasing at a rapid pace in poor economies.[@KleinEtAl2021a]<br>
 
         <figure>
 
@@ -224,16 +224,16 @@ LMICs are particularly susceptible to the emergence and rapid spread of AMR for 
 -   Lack of access to newer, expensive antibiotics needed to treat the increasing toll of MDR and XDR bacterial infections;
 -   Inequity in ability to provide the basic public health interventions that drive many of the social determinants of infectious diseases in LMICs
 
-The singular effectiveness of access to clean water, sanitation and hygiene, called [WASH,](https://www.who.int/health-topics/water-sanitation-and-hygiene-wash) in preventing the spread of disease is well understood, yet billions of people around the world still lack access to these necessities.[@Burgmann2018-sc]
+The singular effectiveness of access to clean water, sanitation and hygiene, called [WASH,](https://www.who.int/health-topics/water-sanitation-and-hygiene-wash) in preventing the spread of disease is well understood, yet billions of people around the world still lack access to these necessities.[@BurgmannEtAl2018]
 
 -   Currently, 2.1 billion people live without access to safe drinking water and 4.5 billion people are without access to adequate sanitation.
 -   Every day, 1300 children under 5 die from preventable diarrhoeal diseases, including cholera, caused by contaminated water and poor sanitation.
 -   1 in 3 healthcare facilities lacks soap and water or hand sanitizer where staff provide patient care. Billions of patients worldwide must rely on these facilities.
 -   In some countries, up to 90% of women receive routine prophylactic antibiotics during childbirth, highlighting the conditions under which they are delivering their babies and what would cause the inevitability of infection
 
-The cumulative lack of WASH adds up to children and adults not only getting unnecessarily sick---with the associated suffering, medical costs and loss of income or schooling---they are relying on antibiotics to get better.[@Denny2021-ag] The challenge here is that WASH is a public works solution for a public health problem. WASH is not a pill or 'quick fix'. It requires capital investment, system strengthening, and behaviour change to ensure that clean water and functional toilets are available and utilized day-in and day-out. These issues require a different set of skills than those possessed by medical and public health professionals.
+The cumulative lack of WASH adds up to children and adults not only getting unnecessarily sick---with the associated suffering, medical costs and loss of income or schooling---they are relying on antibiotics to get better.[@Denny2021a] The challenge here is that WASH is a public works solution for a public health problem. WASH is not a pill or 'quick fix'. It requires capital investment, system strengthening, and behaviour change to ensure that clean water and functional toilets are available and utilized day-in and day-out. These issues require a different set of skills than those possessed by medical and public health professionals.
 
-In LMICs, an estimated 670 million people still practice [open defaecation in 2017](https://blogs.worldbank.org/opendata/open-defeca%20tion-nearly-halved-2000-still-practiced-670-million), and only one in three people have access to safe drinking water, resulting in high rates of diarrheal disease and equally large amounts of inappropriate antibiotic use.\[@Denny2021-ag\] According to [WHO surveys](https://www.who.int/news-room/%20fact-sheets/detail/immunization-coverage.), vaccination, a cornerstone of infection prevention and reducing the need for antibiotic use, is suboptimal in both HICs and LMICs. In 2019, global third-dose coverage for childhood pneumococcal vaccination in 149 member states was only 48%, and global rotavirus vaccine coverage was estimated at 39%. In South Africa, middle-income country, procures less than 1 million doses of influenza vaccine for its annual influenza season, despite in excess of 10 million people being identified as high-risk for influenza and prioritized for vaccination.
+In LMICs, an estimated 670 million people still practice [open defaecation in 2017](https://blogs.worldbank.org/opendata/open-defeca%20tion-nearly-halved-2000-still-practiced-670-million), and only one in three people have access to safe drinking water, resulting in high rates of diarrheal disease and equally large amounts of inappropriate antibiotic use.[@Denny2021a] According to [WHO surveys](https://www.who.int/news-room/%20fact-sheets/detail/immunization-coverage.), vaccination, a cornerstone of infection prevention and reducing the need for antibiotic use, is suboptimal in both HICs and LMICs. In 2019, global third-dose coverage for childhood pneumococcal vaccination in 149 member states was only 48%, and global rotavirus vaccine coverage was estimated at 39%. In South Africa, middle-income country, procures less than 1 million doses of influenza vaccine for its annual influenza season, despite in excess of 10 million people being identified as high-risk for influenza and prioritized for vaccination.
 
 Optimizing infection prevention on farms and making improvements to housing conditions and feed to reduce illness in animals is also critical in food production to offset the need for antibiotic growth promotion or metaphylaxis in food production animals. While there has been progress in the reduction of antibiotic use in farms in the EU and other HICs, attention nor funding for such improvements in LMICs has not even been proposed. "It's one thing being told to reduce your antibiotic use in food production, it's another to have the means to do so, even for the most committed resource-poor farmer.
 
@@ -249,7 +249,7 @@ As discussed above, the emergence of antimicrobial resistance (AMR) is a complex
 
 <figcaption>
 
-**Figure X. Global antibiotic use and resistance by income class.** (A) High-income countries (HICs); and (B) Low-Middle Income Countries (LMICs).[@Center_for_Disease_Dynamics_and_Economics_Policy2021-ua]
+**Figure X. Global antibiotic use and resistance by income class.** (A) High-income countries (HICs); and (B) Low-Middle Income Countries (LMICs). [@CenterforDiseaseDynamicsEconomicsandPolicy2021]
 
 </figcaption>
 
@@ -263,7 +263,7 @@ As discussed above, the emergence of antimicrobial resistance (AMR) is a complex
 
 <figcaption>
 
-**Figure X. Drug resistance index (DRI) across countries**. The drug resistance index is a composite score derived by multiplying the proportion of each antibiotic used to treat a set of pathogens by the proportion of all isolates that were resistant to that drug.[@CenterforDiseaseDynamicsEconomicsandPolicy2021] Blue bars represent high-income countries (HICs) dark blue bars represent low-middle income countries (LMICs).[@Center_for_Disease_Dynamics_and_Economics_Policy2021-ua]
+**Figure X. Drug resistance index (DRI) across countries**. The drug resistance index is a composite score derived by multiplying the proportion of each antibiotic used to treat a set of pathogens by the proportion of all isolates that were resistant to that drug. Blue bars represent high-income countries (HICs) dark blue bars represent low-middle income countries (LMICs).[@CenterforDiseaseDynamicsEconomicsandPolicy2021]
 
 </figcaption>
 
@@ -351,7 +351,7 @@ Southern Europe, including Italy, has among the highest rates of resistance for 
 
 <figcaption>
 
-**Figure 8. Projected deaths due to antimicrobial resistance in 2050.** Source: O'Neil Report. 
+**Figure 8. Projected deaths due to antimicrobial resistance in 2050.** Source: O'Neil Report.
 
 </figcaption>
 
@@ -381,7 +381,7 @@ Because the drivers of antimicrobial resistance lie in humans, animals, plants, 
 
 ### Antibiotic use in animal food production {.unnumbered}
 
-Few antimicrobial classes are reserved exclusively for humans. The vast majority of antibiotics are used both in humans and animals, including domestic mammals, birds, farmed fish and shellfish, honeybees and others. As noted earlier, **73% of all antibiotic consumption per weight is used for food production in animals.**[@Van_Boeckel2015-tn]Critically, two-third of all human infectious diseases that have emerged or re-emerged in recent decades are zoonotic-i.e. they originated in animals.[@Woolhouse2005-sc]Therefore the transmission of antibiotic resistance organisms from the foodchain to humans is a major health concern.
+Few antimicrobial classes are reserved exclusively for humans. The vast majority of antibiotics are used both in humans and animals, including domestic mammals, birds, farmed fish and shellfish, honeybees and others. As noted earlier, **73% of all antibiotic consumption per weight is used for food production in animals.**[@VanBoeckelEtAl2017]Critically, two-third of all human infectious diseases that have emerged or re-emerged in recent decades are zoonotic-i.e. they originated in animals.[@WoolhouseGowtage-Sequeria2005]Therefore the transmission of antibiotic resistance organisms from the foodchain to humans is a major health concern.
 
 In horticulture, tetracyclines, streptomycin, and other antimicrobials are used for the prophylaxis and treatment of bacterial infections that affect plants (e.g., fire blight *Erwinea amylovora*)
 
@@ -397,7 +397,7 @@ The most controversial type of group treatment in food animals is long-term, low
 
 <figcaption>
 
-**Figure 10. Pigs in cages, Quanzhou, China.** As the largest consumer of veterinary antimicrobials, China is critical for combating antimicrobial resistance (AMR). From Van Boekel et al.[@Van_Boeckel2017-yu]
+**Figure 10. Pigs in cages, Quanzhou, China.** As the largest consumer of veterinary antimicrobials, China is critical for combating antimicrobial resistance (AMR). From Van Boekel et al.[@VanBoeckelEtAl2017]
 
 </figcaption>
 
@@ -405,9 +405,9 @@ The most controversial type of group treatment in food animals is long-term, low
 
 </figure>
 
-The reported benefits of using antibiotics for growth promotion is controversial and reports of the beneficial effects in terms of weight gains vary widely widely in the literature (1-10%). Concerns have been expressed that antimicrobial growth promoters are often used to compensate for poor hygiene/housing and healthy management.[@McEwen2018-em]
+The reported benefits of using antibiotics for growth promotion is controversial and reports of the beneficial effects in terms of weight gains vary widely widely in the literature (1-10%). Concerns have been expressed that antimicrobial growth promoters are often used to compensate for poor hygiene/housing and healthy management.[@McEwenCollignon2018]
 
-Unfortunately, use of antibiotic for growth promotion has increased dramatically with the growing demand in meat-based diets. Since 2000, meat production has plateaued in high-income countries but has grown by 68%, 64%, and 40% in Africa, Asia, and South America, respectively.[@Van_Boeckel2015-tn] The transition to high-protein diets in low- and middle-income countries (LMICs) has been facilitated by the global expansion of intensive animal production systems, in which antimicrobials are used routinely to maintain health and productivity.
+Unfortunately, use of antibiotic for growth promotion has increased dramatically with the growing demand in meat-based diets. Since 2000, meat production has plateaued in high-income countries but has grown by 68%, 64%, and 40% in Africa, Asia, and South America, respectively.[@VanBoeckelEtAl2017] The transition to high-protein diets in low- and middle-income countries (LMICs) has been facilitated by the global expansion of intensive animal production systems, in which antimicrobials are used routinely to maintain health and productivity.
 
 There are 4 factors that typically determine the health of animals, (e.g., chickens):
 
@@ -446,9 +446,9 @@ Third generation cephalosporins (ceftotaxime, ceftriaxone) are widely used for s
 
 Resistance to 3rd generation cephalosporins is mediated by extended-spectrum beta-lactamases (ESBLs) and AmpC enzymes. ESBL genes are highly mobile and transmitted on plasmids, transposons and other genetic elements that can spread horizontally (to surrounding bacteria and different bacterial species) and vertically (to daughter cells through replication). Consequently, resistance can spread rapidly from patient-to-patient and among different bacterial species. In recent years, growing resistance to 3rd generation cephalosporins is common among *Escherichia coli* and *Klebsiella pneumonia* has required greater reliance on the few remaining classes of antimicrobials such as carbapenems.
 
-A number of studies comparing isolates from animals, food and human infections have found a high genetic similarity or clonal isolates that carry the same ESBL genes and plasmids colonizing animals used for food production and isolates causing clinical infections in patients.[@Lazarus2015-xl]
+A number of studies comparing isolates from animals, food and human infections have found a high genetic similarity or clonal isolates that carry the same ESBL genes and plasmids colonizing animals used for food production and isolates causing clinical infections in patients.[@LazarusEtAl2015]
 
-Ceftiofur is frequently injected in small quantities to hatching eggs or chicks as metaphylaxis for *Escherichia coli* infections and/or yolk sac infections.[@McEwen2018-em] (Fig1.7) This practice has been shown to select for cephalosporin resistance in *Salmonella enterica* serovar Heidelberg- an important cause of human illness in many countries that is typically associated with consumption of contaminated poultry products.[@Smith2008-fj]
+Ceftiofur is frequently injected in small quantities to hatching eggs or chicks as metaphylaxis for *Escherichia coli* infections and/or yolk sac infections.[@McEwenCollignon2018] (Fig1.7) This practice has been shown to select for cephalosporin resistance in *Salmonella enterica* serovar Heidelberg- an important cause of human illness in many countries that is typically associated with consumption of contaminated poultry products.[@SmithEtAl2008a]
 
 <figure>
 
@@ -466,7 +466,7 @@ Ceftiofur is frequently injected in small quantities to hatching eggs or chicks 
 
 </figure>
 
-Studies conducted by the Canadian Integrated Program for Antimicrobial Resistance Surveillance detected a high degree of temporal correlation in trends of resistance to ceftiofur and ceftriaxone (a drug of choice for the treatment of severe cases of salmonelloses in children and pregnant women) among *Salmonella* Heidelberg from clinical infections in humans, from poultry samples collected at retail stores, and in *E. coli* from poultry samples collected at retail stores.[@Of_Canada2009-du] Voluntary termination of ceftiofur metaphylaxis in hatcheries in the province of Quebec was followed by a precipitous drop in the prevalence of resistance to ceftiofur; subsequent reintroduction of ceftiofur in a more limited way was followed by a return to higher levels of resistance (Fig 1.9)
+Studies conducted by the Canadian Integrated Program for Antimicrobial Resistance Surveillance detected a high degree of temporal correlation in trends of resistance to ceftiofur and ceftriaxone (a drug of choice for the treatment of severe cases of salmonelloses in children and pregnant women) among *Salmonella* Heidelberg from clinical infections in humans, from poultry samples collected at retail stores, and in *E. coli* from poultry samples collected at retail stores.[@Canada2009]Voluntary termination of ceftiofur metaphylaxis in hatcheries in the province of Quebec was followed by a precipitous drop in the prevalence of resistance to ceftiofur; subsequent reintroduction of ceftiofur in a more limited way was followed by a return to higher levels of resistance (Fig 1.9)
 
 <figure>
 
@@ -478,7 +478,7 @@ Studies conducted by the Canadian Integrated Program for Antimicrobial Resistanc
 
 <figcaption>
 
-**Figure 13. Ceftiofur resistance in chicken and human *Salmonella* Heidelberg and chicken *E. coli*.** [@Of_Canada2009-du]
+**Figure 13. Ceftiofur resistance in chicken and human *Salmonella* Heidelberg and chicken *E. coli*.** [@Canada2009]
 
 </figcaption>
 
@@ -488,7 +488,7 @@ Studies conducted by the Canadian Integrated Program for Antimicrobial Resistanc
 
 In Japan, voluntary withdrawal of the off-label use of ceftiofur in hatcheries in 2012 was also associated with significant decrease in broad-spectrum cephalosporin resistance in *E. coli* from chickens prepared for cooking. Some other countries (e.g., Denmark) have placed voluntary restrictions on its use. The label claim for day-old injection of poultry flocks was withdrawn in Europe, while some countries have banned off-label use of third-generation cephalosporins, and in other countries there is a requirement that use be restricted to situations where no other effective approved drugs are available for treatment.
 
-These examples illustrate the danger of using antibiotics from the same class as critical therapies used to treat human infections for metaphylaxis or treatment in large numbers of animals. A similar pattern in poultry was also observed with mass medication of poultry flocks using fluoroquinolones antibiotics and selection of fluoroquinolone- resistant *Campylobacter jejuni* infections in humans.[@Endtz1991-ss]
+These examples illustrate the danger of using antibiotics from the same class as critical therapies used to treat human infections for metaphylaxis or treatment in large numbers of animals. A similar pattern in poultry was also observed with mass medication of poultry flocks using fluoroquinolones antibiotics and selection of fluoroquinolone- resistant *Campylobacter jejuni* infections in humans.[@EndtzEtAl1991a]
 
 #### Case study- colistin {.unnumbered}
 
@@ -496,21 +496,21 @@ Colistin is a member of the polymixin class of antibiotics, which have been used
 
 However, use of intravenous colistin has surged in the last decade with the increase in carbapenem-resistant *Pseudomonas aeruginosa*, *Acinetobacter baumannii* and *Klebsiella pneumoniae.* Even as human use has increased, colistin continues to be used in Brazil, Europe and China a a growth promoting and antibiotic treatment for pigs, poultry and calves.
 
--   In 2014, colistin use in EU member states in animals was higher than humans with a reported 485 tonnes- 99.7% in oral form or oral medicated feed. In China, with the world's largest production of pigs and poultry, an estimated 12,000 tonnes of colistin was used in the food production industry.[@Liu2016-pg]
+-   In 2014, colistin use in EU member states in animals was higher than humans with a reported 485 tonnes- 99.7% in oral form or oral medicated feed. In China, with the world's largest production of pigs and poultry, an estimated 12,000 tonnes of colistin was used in the food production industry.[@LiuEtAl2016b]
 
--   In 2015, Lui and colleagues reported plasmid-mediated colistin-resistance gene, *mcr-1*, in *Escherichia coli* isolates obtained from animals, food and human bloodstream infections in China.[@LiuEtAl2016a] Alarmingly, the resistance gene has also been detected in 5% of healthy travellers from China in other parts of the world.[@Laxminarayan2013-bj]
+-   In 2015, Lui and colleagues reported plasmid-mediated colistin-resistance gene, *mcr-1*, in *Escherichia coli* isolates obtained from animals, food and human bloodstream infections in China. [@LiuEtAl2016b]Alarmingly, the resistance gene has also been detected in 5% of healthy travellers from China in other parts of the world.[@LaxminarayanEtAl2013a]
 
--   The *mcr-1* gene has also been detected in isolates obtained from wildlife and surface water samples, demonstrating environmental contamination.[@Zurfuh2016-uc]
+-   The *mcr-1* gene has also been detected in isolates obtained from wildlife and surface water samples, demonstrating environmental contamination.[@ZurfuhEtAl]
 
--   Additional plasmid-mediated colistin-resistance genes have been reported in many other bacterial species and countries, including *mcr-2* from pigs in Belgium, and *mcr-3,4,5* in other countries.[@Borowiak2017-yt]
+-   Additional plasmid-mediated colistin-resistance genes have been reported in many other bacterial species and countries, including *mcr-2* from pigs in Belgium, and *mcr-3,4,5* in other countries.[@BorowiakEtAl2017]
 
--   Colistin illustrates important *One-Health Dimensions* of AMR that differ from third generation cephalosporins. Specifically, large volumes of colistin use in animals, rather than humans, have probably have driven colistin resistance now observed in humans.[@Frost2019-yj] Using large quantities of colistin for group treatment or growth promotion in animals has probably lead to antimicrobial resistance problems in human health, even through colistin was considered in the past to be less important because other less toxic treatments were still available.
+-   Colistin illustrates important *One-Health Dimensions* of AMR that differ from third generation cephalosporins. Specifically, large volumes of colistin use in animals, rather than humans, have probably have driven colistin resistance now observed in humans.[@FrostEtAl2019]Using large quantities of colistin for group treatment or growth promotion in animals has probably lead to antimicrobial resistance problems in human health, even through colistin was considered in the past to be less important because other less toxic treatments were still available.
 
 -   In 2017, China banned the use of colistin as a food additive for animals. Colistin is currently not approved as a food additive in Europe or the United States, but is still be used in LMICs as a growth promoting agent.
 
 ### Antimicrobial resistance in animals in LMICs {.unnumbered}
 
-Many farmers in LMICs are sustenance farmers, and their livelihood is at stake if an animal becomes ills. Therefore, they may not have the resources for optimally nutritious feed and housing space/conditions. These challenges, combined with looser regulations on veterinary drugs, may facilitate the use of antimicrobials in feeding.[@Van_Boeckel2017-yu]
+Many farmers in LMICs are sustenance farmers, and their livelihood is at stake if an animal becomes ills. Therefore, they may not have the resources for optimally nutritious feed and housing space/conditions. These challenges, combined with looser regulations on veterinary drugs, may facilitate the use of antimicrobials in feeding.[@VanBoeckelEtAl2017]
 
 <figure>
 
@@ -547,9 +547,9 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 
 One health considers possible environmental drivers of AMR in additional to human and animal health.[@McEwen2018-em] Many resistance mechanisms such as beta-lactamases are millions of years old and pre-date antibiotics. Soil and other environmental sources are rich sources of highly-diverse populations of bacteria and genes.
 
-Antimicrobial resistance to a wide variety of drugs has been demonstrated in environmental bacteria isolated from the pre-antibiotic era, as well as from various sites (e.g., caves) free of other sources of exposure to modern antimicrobials. Yet their is abundant evidence that human has an impact on the *resistome*- the totality of or resistance genes in the total environment.[@ONeil2015-cr]
+Antimicrobial resistance to a wide variety of drugs has been demonstrated in environmental bacteria isolated from the pre-antibiotic era, as well as from various sites (e.g., caves) free of other sources of exposure to modern antimicrobials. Yet their is abundant evidence that human has an impact on the *resistome*- the totality of or resistance genes in the total environment.[@ONeilJim2015]
 
-Hundreds of thousands of tonnes of antimicrobials are produced annually and find their way into the environment. Waste from treatment plants and the pharmaceutical industry especially if inadequately treated, has been show to release high concentrations of antimicrobials into surface water. Residues and metabolites of antimicrobials are constituents of human sewage, livestock manure, and aquaculture, along with fecal bacteria and resistance genes. Sewage treatment and composting of manure reduce concentrations of some but not all antimicrobials and micro-organisms, which are introduced to soil upon land application of human and animal bio-solids.[@Rahube2016-xu]
+Hundreds of thousands of tonnes of antimicrobials are produced annually and find their way into the environment. Waste from treatment plants and the pharmaceutical industry especially if inadequately treated, has been show to release high concentrations of antimicrobials into surface water. Residues and metabolites of antimicrobials are constituents of human sewage, livestock manure, and aquaculture, along with fecal bacteria and resistance genes. Sewage treatment and composting of manure reduce concentrations of some but not all antimicrobials and micro-organisms, which are introduced to soil upon land application of human and animal bio-solids.[@RahubeEtAl2016]
 
 In developed countries with good-quality sewage and drinking water treatment, and where most people have little to no direct contact with food-producing animals, transmission of bacteria and resistance genes from agricultural sources is largely foodborne, either from direct contamination of meat and poultry during slaughter and processing, or indirectly from fruit and vegetables contaminated by manure or irrigation water. In countries with poor sewage and water treatment, drinking water is likely to be very important in the transmission of resistant bacteria and/or genes from animals. Poor sanitation also facilitates indirect person-person water-borne transmission of enteric bacteria among residents as well as international travellers who return home colonized with resistant bacteria acquired locally. Through these and other means, including globalized trade in animals and food and long-distance migratory patterns of wildlife, antimicrobial-resistant bacteria are globally disseminated.
 
@@ -563,7 +563,7 @@ General measures to address antimicrobial resistance in the wider environment in
 
 <figcaption>
 
-**Figure 15. Hotspots of antimicrobial resistance.** Figure is from Singer et al. [@Singer2016-ki]
+**Figure 15. Hotspots of antimicrobial resistance.** Figure is from Singer et al. [@Singer2016]
 
 </figcaption>
 
@@ -593,7 +593,7 @@ The COVID-19 pandemic has exposed the limitations of global collaboration and re
 
 <figcaption>
 
-Table 1.2 Global successes and shortcomings in the multilateral response to the COVID-19 pandemic. Table is from Jit et al 2021. [@Jit2021-fr]
+Table 1.2 Global successes and shortcomings in the multilateral response to the COVID-19 pandemic. Table is from Jit et al 2021. [@JitEtAl2021]
 
 </figcaption>
 
