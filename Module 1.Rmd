@@ -132,7 +132,7 @@ The WHO also proposed a [Priority Pathogen List](https://www.who.int/medicines/p
 
 </figure>
 
-These pathogens may exhibit multi-drug resistance (MDR), extensive drug resistance (XDR) or pan-drug resistance (PDR). [@MagiorakosEtAl2012a\] Difficult-to-treat resistance (DTR) is a newer definition used to define isolate resistance patterns that require the use of less-effective or more toxic "reserve" antibiotics- e.g., *Acinetobacter baumanii* susceptible only to colistin and tobramycin.\[@KadriEtAl2018a]
+These pathogens may exhibit multi-drug resistance (MDR), extensive drug resistance (XDR) or pan-drug resistance (PDR). [@MagiorakosEtAl2012a] Difficult-to-treat resistance (DTR) is a newer definition used to define isolate resistance patterns that require the use of less-effective or more toxic "reserve" antibiotics- e.g., *Acinetobacter baumanii* susceptible only to colistin and tobramycin.[@KadriEtAl2018a]
 
 ```{=html}
 <style>
@@ -149,7 +149,7 @@ Currently, both the [WHO](https://apps.who.int/iris/bitstream/handle/10665/31226
 
 AMR is a natural phenomenon. Most antimicrobial drugs are naturally produced by micro-organisms, including environmental fungi and saprophytic bacteria, or are synthetic modifications of these natural products, with only a few drugs (e.g., sulphonamides and fluoroquinolones) being wholly synthetic. Yet AMR selection is accelerated by antimicrobial exposure in health care, agriculture, and the environment. Further transmission is affected by standards of infection control in healthcare settings, sanitation, access to clean water, access to assured quality antimicrobials and diagnostics, travel, and migration.
 
-Antimicrobials are among the most commonly prescribed drugs used in human medicine, yet up to 50% of all antimicrobials prescribed to people are considered unnecessary. This use, misuse, or overuse of antimicrobial drugs is considered to be a major driving force towards antimicrobial resistance.
+Antimicrobials are among the most commonly prescribed drugs used in human medicine, yet up to 50% of all antimicrobials prescribed to people are considered unnecessary. This use, misuse, or overuse of antimicrobial drugs is considered to be a major driving force towards antimicrobial resistance. Globally, the use of antimicrobials is accelerating worldwide, particularly in LMICs, as antimicrobials become readily accessible and affordable. The use of [WHO Watch antibiotics](https://www.who.int/news/item/01-10-2019-who-releases-the-2019-aware-classification-antibiotics) increased 90.0% worldwide and 165% in LMICs between 2000 and 2015.
 
 In medicine, the concentration of antibiotic prescribing might be highest in inpatient settings, with 30--40% of patients on antibiotics in European hospitals. However, the overall highest *quantity* of antimicrobial consumption is highest in the community setting.
 
@@ -173,7 +173,9 @@ Yet, more antimicrobials are used in food production than in human beings, with 
 
 ## AMR in Low-Middle Income Countries (LMICs) {.unnumbered}
 
-AMR is a global problem, but its prevalence across the globe varies with antibiotic consumption, access to clean water and adequate sanitation, vaccination coverage, and access to quality healthcare. The latest WHO report, based on AMR data from 66 countries, illustrates an alarming picture of the global status of AMR as an increasing number of countries are now reporting high rates of resistance among antimicrobials used to treat common infections
+AMR is a global problem, but its prevalence across the globe varies with antibiotic consumption, access to clean water and adequate sanitation, vaccination coverage, and access to quality healthcare. The latest WHO report, based on AMR data from 66 countries, illustrates an alarming picture of the global status of AMR as an increasing number of countries are now reporting high rates of resistance among antimicrobials used to treat common infections.
+
+There are considerable knowledge gaps regarding AMR prevalence in LMICs that lack clinical and laboratory capacity and surveillance infrastructure. A systematic review of 144 16 studies across Africa lacked AMR data for approximately 40% of the African countries. In the Asia and Pacific region, South East Asia is estimated to have the highest risk of AMR emergence and spread, with the highly transferable New Delhi metallo-β-lactamase-1 (NDM-1) as an example. Furthermore, China and India alone accounted for more than one-third of the global incidence of 17 multidrug-resistant (MDR) tuberculosis.[@CenterforDiseaseDynamicsEconomicsandPolicy2021]
 
 COVID-19 has focused global attention on the inequitable access to the tools needed to control the pandemic, with high-income countries (HICs) and low- and middle-income countries (LMICs) at opposite ends of the scale. In the case of antibiotic resistance, a pandemic projected to cause four times more deaths per year than occurred from COVID-19 during 2020, inequity between HICs and LMICs is a major challenge:[@MendelsonEtAl2016]
 

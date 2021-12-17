@@ -1,18 +1,19 @@
 ---
 title: "97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES"
 subtitle: "The Crisis in Antibiotic Development"
+titlerunning: "Antibiotic Development"
 author: "Russell E. Lewis, Associate Professor, Infectious Diseases, University of Bologna"
 orcid id: 0000-0002-2002-4339
 date: "11/26/2022"
 output:
+  bookdown::pdf_book:
+    keep_tex: true
   bookdown::gitbook:
     lib_dir: assets
     split_by: section
     config:
       toolbar:
         position: static
-  bookdown::pdf_book:
-    keep_tex: true
   bookdown::html_book:
     css: toc.css
 documentclass: book
@@ -25,17 +26,27 @@ csl: nature.csl
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## A brief overview of antibiotic development {.unnumbered}
+## The growing crises of antibiotic development {.unnumbered}
 
-In module 1, we discussed the history of antibiotic discovery and the current challenges with antimicrobial resistance that have been amplified by the lack of development of new antibiotics. In this module, we will examine more closely the scientific and economic challenges associated with antibiotic development, and compare and contrat strategies that have been proposed to stimulate development of new antibiotics.
+In module 1, we discussed the history of antibiotic discovery and the current challenges with antimicrobial resistance that has been amplified by the lack of development of new antibiotics. In this module, we will examine the scientific and economic challenges associated with antibiotic development, and compare and contrast strategies that have been proposed to stimulate development of new antibiotics.
 
-In Module 2 the student will study the current crises on antibiotic development, how markets, regulatory agencies, and clinical practice models impact antibiotic development, and then compare and contrast strategies that have been proposed to stimulate development of new antibiotics. Students will then participate in a simulation exercise where they will compare how incentive strategies may differ depending on the the type and expected use of a novel antibiotic.
+As we discussed previously, antibiotic discovery began to slow in the 1980's leading to a discovery void in new molecular entities (NMEs) since the 1990s. This lack of antibiotic innovation occurred at a critical period when antibiotic resistance, particularly to many front-line beta-lactam antibiotics began to increase rapidly due to the emergence and worldwide diffusion of new forms of enzymatic (beta-lactamase) resistance to antibiotics. These bacterial enzymes can be broadly classified as:
 
-![](images/ab-discovery-timeline.png){width="800"}
+-   Narrow-spectrum beta-lactamases, which act on penicillins and first-generation cephalosporins (e.g., TEM-1 and 2, SHV-1, cephalosporinases, OXA-type enzymes
+-   Extended-spectrum beta-lactamases (ESBLs), which act on penicillins and all four generations of cephalosporins (SHV-2, SHV-5, SHV-7, SHV-12, TEM-10, TEM-12, TEM-26, CTX-M, OXA-type ESBLs)
+-   Carbapenemases, which act on penicillins, all four generations of cephalosporins, and carbapenems (KPC, NDM-1, VIM and IMP carbapenemases, OXA-type carbapenemases).
+
+These beta-lactamases are problematic because they have a low barrier for creating resistance to multiple agents that are considered first and second line therapies of choice for common infection. Indeed, often a single amino acid changes in the enzymes can change their ability to hydrolyze new antibiotics. Additionally, many of these enzymes are encoded on spread on plasmids (mobile genetic elements that can be passed from one bacterial species to another) resulting in rapid dissemination of resistance.
+
+<figure>
+
+<center>
+
+![](images/betalactamases.png){width="500"}
 
 <figcaption>
 
-**Figure 1. Antibiotic development timeline.** [Source ReACT Group 2015.](https://www.reactgroup.org/)
+**Figure 1. Increase in numbers of group 1, 2, and 3 beta-lactamases from 1970 to 2009**. Figure is from Bush and Jacoby[@BushJacoby2010]
 
 </figcaption>
 
@@ -43,20 +54,67 @@ In Module 2 the student will study the current crises on antibiotic development,
 
 </figure>
 
-## 
+A major concern is the increase in carbapenem-resistant Gram-negative pathogens encoded by a range of genes, including NDM-1, OXA-48, KPC, VIM, and IMP. Resistance has rapidly spread globally and across bacterial species since the first reported case in *Klebsiella pneumoniae* less 6 than a decade ago. The emergence of plasmid-mediated genes (*mcr*-1, *mcr*-2, *mcr*-3, *mcr*-4, *mcr*-5, 7 and *icr*-Mo ), which encode resistance to colistin- a drug of last resort, was first reported in 2016 from *Escherichia coli* cultured from a pig in China, but it has since been reported globally and in numerous bacterial species, including *K. pneumoniae* and *Enterobacter* species. Additionally, multiple variants of genes encoding extended-spectrum beta-lactamase (ESBL) and conferring resistance to penicillin, cephalosporins, and monobactam have now spread globally.
 
-## Communicating antimicrobial resistance {.unnumbered}
+Reports from major surveillance networks, including [EARS-Net in Europe](https://atlas.ecdc.europa.eu/public/index.aspx), indicate high prevalence in *E. coli* and *K. pneumoniae*. ESBL-positive Gram-negative bacteria are found in livestock, meat products, and companion animals. In *Neisseria gonorrhoeae*, resistance to the recommended first-line therapy (azithromycin and ceftriaxone) has been reported in the United Kingdom and Australia with the UK isolate showing resistance for all currently recommend antibiotics.
 
-<figure>
+In early 2017, the WHO convened a group of experts to prioritize the need for new drugs to treat antibiotic- resistant bacteria. The WHO assigned the highest priority to antibacterial drug research and development for the Gram- negative bacteria *Acinetobacter*, *Pseudomonas* and species of *Enterobacterales* that are resistant to carbapenems and are usually extensively drug resistant (XDR).
 
-<iframe src="https://www.youtube.com/watch?v=wTgRpOIxNG0" loading="lazy" style="width: 100%; height: 600px; border: 0px none;">
-
-</iframe>
-
-<figcaption>
-
-**Figure 2. How to comunicate about antimicrobial resistance**. Data source: World Health Bank
+**Table 1. WHO priority pathogens**
 
 </figcaption>
 
-</figure>
++--------------+--------------------------------------------------------------------------------------------+
+| Priority     | Pathogens included                                                                         |
++:=============+:===========================================================================================+
+| **Critical** | *Acinetobacter baumannii* (Carbapenem-resistant)                                           |
+|              |                                                                                            |
+|              | *Pseudomonas aeruginosa* (Carbapenem-resistant)                                            |
+|              |                                                                                            |
+|              | Enterbacterales (3rd generation cephalosporin, carbapenem-resistant)                       |
++--------------+--------------------------------------------------------------------------------------------+
+| **High**     | *Enterococcus faecium*, vancomycin-resistant                                               |
+|              |                                                                                            |
+|              | *Staphylococcus aureus*, methicillin-resistant, vancomycin intermediate and resistant      |
+|              |                                                                                            |
+|              | *Helicobacter pylori*, clarithromycin-resistant                                            |
+|              |                                                                                            |
+|              | *Campylobacter*, fluoroquinolone-resistant                                                 |
+|              |                                                                                            |
+|              | *Salmonella* spp., fluoroquinolone-resistant                                               |
+|              |                                                                                            |
+|              | *Neisseria gonorrhoeae*, 3rd generation cephalosporin-resistant, fluoroquinolone-resistant |
++--------------+--------------------------------------------------------------------------------------------+
+| **Medium**   | *Streptococcus pneumoniae*, penicillin-non-susceptible                                     |
+|              |                                                                                            |
+|              | *Haemophilus influenzae*, ampicillin-resistant                                             |
+|              |                                                                                            |
+|              | *Shigella* spp., fluoroquinolone-resistant                                                 |
++--------------+--------------------------------------------------------------------------------------------+
+
+he same year, the WHO released a [clinical pipeline report](https://apps.who.int/iris/bitstream/handle/10665/330420/9789240000193-eng.pdf), which was updated in 2018 and 2019 The clinical pipeline reports analysed antibiotics and bio logics according to their activity against the critical­ priority pathogens carbapenem­ resistant *Acinetobacter baumannii* (CRAB), carbapenem­-resistant *Pseudomonas aeruginosa* (CRPA), extended­ spectrum β­ lactamase (ESBL)­ producing Enterobacterales and carbapenem­ resistant Enterobacterales (CRE). The level of innovation in the global clinical pipeline was assessed on the basis of the absence of pre­ existing cross­ resistance to currently used antibacterial drugs. The key findings from this report included:
+
+> -   The clinical pipeline remains insufficient to tackle the challenge of increasing emergence and
+>     spread of antimicrobial resistance.
+>
+> -   It is primarily driven by small- or medium-sized enterprises (SMEs), with large pharmaceutical
+>     companies continuing to exit the field.
+>
+> -   Eight new antibacterial agents have been approved since 1 July 2017, but overall, they have
+>     limited clinical benefits.
+>
+> -   One new anti-tuberculosis (anti-TB) agent, pretomanid, developed by a not-for-profit
+>     organization, has been approved for use within a set drug-combination treatment for MDR TB.
+>
+> -   The current clinical pipeline contains 50 antibiotics and combinations (with a new therapeutic
+>     entity) and 10 biologicals, of which 32 antibiotics are active against the WHO priority
+>     pathogens:
+>
+>     -   Six of these agents fulfil at least one of the innovation criteria; only two of these are active
+>         against the critical MDR Gram-negative bacteria.
+>
+>     -   More than 40% of the pipeline targeting WHO priority pathogens consists of additional β-lactam
+>         and β-lactamase inhibitor (BLI) combinations, with a major gap in activity against metallo-βlactamase (MBL) producers.
+>
+>     -   The anti-TB and C. difficile antibacterial pipeline is more innovative than the WHO priority
+>         pathogens pipeline, with more than half of the antibiotics fulfilling all of the innovation criteria.
