@@ -135,9 +135,11 @@ From 1995 to 2002, SmithKline Beecham (now part of GlaxoSmithKline (GSK) identif
 
 The regulatory approval process for approval of an new antibiotic is difficult
 
-Current guidance published by the US Food and Drug Administration (FDA) and the European Medicines Agency (EMA) most often requires randomized controlled clinical studies with inferential testing (ie, statistical hypothesis testing). This has to be complemented by the enrollment of a large number of patients to support the marketing application (New Drug Application \[NDA\] or Marketing Authorization Application \[MAA\], respectively) for 1 or more infection site--specific indication (eg, complicated urinary tract infection \[cUTI\] or complicated intra-abdominal infection), based on the drug's clinical efficacy and safety. The bacterial pathogens relevant to the indication listed in the prescribing information are a secondary consideration based on the spectrum of activity of the investigational antibiotic and the microbiological efficacy data extracted from the clinical trials
+Current guidance published by the US Food and Drug Administration (FDA) and the European Medicines Agency (EMA) requires randomized controlled clinical studies with inferential testing (ie, statistical hypothesis testing). This has to be complemented by the enrollment of a large number of patients to support the marketing application (New Drug Application \[NDA\] or Marketing Authorization Application \[MAA\], respectively) for 1 or more infection site--specific indication (e.g., complicated urinary tract infection \[cUTI\] or complicated intra-abdominal infection), based on the drug's clinical efficacy and safety. The bacterial pathogens relevant to the indication listed in the prescribing information are a secondary consideration based on the spectrum of activity of the investigational antibiotic and the microbiological efficacy data extracted from the clinical trials.
 
 #### Clinical trials {.unnumbered}
+
+![](images/clinical%20trial.png)
 
 #### Post-marketing {.unnumbered}
 
