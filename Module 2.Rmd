@@ -1,8 +1,10 @@
 ---
-title: "97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES"
+title: |
+  ![](images/logo.png){width=1in}   
+  97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES
 subtitle: "The Crisis in Antibiotic Development"
 titlerunning: "Antibiotic Development"
-author: "Russell E. Lewis, Associate Professor, Infectious Diseases, University of Bologna"
+author: "Russell E. Lewis, Associate Professor, Infectious Diseases, Department of Medical and Surgical Sciences"
 orcid id: 0000-0002-2002-4339
 date: "11/26/2022"
 output:
@@ -108,6 +110,8 @@ As discussed in module 1, the WHO in 2017 convened a group of experts to priorit
 >
 >     -   The anti-TB and C. difficile antibacterial pipeline is more innovative than the WHO priority pathogens pipeline, with more than half of the antibiotics fulfilling all of the innovation criteria.
 
+The public health implications of a drying antibiotic pipeline are increasingly recognized by policymakers, regulators and many companies. in the following sections we will explore the causes and potential solutions to this crises.
+
 ## Why has antibiotic discovery faltered in recent years? {.unnumbered}
 
 ### Scientific challenges {.unnumbered}
@@ -131,21 +135,45 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 From 1995 to 2002, SmithKline Beecham (now part of GlaxoSmithKline (GSK) identified 300 potential targets and ran 67 high-throughput screens, each of 260,000 -- 530,000 compounds.[@PayneEtAl2007] Sixteen screens led to 'hits'---meaning compounds that bound selectively to a target giving a reproducible antimicrobial activity in assays---and five of these translated into 'lead' compounds. The five corresponding targets, two (FabI9and Mrs) were not universally essential or conserved, meaning that they could not form the targets of broad-spectrum antibiotics, and it proved impossible to incorporate 'drug-like properties' into molecules that bound two others. The final target identified was peptide deformylase, for which GSK now has a molecule (GSK 1322322) in Phase II trials, although this did not come from high-throughput screening. This performance appears typical of other companies that followed the genomics strategy. Thus, 20 years after its advent, no antibiotic developed by this approach has reached the market
 :::
 
-### Antibiotic Regulatory approval {.unnumbered}
+### Antibiotic regulatory hurdles {.unnumbered}
 
-The goal of regulatory bodies such as the U.S. Food and Drug Administration (FDA), the European Medicines Agency (EMA), and the African Medicines Agency (AMA) is always the same: Balance potential benefits and risks to ensure that the antiibotics that make it to market are both safe and effective for patients in need. Still, a drug that gains FDA approval may give pause to European reviewers, despite having reviewed the same evidence as their American counterparts, and vice versa. Both the [FDA](https://www.fda.gov/media/82381/download) and the [EMA](https://www.ema.europa.eu/en/documents/other/laboratory-patient-journey-centrally-authorised-medicine_en.pdf) and [AMA](https://www.ifpma.org/subtopics/african-medicines-agency/) have distinct processes with different methods of endpoint evaluation, and individual comfort levels with risk. Other countries, such as [India](https://cdsco.gov.in/opencms/opencms/en/Drugs/New-Drugs/) and [China](https://www.appliedclinicaltrialsonline.com/view/regulatory-requirements-and-key-points-drug-clinical-trials-registration-china) have their own processes for drug registration and approval and may require additional studies in populations of patients from their countries prior to approval. The FDA is unique in that before phased clinical trials can begin, drug sponsors are required to submit an investigational new drug application to the FDA that outlines initial animal testing results, the drug's composition and manufacturing, and the plan for testing the drug in humans. The EMA follows a
+The goal of regulatory bodies such as the U.S. Food and Drug Administration (FDA), the European Medicines Agency (EMA), and the African Medicines Agency (AMA) is always the same: Balance potential benefits and risks to ensure that the antiibotics that make it to market are both safe and effective for patients in need. Still, a drug that gains FDA approval may give pause to European reviewers, despite having reviewed the same evidence as their American counterparts, and vice versa. Both the [FDA](https://www.fda.gov/media/82381/download) and the [EMA](https://www.ema.europa.eu/en/documents/other/laboratory-patient-journey-centrally-authorised-medicine_en.pdf) and [AMA](https://www.ifpma.org/subtopics/african-medicines-agency/) have distinct processes with different methods of endpoint evaluation, and individual comfort levels with risk. Other countries, such as [India](https://cdsco.gov.in/opencms/opencms/en/Drugs/New-Drugs/) and [China](https://www.appliedclinicaltrialsonline.com/view/regulatory-requirements-and-key-points-drug-clinical-trials-registration-china) have their own processes for drug registration and approval and may require additional studies in populations of patients from their countries prior to approval. The FDA is unique in that before phased clinical trials can begin, drug sponsors are required to submit an investigational new drug application to the FDA that outlines initial animal testing results, the drug's composition and manufacturing, and the plan for testing the drug in humans.
 
-Current guidance published by the US Food and Drug Administration (FDA) and the European Medicines Agency (EMA) requires randomized controlled clinical studies to demonstrate the non-inferiority of the new antibiotic to established therapies. This has to be complemented by the enrolment of a large number of patients to support the marketing application (New Drug Application \[NDA\] or Marketing Authorization Application \[MAA\], respectively) for 1 or more infection site--specific indication (e.g., complicated urinary tract infection \[cUTI\] or complicated intra-abdominal infection), based on the drug's clinical efficacy and safety. The bacterial pathogens relevant to the indication listed in the prescribing information are a *secondary consideration* based on the spectrum of activity of the investigational antibiotic and the microbiological efficacy data extracted from the clinical trials.[@EcholsEtAl2019a] As a result, even if a new antibiotic is developed for a MDR pathogen, it is difficult to perform clinical studies and receive approval from the FDA or EMA for the treatment of a resistant infection.
-
-As a result, the cost of antibiotic development has become unsustainable. A 2017 estimate puts the cost of developing an antibiotic at around US\$1.5 billion. Meanwhile, industry analysts estimate that the average revenue generated from an antibiotic's sale is roughly \$46 million per year.\[@WoutersEtAl2020\] Therefore it is not surprising that antibiotic research and development has been largely abandoned by large pharmaceutical companies given the high risk and poor financial incentives.
+<figure>
 
 <center>
 
 ![](images/clinical%20trial.png){width="800"}
 
+</center>
+
 <figcaption>
 
-**Figure 2. Pathway from drug discovery to regulatory approval and estimated costs.** ADMET- pharmacokinetic studies to document drug absorption, distribution, metabolism and elimination, and toxicity in animals. PK/PD pharmacokinetic/ pharmacodynamic relationships- i.e. dose response and toxicity relationships from animals.
+**Figure 2. Pathway from drug discovery to regulatory approval and estimated costs.** ADMET- studies to document drug absorption, distribution, metabolism and elimination, and toxicity in animals. PK/PD pharmacokinetic/ pharmacodynamic relationships- i.e. dose response and toxicity relationships from animals.
+
+</figcaption>
+
+</figure>
+
+Current guidance published by the US Food and Drug Administration (FDA) and the European Medicines Agency (EMA) requires randomized controlled clinical studies to demonstrate the non-inferiority of the new antibiotic to established therapies. This has to be complemented by the enrolment of a large number of patients to support the marketing application (New Drug Application NDA or Marketing Authorization Application MAA, respectively) for 1 or more infection site--specific indication (e.g., complicated urinary tract infection \[cUTI\] or complicated intra-abdominal infection), based on the drug's clinical efficacy and safety. The bacterial pathogens relevant to the indication listed in the prescribing information are a *secondary consideration* based on the spectrum of activity of the investigational antibiotic and the microbiological efficacy data extracted from the clinical trials.[@EcholsEtAl2019a] As a result, even if a new antibiotic is developed for a MDR pathogen, it is difficult to perform clinical studies and receive approval from the FDA or EMA for the treatment of a resistant infection.
+
+However, lowering standards is not a reasonable path for science-based agencies; a race to the bottom will not fix this crisis.
+
+A 2017 estimate puts the cost of developing an antibiotic at around US\$1.5 billion. Meanwhile, industry analysts estimate that the average revenue generated from an antibiotic's sale is roughly \$46 million per year.[@WoutersEtAl2020]. Therefore a key problem for antibiotics is that their development is not profitable. Companies are making so much more money from the sales of other drug classes, including immuno-oncology therapeutics, that antibiotic development projects compare poorly when management allocates capital. It is difficult for an antibiotic manufacturer to be able to precisely identify the small proportion of patients who both really need the antibiotic for a MDR pathogen and are willing to pay a high price for the drug. As noted by Ardal and colleges:[@ArdalEtAl2020a]
+
+> The major challenge with antibiotics is profitability. As older antibiotics are still effective for treating most infections, the primary value of new antibiotics is to treat multidrug-resistant infections and provide a protective benefit against emerging pathogens. The duration of antibiotic treatment for individual patients is relatively short (for example, 1--2 weeks or up to 1 month), whereas the treatment for chronic conditions can be continuous over many years. Resistance is hastened by use, new antibiotics are stewarded as a last resort, which results in low unit sales. Whereas medicines for rare diseases have used high unit-pricing strategies to achieve profitability, these are often unavailable to antibiotic developers due to clinical trial design (it is difficult to demonstrate the superiority of new antibiotics as resistance is still relatively uncommon) and bundled hospital reimbursement structures (whereby hospitals are incentivized to prescribe lower-cost antibiotics). Large pharmaceutical companies have largely abandoned the market, accounting for only 4 of the 42 antibiotics currently under development.[@Mullard2019]Any investment in a new antibiotic is seen as a high-risk proposition, and consequently the returns expected by prospective investors are high to account for this risk premium. This in turn puts pressure on small and medium-sized enterprises (SMEs), as there is little chance that their candidate antibiotics will be purchased by larger companies.
+
+<figure>
+
+<center>
+
+![](images/profitability.png){width="600"}
+
+</center>
+
+<figcaption>
+
+**Figure 3 Pathway from drug discovery to regulatory approval and estimated costs.** ADMET- studies to document drug absorption, distribution, metabolism and elimination, and toxicity in animals. PK/PD pharmacokinetic/ pharmacodynamic relationships- i.e. dose response and toxicity relationships from animals. Figure is from Ardal et al.[@ArdalEtAl2020a]
 
 </figcaption>
 
@@ -157,12 +185,36 @@ As a result, the cost of antibiotic development has become unsustainable. A 2017
 
 ### Economic challenges {.unnumbered}
 
-While antibiotics are typically taken over a short period of time, other drugs for hypertension, cholesterol, diabetes are taken chronically making the economics for development in those therapeutic areas inherently
+Due to the threat of the emergence of resistance, new antibiotics are 'kept on the shelf ', not being sold. In no other drug class do we lock up the most innovative new products to keep sales as low as possible. Large companies have been making entirely rational decisions to exit this market, at least from the perspective of the individual company. For society, these individual commercial decisions threaten the global ability to research, develop and produce new antibiotics. We are destroying a key global infrastructure and threatening our health security
+
+The era of purely private investment in new antibiotics seems to be coming to a close, and what we see now are co-investments by the public and private sectors, with publicly financed investors such as the Combating Antibiotic Resistant Bacteria Biopharmaceutical Accelerator (CARB-X) and the Global Antibiotic Research and Development Partnership (GARDP) occupying the centre stage in antibiotic development all the way from preclinical and regulatory stages to product registration.
 
 ## What strategies can be used to stimulate antibiotics development? {.unnumbered}
 
 Scientific strategies
 
+what new strategies are working (livermore article)
+
 Economic strategies
 
 What strategies can be used to ensure global access to future antibiotics?
+
+Netflix model for antibiotics?
+
+<figure>
+
+<iframe src="https://www.ft.com/video/adada10f-5747-4976-a3e0-958b0165e0ef" loading="lazy" style="width: 100%; height: 600px; border: 0px none;">
+
+</iframe>
+
+<figcaption>
+
+**Figure 4. Changes in life expectancy over 500 years**. Data source: World Health Bank
+
+</figcaption>
+
+</figure>
+
+### Economic strategies? {.unnumbered}
+
+Incentives for antibiotics are categorized as either 'push' or 'pull'. Push incentives occur before regulatory approval by the FDA or European Medicines Agency, and the funding supports many projects, including the many that fail before approval. Pull incentives are paid only after regulatory approval and hence only successful products are supported. Both push and pull incentives are required to address our pressing problems.

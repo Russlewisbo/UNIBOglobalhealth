@@ -1,5 +1,7 @@
 ---
-title: "97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES"
+title: |
+  ![](images/logo.png){width=1in}   
+  97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES
 subtitle: "Global Aspects of Antimicrobial Resistance"
 titlerunning: "Antibiotic Resistance"
 author: "Russell E. Lewis, Associate Professor, Infectious Diseases, University of Bologna"
@@ -48,7 +50,7 @@ Industrialization and growing wealth during the 19th century brought improvement
 
 Antibacterial resistance emerged with bacteria on earth approximately 2-2.5 billion years ago. In contrast, the first humans are believed to have existed around 2 million years ago. Therefore, it cannot be said that humans are the cause of antimicrobial resistance.Antibiotic resistance pre-dates the use of antibiotics in medicine. Indeed, antibiotic use is inevitable. Any use of an an antibiotic will eventually select for antimicrobial resistance.
 
-The first recorded use of antimicrobial -like substances was by the early Egyptians, Greeks, and Chinese, who used natural products with antimicrobial activity for millennia to treat wounds and infections, even if the causes of these diseases were unknown until the 19th and 20th century..
+The first recorded use of antimicrobial -like substances was by the early Egyptians, Greeks, and Chinese, who used natural products with antimicrobial activity for millennia to treat wounds and infections, even if the causes of these diseases were unknown until the 19th and 20th century.
 
 The microbiologist and immunologist Paul Ehrlich (1854-1915) is credited with the discovery and first medical application of a synthetic antibiotic arsphenamine (Salvarsan) for the treatment of a bacterial infection-syphilis. Yet it was the serendipitous discovery of penicillin in 1928 by Alexander Fleming, and its subsequent purification of the drug in quantities needed for clinical testing by Drs. Florey and Chain in the 1930s, that initiated the true start of the modern antibiotic era. Interestingly, the term *antibiotic* was actually coined by Selman Waksman, a biochemist and microbiologist who discovered the first effective treatment for tuberculosis, streptomycin, and was awarded the Nobel prize in 1952.
 
@@ -194,6 +196,7 @@ LMICs are particularly susceptible to the emergence and rapid spread of AMR for 
 -   Lack of access to clean water, suboptimal sewage systems, poor sanitation
 -   Poor healthcare infection control practices
 -   Increasing consumption of antimicrobials in humans
+-   Availability and distribution of poor-quality (counterfeit) medicines
 -   Lack of regulation on antimicrobial use in farming, and pharmaceutical industry pollution
 
 <br> The health and economic impact of AMR is also more severe and longer lasting in LMICs versus HICs. AMR is generally associated with:
