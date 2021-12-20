@@ -126,6 +126,15 @@ Given the the limits of existing antibiotic classes had already been discovered 
 
 Despite early enthusiasm and huge financial investments by many pharmaceutical companies, very few potential new antibiotic targets were identified and even fewer drugs entered into clinical development. An example of the scientific challenge is illustrated by experience of SmithKline Beecham (later purchased by Glaxo Smith Kline-one of the few large pharmaceutical companies still involved in antibiotic discovery (inset box). Indeed, only four major pharmaceutical companies still have active antibiotic research programmes.
 
+```{=html}
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+```
+::: blue
+**For further study:** Glaxo
+:::
+
 ### Antibiotic regulatory hurdles {.unnumbered}
 
 The goal of regulatory bodies such as the U.S. Food and Drug Administration (FDA), the European Medicines Agency (EMA), and the African Medicines Agency (AMA) is to review the potential benefits and risks to ensure that new drugs that make it to market are both safe and effective for patients in need. Still, a drug that gains FDA approval may give pause to European reviewers, despite having reviewed the same evidence as their American counterparts, and vice versa. Both the [FDA](https://www.fda.gov/media/82381/download) and the [EMA](https://www.ema.europa.eu/en/documents/other/laboratory-patient-journey-centrally-authorised-medicine_en.pdf) and [AMA](https://www.ifpma.org/subtopics/african-medicines-agency/) have distinct processes with different methods of endpoint evaluation, and individual comfort levels with risk. Other countries, such as [India](https://cdsco.gov.in/opencms/opencms/en/Drugs/New-Drugs/) and [China](https://www.appliedclinicaltrialsonline.com/view/regulatory-requirements-and-key-points-drug-clinical-trials-registration-china) have their own processes for drug registration and approval and may require additional studies in populations of patients from their countries prior to approval. Therefore, if a new antibiotic that is effective for treating MDR pathogens is approved in one country, there is no guarantee that the drug will be favourable reviewed or avaiable in other countries.
