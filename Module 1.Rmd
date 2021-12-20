@@ -213,7 +213,7 @@ LMICs are particularly susceptible to the emergence and rapid spread of AMR for 
 
 <center>
 
-![](images/ft_vaccine%20differences.png){width="600"}
+![](images/ft_vaccine%20differences.png){width="1200"}
 
 </center>
 
@@ -254,7 +254,7 @@ As discussed above, the emergence of antimicrobial resistance (AMR) is a complex
 
 <figcaption>
 
-**Figure X. Global antibiotic use and resistance by income class.** (A) High-income countries (HICs); and (B) Low-Middle Income Countries (LMICs). [@CenterforDiseaseDynamicsEconomicsandPolicy2021]
+**Figure 5. Global antibiotic use and resistance by income class.** (A) High-income countries (HICs); and (B) Low-Middle Income Countries (LMICs). [@CenterforDiseaseDynamicsEconomicsandPolicy2021]
 
 </figcaption>
 
@@ -268,7 +268,7 @@ As discussed above, the emergence of antimicrobial resistance (AMR) is a complex
 
 <figcaption>
 
-**Figure X. Drug resistance index (DRI) across countries**. The drug resistance index is a composite score derived by multiplying the proportion of each antibiotic used to treat a set of pathogens by the proportion of all isolates that were resistant to that drug. Blue bars represent high-income countries (HICs) dark blue bars represent low-middle income countries (LMICs).[@CenterforDiseaseDynamicsEconomicsandPolicy2021]
+**Figure 6. Drug resistance index (DRI) across countries**. The drug resistance index is a composite score derived by multiplying the proportion of each antibiotic used to treat a set of pathogens by the proportion of all isolates that were resistant to that drug. Blue bars represent high-income countries (HICs) dark blue bars represent low-middle income countries (LMICs).[@CenterforDiseaseDynamicsEconomicsandPolicy2021]
 
 </figcaption>
 
@@ -305,6 +305,71 @@ Antimicrobial stewardship is a coordinated program that promotes and focuses on 
 </center>
 
 </figure>
+
+### Case study: A successful national antibiotic stewardship program in a LMIC {.unnumbered}
+
+The Antibiotics Smart Use (ASU) program in Thailand was an implementation research project comprised of three phases:
+
+-    Implementation of behavior change interventions
+-   Examination of the feasibility of scale up; and
+-   Identification of mechanisms for sustainability
+
+The guiding principle of the ASU program is that antibiotics should not be used to treat non-bacterial infections. ASU started by trying to reduce unnecessary antibiotic use in patients with 3 conditions: upper respiratory tract infections, especially common colds with sore throat; acute diarrhea and simple wounds.
+
+The program focused on simple measures, compatibility with the providers' values, advantages with respect to current practice; performing testable interventions, and transparency.
+
+In the beginning, ASU consisted of a network of researchers from Thailand's Ministry of Public Health and pharmacists and doctors from Srinakharinwirot University and Chulalongkorn University.
+
+-   **In phase 1 (2007- 2008)** they piloted educational and training reforms to improve prescribing in 10 hospitals and 87 primary health centres in one province. Antibiotic prescription, provider attitudes of effectiveness and knowledge of antibiotics, non-prescription rates in case of non-bacterial infections, and patient health and satisfaction were monitored.
+
+-   **In** **phase 2** **(2008-2009)** the same indicators were then used to scale up the program to three provinces and two hospital networks, counting to 44 hospitals and 621 primary health care centres.
+
+-   **The 3rd phase** **(2010 -- Present)** is focusing on long-term sustainability and scale up of ASU -- initially to 22 hospital networks in 15 provinces, and then subsequently across the entire country.
+
++----------------------+------------------------------------------------------------------------+------------------------------------------------------------+---------------------------------------------------+
+| Characteristics      | Phase 1\                                                               | Phase 2\                                                   | Phase 3,\                                         |
+|                      | (1 year)                                                               | (1 year, 3 months)                                         | transition period                                 |
++:=====================+:=======================================================================+:===========================================================+:==================================================+
+| **Goals**            | Test effectiveness of ASU in changing antibiotic prescription behavior | Test feasibility of scaling up ASU model                   | Strengthen networks, assess scaling up mechanisms |
++----------------------+------------------------------------------------------------------------+------------------------------------------------------------+---------------------------------------------------+
+| **Target**           | 1 province                                                             | 3 provinces and 2 networks of public and private hospitals | 22 hospital networks in 15 provinces              |
++----------------------+------------------------------------------------------------------------+------------------------------------------------------------+---------------------------------------------------+
+| **Funding\           | WHO, Thai FDA                                                          | HSRI, NHSO, Thai FDA                                       | DSMDC, Thai FDA                                   |
+| agencies**           |                                                                        |                                                            |                                                   |
++----------------------+------------------------------------------------------------------------+------------------------------------------------------------+---------------------------------------------------+
+| **Coordinating\      | Thai FDA                                                               | Thai FDA                                                   | DSMDC, Thai FDA, IHPP                             |
+| agencies**           |                                                                        |                                                            |                                                   |
++----------------------+------------------------------------------------------------------------+------------------------------------------------------------+---------------------------------------------------+
+| **Budget spending**  | US\$ 33,000                                                            | US\$ 73,000                                                | US\$ 123,000                                      |
++----------------------+------------------------------------------------------------------------+------------------------------------------------------------+---------------------------------------------------+
+| **Spillover effect** | No                                                                     | Yes                                                        | Yes                                               |
++----------------------+------------------------------------------------------------------------+------------------------------------------------------------+---------------------------------------------------+
+
+The program also had many simple but innovative community health interventions. For example, holding up a simple concave mirror to consumers trying to buy antibiotics for treating the common cold and cough was part of a new initiative in Thailand by community pharmacists to lower consumption of antibiotics.
+
+<center>
+
+![](images/mirror.png){width="600"}
+
+<figcaption>
+
+</center>
+
+**Figure 7. Mirror toolkit for patients to self-assess their sore throat symptoms in Thai Pharmacies**
+
+</figcaption>
+
+After completion of Phases I-2, the following results were noted:
+
+-   *Positive effects on reducing antibiotic prescribing*. Antibiotic use was reduced by 18-46%
+-   The percentage of patients who did not receive antibiotics increased by 29.1%, whereas there was no change in the control groups who were not involved in the ASU program
+-   *Patient health and satisfaction* *rates were high*, 96%-99.3% of patients surveyed who did not refeive antibiotics recovered and felt better within 7-10 days after their medical visits
+-   *Success in scaling up*. The number of hospitals adopting ASU increased from 44 hospitals (2008) to more than 600 hospitals (2010).
+
+The ASU project is having an impact beyond the borders of Thailand too and is now seen as a
+model for replication in other parts of south-east Asia with interest elicited from as far away as
+Africa and Latin America.\
+Read more about the ASU project at [react.org](https://www.reactgroup.org/toolbox/rational-use/examples-from-the-field/antibiotics-smart-use-thailand/)
 
 ## AMR situation in Italy {.unnumbered}
 
