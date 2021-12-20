@@ -2,7 +2,7 @@
 title: |
   ![](images/logo.png){width=1in}   
   97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES
-subtitle: "Global Aspects of Antimicrobial Resistance"
+subtitle: "Module 1: Global Aspects of Antimicrobial Resistance"
 titlerunning: "Antibiotic Resistance"
 author: "Russell E. Lewis, Associate Professor, Infectious Diseases, University of Bologna"
 orcid id: 0000-0002-2002-4339

@@ -2,7 +2,7 @@
 title: |
   ![](images/logo.png){width=1in}   
   97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES
-subtitle: "The Crisis in Antibiotic Development"
+subtitle: "Module-2: The Public Health Crisis of New Antibiotic Development"
 titlerunning: "Antibiotic Development"
 author: "Russell E. Lewis, Associate Professor, Infectious Diseases, Department of Medical and Surgical Sciences"
 orcid id: 0000-0002-2002-4339
@@ -180,7 +180,7 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 </style>
 ```
 ::: blue
-Achaogen first advanced plazomicin (Zemdri), a broad-spectrum aminoglycoside antibacterial, into the clinic in 2009. Despite initial plans to develop the drug as a much-needed new treatment for carbapenem-resistant Enterobacteriaceae (CRE) --- which included drug-resistant *Klebsiella* species and *Escherichia co*li --- a phase III trial that started in 2014 in this setting struggled to recruit patients. The company pivoted to initiate a phase III trial in complicated urinary tract infections (cUTIs) in 2016, and submitted the drug for FDA approval in this indication and in blood stream infections in 2017. Although the agency approved the drug for cUTI in 2018, they rejected its use in the potentially more lucrative and important blood stream infections. An independent advisory committee also voted against approval in the bloodstream, noting that the efficacy signal came from a small study of just 28 patients. In the end, It spent 15 years and a billion dollars to win FDA approval for Zemdri, a drug for hard-to-treat UTs. In July, the World Health Organization added plazomicin to its [list of essential new medicines](https://www.who.int/medicines/publications/essentialmedicines/en/). Achaogen later filed for bankruptcy, less than a year after the FDA approved its lead product. See: [Crises Looms in Antibiotics as Drug Makers Go Bankrupt](https://www.nytimes.com/2019/12/25/health/antibiotics-new-resistance.html). NY Times, December 25, 2019.
+**For further study:** Achaogen first advanced plazomicin (Zemdri), a broad-spectrum aminoglycoside antibacterial, into the clinic in 2009. Despite initial plans to develop the drug as a much-needed new treatment for carbapenem-resistant Enterobacteriaceae (CRE) --- which included drug-resistant *Klebsiella* species and *Escherichia co*li --- a phase III trial that started in 2014 in this setting struggled to recruit patients. The company pivoted to initiate a phase III trial in complicated urinary tract infections (cUTIs) in 2016, and submitted the drug for FDA approval in this indication and in blood stream infections in 2017. Although the agency approved the drug for cUTI in 2018, they rejected its use in the potentially more lucrative and important blood stream infections. An independent advisory committee also voted against approval in the bloodstream, noting that the efficacy signal came from a small study of just 28 patients. In the end, It spent 15 years and a billion dollars to win FDA approval for Zemdri, a drug for hard-to-treat UTs. In July, the World Health Organization added plazomicin to its [list of essential new medicines](https://www.who.int/medicines/publications/essentialmedicines/en/). Achaogen later filed for bankruptcy, less than a year after the FDA approved its lead product. See: [Crises Looms in Antibiotics as Drug Makers Go Bankrupt](https://www.nytimes.com/2019/12/25/health/antibiotics-new-resistance.html). NY Times, December 25, 2019.
 :::
 
 </figure>
@@ -191,19 +191,15 @@ Even if the resources are found to bring an innovative antibiotic for resistant 
 
 Incentives for antibiotics are categorized as either 'push' or 'pull'. Push incentives occur before regulatory approval by the FDA or European Medicines Agency, and the funding supports many projects, including the many that fail before approval. Pull incentives are paid only after regulatory approval and hence only successful products are supported. Both push and pull incentives are required to address our pressing problems.
 
-Many successful initiatives to establish push funding for antibiotics have been developed over the last decade including but not limited to:
+Many successful initiatives to establish push funding for antibiotics have been developed over the last decade. At present, the United States and the European Union have initiated an admirable array of push incentives, including support of basic science at the US National Institute of Allergy and Infectious Diseases (NIAID), the UK Medical Research Council, and other national funding agencies, as well as specialized support for preclinical and clinical antibacterial research by the US Biomedical Advanced Research and Development Authority (BARDA), [CARB-X](https://carb-x.org/), the [European Gram Negative AntiBacterial Engine (ENABLE)](https://www.imi.europa.eu/projects-results/project-factsheets/enable), the [REPAIR Impact Fund](https://www.repair-impact-fund.com/)and [GARDP](https://www.gardp.org/). These efforts have been led by BARDA in the United States and by the [Wellcome Trust](https://wellcome.org/), the [Innovative Medicines Initiative](https://www.imi.europa.eu/) and the Novo Nordisk Foundation in Europe and [AMR Action Fund,](https://www.amractionfund.com/) with substantial additional funding from the UK's Global AMR Innovation Fund, the German Federal Ministry of Education and Research, and the Bill & Melinda Gates Foundation, among others.
 
--   [Innovative Medicines Initiative](https://www.imi.europa.eu/projects-results/project-factsheets/nd4bb) New Drugs for Bad Bugs (launched in 2012; funds made available €223 million
--   [CARB-X](https://carb-x.org/) (launched in 2016; funds made available US\$455 million)
--   [Novo Holdings REPAIR Impact Fund](https://www.repair-impact-fund.com/) (launched in 2018; funds made available US\$165 million).
--   [Global Antibiotics Research and Development Partnership](https://www.gardp.org/). GARDP . Funded by over 60 partners in 20 countries. Seeking 500 million dollars to develop 5 new antibiotics by 2025.
--   [European Gram Negative AntiBacterial Engine (ENABLE)](https://www.imi.europa.eu/projects-results/project-factsheets/enable)
+These efforts are succeeding. The preclinical pipeline is shifting to higher quality products targeting the most urgent clinical needs, de-risking projects for private development. Without these programmes, the fragile pipeline would become entirely moribund. However, the bankruptcy of Achaogen in April 2019 provided a moment of clarity for the antibiotics industry: the finish line is not FDA approval, but break-even profitability. Because novel antibiotics are rightfully held in reserve for years, sales revenues are very low in the first 5--7 years. During this period, the company must pay for postapproval costs such as clinical studies to fulfil paediatric commitments, expanded label indications, global registration and the infrastructure to support commercialization. These postapproval expenses will be at least several hundred million US dollars. For most new drugs, companies cover these expenses through aggressive sales. For antibiotics, companies have no way to pay for them without positive net revenues in an environment that hinders their ability to raise additional funds. For Achaogen, scientific and regulatory achievement ended in economic disaster. A similar fate awaits other antibiotic companies unless governments enact meaningful pull incentives in the next year.
 
 <figure>
 
 <center>
 
-![](images/push_pull.png){width="800"}
+![](images/push.png)
 
 </center>
 
@@ -215,7 +211,7 @@ Many successful initiatives to establish push funding for antibiotics have been 
 
 </figure>
 
-However, as the Achaogen story illustrates, pull funding may be the greatest challenge. Pull incentives are being actively discussed in the United States and Europe, building on the release of the DRIVE-AB final report in 2018. One of the strategies that has garnered the most attention is the the "Netflix reinbursement model" that is be implemented in a selected approach in the [UK](https://www.gov.uk/government/news/world-first-scheme-underway-to-tackle-amr-and-protect-uk-patients) and [Sweden](https://www.folkhalsomyndigheten.se/the-public-health-agency-of-sweden/communicable-disease-control/antibiotics-and-antimicrobial-resistance/availability-of-antibiotics/).
+Pull incentives are being actively discussed in the United States and Europe, building on the release of the [DRIVE-AB final report in 2018.](http://drive-ab.eu/wp-content/uploads/2018/01/DRIVE-AB-Final-Report-Jan2018.pdf) Clearly, effective pull funnding required greater public investent. Germany has developed a program for paying higher reibursement for select new anitbiotics with activity against major resistance threats. One of the strategies that has garnered the most attention is the the "Netflix reimbursement model" that is be implemented as a pilot project in the [UK](https://www.gov.uk/government/news/world-first-scheme-underway-to-tackle-amr-and-protect-uk-patients) and [Sweden](https://www.folkhalsomyndigheten.se/the-public-health-agency-of-sweden/communicable-disease-control/antibiotics-and-antimicrobial-resistance/availability-of-antibiotics/). This payment mechanism is called **'delinkage',** and is uniquely salient for antibiotics that could be undermined by resistance through inappropriate commercial incentives to sell. Paying for antibiotics on a national level is a powerful pull incentive, paying for value as opposed to volume.
 
 <figure>
 
@@ -225,30 +221,27 @@ However, as the Achaogen story illustrates, pull funding may be the greatest cha
 
 <figcaption>
 
-**Figure 4. The "Netlfix Model" of Pull Incentives for antibiotic development and reinbursement..**
+**Figure 4. The "Netlfix Model" of Pull Incentives for antibiotic development and reimbursement.**
 
 </figcaption>
 
-</figure>
-
-What strategies can be used to ensure global access to future antibiotics?
-
-Netflix model for antibiotics?
-
-<figure>
-
-<iframe src="https://www.ft.com/video/adada10f-5747-4976-a3e0-958b0165e0ef" loading="lazy" style="width: 100%; height: 600px; border: 0px none;">
-
-</iframe>
-
-<figcaption>
-
-**Figure 4. Changes in life expectancy over 500 years**. Data source: World Health Bank
-
-</figcaption>
+on
 
 </figure>
 
-### Economic strategies? {.unnumbered}
+How can the **true value** of antibiotics be better communicated to the public? Two leading experts in antimicrobial resistance (Drs. John Rex and Ken Outterson) have suggested that antibiotics should be thought of more like the Fire department or "fire-extinguishers of medicine."
 
-Incentives for antibiotics are categorized as either 'push' or 'pull'. Push incentives occur before regulatory approval by the FDA or European Medicines Agency, and the funding supports many projects, including the many that fail before approval. Pull incentives are paid only after regulatory approval and hence only successful products are supported. Both push and pull incentives are required to address our pressing problems.
+> "No one wakes up hoping they get to use a fire extinguisher that day. Not even the fire department. Fire fighters go to work every day and hope they don't get any calls. They perform regular maintenance on all their gear and stay at the station 24/7 just as a precaution. We pay them to be available and prepared so they can come to our rescue when we need them. If we didn't pay for the fire department for years and then a fire broke out in the middle of your town, can you imagine the damage? People would die unnecessarily, the medical system would be overwhelmed, and the fire could spread beyond the borders of the town. The fire might rage through the whole county, then the region, and then your entire country. It might even spread through the entire world, just like COVID-19. <br> A fire fighter uses a hose to subdue flames engulfing a home while a physician uses antibiotics to stop an infection in your body. We need to be prepared for fires -- the flame kind and the medical kind. As a society, we are prepared for the flame kind. But the medical? We aren't even close. <br> Without antibiotics, all of modern medicine will change worldwide. Diseases we think of only being in the history books could become a part of every day life again. Minor surgery could become life threatening. An infected cut on your hand could be the end. Childbirth will easily endanger the lives of mothers and newborns. Cancer treatments will be nearly impossible. Antibiotics are vitally important to all of humanity". <br> -[John Rex, M.D., AMR Solutions](https://amr.solutions/fire-extinguishers-of-medicine/)
+
+For more information on how the risk of antimicrobial resistance can be more clearly and effectively communicated to the public, see these excellent suggestions by the Wellcome Trust: [Drug-resistant infections: the power of language](https://www.youtube.com/watch?v=wTgRpOIxNG0&t=6s)
+
+```{=html}
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+```
+::: blue
+**For further study:** Tetraphase pharmaceuticals is a small company with a innovative and unique chemistry platform for developing novel tetracycline analogues that have activity against many MDR organisms on the WHO Priority Pathogens List. Their lead compound, eravacycline, was appoved by the FDA for the treatment of complicated intraabdominal infections in 2018. Like many of its peers, merely securing approval was only the first hurdle. What has happened since to everacycline and Tetraphase pharmaceuticals? How could a different reimbursement scheme changed outcomes?
+:::
+
+### What can be done to ensure LMICs are not left behind? {.unnumbered}
