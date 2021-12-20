@@ -310,7 +310,7 @@ Antimicrobial stewardship is a coordinated program that promotes and focuses on 
 
 The Antibiotics Smart Use (ASU) program in Thailand was an implementation research project comprised of three phases:
 
--    Implementation of behavior change interventions
+-   Implementation of behavior change interventions
 -   Examination of the feasibility of scale up; and
 -   Identification of mechanisms for sustainability
 
@@ -366,9 +366,7 @@ After completion of Phases I-2, the following results were noted:
 -   *Patient health and satisfaction* *rates were high*, 96%-99.3% of patients surveyed who did not refeive antibiotics recovered and felt better within 7-10 days after their medical visits
 -   *Success in scaling up*. The number of hospitals adopting ASU increased from 44 hospitals (2008) to more than 600 hospitals (2010).
 
-The ASU project is having an impact beyond the borders of Thailand too and is now seen as a
-model for replication in other parts of south-east Asia with interest elicited from as far away as
-Africa and Latin America.\
+The ASU project is having an impact beyond the borders of Thailand too and is now seen as a model for replication in other parts of south-east Asia with interest elicited from as far away as Africa and Latin America.\
 Read more about the ASU project at [react.org](https://www.reactgroup.org/toolbox/rational-use/examples-from-the-field/antibiotics-smart-use-thailand/)
 
 ## AMR situation in Italy {.unnumbered}
