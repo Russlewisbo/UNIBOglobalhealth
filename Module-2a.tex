@@ -1,0 +1,497 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{book}
+\usepackage{amsmath,amssymb}
+\usepackage{lmodern}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={ 97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES},
+  pdfauthor={Russell E. Lewis, Associate Professor, Infectious Diseases, Department of Medical and Surgical Sciences},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage{longtable,booktabs,array}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
+% Allow footnotes in longtable head/foot
+\IfFileExists{footnotehyper.sty}{\usepackage{footnotehyper}}{\usepackage{footnote}}
+\makesavenoteenv{longtable}
+\usepackage{graphicx}
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\newlength{\cslhangindent}
+\setlength{\cslhangindent}{1.5em}
+\newlength{\csllabelwidth}
+\setlength{\csllabelwidth}{3em}
+\newlength{\cslentryspacingunit} % times entry-spacing
+\setlength{\cslentryspacingunit}{\parskip}
+\newenvironment{CSLReferences}[2] % #1 hanging-ident, #2 entry spacing
+ {% don't indent paragraphs
+  \setlength{\parindent}{0pt}
+  % turn on hanging indent if param 1 is 1
+  \ifodd #1
+  \let\oldpar\par
+  \def\par{\hangindent=\cslhangindent\oldpar}
+  \fi
+  % set entry spacing
+  \setlength{\parskip}{#2\cslentryspacingunit}
+ }%
+ {}
+\usepackage{calc}
+\newcommand{\CSLBlock}[1]{#1\hfill\break}
+\newcommand{\CSLLeftMargin}[1]{\parbox[t]{\csllabelwidth}{#1}}
+\newcommand{\CSLRightInline}[1]{\parbox[t]{\linewidth - \csllabelwidth}{#1}\break}
+\newcommand{\CSLIndent}[1]{\hspace{\cslhangindent}#1}
+\ifLuaTeX
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\title{\includegraphics[width=1in,height=\textheight]{images/logo.png}\\
+97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES}
+\usepackage{etoolbox}
+\makeatletter
+\providecommand{\subtitle}[1]{% add subtitle to \maketitle
+  \apptocmd{\@title}{\par {\large #1 \par}}{}{}
+}
+\makeatother
+\subtitle{Module-2: The Crisis of New Antibiotic Development}
+\author{Russell E. Lewis, Associate Professor, Infectious Diseases, Department of Medical and Surgical Sciences}
+\date{11/26/2022}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{1}
+\tableofcontents
+}
+\hypertarget{background}{%
+\section*{Background}\label{background}}
+\addcontentsline{toc}{section}{Background}
+
+In module 1, we discussed the history of antibiotic discovery and the current challenges with antimicrobial resistance that has been amplified by the lack of development of new antibiotics. In this module, we will examine the scientific and economic challenges associated with antibiotic development, and compare and contrast strategies that have been proposed to stimulate development of new antibiotics.
+As discussed previously, antibiotic discovery began to slow in the 1980's leading to a discovery void in new molecular entities (NMEs) since the 1990s. This lack of antibiotic innovation occurred at a critical period when antibiotic resistance, particularly to many front-line beta-lactam antibiotics, began to increase rapidly due to the emergence and worldwide diffusion of new forms of enzymatic (beta-lactamase) resistance to antibiotics. These bacterial enzymes can be broadly classified as:
+
+\begin{itemize}
+\tightlist
+\item
+  Narrow-spectrum beta-lactamases, which act on penicillins and first-generation cephalosporins (e.g., TEM-1 and 2, SHV-1, cephalosporinases, OXA-type enzymes
+\item
+  Extended-spectrum beta-lactamases (ESBLs), which act on penicillins and all four generations of cephalosporins (SHV-2, SHV-5, SHV-7, SHV-12, TEM-10, TEM-12, TEM-26, CTX-M, OXA-type ESBLs)
+\item
+  Carbapenemases, which act on penicillins, all four generations of cephalosporins, and carbapenems (KPC, NDM-1, VIM and IMP carbapenemases, OXA-type carbapenemases).
+\end{itemize}
+
+The emergence and rapid spread of these beta-lactamases was problematic because they have a low barrier for mutation and creating resistance to new beta-lactams that are used as first and second line therapies for common respiratory, abdominal, and genital-urinary tract infect infections. Additionally, many of these enzymes are encoded on spread on plasmids (mobile genetic elements that can be passed from one bacterial species to another) that harbour additional resistance mechanisms to other classes resulting in rapid dissemination of multidrug resistance.
+
+\includegraphics[width=6.25in,height=\textheight]{images/betalactamases.png}
+
+\textbf{Figure 1. Increase in numbers of group 1, 2, and 3 beta-lactamases from 1970 to 2009}. Figure is from Bush and Jacoby\textsuperscript{1}
+
+As discussed previously, the WHO in 2017 convened a group of experts to prioritize the need for new drugs to treat antibiotic- resistant bacteria. The WHO assigned the highest priority to antibacterial drug research and development for the Gram- negative bacteria \emph{Acinetobacter}, \emph{Pseudomonas} and species of \emph{Enterobacterales} that are resistant to carbapenems and are usually extensively drug resistant (XDR).
+
+\textbf{Table 1. WHO priority pathogens}
++--------------+--------------------------------------------------------------------------------------------+
+\textbar{} Priority \textbar{} Pathogens included \textbar{}
++:=============+:===========================================================================================+
+\textbar{} \textbf{Critical} \textbar{} \emph{Acinetobacter baumannii} (Carbapenem-resistant) \textbar{}
+\textbar{} \textbar{} \textbar{}
+\textbar{} \textbar{} \emph{Pseudomonas aeruginosa} (Carbapenem-resistant) \textbar{}
+\textbar{} \textbar{} \textbar{}
+\textbar{} \textbar{} Enterbacterales (3rd generation cephalosporin, carbapenem-resistant) \textbar{}
++--------------+--------------------------------------------------------------------------------------------+
+\textbar{} \textbf{High} \textbar{} \emph{Enterococcus faecium}, vancomycin-resistant \textbar{}
+\textbar{} \textbar{} \textbar{}
+\textbar{} \textbar{} \emph{Staphylococcus aureus}, methicillin-resistant, vancomycin intermediate and resistant \textbar{}
+\textbar{} \textbar{} \textbar{}
+\textbar{} \textbar{} \emph{Helicobacter pylori}, clarithromycin-resistant \textbar{}
+\textbar{} \textbar{} \textbar{}
+\textbar{} \textbar{} \emph{Campylobacter}, fluoroquinolone-resistant \textbar{}
+\textbar{} \textbar{} \textbar{}
+\textbar{} \textbar{} \emph{Salmonella} spp., fluoroquinolone-resistant \textbar{}
+\textbar{} \textbar{} \textbar{}
+\textbar{} \textbar{} \emph{Neisseria gonorrhoeae}, 3rd generation cephalosporin-resistant, fluoroquinolone-resistant \textbar{}
++--------------+--------------------------------------------------------------------------------------------+
+\textbar{} \textbf{Medium} \textbar{} \emph{Streptococcus pneumoniae}, penicillin-non-susceptible \textbar{}
+\textbar{} \textbar{} \textbar{}
+\textbar{} \textbar{} \emph{Haemophilus influenzae}, ampicillin-resistant \textbar{}
+\textbar{} \textbar{} \textbar{}
+\textbar{} \textbar{} \emph{Shigella} spp., fluoroquinolone-resistant \textbar{}
++--------------+--------------------------------------------------------------------------------------------+
+
+The same year, the WHO released a \href{https://apps.who.int/iris/bitstream/handle/10665/330420/9789240000193-eng.pdf}{clinical pipeline report}, which was updated in 2018 and 2019. The report analysed antibiotics and biologics in development according to their activity against the critical priority pathogens carbapenem resistant \emph{Acinetobacter baumannii} (CRAB), carbapenem-resistant \emph{Pseudomonas aeruginosa} (CRPA), extended spectrum beta-lactamase (ESBL) producing Enterobacterales and carbapenem resistant Enterobacterales (CRE). The level of innovation in the global clinical pipeline was assessed on the basis or the absence of pre-existing cross-resistance to currently used antibacterial drugs. The key findings from this report were:
+
+\begin{quote}
+\begin{itemize}
+\item
+  The clinical pipeline remains insufficient to tackle the challenge of increasing emergence and spread of antimicrobial resistance.
+\item
+  It is primarily driven by small- or medium-sized enterprises (SMEs), with large pharmaceutical companies continuing to exit the field.
+\item
+  Eight new antibacterial agents have been approved since 1 July 2017, but overall, they have limited clinical benefits.
+\item
+  One new anti-tuberculosis (anti-TB) agent, pretomanid, developed by a not-for-profit organization, has been approved for use within a set drug-combination treatment for MDR TB.
+\item
+  The current clinical pipeline contains 50 antibiotics and combinations (with a new therapeutic entity) and 10 biologicals, of which 32 antibiotics are active against the WHO priority pathogens:
+
+  \begin{itemize}
+  \item
+    Six of these agents fulfil at least one of the innovation criteria; only two of these are active against the critical MDR Gram-negative bacteria.
+  \item
+    More than 40\% of the pipeline targeting WHO priority pathogens consists of additional beta-lactam and beta-lactamase inhibitor (BLI) combinations, with a major gap in activity against metallo-beta-lactamase (MBL) producers.
+  \item
+    The anti-TB and \emph{Clostridium difficile} antibacterial pipeline is more innovative than the WHO priority pathogens pipeline, with more than half of the antibiotics fulfilling all of the innovation criteria.
+  \end{itemize}
+\end{itemize}
+\end{quote}
+
+The report confirms previous reports and highlights the public health implications of a drying antibiotic pipeline. In the following sections we will explore the causes and potential solutions to this crises.
+
+\hypertarget{why-has-antibiotic-discovery-faltered-in-recent-years}{%
+\section*{Why has antibiotic discovery faltered in recent years?}\label{why-has-antibiotic-discovery-faltered-in-recent-years}}
+\addcontentsline{toc}{section}{Why has antibiotic discovery faltered in recent years?}
+
+\hypertarget{scientific-challenges}{%
+\subsection*{Scientific challenges}\label{scientific-challenges}}
+\addcontentsline{toc}{subsection}{Scientific challenges}
+
+Discovering new antibiotics is inherently challenging. Antibiotics must attack multiple target bacterial species that change over time by developing resistance, and must reach effective concentrations in multiple body compartments.\textsuperscript{2} The discoverer of a new antibiotic must guess what resistance problems will be a problem in 10 years, and bring drugs to market to overcome these challenges. This flexibility and risk is not encountered in other therapeutic areas such as hypertension, diabetes, hyperglycemia, or Alzheimer's disease where the drugs bind to one specific target. Even for cancer chemotherapy, which develops resistance to therapy, the mechanisms leading to resistance are not transmissible to other cancers or patients. Antibiotics must also be remarkabley non-toxic, as their daily dosages often measured in grams are often higher that for other pharmaceutics measured in milligrams.
+
+Nearly all of the antibiotics used today belong to classes of drugs discovered before 1970. They are products of a ``golden age'' of antibiotic discovery from 1945-1965, which screened natural products from soil streptomyces and fungi. This discovery approach hit the law of diminishing returns by the 1960's with the same classes being repeatably rediscovered.\textsuperscript{2} Put simply, the \emph{low-hanging} fruit for new antibiotic discovery has already been picked. Since 1970, the only new antibiotic classes to reach the marked are the oxazolidinones (i.e.~linezolid discovered in 1978 launched in 2000) and lipopeptides (discovered in 1986 launched in 2003).
+
+Most advances in antibiotics since the 1970s have come through improvements of existing antibiotic classes yielding analogues with increased potency and greater ability to evade existing resistance. However, over time this approach has become more difficult with the emergence of more potent resistance mechanisms that affects multiple antibiotics classes.
+
+Given the the limits of existing strategies of screening soil organisms, the pharmaceutical industry turned to genomics-based high-throughput antibiotic discovery strategies with considerable enthusiasm in the 1990s.\textsuperscript{2} This discovery strategy used genomic sequence data from several target bacterial pathogens to identify conserved genes encoding targets not found in mammalian cells, and then ran high-throughput inhibition screens of existing chemical compound libraries to identify ``druggable'' molecules for these identified targets.
+
+Despite early enthusiasm and huge financial investments by many pharmaceutical companies, very few potential new antibiotic targets were identified and even fewer drugs entered into clinical development. An example of the scientific challenge is illustrated by experience of SmithKline Beecham (later purchased by Glaxo Smith Kline-one of the few large pharmaceutical companies still involved in antibiotic discovery (inset box). Indeed, only four major pharmaceutical companies still have active antibiotic research programmes.
+
+\textbf{The disappointment of genomics:} From 1995 to 2002, SmithKline Beecham (now part of GlaxoSmithKline (GSK) identified 300 potential targets and ran 67 high-throughput screens, each of 260000 --530000 compounds. Sixteen screens led to `hits'---meaning compounds that bound selectively to a target giving a reproducible positive signal in the assays---and five of these translated into `lead' compounds. Of the five corresponding targets, two (FabI9 and Mrs) were not universally essential or conserved, meaning that they could not form the targets of broadspectrum antibiotics, and it proved impossible to incorporate `drug-like properties' into molecules that bound two others. The final target identified was peptide deformylase, for which GSK now has a molecule (GSK 1322322) in Phase II trials, although this did not come from high-throughput screening. This performance appears typical of other companies that followed the genomics strategy. Thus, 20 years after its advent, no antibiotic developed by this approach has reached the market.\textsuperscript{3}
+
+\hypertarget{antibiotic-regulatory-hurdles}{%
+\subsection*{Antibiotic regulatory hurdles}\label{antibiotic-regulatory-hurdles}}
+\addcontentsline{toc}{subsection}{Antibiotic regulatory hurdles}
+
+The goal of regulatory bodies such as the U.S. Food and Drug Administration (FDA), the European Medicines Agency (EMA), and the African Medicines Agency (AMA) is to review the potential benefits and risks to ensure that new drugs that make it to market are both safe and effective for patients in need. Still, a drug that gains FDA approval may give pause to European reviewers, despite having reviewed the same evidence as their American counterparts, and vice versa. Both the \href{https://www.fda.gov/media/82381/download}{FDA} and the \href{https://www.ema.europa.eu/en/documents/other/laboratory-patient-journey-centrally-authorised-medicine_en.pdf}{EMA} and \href{https://www.ifpma.org/subtopics/african-medicines-agency/}{AMA} have distinct processes with different methods of endpoint evaluation, and individual comfort levels with risk. Other countries, such as \href{https://cdsco.gov.in/opencms/opencms/en/Drugs/New-Drugs/}{India} and \href{https://www.appliedclinicaltrialsonline.com/view/regulatory-requirements-and-key-points-drug-clinical-trials-registration-china}{China} and many LMICs have their own processes for drug registration and approval and may require additional studies in populations of patients from their countries prior to approval. Therefore, if a new antibiotic that is effective for treating MDR pathogens is approved in one country, there is no guarantee that the drug will be favourable reviewed or avaiable in other countries.
+
+Less than 10\% of LMICs have access to ``newely'' approved antibiotics within 10 years of availability, due to low probability expectation\textsuperscript{4}. \textbf{Indeed, The majority of the world's annual 5.7 million antibiotic-treatable deaths occur in LMICs where the mortality burden from treatable bacterial infections far exceeds the estimated annual 700,000 deaths from antibiotic-resistant infections.}\textsuperscript{5}However, even among HIC, patient access to new antibacterials is limited in countries such as Canada, Japan, and many European countries.\textsuperscript{6}. Companies appear to eschew antibacterial markets not offering attractive commercial prospects, which are almost all markets currently. If truly innovative antibacterials, like those identified by WHO, cannot find profitable markets.
+
+LMICs with limited drug regulatory capacity may loose control of antibiotic distribution. As a result, some antibiotics that should be reserved as last-line treatment options are sold without a prescription. Limited regulatory capacity may also lead to rampant availability of sub-standard and falsified antibiotic products, which further promote the emergence of antibiotic-resistant pathogens.
+
+\includegraphics[width=8.33333in,height=\textheight]{images/clinical trial.png}
+
+\textbf{Figure 2. Pathway from drug discovery to regulatory approval and estimated costs.} ADMET- studies to document drug absorption, distribution, metabolism and elimination, and toxicity in animals. PK/PD pharmacokinetic/ pharmacodynamic relationships- i.e.~dose response and toxicity relationships from animals.
+
+A company seeking regulatory approval to sell a new prescription antibiotic must complete a five-step process: discovery/concept, preclinical research (animal testing), clinical research, regulatory review, and post-market safety monitoring. \textbf{The cost to achieve this regulatory approval for antibiotics has been estimated between 1-1-5 billion dollars}.\textsuperscript{7} The two most expensive components for antibiotics are the drug discovery (due to the higher failure rate) and clinical trials. Current guidance published by the US Food and Drug Administration (FDA) and the European Medicines Agency (EMA) requires randomized controlled clinical trals to demonstrate the non-inferiority of the new antibiotic to established therapies. This has to be complemented by the enrolment of a large number of patients to support the marketing application (New Drug Application NDA or Marketing Authorization Application MAA, respectively) for 1 or more infection site--specific indication (e.g., complicated urinary tract infection or complicated intra-abdominal infection), based on the drug's clinical efficacy and safety. The bacterial pathogens relevant to the indication listed in the prescribing information are a \emph{secondary consideration} based on the spectrum of activity of the investigational antibiotic and the microbiological efficacy data extracted from the clinical trials.\textsuperscript{8} As a result, even if a new antibiotic is developed for a MDR pathogen, it is difficult to perform clinical studies and receive approval from the FDA or EMA for the treatment of a resistant infection.
+
+Despite the high risk and high cost for development of a new antibiotic, the returns are relatively poor. Meanwhile, industry analysts estimate that the average revenue generated from an antibiotic's sale is roughly \$46 million per year.\textsuperscript{7}. Therefore a key problem for antibiotics is that their development is not profitable. Companies are making more money from the sales of other drug classes, including immuno-oncology therapeutics, that antibiotic development projects compare poorly when management allocates capital.
+
+\includegraphics[width=8.33333in,height=\textheight]{images/profitability.png}
+
+\textbf{Figure 3. Profitability of the antibiotic sector vs.~other drug types.} Source: \href{https://www.ft.com/video/adada10f-5747-4976-a3e0-958b0165e0ef}{Finanacial Times}
+
+Moreover, it is difficult for an antibiotic manufacturer to be able to precisely identify the small proportion of patients who both really need the antibiotic for a MDR pathogen and are willing to pay a high price for the drug. As noted by Ardal and colleges:\textsuperscript{9}
+
+\begin{quote}
+The major challenge with antibiotics is profitability. As older antibiotics are still effective for treating most infections, the primary value of new antibiotics is to treat multidrug-resistant infections and provide a protective benefit against emerging pathogens. The duration of antibiotic treatment for individual patients is relatively short (for example, 1--2 weeks or up to 1 month), whereas the treatment for chronic conditions can be continuous over many years. Resistance is hastened by use, new antibiotics are stewarded as a last resort, which results in low unit sales. Whereas medicines for rare diseases have used high unit-pricing strategies to achieve profitability, these are often unavailable to antibiotic developers due to clinical trial design (it is difficult to demonstrate the superiority of new antibiotics as resistance is still relatively uncommon) and bundled hospital reimbursement structures (whereby hospitals are incentivized to prescribe lower-cost antibiotics). Large pharmaceutical companies have largely abandoned the market, accounting for only 4 of the 42 antibiotics currently under development.\textsuperscript{10}Any investment in a new antibiotic is seen as a high-risk proposition, and consequently the returns expected by prospective investors are high to account for this risk premium. This in turn puts pressure on small and medium-sized enterprises (SMEs), as there is little chance that their candidate antibiotics will be purchased by larger companies.
+\end{quote}
+
+Enormous costs are also incurred once an antibiotic is approved. Approval by regulatory agencies is usually contingent on performing many studies post approval (phase IV): pediatric dosing and safety studies, pharmacokinetic studies in special populations (i.e.~elderly, obese, dialysis), pharmacovigelence (safety), development and validation of susceptibility testing technology, manufacturing and supply chain investments, anda 5-10 years commitment to monitor resistance through antimicrobial surveillance studies. Recouping these costs may be impossible for drugs with activity against MDR pathogens as many many countries and health systems will negotiate the lowest possible price for purchase and then (appropriately) restrict the use of the antibiotic to preserve its effectiveness- resulting in low sales. This is completely different from a scenario of a new ``breakthrough'' cancer therapy, where the drug will be immediately incorporated in treatment
+
+Thus while the hight post-approval costs may be absorbable by large pharmaceutical companies with other profitable drug products in other therapeutic areas, they can put smaller companies out of business. As novel antibiotics are held in reserve for years, sales revenues are very low in the first 5--7 years. During this period, the company must pay for the high postapproval costs described above that for antibiotics cannot be covered through aggressive sales. For antibiotics, companies have no way to pay for them without positive net revenues in an environment that hinders their ability to raise additional funds. especially if the approved drug was developed for MDR pathogens as illustrated by the Archeogen company:
+
+\textbf{For further study:} Achaogen first advanced plazomicin (Zemdri), a broad-spectrum aminoglycoside antibacterial, into the clinic in 2009. Despite initial plans to develop the drug as a much-needed new treatment for carbapenem-resistant Enterobacteriaceae (CRE) --- which included drug-resistant \emph{Klebsiella} species and \emph{Escherichia co}li --- a phase III trial that started in 2014 in this setting struggled to recruit patients. The company pivoted to initiate a phase III trial in complicated urinary tract infections (cUTIs) in 2016, and submitted the drug for FDA approval in this indication and in bloodstream infections in 2017. Although plazomicin was approved for cUTI in 2018, the FDA rejected its use in the potentially more lucrative and important bloodstream infections despite evidence of improved outcomes in patients with carbapenem-resistant infections. An independent advisory committee also voted against approval in the bloodstream, noting that the efficacy signal came from a small study of just 28 patients. In the end, It spent 15 years and a billion dollars to win FDA approval for Zemdri, a drug for hard-to-treat UTs. In July, the World Health Organization added plazomicin to its \href{https://www.who.int/medicines/publications/essentialmedicines/en/}{list of essential new medicines}. Achaogen later filed for bankruptcy, less than a year after the FDA approved its lead product. See: \href{https://www.nytimes.com/2019/12/25/health/antibiotics-new-resistance.html}{Crises Looms in Antibiotics as Drug Makers Go Bankrupt}. NY Times, December 25, 2019.
+
+\hypertarget{what-are-the-current-strategies-to-incentive-antibiotic-development}{%
+\section*{What are the current strategies to incentive antibiotic development?}\label{what-are-the-current-strategies-to-incentive-antibiotic-development}}
+\addcontentsline{toc}{section}{What are the current strategies to incentive antibiotic development?}
+
+Incentives for antibiotics are categorized as either `push' or `pull'. Push incentives occur before regulatory approval by the FDA or EMA, and the funding supports many projects, including the many that fail before approval. Pull incentives are paid only after regulatory approval and hence only successful products are supported. Both push and pull incentives are required to address the lack of antibiotic development.
+
+Many successful initiatives to establish push funding for antibiotics have been developed over the last decade. At present, the United States and the European Union have initiated a wide array of push incentives, including support of basic science at the US National Institute of Allergy and Infectious Diseases (NIAID), the UK Medical Research Council, and other national funding agencies, as well as specialized support for preclinical and clinical antibacterial research by the US Biomedical Advanced Research and Development Authority (BARDA), \href{https://carb-x.org/}{CARB-X}, the \href{https://www.imi.europa.eu/projects-results/project-factsheets/enable}{European Gram Negative AntiBacterial Engine (ENABLE)}, the \href{https://www.repair-impact-fund.com/}{REPAIR Impact Fund} and the Global Antibiotic Research and Development Partnership \href{https://www.gardp.org/}{GARDP}. Other important funding partners for push incentives have included the \href{https://wellcome.org/}{Wellcome Trust}, the \href{https://www.imi.europa.eu/}{Innovative Medicines Initiative} and the Novo Nordisk Foundation in Europe and \href{https://www.amractionfund.com/}{AMR Action Fund,} which is supported in part by the UK's Global AMR Innovation Fund, European Investment Bank, the German Federal Ministry of Education and Research, and the Bill \& Melinda Gates Foundation, among others.
+
+These push efforts are creating hope. The preclinical pipeline is shifting to higher quality products targeting the most urgent clinical needs, de-risking projects for private development. Without these programmes, the fragile pipeline would become entirely moribund. However, the bankruptcy of Achaogen in April 2019 provided a wake-up clarity for the antibiotics industry: the finish line is not FDA or EMA approval, but break-even profitability. For Achaogen, scientific and regulatory achievement ended in economic disaster. A similar fate awaits other antibiotic companies unless governments enact meaningful pull incentives in the next year.
+
+\includegraphics{images/push.png}
+
+\textbf{Figure 4. Push versus pull incentives for antibiotic development.}
+
+Pull incentives are increasing the focus of of new initiatives to develop antibiotics in the United States and Europe, building on the release of the \href{http://drive-ab.eu/wp-content/uploads/2018/01/DRIVE-AB-Final-Report-Jan2018.pdf}{DRIVE-AB final report in 2018.} Clearly, effective pull funding will require substantial public investment that may not be politically popular if viewed as a large cash ``handout'' to pharmaceutical companies. Yet, some novel reimbursement schemes with pull incentives for antibiotic development are starting in the US, UK and Europe (recently reviewed by Gotham et al{[}\textsuperscript{11}). One of the most frequently discussed pull incentives is the ``Netflix reimbursement model'' that is currently being implemented as a pilot project in the \href{https://www.gov.uk/government/news/world-first-scheme-underway-to-tackle-amr-and-protect-uk-patients}{UK} and \href{https://www.folkhalsomyndigheten.se/the-public-health-agency-of-sweden/communicable-disease-control/antibiotics-and-antimicrobial-resistance/availability-of-antibiotics/}{Sweden}. This payment mechanism is called \textbf{`de-linkage' model} because it delinks the payments to manufacturers from the number of units sold..
+
+\textbf{Figure 5. Financial Times Video Examining the ``Netflix Model'' of Pull Incentives for Antibiotic Reimbursement.}
+
+on
+
+How can the \textbf{true value} of antibiotics be better communicated to the public? Two leading experts in antimicrobial resistance (Drs. John Rex and Ken Outterson) have suggested that antibiotics should be thought of more like the ``fire-extinguishers'' of medicine.
+
+\begin{quote}
+``No one wakes up hoping they get to use a fire extinguisher that day. Not even the fire department. Fire fighters go to work every day and hope they don't get any calls. They perform regular maintenance on all their gear and stay at the station 24/7 just as a precaution. We pay them to be available and prepared so they can come to our rescue when we need them. If we didn't pay for the fire department for years and then a fire broke out in the middle of your town, can you imagine the damage? People would die unnecessarily, the medical system would be overwhelmed, and the fire could spread beyond the borders of the town. The fire might rage through the whole county, then the region, and then your entire country. It might even spread through the entire world, just like COVID-19. A fire fighter uses a hose to subdue flames engulfing a home while a physician uses antibiotics to stop an infection in your body. We need to be prepared for fires -- the flame kind and the medical kind. As a society, we are prepared for the flame kind. But the medical? We aren't even close. Without antibiotics, all of modern medicine will change worldwide. Diseases we think of only being in the history books could become a part of every day life again. Minor surgery could become life threatening. An infected cut on your hand could be the end. Childbirth will easily endanger the lives of mothers and newborns. Cancer treatments will be nearly impossible. Antibiotics are vitally important to all of humanity''. -\href{https://amr.solutions/fire-extinguishers-of-medicine/}{John Rex, M.D., AMR Solutions}
+\end{quote}
+
+\includegraphics{images/fire extinguisher-01.png}
+
+For more information on how AMR risks can be responsibly and effectively communicated to the public, see this excellent video prepared by the Wellcome Trust: \href{https://www.youtube.com/watch?v=wTgRpOIxNG0\&t=6s}{Drug-resistant infections: the power of language}
+
+\textbf{For further study:} Tetraphase pharmaceuticals is a small company with a innovative and unique chemistry platform for developing novel tetracycline analogues that have activity against many MDR organisms on the WHO Priority Pathogens List. Their lead compound, eravacycline, was appoved by the FDA for the treatment of complicated intraabdominal infections in 2018. Like many of its peers, merely securing approval was only the first hurdle. What has happened since to everacycline and Tetraphase pharmaceuticals? How could a different reimbursement scheme changed outcomes?
+
+\hypertarget{antibiotic-supply-chain-problems}{%
+\subsection*{Antibiotic supply chain problems}\label{antibiotic-supply-chain-problems}}
+\addcontentsline{toc}{subsection}{Antibiotic supply chain problems}
+
+Although much of the focus on antibiotic availability is focused on new drugs for AMR, another worrying phenomenon is the increasing frequency of shortages of older generics, mostly injectable antibacterials, such as piperacillin-tazobactam or benzylpenicillin. Drug shortages are another factor that can contrinute to AMR.\textsuperscript{12} The fierce price competition combined with stringent production requirements for parenteral antibacterials has led to a significant reduction of suppliers, in particular of active pharmaceutical ingredients, and to highly optimized and thus more vulnerable supply chains. Increasingly prevalent shortages of even older antibiotics is now recognized as a major public health threat and requires additional specific action beyond.
+
+\includegraphics[width=8.33333in,height=\textheight]{images/drugshortages.jpg}
+
+\textbf{Figure 6.} The reasons for antimicrobial shortages across the development, distribution and use pathway.
+
+\hypertarget{what-can-be-done-to-ensure-antibiotic-access-in-lmics}{%
+\section*{What can be done to ensure antibiotic access in LMICs?}\label{what-can-be-done-to-ensure-antibiotic-access-in-lmics}}
+\addcontentsline{toc}{section}{What can be done to ensure antibiotic access in LMICs?}
+
+individuals living in poverty are susceptible to infections and under poor living conditions (no access to basic sanitation facilities or health care) infections spread faster. Antibiotics, which may be available without prescription, are often used as substitutes for clean food, clean water, vaccines and diagnostics. Therefore, it will be impossible to address the challenges of antimicrobial resistance and lack of access to antibiotic therapy if other contributing factors are not addressed.
+
+For countries where antibiotics can be accessed without a prescription, controlling antibiotic distribution should be highly prioritized. However, introduction of a new prescription system when antibiotic demans is still high can lead to unintentional consequences (such as the distribution of antibiotics on the black market) that are even harder to control. It is important to note that the overuse of antibiotics has become a social norm in many countries as it is influenced by the beliefs and attitudes of the individuals towards antibiotics as well as sociocultural factors, regardless of medical justifications.\textsuperscript{13}
+
+Antibiotic use is generally higher in the developed world, but LMICs are rapidly catching up as access to healthcare improves and the burden of antibiotic-treatable infections remains high. Between 2000 and 2015,the global rate of antibiotic consumption increased by 39\%, from 11.3 to 15.7 defined daily doses (DDDs) per 1,000 inhabitants per day. In LMICs, the consumption rate for cephalosporins,quinolones, and macrolides has increased by 399\%, 125\%, and 119\%, respectively, while in high-income countries (HICs), consumption has decreased by 18\%, 1\%, and 25\%, respectively.
+
+DDD is a statistical measure of drug consumption, defined by the World Health Organization, and is used to standardize the comparison of drug usage between different drugs or between different health care environments
+
+In an analysis by the Center for Disease Dynamics, Economics \& Policy (CDDEP),\textsuperscript{14} three key barriers in LMICs were identified that affect access to newer antibiotics for resistant pathogens:
+
+\hypertarget{barrier-1-weak-drug-discovery-difficulties-in-market-entry-and-poor-stewardship-lead-to-irrational-selection-and-use-of-antibiotics}{%
+\subsection*{Barrier 1: Weak drug discovery, difficulties in market entry, and poor stewardship lead to irrational selection and use of antibiotics}\label{barrier-1-weak-drug-discovery-difficulties-in-market-entry-and-poor-stewardship-lead-to-irrational-selection-and-use-of-antibiotics}}
+\addcontentsline{toc}{subsection}{Barrier 1: Weak drug discovery, difficulties in market entry, and poor stewardship lead to irrational selection and use of antibiotics}
+
+Incentives for the sale of antibiotics promote inappropriate use, and conflicts of interest arise when the sale of medicines is not separated from the remuneration of hospitals and prescribersFor example, in China, hospitals derive significant revenues from the sale of antibiotics, and consequently, antibiotics are prescribed widely and inappropriately. Marketers with unrestricted access to healthcare providers in LMICs can influence prescribing. In Uganda, for example, doctors can receive financial incentives for prescribing specific brands or using a specific pharmacy. Many doctors have a financial interest in private pharmacies and prescribe more expensive antibiotics even when unnecessary. Promoters from pharmaceutical companies encourage doctors to prescribe multiple medications simultaneously and have unregulated access to doctors and pharmacists. In India, direct and indirect gifts from medical representatives and commissions influence prescribing practices, and hospitals profit from sales. Doctors feel perceived or real pressure from patients, who, if unsatisfied, may change doctors. Doctors may prescribe for shorter durations than the recommended course of treatment to ensure that the patient returns. Prescribers may prefer to prescribe injectable formulations to maximize their profits
+
+Self-prescribing is common across LMICs. In Uganda, 41\% of antibiotic sales are over-the-counter. Antibiotics are easily obtained without prescription, and patients may reuse old prescriptions to treat recurrent infections or avoid going to a doctor for infections they consider embarrassing. Moreover, non-professionals often prescribe or dispense antibiotics. Healthcare providers without formal training provide more than 70\% of primary care in India. Only 58\% of those referring to themselves as doctors in India's cities have a medical degree; in rural areas the proportion is just 19\%, and a third of `doctors' have only a secondary school education.
+
+\textbf{CDDEP Recommendations}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.0511}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2283}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2726}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.4480}}@{}}
+\toprule
+\begin{minipage}[b]{\linewidth}\raggedright
+Number
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Recommendation}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Stackholders}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Rationale}
+\end{minipage} \\
+\midrule
+\endhead
+\textbf{1} & Encourage R\&D of new or improved antibiotics, diagnostic tests, vaccines, and alternatives to antibiotics for bacterial infections. & Countries, regional collaborations, WHO and other international bodies, pharmaceutical industry, academia & At a global scale, higher investment in novel antibiotics, temperature-stable formulations, and rapid diagnostic tests is needed. \\
+\textbf{2} & Support the registration of antibiotics in more countries according to clinical need. & WHO and other international bodies, national governments, policymakers, regulators, pharmaceutical industry & Efforts at the national, regional, and global levels to support drug registration could reduce the upfront cost of accessing less attractive markets and benefit patients by making life-saving drugs available.
+
+Newer drugs coming to market are likely to be introduced by small and medium-size enterprises that may not have the expertise or resources to register in multiple countries. However, this cost should not be a barrier. \\
+Regulators and policymakers & In many instances, regulations and requirements could be aligned across countries and simplified to reduce costs. & & \\
+Pharmaceutical companies & Plans for registration should be part of the development process. & & \\
+\textbf{3} & Establish standards of practice and national treatment guidelines. & WHO, countries, experts and their professional associations, hospitals and community care facilities & \begin{minipage}[t]{\linewidth}\raggedright
+The WHO should issue a call to\\
+action for all professional associations and councils involved in prescribing practices to develop clinical guidelines for treating infectious diseases at all levels of healthcare.\strut
+\end{minipage} \\
+\textbf{4} & Generate awareness and educate patients and prescribers. & NGOs, advocacy groups, professional bodies,WHO offices at all levels, health ministries, and local institutions (hospitals, clinics, schools, churches, etc.) & \begin{minipage}[t]{\linewidth}\raggedright
+Information about the price and quality of antibiotics approved for use in a country will support rational prescribing and use, as will surveillance data on local antibiotic resistance profiles.
+
+NGOs, professional bodies, and\\
+advocacy groups can use existing communications channels to educate patients and prescribers about drug quality and rational antibiotic use. Such information will empower consumers who purchase drugs out-of-pocket to demand quality antibiotics while increasing
+
+price competition among suppliers and removing poor-quality suppliers from the market.\strut
+\end{minipage} \\
+\textbf{5} & Reduce conflictof interest and incentives that lead to inappropriate antibiotic use. & Regulators, NGOs, doctors, and patients & Conflicts of interest between prescribers and the vendors of pharmaceuticals can be addressed by regulating gifts from drug companies and promoting the enforced or voluntary declaration of such gifts \\
+\bottomrule
+\end{longtable}
+
+\hypertarget{barrier-2-antibiotics-are-not-affordable-for-many-in-lmics-and-government-funding-for-health-is-low}{%
+\subsection*{Barrier 2: Antibiotics are not affordable for many in LMICs and government funding for health is low}\label{barrier-2-antibiotics-are-not-affordable-for-many-in-lmics-and-government-funding-for-health-is-low}}
+\addcontentsline{toc}{subsection}{Barrier 2: Antibiotics are not affordable for many in LMICs and government funding for health is low}
+
+LMICs face constraints on public spending and have insufficient budgets for healthcare. In Uganda, interviewees indicated that just 8.9\% of the national budget goes to health services and only 47\% of EML drugs, including antibiotics, are purchased. Government spending on healthcare in India is 1.4\% of gross domestic product and insurance coverage is poor. Public health facilities lack adequate medicine stocks, and antibiotic availability is 50\% to 60\% in some states
+
+Although global supply shortages have affected even HICs , the immediate challenges in LMICs are often associated with supply chain management and budgets for medicines. When stockouts are used as an adverse performance metric, countries may have incentives to keep drugs in stock but not distribute them.
+
+\textbf{CDDEP Recommendations}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.0481}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2037}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2444}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.5037}}@{}}
+\toprule
+\begin{minipage}[b]{\linewidth}\raggedright
+Number
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Recommendation}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Stakeholders}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Rationale}
+\end{minipage} \\
+\midrule
+\endhead
+\textbf{6} & Explore innovative funding of essential antibiotics. & UNICEF, WHO, national governments, pharmaceutical manufacturers & \begin{minipage}[t]{\linewidth}\raggedright
+Countries with less purchasing\\
+power could pool their resources for procurement under arrangements similar to Gavi (the vaccine alliance)\\
+or the Global Fund. UNICEF/WHO might coordinate procurement and distribution. Besides helping LMICs increase their purchasing power,\\
+such an arrangement would support quality manufacturers while driving out substandard suppliers.\strut
+\end{minipage} \\
+\bottomrule
+\end{longtable}
+
+\hypertarget{barrier-3-weak-health-systems-unreliable-supply-chains-and-poor-quality-control-fail-to-deliver-antibiotics-to-patients-in-need}{%
+\subsection*{Barrier 3: Weak health systems, unreliable supply chains and poor quality control fail to deliver antibiotics to patients in need}\label{barrier-3-weak-health-systems-unreliable-supply-chains-and-poor-quality-control-fail-to-deliver-antibiotics-to-patients-in-need}}
+\addcontentsline{toc}{subsection}{Barrier 3: Weak health systems, unreliable supply chains and poor quality control fail to deliver antibiotics to patients in need}
+
+For many patients in LMICs, out-of-pocket payments for antibiotics either limit access or push people into poverty. In remote areas, transportation costs for patients and accompanying relatives can be substantial, in some cases exceeding 20\% of medical costs. In rural Kenya, the main reason for not seeking treatment was ``lack of cash.'' ``No drugs available'' and ``drugs are ineffective'' were also stated as reasons.
+
+\textbf{CDDEP Recommendations}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.0216}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.1709}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.1965}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.6110}}@{}}
+\toprule
+\begin{minipage}[b]{\linewidth}\raggedright
+Number
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Recommendation}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Stakeholders}
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\textbf{Rationale}
+\end{minipage} \\
+\midrule
+\endhead
+7 & Ensure the quality of antibiotics, and strengthen pharmaceutical regulatory capacity & WHO, national and regional regulators, countries, pharmaceutical suppliers and manufacturers & \begin{minipage}[t]{\linewidth}\raggedright
+WHO support and coordination, national and regional regulators could collaborate to support quality assurance and avoid duplication of effort across countries.
+
+Rapid information exchange for pharmacovigilance, information on poor- quality suppliers, and sharing of best practices and innovation will help drive substandard and falsified antibiotics from the market.
+
+An international entity, such as the WHO, could provide surveillance, monitoring, and compliance testing for antibiotic quality. Such work\\
+would support LMICs' regulatory authorities and also ensure the integrity of the supply chain from the dominant suppliers in India and China. It could also establish standards for generic antibiotics and fixed-dose combinations, which are commonly used in LMICs, and support the industry in self- regulation.\strut
+\end{minipage} \\
+8 & Encourage local manufacturing for cost-effective antibiotics. & Countries, regional collaborations, pharmaceutical industry, including drug R\&D and manufacturers & Development and diversification of local manufacturers can help ensure the steady supply of essential, quality-assured antibiotics so that countries can meet their own needs. This should be supported through regional collaborations of countries such as the African Union. \\
+\bottomrule
+\end{longtable}
+
+\hypertarget{summary}{%
+\section*{Summary}\label{summary}}
+\addcontentsline{toc}{section}{Summary}
+
+Ultimately, there are many interrelated factors contributing to lack of development of new antimicrobials. Although AMR cannot be eliminated, many factors can be addressed to improve the scientific and economic environment for restoring health to the antibiotic pipeline. Antibiotic stewardship and infection prevention must therefore be pursued alongside improvements in access to antibiotics in LMICs. All stakeholders---international bodies, government leaders, health and agriculture ministries, patients and medical practitioners, farmers and veterinarians, academia, and the pharmaceutical industry--- must slow the emergence of resistance to existing antibiotics to ensure affordability and access everywhere.
+
+\hypertarget{refs}{}
+\begin{CSLReferences}{0}{0}
+\leavevmode\vadjust pre{\hypertarget{ref-BushJacoby2010}{}}%
+\CSLLeftMargin{1. }
+\CSLRightInline{Bush, K. \& Jacoby, G. A. \href{https://doi.org/10.1128/AAC.01009-09}{Updated {Functional Classification} of {\(\beta\)}-{Lactamases}}. \emph{Antimicrobial Agents and Chemotherapy} \textbf{54}, 969--976 (2010).}
+
+\leavevmode\vadjust pre{\hypertarget{ref-LivermoreEtAl2011}{}}%
+\CSLLeftMargin{2. }
+\CSLRightInline{Livermore, D. M. \emph{et al.} \href{https://doi.org/10.1093/jac/dkr262}{Discovery research: The scientific challenge of finding new antibiotics}. \emph{Journal of Antimicrobial Chemotherapy} \textbf{66}, 1941--1944 (2011).}
+
+\leavevmode\vadjust pre{\hypertarget{ref-PayneEtAl2007}{}}%
+\CSLLeftMargin{3. }
+\CSLRightInline{Payne, D. J., Gwynn, M. N., Holmes, D. J. \& Pompliano, D. L. \href{https://doi.org/10.1038/nrd2201}{Drugs for bad bugs: Confronting the challenges of antibacterial discovery}. \emph{Nature reviews. Drug discovery} \textbf{6}, 29--40 (2007).}
+
+\leavevmode\vadjust pre{\hypertarget{ref-KallbergEtAl2018}{}}%
+\CSLLeftMargin{4. }
+\CSLRightInline{Kållberg, C. \emph{et al.} \href{https://doi.org/10.1371/journal.pone.0205166}{Introduction and geographic availability of new antibiotics approved between 1999 and 2014}. \emph{PLOS ONE} \textbf{13}, e0205166 (2018).}
+
+\leavevmode\vadjust pre{\hypertarget{ref-DaulaireEtAl2015}{}}%
+\CSLLeftMargin{5. }
+\CSLRightInline{Daulaire, N., Bang, A., Tomson, G., Kalyango, J. N. \& Cars, O. \href{https://doi.org/10.1111/jlme.12269}{Universal {Access} to {Effective Antibiotics} is {Essential} for {Tackling Antibiotic Resistance}}. \emph{Journal of Law, Medicine \& Ethics} \textbf{43}, 17--21 (2015/ed).}
+
+\leavevmode\vadjust pre{\hypertarget{ref-OuttersonEtAl2021a}{}}%
+\CSLLeftMargin{6. }
+\CSLRightInline{Outterson, K., Orubu, E. S. F., Rex, J., Årdal, C. \& Zaman, M. H. Patient {Access} in 14 {High-Income Countries} to {New Antibacterials Approved} by the {US Food} and {Drug Administration}, {European Medicines Agency}, {Japanese Pharmaceuticals} and {Medical Devices Agency}, or {Health Canada}, 2010\textendash 2020. \emph{Clinical Infectious Diseases} ciab612 (2021) doi:\href{https://doi.org/10.1093/cid/ciab612}{10.1093/cid/ciab612}.}
+
+\leavevmode\vadjust pre{\hypertarget{ref-WoutersEtAl2020}{}}%
+\CSLLeftMargin{7. }
+\CSLRightInline{Wouters, O. J., McKee, M. \& Luyten, J. \href{https://doi.org/10.1001/jama.2020.1166}{Estimated {Research} and {Development Investment Needed} to {Bring} a {New Medicine} to {Market}, 2009-2018}. \emph{JAMA} \textbf{323}, 844--853 (2020).}
+
+\leavevmode\vadjust pre{\hypertarget{ref-EcholsEtAl2019a}{}}%
+\CSLLeftMargin{8. }
+\CSLRightInline{Echols, R., Ariyasu, M. \& Nagata, T. D. \href{https://doi.org/10.1093/cid/ciz829}{Pathogen-focused {Clinical Development} to {Address Unmet Medical Need}: {Cefiderocol Targeting Carbapenem Resistance}}. \emph{Clinical Infectious Diseases} \textbf{69}, S559--S564 (2019).}
+
+\leavevmode\vadjust pre{\hypertarget{ref-ArdalEtAl2020a}{}}%
+\CSLLeftMargin{9. }
+\CSLRightInline{Årdal, C. \emph{et al.} \href{https://doi.org/10.1038/s41579-019-0293-3}{Antibiotic development \textemdash{} economic, regulatory and societal challenges}. \emph{Nature Reviews Microbiology} \textbf{18}, 267--274 (2020).}
+
+\leavevmode\vadjust pre{\hypertarget{ref-Mullard2019}{}}%
+\CSLLeftMargin{10. }
+\CSLRightInline{Mullard, A. \href{https://doi.org/10.1038/d41573-019-00085-w}{Achaogen bankruptcy highlights antibacterial development woes}. \emph{Nature Reviews. Drug Discovery} \textbf{18}, 411 (2019).}
+
+\leavevmode\vadjust pre{\hypertarget{ref-GothamEtAl2021}{}}%
+\CSLLeftMargin{11. }
+\CSLRightInline{Gotham, D. \emph{et al.} \href{https://doi.org/10.1016/j.healthpol.2020.11.015}{Reimbursement models to tackle market failures for antimicrobials: {Approaches} taken in {France}, {Germany}, {Sweden}, the {United Kingdom}, and the {United States}}. \emph{Health Policy} \textbf{125}, 296--306 (2021).}
+
+\leavevmode\vadjust pre{\hypertarget{ref-ShafiqEtAl2021}{}}%
+\CSLLeftMargin{12. }
+\CSLRightInline{Shafiq, N. \emph{et al.} \href{https://doi.org/10.1136/bmjgh-2021-006961}{Shortage of essential antimicrobials: A major challenge to global health security}. \emph{BMJ Global Health} \textbf{6}, e006961 (2021).}
+
+\leavevmode\vadjust pre{\hypertarget{ref-DoEtAl2021}{}}%
+\CSLLeftMargin{13. }
+\CSLRightInline{Do, N. T. T. \emph{et al.} \href{https://doi.org/10.1016/S2214-109X(21)00024-3}{Community-based antibiotic access and use in six low-income and middle-income countries: A mixed-method approach}. \emph{The Lancet Global Health} \textbf{9}, e610--e619 (2021).}
+
+\leavevmode\vadjust pre{\hypertarget{ref-FrostIsabelEtAl2019}{}}%
+\CSLLeftMargin{14. }
+\CSLRightInline{Frost, I., Craig, J., Joshi, J., Faure, K. \& Laxminarayan, R. \emph{Access {Barriers} to {Antibiotics}}. ({Center for Disease Dynamics, Economics \& Policy (CDDEP)}, 2019).}
+
+\end{CSLReferences}
+
+\end{document}
