@@ -2,11 +2,11 @@
 title: |
   ![](images/logo.png){width=1in}   
   97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES
-subtitle: "Module 3: Antibiotic anddiagnostic test availability, affordibility and access"
+subtitle: "Module 3: Antibiotic and diagnostic test availability, affordibility and access"
 titlerunning: "Antibiotic access"
 author: "Russell E. Lewis, Associate Professor, Infectious Diseases, University of Bologna"
 orcid id: 0000-0002-2002-4339
-date: "11/26/2022"
+date: "Lesson date: January 17, 2022"
 output:
   bookdown::gitbook:
     lib_dir: assets
@@ -28,5 +28,22 @@ csl: nature.csl
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-##  {.unnumbered}
+##  COVID-19 Vaccine Access in Low-Middle Income Countries (LMICs) {.unnumbered}
 
+In Module 2 we examined the crises in antibiotic development including its impact on low-middle income countries (LMICs). We also highlighted special challenges related to antibiotic access in countries where healthcare resources are limited. In this module we will further explore the problems and strategies for improving antibiotic, vaccine and diagnostic testing access in LMICs. We will explore successful models that have been used in the past for MDR tuberculosis and HIV antiviral medications to see if these approaches can be adapted to antimicrobial therapy.
+
+However, at the time of the lesson we are in the midst a fourth wave of COVID-19 infections driven by the variant. Therefore, it is worth considering where we stand at the moment worldwide with vaccination. There 57.4% of the world population has received at least one dose of a COVID-19 vaccine. Over 8.99 billion doses have been administered globally, and 33.05 million are now administered each day.
+Only 8.3% of people in LMICs have received at least one dose.
+
+<figure>
+<center>
+
+<iframe src="https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=2020-12-18&facet=none&pickerSort=asc&pickerMetric=location&Metric=People+vaccinated+%28by+dose%29&Interval=7-day+rolling+average&Relative+to+Population=true&Align+outbreaks=false&country=ARE~CUB~CHL~PRT~SGP~CHN~IND~USA~IDN~PAK~BRA~NGA~BGD~RUS~MEX~JPN~ETH~PHL~EGY~VNM~TUR~IRN~DEU~THA~GBR~CAN~FRA~ITA~OWID_WRL&hideControls=true" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+
+<figcaption>
+
+**Figure 1. Share of world's population vaccinated against COVID-19**. Data source: Our World in Data
+
+</figcaption>
+
+</figure>

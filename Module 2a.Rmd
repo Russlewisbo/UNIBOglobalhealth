@@ -5,7 +5,7 @@ title: |
 subtitle: "Module-2: The Crisis of New Antibiotic Development"
 author: "Russell E. Lewis, Associate Professor, Infectious Diseases, Department of Medical and Surgical Sciences"
 orcid id: 0000-0002-2002-4339
-date: "11/26/2022"
+date: "Lesson Date: January 14, 2022"
 output:
   bookdown::gitbook:
     lib_dir: assets
