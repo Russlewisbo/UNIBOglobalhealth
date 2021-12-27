@@ -1,0 +1,32 @@
+---
+title: |
+  ![](images/logo.png){width=1in}   
+  97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES
+subtitle: "Module 3: Antibiotic anddiagnostic test availability, affordibility and access"
+titlerunning: "Antibiotic access"
+author: "Russell E. Lewis, Associate Professor, Infectious Diseases, University of Bologna"
+orcid id: 0000-0002-2002-4339
+date: "11/26/2022"
+output:
+  bookdown::gitbook:
+    lib_dir: assets
+    split_by: section
+    config:
+      toolbar:
+        position: static
+  bookdown::pdf_book:
+    keep_tex: true
+  bookdown::html_book:
+    css: toc.css
+documentclass: book
+site: bookdown::bookdown_site
+bibliography: references.bib
+csl: nature.csl
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##  {.unnumbered}
+
