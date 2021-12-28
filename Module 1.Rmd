@@ -725,8 +725,6 @@ Therefore, strong multilateral collaboration is essential for the world to absor
 
 ## Lecture Slides {.unnumbered}
 
-<iframe src="https://slides.com/russelllewis/module1/embed" width="576" height="420" title="Global_antimicrobial_resistance" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
-
-</iframe>
+<iframe src="https://slides.com/russelllewis/global_antimicrobial_resistance-b2d97f/embed" width="576" height="420" title="Module 1: Global Aspects of AMR" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ## References {.unnumbered}
