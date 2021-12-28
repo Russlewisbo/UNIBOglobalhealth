@@ -1,13 +1,15 @@
 ---
 title: |
   ![](images/logo.png){width=1in}   
-  97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES
-subtitle: "Module 1: Global Aspects of Antimicrobial Resistance"
+  <br> 97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES
+subtitle: "Module 1 Lecture Notes: Global Aspects of Antimicrobial Resistance"
 titlerunning: "Antibiotic Resistance"
 author: "Russell E. Lewis, Associate Professor, Infectious Diseases, University of Bologna"
 orcid id: 0000-0002-2002-4339
-date: "Lesson date: January 14, 2022"
+date: "Lesson date: January 10, 2022"
 output:
+  bookdown::html_book:
+    css: toc.css
   bookdown::gitbook:
     lib_dir: assets
     split_by: section
@@ -16,12 +18,10 @@ output:
         position: static
   bookdown::pdf_book:
     keep_tex: true
-  bookdown::html_book:
-    css: toc.css
 documentclass: book
 site: bookdown::bookdown_site
 bibliography: references.bib
-csl: nature.csl
+csl: lancet.csl
 ---
 
 ```{r setup, include=FALSE}
@@ -64,6 +64,8 @@ Alexander Fleming was among the first physicians to caution about the risks of r
 
 Initially, antibiotic discovery seemed to keep pace with resistance as a host of new chemical classes were developed and introduced in the 1950s-1980's. For the first half of the century, the repeated and successful response to emerging resistance was to discover new antibiotics.[@LivermoreEtAl2011] Yet by the 1980's, the discovery of new agents began to slow and this strategy began to fail.. The latest discovery of a new antibiotic class that has reached the market was in 1987. Since then, there has been a lack of innovation in the field, and today there are few novel antibiotic classes in the drug pipeline. In Module 2 we will examine the scientific challenges and market forces that have made new antibiotic discovery increasingly difficult and how access to newer antibiotics is limited in many parts of the world.
 
+<br>
+
 <center>
 
 <figure>
@@ -79,6 +81,8 @@ Initially, antibiotic discovery seemed to keep pace with resistance as a host of
 </figcaption>
 
 </figure>
+
+<br>
 
 Once antibiotic resistance develops, it can spread from one colonised patient to another patient if appropriate hygienic precautions (e.g., hand hygiene, isolation) are not followed. The risk of resistant bacteria spreading is enhanced in crowded environments, especially when people in the surrounding area are receiving antibiotics - a common scenario in hospitals especially in wards of critically-ill patients.
 
@@ -147,7 +151,7 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 MDR- resistance to one agent in at least 3 antibiotic categories; XDR- resistant except to 2 or fewer antibiotic categories; PDR- resistant to all agents in all antibiotic categories; DTR-requires the use of less-effective or more toxic "reserve" antibiotics
 :::
 
-Currently, both the [WHO](https://apps.who.int/iris/bitstream/handle/10665/312266/9789241515528-eng.pdf) and [OIE](https://www.oie.int/en/what-we-do/global-initiatives/antimicrobial-resistance/#ui-id-4) have also developed lists of antibiotics that are considered of "critical importance" for human and animal medicine. These lists help establish priorities for antimicrobial resistance surveillance and new drug development.
+<br>Currently, both the [WHO](https://apps.who.int/iris/bitstream/handle/10665/312266/9789241515528-eng.pdf) and [OIE](https://www.oie.int/en/what-we-do/global-initiatives/antimicrobial-resistance/#ui-id-4) have also developed lists of antibiotics that are considered of "critical importance" for human and animal medicine. These lists help establish priorities for antimicrobial resistance surveillance and new drug development.
 
 ## What are the drivers of antimicrobial resistance? {.unnumbered}
 
@@ -179,7 +183,7 @@ Yet, more antimicrobials are used in food production than in human beings, with 
 
 AMR is a global problem, but its prevalence across the globe varies with antibiotic consumption, access to clean water and adequate sanitation, vaccination coverage, and access to quality healthcare. The latest WHO report, based on AMR data from 66 countries, illustrates an alarming picture of the global status of AMR as an increasing number of countries are now reporting high rates of resistance among antimicrobials used to treat common infections.
 
-There are considerable knowledge gaps regarding AMR prevalence in LMICs that lack clinical and laboratory capacity and surveillance infrastructure. A systematic review of 144 16 studies across Africa lacked AMR data for approximately 40% of the African countries. In the Asia and Pacific region, South East Asia is estimated to have the highest risk of AMR emergence and spread, with the highly transferable New Delhi metallo-β-lactamase-1 (NDM-1) as an example. Furthermore, China and India alone accounted for more than one-third of the global incidence of 17 multidrug-resistant (MDR) tuberculosis.[@CenterforDiseaseDynamicsEconomicsandPolicy2021]
+There are considerable knowledge gaps regarding AMR prevalence in LMICs that lack clinical and laboratory capacity and surveillance infrastructure. A systematic review of 144 16 studies across Africa lacked AMR data for approximately 40% of the African countries. In the Asia and Pacific region, South East Asia is estimated to have the highest risk of AMR emergence and spread, with the highly transferable New Delhi metallo-beta-lactamase-1 (NDM-1) as an example. Furthermore, China and India alone accounted for more than one-third of the global incidence of 17 multidrug-resistant (MDR) tuberculosis.[@CenterforDiseaseDynamicsEconomicsandPolicy2021]
 
 COVID-19 has focused global attention on the inequitable access to the tools needed to control the pandemic, with high-income countries (HICs) and low- and middle-income countries (LMICs) at opposite ends of the scale. In the case of antibiotic resistance, a pandemic projected to cause four times more deaths per year than occurred from COVID-19 during 2020, inequity between HICs and LMICs is a major challenge:[@MendelsonEtAl2016]
 
@@ -254,7 +258,7 @@ As discussed above, the emergence of antimicrobial resistance (AMR) is a complex
 
 </center>
 
-![](images/worldwideresistance.png)
+![](images/worldwideresistance.png){width="3000"}
 
 <figcaption>
 
@@ -268,6 +272,8 @@ As discussed above, the emergence of antimicrobial resistance (AMR) is a complex
 
 <center>
 
+<br>
+
 ![](images/DRI.png){width="800"}
 
 <figcaption>
@@ -279,6 +285,8 @@ As discussed above, the emergence of antimicrobial resistance (AMR) is a complex
 </figure>
 
 </center>
+
+<br>
 
 The international focus on awareness, surveillance, infection prevention, stewardship and research and development (R&D) of new antibiotics is actually widening the equity gap by pouring millions of dollars into R&D of new antibiotics and surveillance systems, while the intervention that could benefit LMICs the most, infection prevention, has received a relatively few resources.
 
@@ -310,19 +318,15 @@ Antimicrobial stewardship is a coordinated program that promotes and focuses on 
 
 </figure>
 
-Since 2017, the WHO has published the **AWaRe Antibiotic Classification List** to support antibiotic stewardship efforts at local, national and global levels. The classification takes into account the impact of different antibiotics and antibiotic classes on antimicrobial resistance, to emphasize the importance of their appropriate use.
+<br>Since 2017, the WHO has published the **AWaRe Antibiotic Classification List** to support antibiotic stewardship efforts at local, national and global levels. The classification takes into account the impact of different antibiotics and antibiotic classes on antimicrobial resistance, to emphasize the importance of their appropriate use.
 
-Antibiotics are classified into three groups: Access, Watch and Reserve.
+**Antibiotics are classified into three groups: Access, Watch and Reserve.**
 
-The "Access" group includes antibiotics that have activity against a wide range of commonly encountered susceptible pathogens while also showing lower resistance potential than antibiotics in the other groups. Selected Access group antibiotics are recommended as essential first or second choice empiric treatment options for infectious syndromes reviewed by the Essential Medicines List (EML) Expert Committee and are listed as individual medicines on the Model Lists of Essential Medicines to improve access and promote appropriate use.
-
-The "Watch" group includes antibiotic classes that have higher resistance potential and includes most of the highest priority agents among the Critically Important Antimicrobials for Human Medicine1 and/or antibiotics that are at relatively high risk of selection of bacterial resistance. These medicines should be prioritized as key targets of stewardship programs and monitoring. Selected Watch group antibiotics are recommended as essential first or second choice empiric treatment options for a limited number of specific infectious syndromes and are listed as individual medicines on the WHO Model Lists of Essential Medicines.
-
-The "Reserve" group includes includes antibiotics and antibiotic classes that should be reserved for treatment of confirmed or suspected infections due to multi-drug-resistant organisms. Reserve group antibiotics should be treated as "last resort" options.
-
-Selected Reserve group antibiotics are listed as individual medicines on the WHO Model Lists of Essential Medicines when they have a favourable risk-benefit profile and proven activity against "Critical Priority" or "High Priority" pathogens identified by the WHO Priority Pathogens List1, notably carbapenem resistant Enterobacteriaceae. These antibiotics should be accessible, but their use should be tailored to highly specific patients and settings, when all alternatives have failed or are not suitable. These medicines could be protected and prioritized as key targets of national and international stewardship programs involving monitoring and utilization reporting, to preserve their effectiveness.
-
-Finally, the list includes "not-recommended" antibiotics- fixed-dose combinations of multiple broad-spectrum antibiotics listed here is not evidence-based, nor recommended in high-quality international guidelines. WHO does not recommend their use in clinical practice.
+-   The "Access" group includes antibiotics that have activity against a wide range of commonly encountered susceptible pathogens while also showing lower resistance potential than antibiotics in the other groups. Selected Access group antibiotics are recommended as essential first or second choice empiric treatment options for infectious syndromes reviewed by the Essential Medicines List (EML) Expert Committee and are listed as individual medicines on the Model Lists of Essential Medicines to improve access and promote appropriate use.
+-   The "Watch" group includes antibiotic classes that have higher resistance potential and includes most of the highest priority agents among the Critically Important Antimicrobials for Human Medicine1 and/or antibiotics that are at relatively high risk of selection of bacterial resistance. These medicines should be prioritized as key targets of stewardship programs and monitoring. Selected Watch group antibiotics are recommended as essential first or second choice empiric treatment options for a limited number of specific infectious syndromes and are listed as individual medicines on the WHO Model Lists of Essential Medicines.
+-   The "Reserve" group includes includes antibiotics and antibiotic classes that should be reserved for treatment of confirmed or suspected infections due to multi-drug-resistant organisms. Reserve group antibiotics should be treated as "last resort" options.
+-   Selected Reserve group antibiotics are listed as individual medicines on the WHO Model Lists of Essential Medicines when they have a favourable risk-benefit profile and proven activity against "Critical Priority" or "High Priority" pathogens identified by the WHO Priority Pathogens List1, notably carbapenem resistant Enterobacteriaceae. These antibiotics should be accessible, but their use should be tailored to highly specific patients and settings, when all alternatives have failed or are not suitable. These medicines could be protected and prioritized as key targets of national and international stewardship programs involving monitoring and utilization reporting, to preserve their effectiveness.
+-   Finally, the list includes "not-recommended" antibiotics- fixed-dose combinations of multiple broad-spectrum antibiotics listed here is not evidence-based, nor recommended in high-quality international guidelines. WHO does not recommend their use in clinical practice.
 
 The 2021 update of the AWaRe classification includes an additional 78 antibiotics not previously classified, bringing the total to 258.
 
@@ -369,6 +373,8 @@ In the beginning, ASU consisted of a network of researchers from Thailand's Mini
 
 The program also had many simple but innovative community health interventions. For example, holding up a simple concave mirror to consumers trying to buy antibiotics for treating the common cold and cough was part of a new initiative in Thailand by community pharmacists to lower consumption of antibiotics.
 
+<br>
+
 <center>
 
 ![](images/mirror.png){width="600"}
@@ -381,15 +387,14 @@ The program also had many simple but innovative community health interventions. 
 
 </figcaption>
 
-After completion of Phases I-2, the following results were noted:
+<br> After completion of Phases 1-2, the following results were noted:
 
 -   *Positive effects on reducing antibiotic prescribing*. Antibiotic use was reduced by 18-46%
 -   The percentage of patients who did not receive antibiotics increased by 29.1%, whereas there was no change in the control groups who were not involved in the ASU program
 -   *Patient health and satisfaction* *rates were high*, 96%-99.3% of patients surveyed who did not refeive antibiotics recovered and felt better within 7-10 days after their medical visits
 -   *Success in scaling up*. The number of hospitals adopting ASU increased from 44 hospitals (2008) to more than 600 hospitals (2010).
 
-The ASU project is having an impact beyond the borders of Thailand too and is now seen as a model for replication in other parts of south-east Asia with interest elicited from as far away as Africa and Latin America.\
-Read more about the ASU project at [react.org](https://www.reactgroup.org/toolbox/rational-use/examples-from-the-field/antibiotics-smart-use-thailand/)
+The ASU project is having an impact beyond the borders of Thailand too and is now seen as a model for replication in other parts of south-east Asia with interest elicited from as far away as Africa and Latin America. Read more about the ASU project at [react.org](https://www.reactgroup.org/toolbox/rational-use/examples-from-the-field/antibiotics-smart-use-thailand/)
 
 ## AMR situation in Italy {.unnumbered}
 
@@ -413,7 +418,7 @@ Southern Europe, including Italy, has among the highest rates of resistance for 
 
 <figcaption>
 
-**Figure 7. Regional differences in carbapenem-resistant Enterobacterales (CRE) bloodstream infection- 2020 incidence per 100,000 residents in Italy.** Source Micronet Resistance Surveillance Program
+**Figure 8. Regional differences in carbapenem-resistant Enterobacterales (CRE) bloodstream infection- 2020 incidence per 100,000 residents in Italy.** Source Micronet Resistance Surveillance Program
 
 </figcaption>
 
@@ -441,7 +446,7 @@ Southern Europe, including Italy, has among the highest rates of resistance for 
 
 <figcaption>
 
-**Figure 8. Projected deaths due to antimicrobial resistance in 2050.** Source: O'Neil Report.
+**Figure 9. Projected deaths due to antimicrobial resistance in 2050.** Source: O'Neil Report.
 
 </figcaption>
 
@@ -461,7 +466,7 @@ Because the drivers of antimicrobial resistance lie in humans, animals, plants, 
 
 <figcaption>
 
-**Figure 9. Rationale for one-health model for addressing AMR**. Source: WHO
+**Figure 10. Rationale for one-health model for addressing AMR**. Source: WHO
 
 </figcaption>
 
@@ -725,6 +730,8 @@ Therefore, strong multilateral collaboration is essential for the world to absor
 
 ## Lecture Slides {.unnumbered}
 
-<iframe src="https://slides.com/russelllewis/global_antimicrobial_resistance-b2d97f/embed" width="576" height="420" title="Module 1: Global Aspects of AMR" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://slides.com/russelllewis/global_antimicrobial_resistance-b2d97f/embed" width="576" height="420" title="Module 1: Global Aspects of AMR" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+
+</iframe>
 
 ## References {.unnumbered}

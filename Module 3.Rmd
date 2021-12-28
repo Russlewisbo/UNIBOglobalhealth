@@ -21,7 +21,7 @@ output:
 documentclass: book
 site: bookdown::bookdown_site
 bibliography: references.bib
-csl: nature.csl
+csl: lancet.csl
 ---
 
 ```{r setup, include=FALSE}
@@ -73,13 +73,15 @@ High-income countries also did not+ ultimately did not surrender their negotiati
 
 What has gone wrong? A fundamental challenge that has to be overcome is that HICs produce vaccines, invest in research development, and secure the supplies. This shuts the rest of the world out of the market. Africa consumes 25% of the world's vaccines, but do not manufacture any of them.
 
+<br>
+
 ```{=html}
 <style>
 div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 </style>
 ```
 ::: blue
-**What is Gavi?** By the late 1990s, the progress of international immunisation programmes was stalling. Nearly 30 million children in developing countries were not fully immunised against deadly diseases, and many others went without any immunisation at all. At the heart of the challenge was an acute market failure; powerful new vaccines were becoming available, but lower-income countries simply could not afford most vaccines. In response, the Bill & Melinda Gates Foundation and a group of founding partners brought to life an elegant solution to encourage manufacturers to lower vaccine prices for the poorest countries in return for long-term, high-volume and predictable demand from those countries. In 2000, that breakthrough idea became the Global Alliance for Vaccines and Immunisation -- today Gavi, the Vaccine Alliance.
+**What is GAVI?** By the late 1990s, the progress of international immunisation programmes was stalling. Nearly 30 million children in developing countries were not fully immunised against deadly diseases, and many others went without any immunisation at all. At the heart of the challenge was an acute market failure; powerful new vaccines were becoming available, but lower-income countries simply could not afford most vaccines. In response, the Bill & Melinda Gates Foundation and a group of founding partners brought to life an elegant solution to encourage manufacturers to lower vaccine prices for the poorest countries in return for long-term, high-volume and predictable demand from those countries. In 2000, that breakthrough idea became the Global Alliance for Vaccines and Immunisation -- today Gavi, the Vaccine Alliance.
 
 Gavi now vaccinates almost half of the world’s children, giving it tremendous power to negotiate vaccines at prices that are affordable for the poorest countries and to remove the commercial risks that previously kept manufacturers from serving them.Because of these market shaping efforts, the cost of fully immunising a child with all 11 WHO-recommended childhood vaccines now costs about US$ 28 in Gavi-supported countries, compared with approximately US$ 1,200 in the United States of America. At the same time, the pool of manufacturers producing prequalified Gavi-supported vaccines has grown from to 18 in 2020 (with more than half based in Africa, Asia and Latin America).
 
