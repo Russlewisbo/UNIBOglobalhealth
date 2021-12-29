@@ -2,7 +2,7 @@
 title: |
   ![](images/logo.png){width=1in}   
   97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES
-subtitle: "Module 3: Antibiotic and diagnostic test availability, affordibility and access"
+subtitle: "Module 3 Lecture Notes: Antibiotic and diagnostic test availability, affordibility and access-Lessons Learned from the COVID-19 Pandemic"
 titlerunning: "Antibiotic access"
 author: "Russell E. Lewis, Associate Professor, Infectious Diseases, University of Bologna"
 orcid id: 0000-0002-2002-4339
@@ -34,7 +34,7 @@ In Module 2 we examined the crises in antibiotic development including its impac
 
 However, at the time of the lesson we are in the midst a fourth wave of COVID-19 infections. Therefore, it is worth considering where we stand at the moment worldwide with vaccinations.
 
-According to the WHO, over 11 billion must be vaccinated against COVID-19. As of December, 57.4% of the world population has received at least one dose of a COVID-19 vaccine. Over 8.99 billion doses have been administered globally, and 33.05 million are now administered each day. Ten countries account for 77% of the globally administered doses. The market has been cornered by rich nations. The EU, the UK, and the USA have all purchased far more vaccine than they can possibly use. Only 8.3% of people in LMICs have received at least one dose of COVID-19.
+According to the WHO, over 11 billion people must be vaccinated against COVID-19. As of December, 57.4% of the world population has received at least one dose of a COVID-19 vaccine. Over 8.99 billion doses have been administered globally, and 33.05 million are now administered each day. Ten countries account for 77% of the globally administered doses. However, the vaccine market has been cornered by rich nations. The EU, the UK, and the USA have all purchased far more vaccine than they can possibly use. Only 8.3% of people in LMICs have received at least one dose of COVID-19.
 
 <figure>
 
@@ -52,26 +52,56 @@ According to the WHO, over 11 billion must be vaccinated against COVID-19. As of
 
 </figure>
 
-<br> The data show that the African continent has been largely left behind in terms of COVID-19 vaccination. What strategy was undertaken to ensure equitable distribution of COVID-19 vaccine?
+<br> The data show that the African continent has been largely left behind in terms of COVID-19 vaccination. This lack of vaccine coverage may be a factor that is contributing to the emergence of new variants such as Omicron, which seem to have emerged from the African continent. However, access to testing and sequencing of strains is also limited, so the current epidemiological picture of COVID is not entirely clear.
+
+<figure>
+
+![](images/Omicron.png){width="800"}
+
+<figcaption>
+
+**Figure 2. Percent of COVID-19 representing the Omicron Variant as of December 26, 2021**. Data source: The Economist
+
+</figcaption>
+
+</figure>
 
 ### COVID-19 Vaccines Global Access (COVAX) Program {.unnumbered}
 
-The COVAX program was a group purchasing program that combines high-income and low-middle-income countries. The program is based on the idea that the world would unite and buy vaccines together, with high- and middle-income countries paying for themselves and low-middle-income countries receiving subsidized doses. Once vaccines are licensed and pre-qualified by the WHO, COVAX funds then pay for the purchase of doses for all 92 eligible countries. The guarantees are designed to incentivise manufacturers to ensure that enough doses are produced for LMIC economies, which collectively represent almost half the world's population.
+The COVAX program was a group purchasing program that combines high-income and low-middle-income countries. The program is based on the idea that the world would unite and buy vaccines together, with high- and middle-income countries paying for themselves, and low-middle-income countries receiving subsidized doses. Once the vaccines were licensed and pre-qualified by the WHO, COVAX funds then pay for the purchase of doses for all 92 eligible countries. The guarantees are designed to incentivise manufacturers to ensure that enough doses are produced for LMIC economies, which collectively represent almost half the world's population.
 
--   HIC countries make higher contributions up-front in order to establish the funding to get manufacturing capacity in place. While it is not expected that they will rely on the the program to receive vaccine, it represents and insurance (back-up) if other negotiated channels of vaccine distribution fall-through
+-   HIC countries make higher contributions up-front in order to establish the funding to get manufacturing capacity in place. While it is not expected that they will entirely rely on the the program to receive vaccine, it represents and insurance (back-up) if other negotiated channels of vaccine distribution fall-through
 
 -   Doses for lower-income economies will also be procured through the COVAX Facility but will be paid for via the separate financial mechanism of the COVAX, which will be largely funded through Official Development Assistance (ODA), as well as contributions from the private sector and philanthropy. Even so, it is likely that the 92 ODA-eligible countries accessing vaccines through the COVAX AMC may also be required to share some of the costs of COVID-19 vaccines and delivery. Through this cost-sharing approach, countries will have an opportunity to complement and build on the essential foundation built by these early, donor funded doses if they wish to achieve a higher population coverage.
 
--   To help each economy, Gavi is providing up to US$ 150 million in initial funding to jumpstart support for COVAX -eligible country readiness in preparation for COVID-19 vaccines delivery, in the form of planning, technical assistance and cold chain equipment. In addition to this, the Alliance has developed a number of tools to help countries prepare, including the Country Readiness Assessment tool. This will enable each country to develop a national vaccination deployment plan, to assess their capacity for vaccine storage and distribution, and, in the context of the infodemic of misinformation about vaccine safety we are experiencing, help them prepare a comprehensive communication plan, to ensure people understand why COVID-19 vaccination is so important and who will get priority.
+-   To help each economy, the Global Alliance for Vaccines and Immunisation (Gavi) provided up to US\$ 150 million in initial funding to jumpstart support for COVAX -eligible country readiness in preparation for COVID-19 vaccines delivery, in the form of planning, technical assistance and cold chain equipment. In addition to this, the Alliance has developed a number of tools to help countries prepare, including the Country Readiness Assessment tool. This will enable each country to develop a national vaccination deployment plan, to assess their capacity for vaccine storage and distribution, and, in the context of the infodemic of misinformation about vaccine safety we are experiencing, help them prepare a comprehensive communication plan, to ensure people understand why COVID-19 vaccination is so important and who will get priority.
 
--   **The initial goal was to vaccinate 20% of the population in LMICs by the end of 2021** Though COVAX promised 100 million doses by the end of March, this goal was not reached until 6 July. By mid-August of 2021, COVAX delivered 200 million vaccine doses to nearly 140 countries instead of the 600 million doses initially projected. **Currently, it is estimated that less than 6% of population of sub-Saharan Africa are vaccinated against COVID-19.**
+### How is COVAX working? {.unnumbered}
 
--  A major source of the vaccines for the COVAX program was the AstraZeneca/Oxford vaccine that through licensing agreements was being manufactured in part by the Serum Institute in India. However, when a third wave of COVID-19 hit India, over  400 million doses of the Oxford–AstraZeneca vaccine doses was diverted for domestic use in India. COVAX has had to contend with a number of severe challenges, including supply bottlenecks and continued vaccine nationalism that have prevented it from being able to access doses as quickly as possible.
+-  Phase 1 allocation by COVAX consists of the proportional allocation of 20% of the population until all countries are covered to this level. This was intended to end the acute phase of the pandemic by securing enough doses to ensure health workers, elderly people, and vulnerable groups were protected by the end of 2021.
 
-High-income countries also did not+ ultimately did not surrender their negotiating power to international organizations in Geneva. So they bought as many doses as they could for themselves and donated money to COVAX to buy doses for poor nations. By combining resources, the fund guarantees specific manufacturers for vaccine candidates a number of sales before they are licensed, as well as provide market-wide demand guarantees to all manufacturers in the longer term.
+-  Phase 2 of vaccine allocation by COVAX will take a more epidemiological approach, consisting of weighted allocation dependent on the proportional coverage requested by countries and consideration of vulnerability and COVID-19 threat. Flexibility tailored to epidemiology in allocation of vaccines, therapeutics, and diagnostics is critical but requires sophisticated country level data collection and flows
+
+-  Although COVAX promised 100 million doses by the end of March, this goal was not reached until 6 July. By mid-August of 2021, COVAX delivered 200 million vaccine doses to nearly 140 countries instead of the 600 million doses initially projected. **Currently, less than 6% of population of sub-Saharan Africa are vaccinated against COVID-19.** In regions like sub-Saharan Africa, health officials are still struggling to get their hands on vaccines to protect workers on the front lines of the pandemic.
+
+```{=html}
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
+</style>
+```
+::: blue
+Explore the data on vaccine distribution using the [UN Global Dashboard for Vaccine Equity](https://data.undp.org/vaccine-equity/)
+:::
 
 
-What has gone wrong? A fundamental challenge that has to be overcome is that HICs produce vaccines, invest in research development, and secure the supplies. This shuts the rest of the world out of the market. Africa consumes 25% of the world's vaccines, but do not manufacture any of them.
+
+-   A major source of the vaccines for the COVAX program was the AstraZeneca/Oxford vaccine that through licensing agreements was being manufactured in part by the Serum Institute in India. However, when a third COVIF-19 wave hit India, over 400 million doses of the Oxford--AstraZeneca vaccine doses was diverted for domestic use in India. COVAX has had to contend with a number of severe challenges, including supply bottlenecks and continued vaccine nationalism that have prevented it from being able to access doses as quickly as possible.
+
+High-income countries also did not ultimately did not surrender their negotiating power to international organizations such as COVAS/WHO. Canada, UK, Australia, New Zealand, EU, and US secured \>200% population coverage worth of vaccine doses, leaving insufficient for LMICs and COVAX. Wealthy countries soon rocketed ahead, COVAX's pledge to distribute vaccines in poor countries at the same time they rolled out in rich countries in terms of vaccinations while LMICs were left behind. **As a result, Covax expects around 1.9 billion doses to be available to 92 LMICs before the end of 2021, covering roughly 27% of their population, well short of the coverage required to control the pandemic.**
+
+A fundamental challenge that has to be overcome is that HICs produce vaccines, invest in research development, and secure the supplies. This shuts the rest of the world out of the market. Africa consumes 25% of the world's vaccines, but do not manufacture any of them.
+
+The COVAX effort, however laudable in intent, has been undercut by vaccine scarcity and underfunding and additional strategies are needed. COVAX was unable to compete with high income nations with greater purchasing power or hosting big manufacturers.
 
 <br>
 
@@ -83,10 +113,62 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 ::: blue
 **What is GAVI?** By the late 1990s, the progress of international immunisation programmes was stalling. Nearly 30 million children in developing countries were not fully immunised against deadly diseases, and many others went without any immunisation at all. At the heart of the challenge was an acute market failure; powerful new vaccines were becoming available, but lower-income countries simply could not afford most vaccines. In response, the Bill & Melinda Gates Foundation and a group of founding partners brought to life an elegant solution to encourage manufacturers to lower vaccine prices for the poorest countries in return for long-term, high-volume and predictable demand from those countries. In 2000, that breakthrough idea became the Global Alliance for Vaccines and Immunisation -- today Gavi, the Vaccine Alliance.
 
-Gavi now vaccinates almost half of the world’s children, giving it tremendous power to negotiate vaccines at prices that are affordable for the poorest countries and to remove the commercial risks that previously kept manufacturers from serving them.Because of these market shaping efforts, the cost of fully immunising a child with all 11 WHO-recommended childhood vaccines now costs about US$ 28 in Gavi-supported countries, compared with approximately US$ 1,200 in the United States of America. At the same time, the pool of manufacturers producing prequalified Gavi-supported vaccines has grown from to 18 in 2020 (with more than half based in Africa, Asia and Latin America).
+GAVI now vaccinates almost half of the world's children, giving it tremendous power to negotiate vaccines at prices that are affordable for the poorest countries and to remove the commercial risks that previously kept manufacturers from serving them.Because of these market shaping efforts, the cost of fully immunising a child with all 11 WHO-recommended childhood vaccines now costs about US\$ 28 in Gavi-supported countries, compared with approximately US\$ 1,200 in the United States of America. At the same time, the pool of manufacturers producing prequalified Gavi-supported vaccines has grown from to 18 in 2020 (with more than half based in Africa, Asia and Latin America).
 
-Gavi shares the cost that implementing countries pay for vaccines, which has resulted in more than 495 vaccine introductions and campaigns, dramatically boosting immunisation against virulent diseases. For example, 3% of low-income countries had introduced nationally _Haemophilus influenzae_ type b (Hib) vaccine that protects against diseases like pneumonia and meningitis. Today, Gavi has enabled all low-income countries to introduce this vaccine in their national programmes. Progress on the third dose of Hib vaccine coverage, as well as with pneumococcal conjugate vaccine (PCV), has been so successful that the coverage rate in Gavi-supported countries is now higher than the global average coverage rate. By the end of 2019, 16 countries had transitioned out of Gavi support and are fully financing all vaccine programmes introduced with Gavi support. 
+Gavi shares the cost that implementing countries pay for vaccines, which has resulted in more than 495 vaccine introductions and campaigns, dramatically boosting immunisation against virulent diseases. For example, 3% of low-income countries had introduced nationally *Haemophilus influenzae* type b (Hib) vaccine that protects against diseases like pneumonia and meningitis. Today, Gavi has enabled all low-income countries to introduce this vaccine in their national programmes. Progress on the third dose of Hib vaccine coverage, as well as with pneumococcal conjugate vaccine (PCV), has been so successful that the coverage rate in Gavi-supported countries is now higher than the global average coverage rate. By the end of 2019, 16 countries had transitioned out of Gavi support and are fully financing all vaccine programmes introduced with Gavi support.
 :::
 
+<br> **What can be done to address COVID-19 vaccine inequity?**
+
+COVID-19 vaccine inequity will have a lasting and profound impact on socio-economic recovery in LMICs without urgent action to boost supply, share vaccines and ensure they're accessible to everyone now. To provide vaccination to 70% of the population, HICs must boost their healthcare spending by an average of 0.8%, whereas LMICs must boost healthcare spending by 56.6%.
+
+Three strategies could potentially improve the dire situation of COVID-19 vaccine inequity in LMICs\
+
+1.  **Bilateral donation of COVID-19 vaccine vaccine**. HICs such as the United States have pledged to donate The US has pledged to donate 1.1 billion doses to other countries. But deliveries so far have generally fallen drastically short of pledges.
+
+2.  **Multilateral donation of COVID-19 vaccine.** Multiple countries have pledged top donate COVID-19 vaccine to Gavi and the WHO.
+
+3.  **Creation of manufacturing capacity in LMICs**. This would require a temporary intellectual property (IP)waiver for Covid-19 vaccines,[@ErfaniEtAl2021a]The waiver would prevent companies that hold the IP for COVID-19 vaccines from blocking vaccine production elsewhere on the grounds of IP and allow countries to produce Covid-19 medical goods locally and import or export them expeditiously. This IP waiver has been supported by the World Trade Organization and several nations, but faces stiff political and industrial opposition. No agency is mandated to finance and strengthen manufacturing capacity for vaccines, therapeutics, and diagnostics. Expanding regional capacity for key platform technologies (eg. monoclonal antibodies and mRNA) to avoid reliance on few manufacturers and fortify supply systems should be a priority. It requires transfer of highly specific and specialised technology and know-how, in coordination with regulatory oversight, robust participation of vaccine developers, and application of good, consistent, laboratory biological manufacturing practices, and addressing financial sustainability of such facilities. Given the large challenges, a strong system is required to accelerate progress. Platforms and tools to enable technology transfer, such as the COVID-19 technology access pool [(C-TAP)](https://www.who.int/initiatives/covid-19-technology-access-pool) and the [WHO vaccine technology transfer hub](https://www.who.int/news-room/articles-detail/establishment-of-a-covid-19-mrna-vaccine-technology-transfer-hub-to-scale-up-global-manufacturing) have not been effectively used. The intellectual property right TRIPS waiver proposed by South Africa and India was not supported by several high income countries.
+
+4.  **Improvements in allocation and delivery.** countries say that they are receiving information on vaccine allocation without knowing when doses will arrive. This makes the planning of vaccination extremely difficult and slows down the preparation for vaccinations, including the use of funds from the World Bank and other institutions. This is increasing the risk of countries not being prepared when large quantities of doses arrive in late 2021 and across 2022, as planned by COVAX and other sources. LMICs, particularly in Africa, are experiencing substantial difficulties with distribution, administration, and uptake (including from vaccine hesitancy). This highlights the importance of preparedness and systems building outside emergencies. High level political dialogues on vaccine supply and deployment have not taken place at global level despite their critical importance
+
+
+.
+
+### Access to COVID-19 testing in LMICs {.unnumbered}
+
+In resource-limited settings, the lack of a country-based testing plan and limited access to molecular (PCR) and even simple antigen (lateral flow) tests may be limited. Many countries have adopted diagnostic algorithms that test only selected patients based on pre-existing diseases or meet a standard case-definition based on a clinical history or symptoms. \[@BarrosEtAl2021\] Importantly, In some LMICs endemic febrile illnesses are particularly common, and their presentation could easily be similar to that of COVID-19.
+
+### Infection control in LMICs {.unnumbered}
+
+The WHO recommends infection control interventions to reduce the risk of transmission, in particular,
+avoiding close contact with people suffering from acute respiratory infections, frequent hand washing especially after direct contact with infected people or their environment, and avoiding unprotected contact with farm or wild animals. Worldwide, governmentshave established regulations that require social distancing, the closure of non-essential businesses, travel restrictions and, in many cases, quarantine. Although these measures are necessary for public health, social restrictions are difficult to realize in LMICs due to money-related livelihood problems. A complete commercial shutdown like those imposed in China, Europe, or the United States may not be feasible from some residents of LMICs when a day without work is tantamount to a day without food.
+
+The procurement of personal protective equipment (PPE) including masks and protective faceshields/gowns in LMICs is difficult. In emergency situations, raincoats and windjackets are often used as gowns, while swimming caps, goggles, and transparent paper were used as PPE.
+
+### Intensive care units (ICUs) in LMICs {.unnumbered}
+
+The number of hospital beds and health workers is generally lower compared to that in HICs. The [WHO reports](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/hospital-beds-(per-10-000-population)?bookmarkId=57250f95-5dcc-4a57-84d7-1b2faddeff80) only 0.8 hospital beds per 1000 people in LICs and 2.3 in LMICs. According to the WHO, 90% of LICs have fewer than 10 medical doctors per 10,000 people, compared to only 5% of HICs. Up to 93% of LICs have fewer than 40 nursing personnel per 10,000 people, compared to only 19% of HICs
+
+The number of ICU beds is insufficient with respect to the population of LMICs.[@PasqualeEtAl2021]The most recent data available from the WHO indicate that Africa has fewer than 5000 ICU beds, corresponding to five beds per one million people. In Europe, by comparison, there are 4000 beds per one million people.
+
+ICUs in LMICs are more likely to quipment is often old and poorly serviced. Mechanical ventilators tend
+to be old, and many hospitals do not have oxygen or medical gas to drive them. Generally, equipment maintenance is poorly performed if available, and funding for capital development is limited. When funding is available, the procurement system is plagued by corruption, leading to a fraudulent assignment.
+Furthermore, long distances and high transportation costs commonly result in delayed presentation of critically ill patients.
+
+Laboratories are often located in the capital cities, so that early diagnosis and isolation becomes difficult. Furthermore, the infrastructures for the screening and treatment of COVID-19 are not separate from the ones devoted to non-COVID-19 healthcare, facilitating the spread of the infection.[@PasqualeEtAl2021]
+
+## ACCESS TO COVID-19 Tools Accelerator (ACT) {.unnumbered}
+
+Access to COVID-19 therapeutics has to date been grossly neglected, a fact that even the World Health Organization (WHO) has acknowledged. The Access to COVID -19 Tools Accelerator (ACT-A) is a multilateral coordination mechanism set up to accelerate development, production, and equitable access to COVID-19 tests, treatments, and vaccines globally. The concept brings together governments,
+scientists, businesses, civil society, philanthropists and global health organisations.
+
+Despite its bold vision, ACT-A has thus far fallen short of its expectations. As described above, COVAX, the vaccines pillar of ACT-A, has been responsible for less than 6% of the 6.82 billion COVID-19 vaccines administered. The first outstanding efficacious treatment to which ACTA's therapeutic pillar has contributed is molnupiravir, which was shown to reduce the risk of hospital admission or death. Oxygen therapy, still one of the best treatments available for severe cases, initially struggled from a lack of strategic prioritisation despite its critical importance. Testing did receive political attention but has been a bottleneck in many countries.
+
+The Access to [COVID-19 Tools (ACT) Accelerator](https://www.who.int/initiatives/act-accelerator) brings together governments, scientists, businesses, civil society, and philanthropists and global health organizations (the [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/), [CEPI](https://cepi.net/), [FIND](https://www.finddx.org/), [Gavi](https://www.gavi.org/), [The Global Fund](https://www.theglobalfund.org/en/), [Unitaid](https://unitaid.org/), [Wellcome](https://wellcome.ac.uk/), the [WHO](https://www.who.int/home), and the [World Bank](https://www.worldbank.org/)).These organizations have joined forces to speed up an end to the pandemic by supporting the development and equitable distribution of the tests, treatments and vaccines the world needs to reduce mortality and severe disease, restoring full societal and economic activity globally in the near term, and facilitating high-level control of COVID-19 disease in the medium term.
+
+A particular
+
+**Global efforts to date have been unsuccessful in providing equitable access to covid-19 vaccines, therapeutics, and diagnostics**. A core underlying issue has been a lack of shared vision that these essential public health tools should be considered a "global health commons". Future systems for vaccines, therapeutics, and diagnostics should be prenegotiated among countries, manufacturers, and international institutions. Future systems should be reshaped to ensure equitable access is considered from design through to manufacturing and procurement processes. Agreements around technology transfer and intellectual property licensing, regional trial networks, inclusive governance, and substantial predictable financing are essential
 
 ## References {.unnumbered}

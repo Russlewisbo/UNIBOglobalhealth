@@ -6,7 +6,7 @@ subtitle: "Module 1 Lecture Notes: Global Aspects of Antimicrobial Resistance"
 titlerunning: "Antibiotic Resistance"
 author: "Russell E. Lewis, Associate Professor, Infectious Diseases, University of Bologna"
 orcid id: 0000-0002-2002-4339
-date: "Lesson date: January 10, 2022"
+date: "January 10, 2022"
 output:
   bookdown::html_book:
     css: toc.css
