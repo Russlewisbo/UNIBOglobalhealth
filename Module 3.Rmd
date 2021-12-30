@@ -200,6 +200,34 @@ Identifying inexpensive, widely available, and effective therapies against COVID
 
 </figure>
 
+### **COVID-19's Follow-on Impacts**
+
+The coronavirus has caused much more than illness and death. It spawned countless repercussions from mental health to a global supply chain breakdown. Some issues were predictable and some impossible to foresee:
+
+**TB deaths climbed worldwide** for the first time in a decade, according to [a October 14 WHO report](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fglobalhealthnow.us14.list-manage.com%2Ftrack%2Fclick%3Fu%3Deb20503b111da8623142751ea%26id%3De0bbad25aa%26e%3D1e1fcf1f89&data=04%7C01%7Cbsimpso1%40jhu.edu%7C0c48a16df9514467fc9b08d98fdd3b51%7C9fa4f438b1e6473b803f86f8aedf0dec%7C0%7C0%7C637699002622099441%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=szrQi3IZmCXHi%2B4LUwBkVNfAp1QPUuU4%2FRlk7O11iA4%3D&reserved=0) that directly tied the increase to the pandemic.
+
+**Measles outbreaks** [may be more likely](https://www.cdc.gov/mmwr/volumes/70/wr/mm7045a1.htm?s_cid=mm7045a1_w) in the near future, after the number of infants missing their first vaccination jumped by 3 million last year---the largest increase in 20 years.
+
+**Malaria's 241 million cases** and 627,000 deaths in 2020 reflect increases of 14 million and 69,000 respectively---both were largely attributed to pandemic disruptions, according to [WHO's global malaria report](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fglobalhealthnow.us14.list-manage.com%2Ftrack%2Fclick%3Fu%3Deb20503b111da8623142751ea%26id%3Dae1f961a0d%26e%3D1e1fcf1f89&data=04%7C01%7Cbsimpso1%40jhu.edu%7Cba49ce79530d4f217a6408d9b98b52bd%7C9fa4f438b1e6473b803f86f8aedf0dec%7C0%7C0%7C637744831037737477%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=8HJDTSZ%2BBJ63En%2BdwNN%2FosfOCvsLrhY1B3enVH291Kw%3D&reserved=0 "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fglobalhealthnow.us14.list-manage.com%2Ftrack%2Fclick%3Fu%3Deb20503b111da8623142751ea%26id%3Dae1f961a0d%26e%3D1e1fcf1f89&data=04%7C01%7Cbsimpso1%40jhu.edu%7Cba49ce79530d4f217a6408d9b98b52bd%") released on December 6.
+
+**Hate crimes against Asian Americans** soared in the US (including [a March 16 shooting](https://www.nytimes.com/2021/03/16/us/atlanta-shootings-massage-parlor.html) in Atlanta left 6 people of Asian descent and 2 others dead) following political rhetoric blaming the pandemic on China.
+
+**Did the pandemic make [US drivers worse](https://www.latimes.com/world-nation/story/2021-12-08/traffic-deaths-surged-during-covid-19-pandemic-heres-why)?** 2020 saw a 7.2% rise in US traffic fatalities and an \[18% jump in the first 6 months\](<https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcrashstats.nhtsa.dot.gov%2FApi%2FPublic%2FViewPublication%2F813199&data=04%7C01%7Cbsimpso1%40jhu.edu%7Cbff3bdcfd49e4e41ccfe08d9bb1dbf01%7C9fa4f438b1e6473b803f86f8aedf0dec%7C0%7C0%7C637746558717639429%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=vBBdJhrvdYyUcooE%2B3PKCQe6tTVOBM8zugfaookDGO4%3D&reserved=0> "Original URL: <https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813199>
+
+Click to follow link.") of this year. Experts tied poor behavior on the road to widespread feelings of isolation and depression---which aligns with other pandemic-era trends like rising drug overdoses, alcohol sales, and homicides.
+
 ## Medicines Patent Pool
+
+The [Medicines Patent Pool (MPP)](https://medicinespatentpool.org/) is a United Nations-backed public health organisation working to increase access to, and facilitate the development of, life-saving medicines for low- and middle-income countries. Through its innovative business model, MPP partners with civil society, governments, international organisations, industry, patient groups, and other stakeholders, to prioritise and license needed medicines and pool intellectual property to encourage generic manufacture and the development of new formulations.
+
+**How does it work?** MPP operates as a non-profit voluntary licensing mechanism through partnerships with originator pharmaceutical companies and generic manufacturers that facilitate access and promote innovation.
+
+![](images/mpp_1.png)
+
+MPP negotiates licences with patent holders and licenses those patents to multiple manufacturers, who develop the licensed medicine, including new formulations and combinations. The treatments are made available in a defined set of developing countries, sometimes in exchange for royalties.
+
+The terms and conditions in MPP licences seek to improve treatment options for the broadest number of people living in developing countries, and are negotiated on a case-by-case basis with each patent holder.
+
+<https://www.youtube.com/watch?v=FnVJPQ1ZINw>
 
 ## References {.unnumbered}
