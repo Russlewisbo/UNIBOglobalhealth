@@ -30,7 +30,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## COVID-19 Vaccine Access in Low-Middle Income Countries (LMICs) {.unnumbered}
 
-In Module 2 we examined the crises in antibiotic development including its impact on low-middle income countries (LMICs). We also highlighted special challenges related to antibiotic access in countries where healthcare resources are limited. In this module we will further explore the problems and strategies for improving antibiotic, vaccine and diagnostic testing access in LMICs. We will explore successful models that have been used in the past for MDR tuberculosis and HIV antiviral medications to see if these approaches can be adapted to antimicrobial therapy.
+In Module 2 we examined the crises in antibiotic development including its impact on low-middle income countries (LMICs). We also highlighted special challenges related to antibiotic access in countries where healthcare resources are limited. In this module we will further explore the challenges of improving antibiotic, vaccine and diagnostic testing access in LMICs. We will explore successful models that have been used in the past for MDR tuberculosis and HIV antiviral medications to see if these approaches can be adapted to antimicrobial therapy.
 
 However, at the time of the lesson we are in the midst a fourth wave of COVID-19 infections. Therefore, it is worth considering where we stand at the moment worldwide with vaccinations.
 
@@ -78,11 +78,11 @@ The COVAX program was a group purchasing program that combines high-income and l
 
 ### How is COVAX working? {.unnumbered}
 
--  Phase 1 allocation by COVAX consists of the proportional allocation of 20% of the population until all countries are covered to this level. This was intended to end the acute phase of the pandemic by securing enough doses to ensure health workers, elderly people, and vulnerable groups were protected by the end of 2021.
+-   Phase 1 allocation by COVAX consists of the proportional allocation of 20% of the population until all countries are covered to this level. This was intended to end the acute phase of the pandemic by securing enough doses to ensure health workers, elderly people, and vulnerable groups were protected by the end of 2021.
 
--  Phase 2 of vaccine allocation by COVAX will take a more epidemiological approach, consisting of weighted allocation dependent on the proportional coverage requested by countries and consideration of vulnerability and COVID-19 threat. Flexibility tailored to epidemiology in allocation of vaccines, therapeutics, and diagnostics is critical but requires sophisticated country level data collection and flows
+-   Phase 2 of vaccine allocation by COVAX will take a more epidemiological approach, consisting of weighted allocation dependent on the proportional coverage requested by countries and consideration of vulnerability and COVID-19 threat. Flexibility tailored to epidemiology in allocation of vaccines, therapeutics, and diagnostics is critical but requires sophisticated country level data collection and flows
 
--  Although COVAX promised 100 million doses by the end of March, this goal was not reached until 6 July. By mid-August of 2021, COVAX delivered 200 million vaccine doses to nearly 140 countries instead of the 600 million doses initially projected. **Currently, less than 6% of population of sub-Saharan Africa are vaccinated against COVID-19.** In regions like sub-Saharan Africa, health officials are still struggling to get their hands on vaccines to protect workers on the front lines of the pandemic.
+-   Although COVAX promised 100 million doses by the end of March, this goal was not reached until 6 July. By mid-August of 2021, COVAX delivered 200 million vaccine doses to nearly 140 countries instead of the 600 million doses initially projected. **Currently, less than 6% of population of sub-Saharan Africa are vaccinated against COVID-19.** In regions like sub-Saharan Africa, health officials are still struggling to get their hands on vaccines to protect workers on the front lines of the pandemic.
 
 ```{=html}
 <style>
@@ -93,15 +93,15 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 Explore the data on vaccine distribution using the [UN Global Dashboard for Vaccine Equity](https://data.undp.org/vaccine-equity/)
 :::
 
-
-
 -   A major source of the vaccines for the COVAX program was the AstraZeneca/Oxford vaccine that through licensing agreements was being manufactured in part by the Serum Institute in India. However, when a third COVIF-19 wave hit India, over 400 million doses of the Oxford--AstraZeneca vaccine doses was diverted for domestic use in India. COVAX has had to contend with a number of severe challenges, including supply bottlenecks and continued vaccine nationalism that have prevented it from being able to access doses as quickly as possible.
 
 High-income countries also did not ultimately did not surrender their negotiating power to international organizations such as COVAS/WHO. Canada, UK, Australia, New Zealand, EU, and US secured \>200% population coverage worth of vaccine doses, leaving insufficient for LMICs and COVAX. Wealthy countries soon rocketed ahead, COVAX's pledge to distribute vaccines in poor countries at the same time they rolled out in rich countries in terms of vaccinations while LMICs were left behind. **As a result, Covax expects around 1.9 billion doses to be available to 92 LMICs before the end of 2021, covering roughly 27% of their population, well short of the coverage required to control the pandemic.**
 
-A fundamental challenge that has to be overcome is that HICs produce vaccines, invest in research development, and secure the supplies. This shuts the rest of the world out of the market. Africa consumes 25% of the world's vaccines, but do not manufacture any of them.
+A fundamental challenge that has to be overcome is that HICs produce vaccines, invest in research development, and secure the supplies. This shuts the rest of the world out of the market.
 
-The COVAX effort, however laudable in intent, has been undercut by vaccine scarcity and underfunding and additional strategies are needed. COVAX was unable to compete with high income nations with greater purchasing power or hosting big manufacturers.
+The COVAX effort, however laudable in intent, has been undercut by vaccine scarcity and underfunding and additional strategies are needed. COVAX was unable to compete with high income nations with greater purchasing power or hosting big manufacturers. Many LMICs do not have an established platform for vaccinating their adult populations. Although it is feasible to deliver COVID-19 vaccines to health-care and other front-line essential workers, in some LMICs it will be difficult to effectively reach and vaccinate with two doses all elderly populations and individuals with co-morbidities, given insufficient mechanisms to identify such groups.
+
+The ultracold chain requirements of mRNA COVID-19 vaccines are likely to be an insurmountable hurdle in LMICs, outside of major cities. COVID-19 vaccine delivery will require considerable investment of resources, health-care staff, and careful planning to avoid opportunity costs, including a disruption of routine health services and a decline in essential childhood vaccination coverage, which could result in outbreaks of measles and other vaccine-preventable diseases. There were more deaths from measles than Ebola virus disease in 2019 in the aftermath of the Ebola outbreak in the Democratic Republic of the Congo, due to failure to maintain adequate childhood vaccinations
 
 <br>
 
@@ -118,6 +118,26 @@ GAVI now vaccinates almost half of the world's children, giving it tremendous po
 Gavi shares the cost that implementing countries pay for vaccines, which has resulted in more than 495 vaccine introductions and campaigns, dramatically boosting immunisation against virulent diseases. For example, 3% of low-income countries had introduced nationally *Haemophilus influenzae* type b (Hib) vaccine that protects against diseases like pneumonia and meningitis. Today, Gavi has enabled all low-income countries to introduce this vaccine in their national programmes. Progress on the third dose of Hib vaccine coverage, as well as with pneumococcal conjugate vaccine (PCV), has been so successful that the coverage rate in Gavi-supported countries is now higher than the global average coverage rate. By the end of 2019, 16 countries had transitioned out of Gavi support and are fully financing all vaccine programmes introduced with Gavi support.
 :::
 
+<figure>
+
+<center>
+
+<br>
+
+<br>
+
+![](images/LMIC_vaccination.jpg){width="600"}
+
+<figcaption>
+
+**Image:** Lancet Infectious Diseases
+
+</center>
+
+</figcaption>
+
+</figure>
+
 <br> **What can be done to address COVID-19 vaccine inequity?**
 
 COVID-19 vaccine inequity will have a lasting and profound impact on socio-economic recovery in LMICs without urgent action to boost supply, share vaccines and ensure they're accessible to everyone now. To provide vaccination to 70% of the population, HICs must boost their healthcare spending by an average of 0.8%, whereas LMICs must boost healthcare spending by 56.6%.
@@ -128,23 +148,19 @@ Three strategies could potentially improve the dire situation of COVID-19 vaccin
 
 2.  **Multilateral donation of COVID-19 vaccine.** Multiple countries have pledged top donate COVID-19 vaccine to Gavi and the WHO.
 
-3.  **Creation of manufacturing capacity in LMICs**. This would require a temporary intellectual property (IP)waiver for Covid-19 vaccines,[@ErfaniEtAl2021a]The waiver would prevent companies that hold the IP for COVID-19 vaccines from blocking vaccine production elsewhere on the grounds of IP and allow countries to produce Covid-19 medical goods locally and import or export them expeditiously. This IP waiver has been supported by the World Trade Organization and several nations, but faces stiff political and industrial opposition. No agency is mandated to finance and strengthen manufacturing capacity for vaccines, therapeutics, and diagnostics. Expanding regional capacity for key platform technologies (eg. monoclonal antibodies and mRNA) to avoid reliance on few manufacturers and fortify supply systems should be a priority. It requires transfer of highly specific and specialised technology and know-how, in coordination with regulatory oversight, robust participation of vaccine developers, and application of good, consistent, laboratory biological manufacturing practices, and addressing financial sustainability of such facilities. Given the large challenges, a strong system is required to accelerate progress. Platforms and tools to enable technology transfer, such as the COVID-19 technology access pool [(C-TAP)](https://www.who.int/initiatives/covid-19-technology-access-pool) and the [WHO vaccine technology transfer hub](https://www.who.int/news-room/articles-detail/establishment-of-a-covid-19-mrna-vaccine-technology-transfer-hub-to-scale-up-global-manufacturing) have not been effectively used. The intellectual property right TRIPS waiver proposed by South Africa and India was not supported by several high income countries.
+3.  **Creation of manufacturing capacity in LMICs**. Africa consumes 25% of the world's vaccines, but do not manufacture any of them. Access to vaccines could be improved if some of the manufacturing could be moved to the African continent. This would require a temporary intellectual property (IP)waiver for Covid-19 vaccines,[@ErfaniEtAl2021a]The waiver would prevent companies that hold the IP for COVID-19 vaccines from blocking vaccine production elsewhere on the grounds of IP and allow countries to produce Covid-19 medical goods locally and import or export them expeditiously. This IP waiver has been supported by the World Trade Organization and several nations, but faces stiff political and pharmaceutical-industry industrial opposition. No agency is mandated to finance and strengthen manufacturing capacity for vaccines, therapeutics, and diagnostics. Expanding regional capacity for key platform technologies (eg. monoclonal antibodies and mRNA) to avoid reliance on few manufacturers and fortify supply systems should be a priority. It requires transfer of highly specific and specialised technology and know-how, in coordination with regulatory oversight, robust participation of vaccine developers, and application of good, consistent, laboratory biological manufacturing practices, and addressing financial sustainability of such facilities. Given the large challenges, a strong system is required to accelerate progress. Platforms and tools to enable technology transfer, such as the COVID-19 technology access pool [(C-TAP)](https://www.who.int/initiatives/covid-19-technology-access-pool) and the [WHO vaccine technology transfer hub](https://www.who.int/news-room/articles-detail/establishment-of-a-covid-19-mrna-vaccine-technology-transfer-hub-to-scale-up-global-manufacturing) have not been effectively used. The intellectual property right TRIPS waiver proposed by South Africa and India was not supported by several high income countries.
 
-4.  **Improvements in allocation and delivery.** countries say that they are receiving information on vaccine allocation without knowing when doses will arrive. This makes the planning of vaccination extremely difficult and slows down the preparation for vaccinations, including the use of funds from the World Bank and other institutions. This is increasing the risk of countries not being prepared when large quantities of doses arrive in late 2021 and across 2022, as planned by COVAX and other sources. LMICs, particularly in Africa, are experiencing substantial difficulties with distribution, administration, and uptake (including from vaccine hesitancy). This highlights the importance of preparedness and systems building outside emergencies. High level political dialogues on vaccine supply and deployment have not taken place at global level despite their critical importance
+4.  **Improvements in allocation and delivery of vaccines** Countries often receive notice on vaccine allocation without knowing when doses will arrive. This makes the planning of vaccination extremely difficult and slows down the preparation for vaccinations, including the use of funds from the World Bank and other institutions. MThis is increasing the risk of countries not being prepared when large quantities of doses arrive in late 2021 and across 2022, as planned by COVAX and other sources. Moreover, the infrastructure for vaccination in many LMICs is already inadequate, as shown by the 19.7 million under-vaccinated infants globally, most of whom are in these countries. Thus, preparation for all aspects of COVID-19 vaccine delivery in LMICs is essential. LMICs, particularly in Africa, are experiencing substantial difficulties with distribution, administration, and uptake (including from vaccine hesitancy). This highlights the importance of preparedness and systems building outside emergencies. High level political dialogues on vaccine supply and deployment have not taken place at global level despite their critical importance
 
+### Access to SARS-CoV-2 testing in LMICs {.unnumbered}
 
-.
-
-### Access to COVID-19 testing in LMICs {.unnumbered}
-
-In resource-limited settings, the lack of a country-based testing plan and limited access to molecular (PCR) and even simple antigen (lateral flow) tests may be limited. Many countries have adopted diagnostic algorithms that test only selected patients based on pre-existing diseases or meet a standard case-definition based on a clinical history or symptoms. \[@BarrosEtAl2021\] Importantly, In some LMICs endemic febrile illnesses are particularly common, and their presentation could easily be similar to that of COVID-19.
+Relatively less attention has been directed on improving diagnostic SARS-CoV-2 testing in LMICs. Many countries lack of a country-based testing plan and limited access to molecular (PCR) and even simple antigen (lateral flow) tests are limited. This creates challenges for understanding the epidemiology and current status of the disease in many coutnries. Other countries have adopted diagnostic algorithms that test only selected patients based on pre-existing diseases or meet a standard case-definition based on a clinical history or symptoms.[@BarrosEtAl2021] Importantly, In some LMICs endemic febrile illnesses are particularly common, and their presentation could easily be similar to that of COVID-19.
 
 ### Infection control in LMICs {.unnumbered}
 
-The WHO recommends infection control interventions to reduce the risk of transmission, in particular,
-avoiding close contact with people suffering from acute respiratory infections, frequent hand washing especially after direct contact with infected people or their environment, and avoiding unprotected contact with farm or wild animals. Worldwide, governmentshave established regulations that require social distancing, the closure of non-essential businesses, travel restrictions and, in many cases, quarantine. Although these measures are necessary for public health, social restrictions are difficult to realize in LMICs due to money-related livelihood problems. A complete commercial shutdown like those imposed in China, Europe, or the United States may not be feasible from some residents of LMICs when a day without work is tantamount to a day without food.
+The WHO recommends infection control interventions to reduce the risk of transmission, in particular,avoiding close contact with people suffering from acute respiratory infections, frequent hand washing especially after direct contact with infected people or their environment. Worldwide, governments have established regulations that require social distancing, the closure of non-essential businesses, travel restrictions and, in many cases, quarantine. Although these measures are necessary for public health, social restrictions are difficult to realize in LMICs due to money-related livelihood problems. A complete commercial shutdown like those imposed in China, Europe, or the United States may not be feasible from some residents of LMICs when a day without work is tantamount to a day without food.
 
-The procurement of personal protective equipment (PPE) including masks and protective faceshields/gowns in LMICs is difficult. In emergency situations, raincoats and windjackets are often used as gowns, while swimming caps, goggles, and transparent paper were used as PPE.
+The procurement of personal protective equipment (PPE) including masks and protective faceshields/gowns is also a challenge. In emergency situations, raincoats and windjackets are often used as gowns, while swimming caps, goggles, and transparent paper were used as PPE.
 
 ### Intensive care units (ICUs) in LMICs {.unnumbered}
 
@@ -152,23 +168,38 @@ The number of hospital beds and health workers is generally lower compared to th
 
 The number of ICU beds is insufficient with respect to the population of LMICs.[@PasqualeEtAl2021]The most recent data available from the WHO indicate that Africa has fewer than 5000 ICU beds, corresponding to five beds per one million people. In Europe, by comparison, there are 4000 beds per one million people.
 
-ICUs in LMICs are more likely to quipment is often old and poorly serviced. Mechanical ventilators tend
-to be old, and many hospitals do not have oxygen or medical gas to drive them. Generally, equipment maintenance is poorly performed if available, and funding for capital development is limited. When funding is available, the procurement system is plagued by corruption, leading to a fraudulent assignment.
-Furthermore, long distances and high transportation costs commonly result in delayed presentation of critically ill patients.
+ICUs in LMICs are more likely to quipment is often old and poorly serviced. Mechanical ventilators tend to be old, and many hospitals do not have oxygen or medical gas to drive them. Generally, equipment maintenance is poorly performed if available, and funding for capital development is limited. When funding is available, the procurement system is plagued by corruption, leading to a fraudulent assignment. Furthermore, long distances and high transportation costs commonly result in delayed presentation of critically ill patients.
 
 Laboratories are often located in the capital cities, so that early diagnosis and isolation becomes difficult. Furthermore, the infrastructures for the screening and treatment of COVID-19 are not separate from the ones devoted to non-COVID-19 healthcare, facilitating the spread of the infection.[@PasqualeEtAl2021]
 
 ## ACCESS TO COVID-19 Tools Accelerator (ACT) {.unnumbered}
 
-Access to COVID-19 therapeutics has to date been grossly neglected, a fact that even the World Health Organization (WHO) has acknowledged. The Access to COVID -19 Tools Accelerator (ACT-A) is a multilateral coordination mechanism set up to accelerate development, production, and equitable access to COVID-19 tests, treatments, and vaccines globally. The concept brings together governments,
-scientists, businesses, civil society, philanthropists and global health organisations.
+Access to COVID-19 therapeutics have not yet received the same financial and political commitments as vaccines. Waning immunity and potential emergence of vaccine resistance among new variants may also compromise impact of vaccines. As has been the case with other vaccine-preventable illnesses such as bacterial meningitis, pertussis, and influenza, therapeutics can play an important role in disease control alongside vaccines. The Access to COVID -19 Tools Accelerator (ACT-A) is a multilateral coordination mechanism set up to accelerate development, production, and equitable access to COVID-19 tests, treatments, and vaccines globally. The concept brings together governments,scientists, businesses, civil society, philanthropists and global health organisations.
 
-Despite its bold vision, ACT-A has thus far fallen short of its expectations. As described above, COVAX, the vaccines pillar of ACT-A, has been responsible for less than 6% of the 6.82 billion COVID-19 vaccines administered. The first outstanding efficacious treatment to which ACTA's therapeutic pillar has contributed is molnupiravir, which was shown to reduce the risk of hospital admission or death. Oxygen therapy, still one of the best treatments available for severe cases, initially struggled from a lack of strategic prioritisation despite its critical importance. Testing did receive political attention but has been a bottleneck in many countries.
+Despite its bold vision, ACT-A has thus far fallen short of its expectations. As described above, COVAX, the vaccines pillar of ACT-A, failed to meet the relative modest goals of 20% vaccination. Oxygen therapy, still one of the best treatments available for severe cases, has not been strategically prioritised despite its critical importance. Testing did receive political attention but has been a bottleneck in many countries. Dexamethasone
 
-The Access to [COVID-19 Tools (ACT) Accelerator](https://www.who.int/initiatives/act-accelerator) brings together governments, scientists, businesses, civil society, and philanthropists and global health organizations (the [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/), [CEPI](https://cepi.net/), [FIND](https://www.finddx.org/), [Gavi](https://www.gavi.org/), [The Global Fund](https://www.theglobalfund.org/en/), [Unitaid](https://unitaid.org/), [Wellcome](https://wellcome.ac.uk/), the [WHO](https://www.who.int/home), and the [World Bank](https://www.worldbank.org/)).These organizations have joined forces to speed up an end to the pandemic by supporting the development and equitable distribution of the tests, treatments and vaccines the world needs to reduce mortality and severe disease, restoring full societal and economic activity globally in the near term, and facilitating high-level control of COVID-19 disease in the medium term.
+The Access to [COVID-19 Tools (ACT) Accelerator](https://www.who.int/initiatives/act-accelerator) brings together governments, scientists, businesses, civil society, and philanthropists and global health organizations (the [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/), [CEPI](https://cepi.net/), [FIND](https://www.finddx.org/), [Gavi](https://www.gavi.org/), [The Global Fund](https://www.theglobalfund.org/en/),[Unitaid](https://unitaid.org/), [Wellcome](https://wellcome.ac.uk/), the [WHO](https://www.who.int/home), and the [World Bank](https://www.worldbank.org/)).These organizations have joined forces to speed up an end to the pandemic by supporting the development and equitable distribution of the tests, treatments and vaccines the world needs to reduce mortality and severe disease, restoring full societal and economic activity globally in the near term, and facilitating high-level control of COVID-19 disease in the medium term.
 
-A particular
+Identifying inexpensive, widely available, and effective therapies against COVID-19 is, therefore, of great importance. Current effective and inexpensive therapies include corticosteroids (dexamethasone) the potentially useful serotonin re-uptake inhibitor (SSRI) fluvoxamine. However, access to potenti anti-inflammtory agents such as toclizumbab, or the antivirals remdesivir, manuprivir, R.
 
-**Global efforts to date have been unsuccessful in providing equitable access to covid-19 vaccines, therapeutics, and diagnostics**. A core underlying issue has been a lack of shared vision that these essential public health tools should be considered a "global health commons". Future systems for vaccines, therapeutics, and diagnostics should be prenegotiated among countries, manufacturers, and international institutions. Future systems should be reshaped to ensure equitable access is considered from design through to manufacturing and procurement processes. Agreements around technology transfer and intellectual property licensing, regional trial networks, inclusive governance, and substantial predictable financing are essential
+**Global efforts to date have been unsuccessful in providing equitable access to covid-19 vaccines, therapeutics, and diagnostics**. A core underlying issue has been a lack of shared vision that these essential public health tools should be considered a "global health commons". Future systems for vaccines, therapeutics, and diagnostics should be pre-negotiated among countries, manufacturers, and international institutions. Future systems should be reshaped to ensure equitable access is considered from design through to manufacturing and procurement processes. Agreements around technology transfer and intellectual property licensing, regional trial networks, inclusive governance, and substantial predictable financing are essential
+
+<figure>
+
+<center>
+
+![](images/COVID_vaccination.png){width="600"}
+
+<figcaption>
+
+**Image:** World Health Organization
+
+</center>
+
+</figcaption>
+
+</figure>
+
+## Medicines Patent Pool
 
 ## References {.unnumbered}
