@@ -30,9 +30,17 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## COVID-19 Vaccine Access in Low-Middle Income Countries (LMICs) {.unnumbered}
 
-In Module 2 we examined the crises in antibiotic development including its impact on low-middle income countries (LMICs). We also highlighted special challenges related to antibiotic access in countries where healthcare resources are limited. In this module we will further explore the challenges of improving antibiotic, vaccine and diagnostic testing access in LMICs. We will explore successful models that have been used in the past for MDR tuberculosis and HIV antiviral medications to see if these approaches can be adapted to antimicrobial therapy.
+In Module 2 we examined the crises in antibiotic development including its impact on low-middle income countries (LMICs). We also highlighted special challenges related to antibiotic access in countries where healthcare resources are limited. In this module we will further explore the challenges of improving corona varus vaccine and diagnostic testing access, and what lessons can be taken and applied to antimicrobial resistance.
 
 However, at the time of the lesson we are in the midst a fourth wave of COVID-19 infections. Therefore, it is worth considering where we stand at the moment worldwide with vaccinations.
+
+As of December 30, 2021, the [WHO Coronavirus (COVID-19) Dashboard](https://covid19.who.int/) reports over 285 million cumulative cases and 5.4 million deaths. Over 1.3 million new cases are reported daily. Beyond direct illness and death, however, COVID-19 has spawned countless repercussions from mental health to a global supply chain breakdown. Some issues were predictable and some impossible to foresee in the area of global health, for example:
+
+**TB deaths climbed worldwide** for the first time in a decade, according to [a October 14 WHO report](https://www.who.int/news/item/14-10-2021-tuberculosis-deaths-rise-for-the-first-time-in-more-than-a-decade-due-to-the-covid-19-pandemic) that directly tied the increase to the pandemic.
+
+**Measles outbreaks** [may be more likely](https://www.cdc.gov/mmwr/volumes/70/wr/mm7045a1.htm?s_cid=mm7045a1_w) in the near future, after the number of infants missing their first vaccination jumped by 3 million last year---the largest increase in 20 years.
+
+**Malaria's 241 million cases** and 627,000 deaths in 2020 reflect increases of 14 million and 69,000 respectively---both were largely attributed to pandemic disruptions, according to [WHO's global malaria report](https://www.who.int/teams/global-malaria-programme/reports/world-malaria-report-2021#:~:text=According%20to%20WHO's%20latest%20World,and%2069%20000%20more%20deaths) released on December 6.
 
 According to the WHO, over 11 billion people must be vaccinated against COVID-19. As of December, 57.4% of the world population has received at least one dose of a COVID-19 vaccine. Over 8.99 billion doses have been administered globally, and 33.05 million are now administered each day. Ten countries account for 77% of the globally administered doses. However, the vaccine market has been cornered by rich nations. The EU, the UK, and the USA have all purchased far more vaccine than they can possibly use. Only 8.3% of people in LMICs have received at least one dose of COVID-19.
 
@@ -148,7 +156,7 @@ Three strategies could potentially improve the dire situation of COVID-19 vaccin
 
 2.  **Multilateral donation of COVID-19 vaccine.** Multiple countries have pledged top donate COVID-19 vaccine to Gavi and the WHO.
 
-3.  **Creation of manufacturing capacity in LMICs**. Africa consumes 25% of the world's vaccines, but do not manufacture any of them. Access to vaccines could be improved if some of the manufacturing could be moved to the African continent. This would require a temporary intellectual property (IP)waiver for Covid-19 vaccines,[@ErfaniEtAl2021a]The waiver would prevent companies that hold the IP for COVID-19 vaccines from blocking vaccine production elsewhere on the grounds of IP and allow countries to produce Covid-19 medical goods locally and import or export them expeditiously. This IP waiver has been supported by the World Trade Organization and several nations, but faces stiff political and pharmaceutical-industry industrial opposition. No agency is mandated to finance and strengthen manufacturing capacity for vaccines, therapeutics, and diagnostics. Expanding regional capacity for key platform technologies (eg. monoclonal antibodies and mRNA) to avoid reliance on few manufacturers and fortify supply systems should be a priority. It requires transfer of highly specific and specialised technology and know-how, in coordination with regulatory oversight, robust participation of vaccine developers, and application of good, consistent, laboratory biological manufacturing practices, and addressing financial sustainability of such facilities. Given the large challenges, a strong system is required to accelerate progress. Platforms and tools to enable technology transfer, such as the COVID-19 technology access pool [(C-TAP)](https://www.who.int/initiatives/covid-19-technology-access-pool) and the [WHO vaccine technology transfer hub](https://www.who.int/news-room/articles-detail/establishment-of-a-covid-19-mrna-vaccine-technology-transfer-hub-to-scale-up-global-manufacturing) have not been effectively used. The intellectual property right TRIPS waiver proposed by South Africa and India was not supported by several high income countries.
+3.  **Creation of manufacturing capacity in LMICs**. Africa consumes 25% of the world's vaccines, but do not manufacture any of them. Access to vaccines could be improved if some of the manufacturing could be moved to the African continent. This would require a temporary intellectual property (IP)waiver for COVID-19 vaccines,[@ErfaniEtAl2021a]The waiver would prevent companies that hold the IP for COVID-19 vaccines from blocking vaccine production elsewhere on the grounds of IP and allow countries to produce COVID-19 medical goods locally and import or export them expeditiously. This IP waiver has been supported by the World Trade Organization and several nations, but faces stiff political and pharmaceutical-industry industrial opposition. No agency is mandated to finance and strengthen manufacturing capacity for vaccines, therapeutics, and diagnostics. Expanding regional capacity for key platform technologies (eg. monoclonal antibodies and mRNA) to avoid reliance on few manufacturers and fortify supply systems should be a priority. It requires transfer of highly specific and specialised technology and know-how, in coordination with regulatory oversight, robust participation of vaccine developers, and application of good, consistent, laboratory biological manufacturing practices, and addressing financial sustainability of such facilities. Given the large challenges, a strong system is required to accelerate progress. Platforms and tools to enable technology transfer, such as the COVID-19 technology access pool [(C-TAP)](https://www.who.int/initiatives/covid-19-technology-access-pool) and the [WHO vaccine technology transfer hub](https://www.who.int/news-room/articles-detail/establishment-of-a-covid-19-mrna-vaccine-technology-transfer-hub-to-scale-up-global-manufacturing) have not been effectively used. The intellectual property right TRIPS waiver proposed by South Africa and India was not supported by several high income countries.
 
 4.  **Improvements in allocation and delivery of vaccines** Countries often receive notice on vaccine allocation without knowing when doses will arrive. This makes the planning of vaccination extremely difficult and slows down the preparation for vaccinations, including the use of funds from the World Bank and other institutions. MThis is increasing the risk of countries not being prepared when large quantities of doses arrive in late 2021 and across 2022, as planned by COVAX and other sources. Moreover, the infrastructure for vaccination in many LMICs is already inadequate, as shown by the 19.7 million under-vaccinated infants globally, most of whom are in these countries. Thus, preparation for all aspects of COVID-19 vaccine delivery in LMICs is essential. LMICs, particularly in Africa, are experiencing substantial difficulties with distribution, administration, and uptake (including from vaccine hesitancy). This highlights the importance of preparedness and systems building outside emergencies. High level political dialogues on vaccine supply and deployment have not taken place at global level despite their critical importance
 
@@ -200,34 +208,100 @@ Identifying inexpensive, widely available, and effective therapies against COVID
 
 </figure>
 
-### **COVID-19's Follow-on Impacts**
+## Medicines Patent Pool {.unnumbered}
 
-The coronavirus has caused much more than illness and death. It spawned countless repercussions from mental health to a global supply chain breakdown. Some issues were predictable and some impossible to foresee:
+The [Medicines Patent Pool (MPP)](https://medicinespatentpool.org/) is a United Nations-backed public health organisation working to increase access to, and facilitate the development of, life-saving medicines for low- and middle-income countries. Through its innovative business model, MPP partners with civil society, governments, international organisations, industry, patient groups, and other stakeholders, to prioritise and license needed medicines and pool intellectual property to license the generic manufacture and the development of new formulations in developing countries.
 
-**TB deaths climbed worldwide** for the first time in a decade, according to [a October 14 WHO report](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fglobalhealthnow.us14.list-manage.com%2Ftrack%2Fclick%3Fu%3Deb20503b111da8623142751ea%26id%3De0bbad25aa%26e%3D1e1fcf1f89&data=04%7C01%7Cbsimpso1%40jhu.edu%7C0c48a16df9514467fc9b08d98fdd3b51%7C9fa4f438b1e6473b803f86f8aedf0dec%7C0%7C0%7C637699002622099441%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=szrQi3IZmCXHi%2B4LUwBkVNfAp1QPUuU4%2FRlk7O11iA4%3D&reserved=0) that directly tied the increase to the pandemic.
+**How does it work?** MPP operates as a non-profit voluntary licensing mechanism through partnerships with originator pharmaceutical companies who develop innovative medications (i.e. more effective and less toxic) but are still patent protected.
 
-**Measles outbreaks** [may be more likely](https://www.cdc.gov/mmwr/volumes/70/wr/mm7045a1.htm?s_cid=mm7045a1_w) in the near future, after the number of infants missing their first vaccination jumped by 3 million last year---the largest increase in 20 years.
-
-**Malaria's 241 million cases** and 627,000 deaths in 2020 reflect increases of 14 million and 69,000 respectively---both were largely attributed to pandemic disruptions, according to [WHO's global malaria report](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fglobalhealthnow.us14.list-manage.com%2Ftrack%2Fclick%3Fu%3Deb20503b111da8623142751ea%26id%3Dae1f961a0d%26e%3D1e1fcf1f89&data=04%7C01%7Cbsimpso1%40jhu.edu%7Cba49ce79530d4f217a6408d9b98b52bd%7C9fa4f438b1e6473b803f86f8aedf0dec%7C0%7C0%7C637744831037737477%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=8HJDTSZ%2BBJ63En%2BdwNN%2FosfOCvsLrhY1B3enVH291Kw%3D&reserved=0 "https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fglobalhealthnow.us14.list-manage.com%2Ftrack%2Fclick%3Fu%3Deb20503b111da8623142751ea%26id%3Dae1f961a0d%26e%3D1e1fcf1f89&data=04%7C01%7Cbsimpso1%40jhu.edu%7Cba49ce79530d4f217a6408d9b98b52bd%") released on December 6.
-
-**Hate crimes against Asian Americans** soared in the US (including [a March 16 shooting](https://www.nytimes.com/2021/03/16/us/atlanta-shootings-massage-parlor.html) in Atlanta left 6 people of Asian descent and 2 others dead) following political rhetoric blaming the pandemic on China.
-
-**Did the pandemic make [US drivers worse](https://www.latimes.com/world-nation/story/2021-12-08/traffic-deaths-surged-during-covid-19-pandemic-heres-why)?** 2020 saw a 7.2% rise in US traffic fatalities and an \[18% jump in the first 6 months\](<https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fcrashstats.nhtsa.dot.gov%2FApi%2FPublic%2FViewPublication%2F813199&data=04%7C01%7Cbsimpso1%40jhu.edu%7Cbff3bdcfd49e4e41ccfe08d9bb1dbf01%7C9fa4f438b1e6473b803f86f8aedf0dec%7C0%7C0%7C637746558717639429%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000&sdata=vBBdJhrvdYyUcooE%2B3PKCQe6tTVOBM8zugfaookDGO4%3D&reserved=0> "Original URL: <https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813199>
-
-Click to follow link.") of this year. Experts tied poor behavior on the road to widespread feelings of isolation and depression---which aligns with other pandemic-era trends like rising drug overdoses, alcohol sales, and homicides.
-
-## Medicines Patent Pool
-
-The [Medicines Patent Pool (MPP)](https://medicinespatentpool.org/) is a United Nations-backed public health organisation working to increase access to, and facilitate the development of, life-saving medicines for low- and middle-income countries. Through its innovative business model, MPP partners with civil society, governments, international organisations, industry, patient groups, and other stakeholders, to prioritise and license needed medicines and pool intellectual property to encourage generic manufacture and the development of new formulations.
-
-**How does it work?** MPP operates as a non-profit voluntary licensing mechanism through partnerships with originator pharmaceutical companies and generic manufacturers that facilitate access and promote innovation.
+<figure>
 
 ![](images/mpp_1.png)
 
-MPP negotiates licences with patent holders and licenses those patents to multiple manufacturers, who develop the licensed medicine, including new formulations and combinations. The treatments are made available in a defined set of developing countries, sometimes in exchange for royalties.
+<figcaption>
 
-The terms and conditions in MPP licences seek to improve treatment options for the broadest number of people living in developing countries, and are negotiated on a case-by-case basis with each patent holder.
+**Figure 3. How the Medicines Patient Pool licences medicines for public health.**
 
-<https://www.youtube.com/watch?v=FnVJPQ1ZINw>
+</center>
+
+</figcaption>
+
+</figure>
+
+MPP negotiates licences with patent holders (originator) and sub-licenses rights to manufacture and distribute the drug in the country of interest to generic manufacturers, sometimes in exchange for royalties to the original innovator. In turn, the MPP ensures that the drugs are appropriately registered in the country, their is adequate competition for production of the medication (to keep prices low and prevent a monopoly), and promotes rapid uptake and utilization in the health through communication and agreements with governmental, medical and patient advocacy groups.
+
+The advantages are three fold:
+
+1.   Innovators have their drug manufactured and distributed in LMICs using a proven mechanism with oversight and receive royalty payments
+2.  Generic companies have access to manufacture and distribute innovative medicines that are still on patient
+3.  Patients get access to affordable and more effective medications that saves lives
+
+
+![](images/mpp_2.png){width="800"}
+
+**Figure 4. How the Medicines Patient Pool licences medicines for public health.**
+
+### MPP and COVID-19 {.unnumbered}
+
+The MOO
+
+### MPP and HIV {.unnumbered}
+
+ABACAVIR -- PAEDIATRICS (ABC)
+
+ATAZANAVIR (ATV)
+
+BICTEGRAVIR (BIC)
+
+COBICISTAT (COBI)
+
+DOLUTEGRAVIR - ADULT (DTG)
+
+DOLUTEGRAVIR - ADULT (DTG) for AZ, BY, KZ and MY
+
+DOLUTEGRAVIR - PAEDIATRICS (DTG)
+
+ELVITEGRAVIR (EVG)
+
+EMTRICITABINE (FTC)
+
+LOPINAVIR, RITONAVIR (LPV/r)
+
+LOPINAVIR, RITONAVIR (LPV/r) PAEDIATRICS
+
+PATENTS RELATED TO DARUNAVIR
+
+RALTEGRAVIR (RAL) PAEDIATRICS
+
+SOLID DRUG NANOPARTICLE TECHNOLOGY
+
+TENOFOVIR ALAFENAMIDE (TAF)
+
+TENOFOVIR DISOPROXIL FUMARATE (TDF)
+
+VALGANCICLOVIR
+
+### MPP and Hepatitis C {.unnumbered}
+
+DACLATASVIR (DAC)
+
+GLECAPREVIR/PIBRENTASVIR (G/P)
+
+RAVIDASVIR
+
+For an excellent explanation of the how the Medicine Patnet Pools works, see this explanation by <https://www.youtube.com/watch?v=FnVJPQ1ZINw>
+
+### Tuberculosis {.unnumbered}
+
+SUTEZOLID - Johns Hopkins University
+
+SUTEZOLID - Pfizer
+
+## Counterfit Medications
+
+## COVID-19 and lessons for the AMR crises
+
+
+
 
 ## References {.unnumbered}
