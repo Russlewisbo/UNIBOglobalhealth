@@ -232,76 +232,102 @@ MPP negotiates licences with patent holders (originator) and sub-licenses rights
 
 The advantages are three fold:
 
-1.   Innovators have their drug manufactured and distributed in LMICs using a proven mechanism with oversight and receive royalty payments
+1.  Innovators have their drug manufactured and distributed in LMICs using a proven mechanism with oversight and receive royalty payments
 2.  Generic companies have access to manufacture and distribute innovative medicines that are still on patient
 3.  Patients get access to affordable and more effective medications that saves lives
-
 
 ![](images/mpp_2.png){width="800"}
 
 **Figure 4. How the Medicines Patient Pool licences medicines for public health.**
 
+For an excellent explanation of the how the Medicine Patnet Pools works, see this explanation by Dr. Greg Martin: <https://www.youtube.com/watch?v=FnVJPQ1ZINw>
+
 ### MPP and COVID-19 {.unnumbered}
 
-The MOO
+The MPP created a mRNA vaccine Technology Transfer Hub in July 2021. The purpose of the hub is to increase access to mRNA vaccines made closer to home by establishing manufacturing capacity in Africa using a technology transfer hub model to ensure sustainable vaccine security in future pandemics. The first COVID-19 mRNA vaccine technology transfer hub has been established in South Africa. The MPP has also erntered into license agreements agreements for Merck's molnupiravir and Pfizer ritonavir/nirmatrelvir oral COVID-29 therapies. The MPP has also licensed an ELISA antibody technology for serolgic testing
 
 ### MPP and HIV {.unnumbered}
 
-ABACAVIR -- PAEDIATRICS (ABC)
-
-ATAZANAVIR (ATV)
-
-BICTEGRAVIR (BIC)
-
-COBICISTAT (COBI)
-
-DOLUTEGRAVIR - ADULT (DTG)
-
-DOLUTEGRAVIR - ADULT (DTG) for AZ, BY, KZ and MY
-
-DOLUTEGRAVIR - PAEDIATRICS (DTG)
-
-ELVITEGRAVIR (EVG)
-
-EMTRICITABINE (FTC)
-
-LOPINAVIR, RITONAVIR (LPV/r)
-
-LOPINAVIR, RITONAVIR (LPV/r) PAEDIATRICS
-
-PATENTS RELATED TO DARUNAVIR
-
-RALTEGRAVIR (RAL) PAEDIATRICS
-
-SOLID DRUG NANOPARTICLE TECHNOLOGY
-
-TENOFOVIR ALAFENAMIDE (TAF)
-
-TENOFOVIR DISOPROXIL FUMARATE (TDF)
-
-VALGANCICLOVIR
+Today, only a third of the people requiring treatment for HIV/AIDS have access to therapy. Drug resistance means that new drugs are required to treat the condition, but these are often unaffordable for the most affected communities. To date, MPP has signed agreements with ten patent holders for 13 HIV antiretrovirals and a technology for injectable long-acting HIV drug combination technology.
 
 ### MPP and Hepatitis C {.unnumbered}
 
-DACLATASVIR (DAC)
+Around 58 million people live globally with HCV, many of them in LMICs, with the vast majority remaining undiagnosed and untreated. New direct-acting antivirals (DAA) that are effective across all major HCV strains can cure millions. Yet, approximately 84% of the people infected with HCV are not receiving treatment Around 290,000 people die each year from hepatitis C, mostly from cirrhosis and liver cancer. Direct-acting antiviral medicines can cure more than 95% of patients. The Medicines Patent Pool works with generic partners to speed the development and distribution of these new treatments that can eliminate the virus through a short course of oral therapy in regions with a high HCV burden.
 
-GLECAPREVIR/PIBRENTASVIR (G/P)
+MPP signed licence agreements for three hepatitis C treatments: daclatasvir (DAC) in 2015, ravidasvir (RAV) in 2017 and glecaprevir/pibrentasvir (G/P) in 2018.
 
-RAVIDASVIR
-
-For an excellent explanation of the how the Medicine Patnet Pools works, see this explanation by <https://www.youtube.com/watch?v=FnVJPQ1ZINw>
+MPP has also secured licenses for tenofovir disoproxil fumarate (TDF) and tenofovir alafenamide (TAF), benefit people living with HIV as well as people living with chronic hepatitis B, a disease affecting 296 million globally. The majority of people with hepatitis B live in low- and middle-income countries.
 
 ### Tuberculosis {.unnumbered}
 
-SUTEZOLID - Johns Hopkins University
+Tuberculosis (TB) is a global pandemic affecting around 10 million people worldwide. In 2018, the disease caused 1.5 million deaths, and it is the leading killer of people living with HIV. Almost 90% of TB deaths occur in low- and middle-income countries. The World Health Organization's post-2015 Global TB Strategy sets ambitious targets aimed at reducing TB deaths by 95% between 2015 and 2035, and to end TB. To meet these targets, faster acting, better therapies to treat TB are urgent, particularly for multidrug-resistant TB (MDR-TB). The MPP's fovus is to secure access to new treatments for MDR-TB and drug-susceptible tuberculosis. Th MPP also facilitates the development of new regimens by licensing TB drugs that are still under development. In early 2017, MPP signed its first agreement with the Johns Hopkins University. This agreement was to facilitate the clinical development of sutezolid, a promising investigational treatment for tuberculosis. It was followed by a second agreement with Pfizer in October 2019 to access Pfizer's preclinical, phase I and phase IIa clinical study data and results on sutezolid.
 
-SUTEZOLID - Pfizer
+### Is the Medicines Patient Pool Working? {.unnumbered}
 
-## Counterfit Medications
+The Medicines Patent Pool (MPP) has signed agreements with 13 patent holders for thirteen HIV antiretrovirals, one HIV technology platform, three hepatitis C direct-acting antivirals, a tuberculosis treatment, two long-acting technologies, two experimental oral antiviral treatments for COVID-19 and a COVID-19 serological antibody diagnostic test. 25 generic manufacturers and product developers have now signed MPP sublicensing agreements.
 
-## COVID-19 and lessons for the AMR crises
+Generic competition is making a difference in fostering lower prices and improving treatment coverage. Generic partners have distributed **49.71 million** patient-years of HIV and hepatitis C products, saving international procurers **USD 920 million** (January 2012-December 2020).
 
+<figure>
 
+![](images/MMP_outcomes.png)
 
+<figcaption>
+
+**Figure 5. Impact of the Medicines Patent Pool.** Source: medicinespatientpool.org
+
+</center>
+
+</figcaption>
+
+</figure>
+
+## Counterfit Medications {.unnumbered}
+
+What is a fake medicine?
+
+Interpol defines a counterfeit or substandard medicine as one that differs from the authentic version of the vaccine by:
+
+-   Containing too much or too little of one or more ingredients, or containing different ingredients
+
+-   Claiming to have different properties or side effects
+
+-   Having a different shape, size, taste, or colour
+
+-   Being not correctly labelled or not labelled at all
+
+-   Having an out-of-date or missing expiry date
+
+-   Not including information on how to store the medicine
+
+-   Having packaging that looks poorly constructed, is labelled with spelling or grammar errors, or appears to have been interfered with
+
+WHO estimates that up to 1% of medicines available in high income countries are likely to be counterfeit, but this figure rises to 10% globally. In LMICs, **1 in 10 medicines are thought to be either substandard or falsified**. Nearly 170,000 children die annually of falsified pneumonia medicines and substandard and falsified antimalarials may cause as many as 116,000 deaths from malaria annually in sub-Saharan Africa. The limited data available on this issue means the known figures almost certainly represent just a fraction of the true burden of falsified medicines around the globe.
+
+In the past year, the black market in fake medicines grew by more than 400%, according to a report by the Medicine Quality Research Group, Centre of Tropical Medicine & Global Health, Nuffield Department of Medicine and the University of Oxford. [@MedicineQualityResearchGroup2021]**There is a growing online trend of fake websites that mimic real pharmaceutical websites where COVID-19 vaccines are sold up to \$1000 and vaccine certificates for \$200.** Moreover, the "trickle down" of vaccine donations from richer countries has left populations---and particularly health workers---in LMICs vulnerable to infection, with some turning to unlicensed vendors for vaccines.
+
+WHO has warned that the vaccine equity gap continues to be exploited by organised criminal groups for profit as they pivot from personal protective equipment and diagnostics towards vaccines. Given that fake vaccine cards and passports are becoming a profitable business, authorities have urge citizens not to share photos of them on social media. Therefore, it is of utmost importance to share vaccine rollout in an equitable way around the globe so poorer countries are protected against the proliferation of falsified medicines.
+
+The globalisation of the pharmaceutical industry has spread both fake and substandard products worldwide.[@Srivastava2021] Active ingredients may come from China, while the product may be manufactured in India and be packaged in a third country before being shipped through Dubai. It might then be repackaged and shipped to yet another country to take advantage of exchange rates. These many steps provide places for fraud to occur.
+
+<figure>
+
+![](images/counterfits.png)
+
+<figcaption>
+
+**Figure 6. Sources of counterfeit drugs.** Source Financial Times
+
+</center>
+
+</figcaption>
+
+</figure>
+
+A common practice is to procure empty vials and refill them with saline solution or substandard products. "Knock-offs" that contain lower concentrations of the active pharmaceutical ingredients than the official drug are also common. "Small pharma companies, especially those which do outsource work for big companies, often flout good manufacturing practices to cut the cost," he adds.
+
+### What are the solutions for counterfeit drugs? {.unnumbered}
+
+## COVID-19 and lessons for the AMR crises {.unnumbered}
 
 ## References {.unnumbered}
