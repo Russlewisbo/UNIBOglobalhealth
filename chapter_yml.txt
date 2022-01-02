@@ -1,0 +1,23 @@
+title: |
+  ![](images/logo.png){width=1in}   
+  97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES
+subtitle: "Module 3 Lecture Notes: Antibiotic and diagnostic test availability, affordibility and access-Lessons from the COVID-19 Pandemic"
+titlerunning: "Antibiotic access"
+author: "Russell E. Lewis, Associate Professor, Infectious Diseases, University of Bologna"
+orcid id: 0000-0002-2002-4339
+date: "Lesson date: January 17, 2022"
+output:
+  bookdown::gitbook:
+    lib_dir: assets
+    split_by: section
+    config:
+      toolbar:
+        position: static
+  bookdown::pdf_book:
+    keep_tex: true
+  bookdown::html_book:
+    css: toc.css
+documentclass: book
+site: bookdown::bookdown_site
+bibliography: references.bib
+csl: lancet.csl
