@@ -1,4 +1,5 @@
 # Module 2:The Public Health Crisis of New Antibiotic Development {.unnumbered}
+
 ## Background {.unnumbered}
 
 In module 1, we discussed the history of antibiotic discovery and the current challenges with antimicrobial resistance that has been amplified by the lack of development of new antibiotics. In this module, we will examine the scientific and economic challenges associated with antibiotic development, and compare and contrast strategies that have been proposed to stimulate development of new antibiotics. As discussed previously, antibiotic discovery began to slow in the 1980's leading to a discovery void in new molecular entities (NMEs) since the 1990s. This lack of antibiotic innovation occurred at a critical period when antibiotic resistance, particularly to many front-line beta-lactam antibiotics, began to increase rapidly due to the emergence and worldwide diffusion of new forms of enzymatic (beta-lactamase) resistance to antibiotics. These bacterial enzymes can be broadly classified as:
@@ -388,5 +389,5 @@ Ultimately, there are many interrelated scientific and economic challenges contr
 ## Lecture Slides {.unnumbered}
 
 <iframe src="https://slides.com/russelllewis/module-2-crises-in-new-antibiotic-development/embed" width="576" height="420" title="Module 2: Crises in New Antibiotic Development" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
-</iframe>
 
+</iframe>
