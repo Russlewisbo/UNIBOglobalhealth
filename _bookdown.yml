@@ -3,17 +3,22 @@ title: "97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES"
 author: "Russell E. Lewis, Associate Professor, Infectious Diseases, University of Bologna"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
+toolbar:
+    position: fixed
+    edit : null
+    download: null
+    search:
+      engine: lunr # or fuse
+      # options to control/tune search engine behavior (for
+      # fuse.js, refer to https://fusejs.io/api/options.html)
+      options: null
 rmd_files:
 - index.Rmd
 - Module1_book.Rmd
 - Module2_book.Rmd
 - Module3_book.Rmd
 new_session: true
-search:
-      engine: lunr # or fuse
-      # options to control/tune search engine behavior (for
-      # fuse.js, refer to https://fusejs.io/api/options.html)
-      options: null
+
 bibliography: references.bib
 csl: lancet.csl
 ---
