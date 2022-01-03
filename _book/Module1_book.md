@@ -1,6 +1,11 @@
 # Module 1: Global Aspects of Antimicrobial Resistance {.unnumbered}
 
+<center>
+![](images/Screenshot%202021-12-24%20at%2016.39.18.png){width="800"}
+
 ## A brief history of antimicrobial resistance (AMR) {.unnumbered}
+
+</center>
 
 Until the 20th Century, influenza and pneumonia, tuberculosis, and enteric infections were among the top three causes of death. The average life expectancy of an adult in Western Europe was less than 50 years, and 2% of children failed to live beyond 5 years of age due to deaths caused mostly by infectious diseases.
 
@@ -705,4 +710,3 @@ Therefore, strong multilateral collaboration is essential for the world to absor
 <iframe src="https://slides.com/russelllewis/global_antimicrobial_resistance-b2d97f/embed" width="576" height="420" title="Module 1: Global Aspects of AMR" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
 
 </iframe>
-

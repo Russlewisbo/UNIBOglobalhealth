@@ -1,6 +1,11 @@
 # Module 1: Global Aspects of Antimicrobial Resistance {.unnumbered}
 
+<center>
+![](images/Screenshot%202021-12-24%20at%2016.39.18.png){width="800"}
+
 ## A brief history of antimicrobial resistance (AMR) {.unnumbered}
+
+</center>
 
 Until the 20th Century, influenza and pneumonia, tuberculosis, and enteric infections were among the top three causes of death. The average life expectancy of an adult in Western Europe was less than 50 years, and 2% of children failed to live beyond 5 years of age due to deaths caused mostly by infectious diseases.
 
@@ -700,9 +705,11 @@ Decades of funding neglect, combined with continuously increasing global antibio
 
 Therefore, strong multilateral collaboration is essential for the world to absorb these shocks and refocus on the silent but growing pandemic of AMR. Pandemics are opportunities to re-imagine governance structures and learn from previous experiences. COVID-19 has shown the importance of multilateral collaboration in diverse areas, including research and knowledge sharing, discovery, development and distribution of vaccines and medicines and access to diagnostics and medicines. Action is needed now to reverse the unthinkable future of untreatable infections.
 
+## References {.unnumbered}
+
+
 ## Lecture Slides {.unnumbered}
 
 <iframe src="https://slides.com/russelllewis/global_antimicrobial_resistance-b2d97f/embed" width="576" height="420" title="Module 1: Global Aspects of AMR" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
 
 </iframe>
-

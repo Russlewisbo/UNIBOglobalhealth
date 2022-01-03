@@ -3,19 +3,27 @@ title: "97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES"
 author: "Russell E. Lewis, Associate Professor, Infectious Diseases, University of Bologna"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
+toolbar:
+    position: fixed
+    edit : null
+    download: null
+    search:
+      engine: lunr # or fuse
+      # options to control/tune search engine behavior (for
+      # fuse.js, refer to https://fusejs.io/api/options.html)
+      options: null
 documentclass: book
 search:
       engine: lunr # or fuse
       # options to control/tune search engine behavior (for
       # fuse.js, refer to https://fusejs.io/api/options.html)
       options: null
-bibliography : [references.bib]
-biblio-style: "lancet"
+bibliography: references.bib
 csl: lancet.csl
-link-citations: true
+link-citations: FALSE
 ---
 
-# Welcome to the online course lecture notes  {.unnumbered}
+# Welcome to the online course lecture notes {.unnumbered}
 
 <center>
 
@@ -23,8 +31,13 @@ link-citations: true
 
 </center>
 
-This e-book provides a summary of content addressed in the Global Health, Antimicrobial Drugs, and Vaccines section of the course. The material can be navigated using the collapsible menu on the left (click on the "handburger" (4 horizontal lines) menu icon in the upper left-hand corner if the document outline is not visible. Inside the e-book you will find links to data visualizations, websites, documents, YouTube Videos, and other information that can reinforce and broaden your understanding of the material presented in class.
+This e-book provides a summary of content addressed in the Global Health, Antimicrobial Drugs, and Vaccines section of the course. The material can be navigated using the collapsible menu on the left (type "s" to toggle the menu or click on the icon in the upper left hand corner if the menue is not available). Inside the e-book you will find links to data visualizations, websites, documents, YouTube Videos, lectures slides, and further reading that can reinforce and broaden your understanding of the material presented in class.
 
-This document can be used in combination with materials posted in the [UNIBO Virtual Learning Environment for the Course](https://virtuale.unibo.it/course/view.php?id=31100) (requires login credentials). Additionally, a static PDF version of the book can be downloaded here:
+This document can be used in combination with materials posted in the [UNIBO Virtual Learning Environment for the Course](https://virtuale.unibo.it/course/view.php?id=31100) (requires login credentials). Additionally, a static PDF versions of the e-book and lecture slides can be downloaded here:
 
-GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES-Lecture Notes
+-   Global health, Antimicrobial Drugs and Vaccines- Lecture Notes
+-   Module 1 lecture slides
+-   Module 2 lecture slides
+-   Module 3 lecture slides
+
+All source material is cited or credited to the original source. All other figures/ images are public domain covered by Creative Commons Zero (CC0) license.

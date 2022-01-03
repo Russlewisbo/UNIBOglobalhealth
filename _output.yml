@@ -2,10 +2,10 @@
 bookdown::gitbook:
   lib_dir: assets
   split_by: section
-  biblio-style: "lancet"
-  csl: lancet.csl
-  link-citations: true
   config:
     toolbar:
       position: static
+bibliography: references.bib
+csl: lancet.csl
+link-citations: true
 ---

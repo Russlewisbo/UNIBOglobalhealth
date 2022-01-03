@@ -17,8 +17,8 @@ rmd_files:
 - Module1_book.Rmd
 - Module2_book.Rmd
 - Module3_book.Rmd
-new_session: true
-
+new_session: TRUE
+link citations: FALSE
 bibliography: references.bib
 csl: lancet.csl
 ---
