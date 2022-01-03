@@ -476,6 +476,18 @@ Because the drivers of antimicrobial resistance lie in humans, animals, plants, 
 
 ### Antibiotic use in animal food production {.unnumbered}
 
+<center>
+
+![](images/dairyfarmer.png)
+
+<figcaption>
+
+Dairy farmer administering antibiotics in UK. Source: Fianancial Times
+
+</figcaption>
+
+</center>
+
 Few antimicrobial classes are reserved exclusively for humans. The vast majority of antibiotics are used both in humans and animals, including domestic mammals, birds, farmed fish and shellfish, honeybees and others. As noted earlier, **73% of all antibiotic consumption per weight is used for food production in animals.**[@VanBoeckelEtAl2017]Critically, two-third of all human infectious diseases that have emerged or re-emerged in recent decades are zoonotic-i.e. they originated in animals.[@WoolhouseGowtage-Sequeria2005]Therefore the transmission of antibiotic resistance organisms from the foodchain to humans is a major health concern.
 
 In horticulture, tetracyclines, streptomycin, and other antimicrobials are used for the prophylaxis and treatment of bacterial infections that affect plants (e.g., fire blight *Erwinea amylovora*)
