@@ -1,4 +1,16 @@
-# Module 3: Antibiotic and diagnostic test availability, affordibility {.unnumbered}
+# Module 3: Antibiotic and diagnostic test availability, affordability {.unnumbered}
+
+<center>
+
+![](images/COVID_vaccination-01.png){width="800"}
+
+<figcaption>
+
+**Image: World Health Organization**
+
+</figcaption>
+
+</center>
 
 ## COVID-19 Vaccine Access in Low-Middle Income Countries (LMICs) {.unnumbered}
 
@@ -358,9 +370,9 @@ The counterfeiting of drugs, and especially that of antibiotics is a true public
 
 ## COVID-19 and lessons for the AMR crises {.unnumbered}
 
-## Slides  {.unnumbered}
+## Slides {.unnumbered}
 
-<iframe src="<https://slides.com/russelllewis/global_antimicrobial_resistance/embed%22> width="576" height="420" title="Module 3:Antibiotic and diagnostic test availability, affordabilty and access-Lessons from the COVID-19 Pandemic" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>\
+\<iframe src="<https://slides.com/russelllewis/global_antimicrobial_resistance/embed%22> width="576" height="420" title="Module 3:Antibiotic and diagnostic test availability, affordabilty and access-Lessons from the COVID-19 Pandemic" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>\
 </iframe>
 
 ## References {.unnumbered}
