@@ -432,4 +432,4 @@ The impact of COVID-19 pandemic represents a turning point to improve the global
 
 5.  Ensure LMICs are equal partners in a comprehensive global response Solutions that have been pioneered by countries should be recognized and integrated into the pandemic preparedness response.
 
-## References {.unnumbered}
+# References {.unnumbered}

@@ -5,7 +5,9 @@ bookdown::gitbook:
   config:
     toolbar:
       position: static
+documentclass: book
+site: bookdown::bookdown_site
 bibliography: references.bib
 csl: lancet.csl
-link-citations: true
+split_bib: no
 ---
