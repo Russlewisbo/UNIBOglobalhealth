@@ -422,4 +422,4 @@ The impact of COVID-19 pandemic represents a turning point to improve the global
 
 <iframe src="https://slides.com/russelllewis/global_antimicrobial_resistance/embed" width="576" height="420" title="Module 3:Antibiotic and diagnostic test availability, affordabilty and access-Lessons from the COVID-19 Pandemic" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-# References {.unnumbered}
+## References {.unnumbered}

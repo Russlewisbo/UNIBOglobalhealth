@@ -7,5 +7,5 @@ bookdown::gitbook:
       position: static
 bibliography: references.bib
 csl: lancet.csl
-link-citations: true
+link-citations: false
 ---
