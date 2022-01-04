@@ -20,7 +20,25 @@ Image: World Health Organization
 
 In Module 2 we examined the crises in antibiotic development including its impact on low-middle income countries (LMICs). We also highlighted special challenges related to antibiotic access in countries where healthcare resources are limited. In this module we will further explore the challenges of improving antibiotic or vaccine availability and access to diagnostic testing through recent experiences with the COVID-19 pandemic.
 
-As of December 30, 2021, the [WHO Coronavirus (COVID-19) Dashboard](https://covid19.who.int/) reports over 285 million cumulative cases and 5.4 million deaths due to SARS-CoV-2. Over 1.3 million new cases are reported daily. Beyond direct illness and death, COVID-19 has spawned countless repercussions from mental health to a global supply chain breakdown. Although some issues were predictable, others were impossible to foresee in the area of global health, for example:
+As of December 30, 2021, the [WHO Coronavirus (COVID-19) Dashboard](https://covid19.who.int/) reports over 285 million cumulative cases and 5.4 million deaths due to SARS-CoV-2. Over 1.3 million new cases are reported daily. 
+
+<figure>
+
+<center>
+
+<iframe src="https://covid19.who.int/" loading="lazy" style="width: 100%; height: 800px; border: 0px none;">
+
+</iframe>
+
+<figcaption>
+
+**Figure 1. WHO COVID-19 Dashboard** https://covid19.who.int/
+
+</figcaption>
+
+</figure>
+
+Beyond direct illness and death, COVID-19 has spawned countless repercussions from mental health to a global supply chain breakdown. Although some issues were predictable, others were impossible to foresee in the area of global health, for example:
 
 -   TB deaths also climbed worldwide for the first time in a decade, according to [a October 14 WHO report](https://www.who.int/news/item/14-10-2021-tuberculosis-deaths-rise-for-the-first-time-in-more-than-a-decade-due-to-the-covid-19-pandemic) that directly tied the increase to the pandemic.
 -   Measles outbreaks [may be more likely](https://www.cdc.gov/mmwr/volumes/70/wr/mm7045a1.htm?s_cid=mm7045a1_w) in the near future, after the number of infants missing their first vaccination jumped by 3 million last year---the largest increase in 20 years.
@@ -38,7 +56,7 @@ According to the WHO, over 11 billion people must be vaccinated against COVID-19
 
 <figcaption>
 
-**Figure 1. COVID-19 vaccination doses administered per 100 people within a given population**. Data source: Our World in Data
+**Figure 2. COVID-19 vaccination doses administered per 100 people within a given population**. Data source: Our World in Data
 
 </figcaption>
 
