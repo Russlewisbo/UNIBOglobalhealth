@@ -445,5 +445,3 @@ Ultimately, there are many interrelated scientific and economic challenges contr
 <iframe src="https://slides.com/russelllewis/module-2-crises-in-new-antibiotic-development/embed" width="576" height="420" title="Module 2: Crises in New Antibiotic Development" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
 
 </iframe>
-
-## References {.unnumbered}

@@ -1,3 +1,6 @@
+---
+bibliography: references.bib
+---
 # Module 1: Global Aspects of Antimicrobial Resistance {.unnumbered}
 
 <center>
@@ -28,7 +31,7 @@ Industrialization and growing wealth in some countries during the 19th century l
 
 Antibacterial resistance emerged with bacteria on earth approximately 2-2.5 billion years ago. In contrast, the first humans are believed to have existed around 2 million years ago. Therefore, it cannot be said that humans are *the cause* of antimicrobial resistance as antibiotic resistance pre-dates the use of antibiotics in medicine. Antibiotic resistance is inevitable. Any use of an an antibiotic will eventually select for antimicrobial resistance.
 
-The first recorded use of antimicrobial -like medicinesfor treatment in humans was by the early Egyptians, Greeks, and Chinese, who used natural products with antimicrobial activity to treat wounds and infections, even if the causes of these diseases were unknown until the 19th and 20th century.
+The first recorded use of antimicrobial -like medicines for treatment in humans was by the early Egyptians, Greeks, and Chinese, who used natural products with antimicrobial activity to treat wounds and infections, even if the causes of these diseases were unknown until the 19th and 20th century.
 
 The microbiologist and immunologist Paul Ehrlich (1854-1915) who is first credited with the discovery of the first synthetic antibiotic arsphenamine (Salvarsan) used for the treatment of a bacterial infection-syphilis. The serendipitous discovery of penicillin in 1928 by Alexander Fleming, and its subsequent purification of the drug in quantities needed for clinical testing by Drs. Florey and Chain in the 1930s, however, initiated the true start of the modern antibiotic era. The term *antibiotic* was actually coined by Selman Waksman, a biochemist and microbiologist who discovered and purified from Streptomyces soil bacteria the first effective treatment for tuberculosis- streptomycin. For this discovery, Wakesman was awarded the Nobel Prize in Medicine 1952.
 
