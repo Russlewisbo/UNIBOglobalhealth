@@ -85,7 +85,7 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 Explore the data on vaccine distribution using the [UN Global Dashboard for Vaccine Equity](https://data.undp.org/vaccine-equity/)
 :::
 
-<br> <br>
+<br>
 
 -   One of the key sources of the vaccines for the COVAX program was the AstraZeneca/Oxford vaccine that through licensing agreements was being manufactured in part by the Serum Institute in India. However, when a third COVID-19 wave hit India, over 400 million doses of the Oxford--AstraZeneca vaccine was diverted for domestic use in India. This created severe supply bottlenecks and continued vaccine nationalism that have prevented it from being able to access doses as quickly as possible.
 -   High-income countries ultimately did not surrender their negotiating power to international organizations such as COVA. The US, EU, Canada, UK, Australia, and New Zealand secured >200% population coverage worth of vaccine doses, leaving insufficient doses for LMICs and COVAX. Wealthy countries soon rocketed ahead in terms of vaccination and LMICs were left behind. **As a result, COVAX has revised predictions that 1.9 billion doses will eventually be available to 92 LMICs before the end of 2021, covering roughly 27% of their population, well short of the coverage required to control the pandemic.**
@@ -95,8 +95,6 @@ These challenges illustrated a fundamental problem: HICs produce vaccines, inves
 The COVAX effort, however laudable in intent, has thus far been undercut by lack of funding and vaccine scarcity. COVAX was unable to compete with high income nations with greater purchasing power or hosting big manufacturers. Many LMICs do not have an established platform for vaccinating their adult populations. Although it is feasible to deliver COVID-19 vaccines to health-care and other front-line essential workers, in some LMICs it will be difficult to effectively reach and vaccinate with two doses all elderly populations and individuals with co-morbidities, given insufficient mechanisms to identify such groups.
 
 The ultracold supply chain requirements of mRNA COVID-19 vaccines may be an insurmountable hurdle in LMICs outside of major cities. COVID-19 vaccine delivery will require considerable investment of resources, health-care staff, and careful planning to avoid opportunity costs, including a disruption of routine health services and a decline in essential childhood vaccination coverage, which could result in outbreaks of measles and other vaccine-preventable diseases.
-
-<br>
 
 ```{=html}
 <style>
@@ -281,7 +279,7 @@ Generic competition is making a difference in fostering lower prices and improvi
 
 <figcaption>
 
-**Figure 6. Impact of the Medicines Patent Pool.** Source: medicinespatientpool.org
+**Figure 6. Impact of the Medicines Patent Pool.** Source: medicinespatentpool.org
 
 </center>
 
@@ -311,9 +309,9 @@ Interpol defines a counterfeit or substandard medicine as one that differs from 
 
 WHO estimates that up to 1% of medicines available in HICs. In LMICs, **1 in 10 medicines are thought to be either substandard or falsified**. Nearly 170,000 children die annually of falsified pneumonia medicines. Substandard or fake anti-malarial medications are estimated to cause 116,000 deaths annually in sub-Saharan Africa. The limited data available on this issue means the known figures almost certainly represent just a fraction of the true burden of falsified medicines around the globe.
 
-**Antibiotics are the most counterfeited medicines and account for 28% of counterfeit medicines globally.**\[@DelepierreEtAl2012\] Over 75% of counterfeit antibiotics come from South-East Asia and their destination is mainly emerging countries (South-East Asia: 44%; sub-Saharan Africa: 30%; Europe, North America: 9%; others: 16%). Counterfeit antibiotics are antibiotics that have been commonly used for years (beta-lactams: 50%; quinolones: 12%; macrolides, lincosamides, and synergistins: 1%; cyclins: 7%; others: 20%). The main counterfeit formulations are oral medications (77%) whereas injected drugs account for only 17% of counterfeit formulations, and eye drops and ointments 6%.
+**Antibiotics are the most counterfeited medicines and account for 28% of counterfeit medicines globally.**[@DelepierreEtAl2012] Over 75% of counterfeit antibiotics come from South-East Asia and their destination is mainly emerging countries (South-East Asia: 44%; sub-Saharan Africa: 30%; Europe, North America: 9%; others: 16%). Counterfeit antibiotics are antibiotics that have been commonly used for years (beta-lactams: 50%; quinolones: 12%; macrolides, lincosamides, and synergistins: 1%; cyclins: 7%; others: 20%). The main counterfeit formulations are oral medications (77%) whereas injected drugs account for only 17% of counterfeit formulations, and eye drops and ointments 6%.
 
-According to a report by the Medicine Quality Research Group, Centre of Tropical Medicine & Global Health, Nuffield Department of Medicine and the University of Oxford, the black market in fake medicines grew by more than 400%. [@MedicineQualityResearchGroup2021]**There is a growing online trend of fake websites that mimic real pharmaceutical websites where COVID-19 vaccines are sold up to \$1000 and vaccine certificates for \$200.** Moreover, the "trickle down" of vaccine donations from richer countries has left populations, and particularly health worker in LMICs, vulnerable to infection with some turning to unlicensed vendors for vaccines.
+According to a report by the Medicine Quality Research Group, Centre of Tropical Medicine & Global Health, Nuffield Department of Medicine and the University of Oxford, the black market in fake medicines grew by more than 400%.[@MedicineQualityResearchGroup2021] **There is a growing online trend of fake websites that mimic real pharmaceutical websites where COVID-19 vaccines are sold up to \$1000 and vaccine certificates for \$200.** Moreover, the "trickle down" of vaccine donations from richer countries has left populations, and particularly health worker in LMICs, vulnerable to infection with some turning to unlicensed vendors for vaccines.
 
 WHO has warned that the vaccine equity gap continues to be exploited by organised criminal groups for profit as they pivot from personal protective equipment and diagnostics towards vaccines. Given that fake vaccine cards and passports are becoming a profitable business, authorities have urge citizens not to share photos of them on social media. Therefore, the importance of improved equitable vaccine roll-out becomes even more critical to protect poorer countries against the proliferation of falsified medicines.
 
@@ -333,7 +331,7 @@ The globalisation of the pharmaceutical industry has made tracking fake and subs
 
 </figure>
 
-Counterfeit drugs are manufactured in countries which cannot guarantee good purchase practices and which have either too few or no regulation for distribution circuits. The lack of control, or their lax security or non-effectiveness, support the distribution of counterfeit drugs in national or illegal distribution circuits. This weakness is enhanced by the insufficiency of human and financial resources dedicated to control activities. \[@DelepierreEtAl2012\] Even if the pharmaceutical industry massively invests in the research of tools or technologies for the prevention and detection of counterfeit drugs, international collaboration required to guarantee the application and the development of such mechanisms is often lacking.
+Counterfeit drugs are manufactured in countries which cannot guarantee good purchase practices and which have either too few or no regulation for distribution circuits. The lack of control, or their lax security or non-effectiveness, support the distribution of counterfeit drugs in national or illegal distribution circuits. This weakness is enhanced by the insufficiency of human and financial resources dedicated to control activities.[@DelepierreEtAl2012a] Even if the pharmaceutical industry massively invests in the research of tools or technologies for the prevention and detection of counterfeit drugs, international collaboration required to guarantee the application and the development of such mechanisms is often lacking.
 
 The legal systems of most countries do not take into account the public health issue of counterfeit drugs and the crime is punished as a similar level as counterfeiting of luxury goods, as laws having been conceived more to protect brands. Thus, the penalty for counterfeiting a t-shirt infringing intellectual property is 10 years, whereas it can be only one year for counterfeiting a drug. According to The International Drug Industry Federation, the counterfeit drug market is 25 times more lucrative for counterfeiters than that of heroin and 5 times more than that of cigarettes, with substantially lower criminal penalties for perpetrators who are caught.
 
@@ -348,7 +346,7 @@ The legal systems of most countries do not take into account the public health i
 
 ### Specific problems with counterfeited antibiotics {.unnumbered}
 
-Counterfeit drugs are often commonly "old" antibiotics such as beta-lactams, tetracycline, trimethoprim, sulfamethoxazole, and chloramphenicol; the latest generations are rarely counterfeited. Most of the antibiotics counterfeited are on the WHO essential drugs list. The most common types of counterfeiting include:\[@DelepierreEtAl2012\]
+Counterfeit drugs are often commonly "old" antibiotics such as beta-lactams, tetracycline, trimethoprim, sulfamethoxazole, and chloramphenicol; the latest generations are rarely counterfeited. Most of the antibiotics counterfeited are on the WHO essential drugs list. The most common types of counterfeiting include:[@DelepierreEtAl2012a]
 
 -   **Counterfeits without active ingredient (most common)**. The active ingredient is replaced by cheap substances such as flour in the oral formulations. or injectable presentations.
 -   **Bad quality counterfeits.** They medicine may contain excipients or active ingredients un-adapted for the drug. These products may contain toxic or pathogenic chemical impurities. For example, counterfeit injectables have been found to contain methanol, a potentially lethal product for humans at low doses.
@@ -369,8 +367,6 @@ Fortunately, Victoria and her baby survived the trauma and successfully fought o
 
 As Victoria knows all too well, fake medicine can threaten your health or even claim your life. According to the World Health Organization (WHO), about 700,000 people die every year from fake malaria and tuberculosis drugs alone. The WHO also estimates that 25-60% of the medicine supply in developing countries is either substandard or counterfeit. To wathc a video describing Victoria's story, see the following YouTubeVideo produced the US Pharmacopia: <https://www.youtube.com/watch?v=6AMOn00dQsU&t=64s>
 :::
-
-<br>
 
 ### How can drug counterfeiting be reduced? {.unnumbered}
 
@@ -421,5 +417,9 @@ The impact of COVID-19 pandemic represents a turning point to improve the global
 4.  Expand global cooperation across geographies and sectors and within a ONE-Health framework.
 
 5.  Ensure LMICs are equal partners in a comprehensive global response Solutions that have been pioneered by countries should be recognized and integrated into the pandemic preparedness response.
+
+## Lecture Slides {.unnumbered}
+
+<iframe src="https://slides.com/russelllewis/global_antimicrobial_resistance/embed" width="576" height="420" title="Module 3:Antibiotic and diagnostic test availability, affordabilty and access-Lessons from the COVID-19 Pandemic" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 # References {.unnumbered}
