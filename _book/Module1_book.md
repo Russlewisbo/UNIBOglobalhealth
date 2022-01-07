@@ -1,7 +1,8 @@
 ---
 bibliography: references.bib
 ---
-# Module 1: Global Aspects of Antimicrobial Resistance {.unnumbered}
+
+# Module 1: The Growing Pandemic of Antimicrobial Resistance {.unnumbered}
 
 <center>
 
@@ -728,4 +729,3 @@ Decades of funding neglect, combined with continuously increasing global antibio
 <iframe src="https://slides.com/russelllewis/global_antimicrobial_resistance-b2d97f/embed" width="576" height="420" title="Module 1: Global Aspects of AMR" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
 
 </iframe>
-

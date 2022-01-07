@@ -215,7 +215,7 @@ Access to COVID-19 therapeutics (i.e. oxygen, antiviral therapies, IL-6 inhibito
 
 Similar to COVAX, ACT-A has thus far fallen short of its expectations. As discussed above, COVAX, which is essentially the vaccine pillar of ACT-A, failed to meet the relative modest goals of 20% vaccination. Oxygen therapy, still one of the best treatments available for severe cases, has not been strategically prioritised despite its critical importance. Testing did receive political attention but has been a bottleneck in many countries.
 
-Identifying inexpensive, widely available, and effective therapies against COVID-19 is, therefore, of great importance. Current effective and inexpensive therapies include corticosteroids (dexamethasone) the potentially useful serotonin re-uptake inhibitor (SSRI) fluvoxamine. However, access to potent anti-inflammatory agents such as tocilizumab, or the antivirals remdesivir, manuprivir, or recently approved ritonavir/nirmatrelvir is lacking.
+Identifying inexpensive, widely available, and effective therapies against COVID-19 is, therefore, of great importance. Current established effective and inexpensive therapies are largely limited to corticosteroids (dexamethasone, budesonide. However, access to potent anti-inflammatory agents such as tocilizumab, or the antivirals remdesivir, manuprivir, or recently approved ritonavir/nirmatrelvir is lacking.
 
 <figure>
 
@@ -269,15 +269,15 @@ For an excellent explanation of the how the Medicine Patent Pools works, see thi
 
 ### MPP and COVID-19 {.unnumbered}
 
-The MPP created a mRNA Vaccine Technology Transfer Hub in July 2021. The purpose of the hub is to increase access to mRNA vaccines made closer to home by establishing manufacturing capacity in Africa using a technology transfer hub model to ensure sustainable vaccine security in future pandemics. The first COVID-19 mRNA vaccine technology transfer hub has been established in South Africa. The MPP has also erntered into license agreements agreements for Merck's molnupiravir and Pfizer ritonavir/nirmatrelvir oral COVID-29 therapies. The MPP has also licensed an ELISA antibody technology for serolgic testing
+The MPP created a mRNA Vaccine Technology Transfer Hub in July 2021. The purpose of the hub is to increase access to mRNA vaccines made closer to home by establishing manufacturing capacity in Africa using a technology transfer hub model to ensure sustainable vaccine security in future pandemics. The first COVID-19 mRNA vaccine technology transfer hub has been established in South Africa. The MPP has also entered into license agreements agreements for Merck's molnupiravir and Pfizer ritonavir/nirmatrelvir oral COVID-29 therapies. The MPP has also licensed an ELISA antibody technology for serolgic testing
 
 ### MPP and HIV {.unnumbered}
 
-Today, only a third of the people requiring treatment for HIV/AIDS have access to therapy. Drug resistance means that new drugs are required to treat the condition, but these are often unaffordable for the most affected regions. The MPP has signed agreements with ten patent holders for 13 HIV antiretrovirals and a technology for injectable long-acting HIV drug combination technology. This urgently-need antivirals are now being distributed at affordable prices in some of the hardest-hit regions by HIV.
+Today, only a third of the people requiring treatment for HIV/AIDS have access to therapy. Drug resistance means that new drugs are required to treat the condition, but these are often unaffordable for the most affected regions. The MPP has signed agreements with ten patent holders for 13 HIV antiretrovirals and a technology for injectable long-acting HIV drug combination technology. These urgently-need antivirals are now being distributed at affordable prices in some of the hardest-hit regions by HIV.
 
 ### MPP and Hepatitis C {.unnumbered}
 
-Around 58 million people live globally with HCV, many of them in LMICs, with the vast majority remaining undiagnosed and untreated. New direct-acting antivirals (DAA) that are effective across all major HCV strains can cure millions. Yet, approximately 84% of the people infected with HCV are not receiving treatment Around 290,000 people die each year from hepatitis C, mostly from cirrhosis and liver cancer. Direct-acting antiviral medicines can cure more than 95% of patients. The MPP works with generic partners to speed the development and distribution of these new treatments that can eliminate the virus through a short course of oral therapy in regions with a high HCV burden.
+Around 58 million people live globally with HCV, many of them in LMICs, with the vast majority remaining undiagnosed and untreated. New direct-acting antivirals (DAA) that are effective across all major HCV strains can cure millions. Yet, approximately 84% of the people infected with HCV are not receiving treatment. Around 290,000 people die each year from hepatitis C, mostly from cirrhosis and liver cancer. Direct-acting antiviral medicines can cure more than 95% of patients. The MPP works with generic partners to speed the development and distribution of these new treatments that can eliminate the virus through a short course of oral therapy in regions with a high HCV burden.
 
 MPP signed licence agreements for three hepatitis C treatments: daclatasvir (DAC) in 2015, ravidasvir (RAV) in 2017 and glecaprevir/pibrentasvir (G/P) in 2018.
 
@@ -373,7 +373,7 @@ Counterfeit drugs are often commonly "old" antibiotics such as beta-lactams, tet
 -   **Counterfeits with inadequate active ingredient.** These concern real drugs, less expensive or outdated, first collected, opened, then repacked. It works both ways; an antibiotic may be replaced by the active ingredient of another class and vice versa. For example, in Nigeria, a counterfeiter had reconditioned diazepam syrup (benzodiazepine) and had sold it asan antibiotic under the original name of co-trimoxazole
 -   **Counterfeit packaging.** The counterfeiting may be made at various levels. False representation of identity is commonly used, either partially or totally by copying the packaging of another marketed product. The brand name may be modified to try to escape laws on infringing intellectual property
 
-Taking counterfeit antibiotics may induce adverse effects because of a different active ingredient or because of potentially toxic chemical ingredients or de pathogenic contaminant.**The counterfeiting of antibiotics directly promotes the emergence of acquired bacterial resistance against antibiotics.**
+Taking counterfeit antibiotics may induce adverse effects because of a different active ingredient or because of potentially toxic chemicals or contaminants.**The counterfeiting of antibiotics directly promotes the emergence of acquired bacterial resistance against antibiotics if dosages have expired or inadequate amounts of drug.**
 
 ```{=html}
 <style>
@@ -395,12 +395,12 @@ The International Medical Products Anti-Counterfeiting Taskforce was created in 
 1.  Development of guidance documents for principles and elements to include in national laws against the counterfeiting of medical product.
 2.  Implementation of regulations. It gives advice to national authorities to improve controls, tools for national evaluation, and models of procedures to deal with counterfeit drugs.
 3.  Training of personnel in charge of control of drug counterfeiting and collaboration between the various authorities of each country. For example, [Operation Storm II](https://www.interpol.int/News-and-Events/News/2010/INTERPOL-applauds-Southeast-Asia-Operation-Storm-II-s-success-in-disrupting-trade-of-counterfeit-medical-products) was coordinated by Interpol and the West-Pacific Regional Office (WPRO) of the WHO The platform improved collaboration between the police, the customs, and the drug regulatory authorities of international organizations and private sector. This operation led to 30 arrests and confiscating 12 million counterfeit drugs, including antibiotics, between July and November 2009. This action also led to closing 100 illicit pharmacies and sales points.
-4.  Development of technology for tracking and monitoring antibiotic prescriptions to ensure authenticity.
+4.  Development of technology for tracking and monitoring prescriptions to ensure authenticity.
 5.  Improving health-care provider and patient awareness. created model supports to sensitize healthcare professionals and patients about warning signs and risks of counterfeit medications.
 
 **In 2019, The European Medicines Agency instituted new regulations for drug supply chain traceability and verification systems-"track and trace" to mitigate the risk of shortages and fight production and marketing of counterfeit drugs.** The regulation also required new safety features (a unique identifier both in human readable format and encoded in 2D data matrix (such as RFID barcodes, holograms) as well as an anti-tampering devices to be placed on individual packs of virtually all prescription medicines, and related compliance reporting.
 
-The European Council also set up the international convention Medicrime. This convention was adopted by the European Council on December 8, 2010, and signed on October 28, 2011. It prosecutes the counterfeiting of medical products and is thus the first specificudicial instrument in the domain of penal law for counterfeiting medications.
+The European Council also set up the international convention Medicrime. This convention was adopted by the European Council on December 8, 2010, and signed on October 28, 2011. It prosecutes the counterfeiting of medical products and is thus the first specific judicial instrument in the domain of penal law for counterfeiting medications.
 
 In some African countries, counterfeiting is a commercial crime but only penalized by a small fine. In India, counterfeiters can be sentenced to of 3 years of prison at most and a 108 dollar fine. But in China, counterfeiters can be sentenced to death. The implementation of inspection groups and the deployment of a prevention force allow detecting more effectively counterfeiters and dismantling the various counterfeiter networks. Among the various available prevention forces, customs are the most involved and responsible for 90% of confiscation of all kinds of counterfeiting in Europe and 70% worldwide
 

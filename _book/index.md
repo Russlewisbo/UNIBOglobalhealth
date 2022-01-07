@@ -36,9 +36,9 @@ This e-book provides a summary of content addressed in the\* *Global Health, Ant
 This document can be used in combination with materials posted in the [UNIBO Virtual Learning Environment for the Course](https://virtuale.unibo.it/course/view.php?id=31100) (requires login credentials). Additionally, PDF versions of the e-book and lecture slides can be downloaded here:
 
 -   Global health, Antimicrobial Drugs and Vaccines- Lecture Notes
--   [Module 1 lecture slides](https://github.com/Russlewisbo/UNIBOglobalhealth/blob/main/module1_slides.pdf)
--   [Module 2 lecture slides](https://github.com/Russlewisbo/UNIBOglobalhealth/blob/main/module2_slides.pdf)
--   Module 3 lecture slides
+-   [Module 1 lecture slides](https://github.com/Russlewisbo/UNIBOglobalhealth/blob/main/Module%201.pdf)
+-   [Module 2 lecture slides](https://github.com/Russlewisbo/UNIBOglobalhealth/blob/main/Module%202.pdf)
+-   [Module 3 lecture slides](https://github.com/Russlewisbo/UNIBOglobalhealth/blob/main/Module%203.pdf)
 
 All source material is cited or credited to the original source. All other uncited images are public domain covered by Creative Commons Zero (CC0) license acquired though www.rawpixel.com.
 
