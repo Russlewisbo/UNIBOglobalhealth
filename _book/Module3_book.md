@@ -20,7 +20,7 @@ Image: World Health Organization
 
 In Module 2 we examined the crises in antibiotic development including its impact on low-middle income countries (LMICs). We also highlighted special challenges related to antibiotic access in countries where healthcare resources are limited. In this module we will further explore the challenges of improving antibiotic or vaccine availability and access to diagnostic testing through recent experiences with the COVID-19 pandemic.
 
-As of December 30, 2021, the [WHO Coronavirus (COVID-19) Dashboard](https://covid19.who.int/) reports over 285 million cumulative cases and 5.4 million deaths due to SARS-CoV-2. Over 1.3 million new cases are reported daily. 
+As of December 30, 2021, the [WHO Coronavirus (COVID-19) Dashboard](https://covid19.who.int/) reports over 285 million cumulative cases and 5.4 million deaths due to SARS-CoV-2. Over 1.3 million new cases are reported daily.
 
 <figure>
 
@@ -32,13 +32,15 @@ As of December 30, 2021, the [WHO Coronavirus (COVID-19) Dashboard](https://covi
 
 <figcaption>
 
-**Figure 1. WHO COVID-19 Dashboard** https://covid19.who.int/
+**Figure 1. WHO COVID-19 Dashboard:** <https://covid19.who.int/>
 
 </figcaption>
 
 </figure>
 
-Beyond direct illness and death, COVID-19 has spawned countless repercussions from mental health to a global supply chain breakdown. Although some issues were predictable, others were impossible to foresee in the area of global health, for example:
+For Africa-specific data, see: <https://africacdc.org/covid-19/>
+
+Beyond direct illness and death, COVID-19 has spawned countless repercussions from mental health to breakdowns in the global supply chain for many healthcare and consumer goods. Although some issues were predictable, others were impossible to foresee in the area of global health, for example:
 
 -   TB deaths also climbed worldwide for the first time in a decade, according to [a October 14 WHO report](https://www.who.int/news/item/14-10-2021-tuberculosis-deaths-rise-for-the-first-time-in-more-than-a-decade-due-to-the-covid-19-pandemic) that directly tied the increase to the pandemic.
 -   Measles outbreaks [may be more likely](https://www.cdc.gov/mmwr/volumes/70/wr/mm7045a1.htm?s_cid=mm7045a1_w) in the near future, after the number of infants missing their first vaccination jumped by 3 million last year---the largest increase in 20 years.
@@ -105,8 +107,8 @@ Explore the data on vaccine distribution using the [UN Global Dashboard for Vacc
 
 <br>
 
--   One of the key sources of the vaccines for the COVAX program was the AstraZeneca/Oxford vaccine that through licensing agreements was being manufactured in part by the Serum Institute in India. However, when a third COVID-19 wave hit India, over 400 million doses of the Oxford--AstraZeneca vaccine was diverted for domestic use in India. This created severe supply bottlenecks and continued vaccine nationalism that have prevented it from being able to access doses as quickly as possible.
--   High-income countries ultimately did not surrender their negotiating power to international organizations such as COVA. The US, EU, Canada, UK, Australia, and New Zealand secured >200% population coverage worth of vaccine doses, leaving insufficient doses for LMICs and COVAX. Wealthy countries soon rocketed ahead in terms of vaccination and LMICs were left behind. **As a result, COVAX has revised predictions that 1.9 billion doses will eventually be available to 92 LMICs before the end of 2021, covering roughly 27% of their population, well short of the coverage required to control the pandemic.**
+-   One of the key sources of the vaccines for the COVAX program was the AstraZeneca/Oxford vaccine that through licensing agreements was being manufactured in part by the Serum Institute in India. However, when a third COVID-19 wave hit India, over 400 million doses of the Oxford--AstraZeneca vaccine were diverted for domestic use in India. This created severe supply bottlenecks and continued vaccine nationalism that have prevented it from being able to access doses as quickly as possible.
+-   High-income countries ultimately did not surrender their negotiating power to international organizations such as COVAX. The US, EU, Canada, UK, Australia, and New Zealand secured >200% population coverage worth of vaccine doses, leaving insufficient doses for LMICs and COVAX. Wealthy countries soon rocketed ahead in terms of vaccination and LMICs were left behind. **As a result, COVAX has revised predictions that 1.9 billion doses will eventually be available to 92 LMICs before the end of 2021, covering roughly 27% of their population, well short of the coverage required to control the pandemic.**
 
 These challenges illustrated a fundamental problem: HICs produce vaccines, invest in research development, and secure the supplies. This shuts the rest of the world out of the market.
 
@@ -179,11 +181,11 @@ Three strategies could potentially improve the dire situation of COVID-19 vaccin
 
 3.  **Creation of manufacturing capacity in LMICs**. Africa consumes 25% of the world's vaccines, but do not manufacture any of them. Access to vaccines could be improved if some of the manufacturing could be moved to the African continent. This would require a temporary intellectual property (IP) waiver for COVID-19 vaccines,[@ErfaniEtAl2021a]The waiver would prevent companies that hold the IP for COVID-19 vaccines from blocking vaccine production elsewhere on the grounds of IP and allow countries to produce COVID-19 medical goods locally and import or export them expeditiously. This IP waiver has been supported by the World Trade Organization and several nations, but faces stiff political and pharmaceutical-industry industrial opposition.
 
-    No agency is mandated to finance and strengthen manufacturing capacity for vaccines, therapeutics, and diagnostics. Expanding regional capacity for key platform technologies (e.g., monoclonal antibodies and mRNA) to avoid reliance on few manufacturers and fortify supply systems should be a priority and will be essential for preparation for future pandemics. It requires transfer of highly specific and specialised technology and know-how, in coordination with regulatory oversight, robust participation of vaccine developers, and application of good, consistent, laboratory biological manufacturing practices, and addressing financial sustainability of such facilities. Given the large challenges, a strong system is required to accelerate progress. Platforms and tools to enable technology transfer, such as the COVID-19 technology access pool [(C-TAP)](https://www.who.int/initiatives/covid-19-technology-access-pool) and the [WHO vaccine technology transfer hub](https://www.who.int/news-room/articles-detail/establishment-of-a-covid-19-mrna-vaccine-technology-transfer-hub-to-scale-up-global-manufacturing) have not been effectively used. The intellectual property right TRIPS waiver proposed by South Africa and India was not supported by several high income countries.
+No agency is mandated to finance and strengthen manufacturing capacity for vaccines, therapeutics, and diagnostics. Expanding regional capacity for key platform technologies (e.g., monoclonal antibodies and mRNA) to avoid reliance on few manufacturers and fortify supply systems should be a priority and will be essential for preparation for future pandemics. It requires transfer of highly specific and specialised technology and know-how, in coordination with regulatory oversight, robust participation of vaccine developers, and application of good, consistent, laboratory biological manufacturing practices, and addressing financial sustainability of such facilities. Given the large challenges, a strong system is required to accelerate progress. Platforms and tools to enable technology transfer, such as the COVID-19 technology access pool [(C-TAP)](https://www.who.int/initiatives/covid-19-technology-access-pool) and the [WHO vaccine technology transfer hub](https://www.who.int/news-room/articles-detail/establishment-of-a-covid-19-mrna-vaccine-technology-transfer-hub-to-scale-up-global-manufacturing) have not been effectively used. The intellectual property right TRIPS waiver proposed by South Africa and India was not supported by several high income countries.
 
-    Recently, some progress has been made in this area with approval of mRNA vaccine capability in South Africa. A new COVID-19 vaccine was also recently approved/licensed for COVID-19 [designed specifically for global health](https://www.scientificamerican.com/article/a-covid-vaccine-for-all/)- i.e. the vaccine is produced using technology that has been employed worldwide for decades, meaning that manufacturing processes are generally already well-known and won't require a steep learning curve like the one needed for the scale-up of mRNA, adenovirus and protein particle vaccines.
+Recently, some progress has been made in this area with approval of mRNA vaccine capability in South Africa. A new COVID-19 vaccine was also recently approved/licensed for COVID-19 [designed specifically for global health](https://www.scientificamerican.com/article/a-covid-vaccine-for-all/)- i.e. the vaccine is produced using technology that has been employed worldwide for decades, meaning that manufacturing processes are generally already well-known and won't require a steep learning curve like the one needed for the scale-up of mRNA, adenovirus and protein particle vaccines.
 
-    This strategy has been a major focus of the largely successful [Medicines Patent Pool] described below
+This strategy has been a major focus of the largely successful [Medicines Patent Pool] described below
 
 4.  **Improvements in allocation and delivery of vaccines** Countries often receive notice on vaccine allocation without actual knowledge of when doses will arrive. This makes the planning of vaccination difficult and slows down the preparation for vaccinations, including the use of funds from the World Bank and other institutions. It was essential that countries were well-prepared when the planned large quantities of doses arrives in late 2021 and across 2022, as infrastructure for vaccination in many LMICs is already inadequate, as already shown by the 19.7 million under-vaccinated infants globally, most of whom are in these countries. Many LMICs, particularly in Africa, are experiencing substantial difficulties with distribution, administration, and uptake (including from vaccine hesitancy). High level political leadership on vaccine supply and deployment have not taken place at global level despite their critical importance for exiting this health crises.
 
@@ -438,6 +440,8 @@ The impact of COVID-19 pandemic represents a turning point to improve the global
 
 ## Lecture Slides {.unnumbered}
 
-<iframe src="https://slides.com/russelllewis/global_antimicrobial_resistance/embed" width="576" height="420" title="Module 3:Antibiotic and diagnostic test availability, affordabilty and access-Lessons from the COVID-19 Pandemic" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://slides.com/russelllewis/global_antimicrobial_resistance/embed" width="576" height="420" title="Module 3:Antibiotic and diagnostic test availability, affordabilty and access-Lessons from the COVID-19 Pandemic" scrolling="no" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen>
+
+</iframe>
 
 ## References {.unnumbered}

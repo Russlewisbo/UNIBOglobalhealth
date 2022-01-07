@@ -2,7 +2,7 @@
 title: "97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES"
 author: "Russell E. Lewis, Associate Professor, Infectious Diseases, University of Bologna"
 site: bookdown::bookdown_site
-output: bookdown::gitbook
+output: bookdown:gitbook
 toolbar:
     position: fixed
     edit : null
@@ -41,3 +41,9 @@ This document can be used in combination with materials posted in the [UNIBO Vir
 -   Module 3 lecture slides
 
 All source material is cited or credited to the original source. All other uncited images are public domain covered by Creative Commons Zero (CC0) license acquired though www.rawpixel.com.
+
+<center>
+
+![](images/creativecommons.png){width="150"}
+
+</center>
