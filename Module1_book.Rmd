@@ -30,11 +30,13 @@ Industrialization and growing wealth in some countries during the 19th century l
 
 </figure>
 
-Antibacterial resistance emerged with bacteria on earth approximately 2-2.5 billion years ago. In contrast, the first humans are believed to have existed around 2 million years ago. Therefore, it cannot be said that humans are *the cause* of antimicrobial resistance as antibiotic resistance pre-dates the use of antibiotics in medicine. Antibiotic resistance is inevitable. Any use of an an antibiotic will eventually select for antimicrobial resistance.
+Antibacterial resistance emerged with bacteria on earth approximately 2-2.5 billion years ago. In contrast, the first humans are believed to have existed around 2 million years ago. Therefore, it cannot be said that humans are *the cause* of antimicrobial resistance as antibiotic resistance pre-dates the use of antibiotics in medicine.
 
-The first recorded use of antimicrobial -like medicines for treatment in humans was by the early Egyptians, Greeks, and Chinese, who used natural products with antimicrobial activity to treat wounds and infections, even if the causes of these diseases were unknown until the 19th and 20th century.
+Antibiotic resistance is inevitable. Any use of an an antibiotic will eventually select for antimicrobial resistance.
 
-The microbiologist and immunologist Paul Ehrlich (1854-1915) who is first credited with the discovery of the first synthetic antibiotic arsphenamine (Salvarsan) used for the treatment of a bacterial infection-syphilis. The serendipitous discovery of penicillin in 1928 by Alexander Fleming, and its subsequent purification of the drug in quantities needed for clinical testing by Drs. Florey and Chain in the 1930s, however, initiated the true start of the modern antibiotic era. The term *antibiotic* was actually coined by Selman Waksman, a biochemist and microbiologist who discovered and purified from Streptomyces soil bacteria the first effective treatment for tuberculosis- streptomycin. For this discovery, Wakesman was awarded the Nobel Prize in Medicine 1952.
+The first recorded use of antimicrobial -like medicines for treatment in humans was by the early Egyptians, Greeks, and Chinese, who used natural products with antimicrobial activity to treat infected wounds even if the causes of these diseases were unknown until the 19th and 20th century.
+
+The microbiologist and immunologist Paul Ehrlich (1854-1915) is first credited with the discovery of the first synthetic antibiotic arsphenamine (Salvarsan) used for the treatment of a bacterial infection-syphilis. However, the serendipitous discovery of penicillin in 1928 by Alexander Fleming, and its subsequent purification of the drug in quantities needed for clinical testing by Drs. Florey and Chain in the 1930s, initiated the true start of the modern antibiotic era. The term *antibiotic* was actually coined by Selman Waksman, a biochemist and microbiologist who discovered and purified from *Streptomyces* soil bacteria the first effective treatment for tuberculosis- streptomycin. For this discovery, Wakesman was awarded the Nobel Prize in Medicine 1952.
 
 Alexander Fleming was among the first physicians to caution about the risks of resistance to penicillin if used too little or for a too short of period during treatment. In his Nobel Prize acceptance speech, Dr. Fleming noted:
 
@@ -66,21 +68,21 @@ Initially, antibiotic discovery seemed to keep pace with resistance, as a host o
 
 <br>
 
-Once antibiotic resistance develops, it can spread from one patient to another patient if appropriate hygienic precautions (e.g., hand hygiene of healthcare providers, isolation precautions of colonised patients) are not followed. The risk of resistant bacteria spreading is increased in crowded environments, especially when people in the surrounding area are receiving antibiotics - a common scenario in overcrowded hospitals or wards of critically-ill patients.
+Once antibiotic resistance develops, it can spread from one patient to another if appropriate hygienic precautions (e.g., hand hygiene of healthcare providers, isolation precautions of colonised patients) are not followed. The risk of resistant bacteria spreading is increased in crowded environments, especially when people in the surrounding area are receiving antibiotics - a common scenario in overcrowded hospitals or wards of critically-ill patients in the intensive care unit.
 
 The consequences of faltering antibiotic discovery are now being felt worldwide as more and more bacterial infections are becoming harder to treat. Especially worrisome is the lack of antibiotics against common Gram-negative bacteria (i.e. *Escherichia coli, Klebsiella pneumonia, Pseudomonas aeruginosa,* and *Acinetobacter baumannii*) that are increasingly resistant to all but last-line antibiotics. The rapid global spread of multi- and pan-resistant bacteria, also known in the lay press as "superbugs," can cause infections that are not treatable with existing antibiotics.
 
-Follow this link to watch a YOUTUBE video of how quickly Escherichia coli can [develop resistance to ciprofloxacin.](https://www.youtube.com/watch?v=bDa4-nSc7J8)
+Follow this link to watch a YouTube video of how quickly Escherichia coli can [develop resistance to ciprofloxacin.](https://www.youtube.com/watch?v=bDa4-nSc7J8)
 
 ## Global response to antimicrobial resistance (AMR) {.unnumbered}
 
-Recognizing the growing global threat of antibiotic resistance (AMR) to human health, economic and human development, The World Health Organization (WHO) and The Organisation for Animal Health (OIE) developed in 2001 a Global Plan for Containment of Antimicrobial Resistance that subsequently led to a [Global Action Plan for AMR](https://www.who.int/publications/i/item/9789241509763) in 2017 and more recently a ["Call to Action on Antimicrobial Resistance"](https://www.who.int/news/item/30-07-2021-call-to-action-on-antimicrobial-resistance-2021) in 2021. The plan outlines 21 strategies and 5 strategic actions that should be implemented in member states to address AMR. These include:
+Recognizing the growing threat of antibiotic resistance (AMR) to human health, economic and human development, The World Health Organization (WHO) and The Organisation for Animal Health (OIE) developed in 2001 a Global Plan for Containment of Antimicrobial Resistance that subsequently led to a [Global Action Plan for AMR](https://www.who.int/publications/i/item/9789241509763) in 2017 and more recently a ["Call to Action on Antimicrobial Resistance"](https://www.who.int/news/item/30-07-2021-call-to-action-on-antimicrobial-resistance-2021) in 2021. The plan outlines 21 strategies and 5 strategic actions that should be implemented in member states to address AMR. These include:
 
-1.  Improvements in the awareness and understanding of antimicrobial resistance through effective communication, education and training
-2.  Strengthening of knowledge and evidence base of AMR through surveillance and research
-3.  Reductions in the incidence of infection through effective sanitation, hygiene and infection prevention measures
-4.  Optimization the use of antimicrobial medicines in human and animal health
-5.  Development of an economic case for sustainable investment in AMR research that takes account of the needs of all countries, and increase investment in new medicines, diagnostic tools, vaccines and other interventions
+1.  Improvements in the awareness and understanding of antimicrobial resistance through effective communication, education and training.
+2.  Strengthening of knowledge and evidence base of AMR through surveillance and research.
+3.  Reductions in the incidence of infection through effective sanitation, hygiene and infection prevention measures.
+4.  Optimization the use of antimicrobial medicines in human and animal health.
+5.  Development of an economic case for sustainable investment in AMR research that takes account of the needs of all countries, and increase investment in new medicines, diagnostic tools, vaccines and other interventions.
 
 The WHO also proposed a [Priority Pathogen List](https://www.who.int/medicines/publications/WHO-PPL-Short_Summary_25Feb-ET_NM_WHO.pdf) for research and development of new antibiotics and established a global antimicrobial use and surveillance program ([Global Antimicrobial Surveillance systems-GLASS](https://www.who.int/initiatives/glass)). The priority pathogens list includes bacteria that are considered to be be the biggest threat to human health (besides *Mycobacterium tuberculosis,* which was already considered a priority pathogen). The WHO list breaks down pathogens into three groups:
 
@@ -122,7 +124,7 @@ The WHO also proposed a [Priority Pathogen List](https://www.who.int/medicines/p
 
 </figure>
 
-These pathogens may exhibit multi-drug resistance (MDR), extensive drug resistance (XDR) or pan-drug resistance (PDR). [@MagiorakosEtAl2012a] Difficult-to-treat resistance (DTR) is a newer definition used to define isolate resistance patterns that require the use of less-effective or more toxic "reserve" antibiotics- e.g., *Acinetobacter baumanii* susceptible only to colistin and tobramycin.[@KadriEtAl2018a]
+These pathogens may exhibit multi-drug resistance (MDR), extensive drug resistance (XDR) or pan-drug resistance (PDR). [@MagiorakosEtAl2012a] Difficult-to-treat resistance (DTR) is a newer definition used to define isolate resistance patterns that require the use of less-effective or more toxic "reserve" antibiotics- e.g., *Acinetobacter baumanii* susceptible only to the nephrotoxic antibiotics colistin and tobramycin.[@KadriEtAl2018a]
 
 ```{=html}
 <style>
@@ -130,14 +132,14 @@ div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px;}
 </style>
 ```
 ::: blue
-MDR- resistance to one agent in at least 3 antibiotic categories; XDR- resistant except to 2 or fewer antibiotic categories; PDR- resistant to all agents in all antibiotic categories; DTR-requires the use of less-effective or more toxic "reserve" antibiotics
+MDR- resistance to one agent in at least 3 antibiotic categories; XDR- resistant except to 2 or fewer antibiotic categories; PDR- resistant to all agents in all antibiotic categories; DTR-requires the use of less-effective or more toxic "reserve" antibiotics.
 :::
 
 <br>Currently, both the [WHO](https://apps.who.int/iris/bitstream/handle/10665/312266/9789241515528-eng.pdf) and [OIE](https://www.oie.int/en/what-we-do/global-initiatives/antimicrobial-resistance/#ui-id-4) have also developed lists of antibiotics that are considered of "critical importance" for human and animal medicine. These lists help establish priorities for antimicrobial resistance surveillance and new drug development.
 
 ## What are the drivers of antimicrobial resistance? {.unnumbered}
 
-AMR is a natural phenomenon. Most antimicrobial drugs are naturally produced by micro-organisms, including environmental fungi and saprophytic bacteria, or are synthetic modifications of these natural products, with only a few drugs (e.g., sulphonamides and fluoroquinolones) being wholly synthetic. Yet AMR selection is accelerated by antimicrobial exposure in health care, agriculture, and the environment. Further transmission is affected by standards of infection control in healthcare settings, sanitation, access to clean water, access to assured quality antimicrobials and diagnostics, travel, and migration.
+AMR is a natural phenomenon. Most antimicrobial drugs are naturally produced by micro-organisms, including environmental fungi and saprophytic bacteria, or are synthetic modifications of these natural products, with only a few drugs (e.g., sulphonamides and fluoroquinolones) being wholly synthetic. Yet AMR is accelerated by antimicrobial exposure in health care, agriculture, and the environment. Further transmission is affected by standards of infection control in healthcare settings, sanitation, access to clean water, access to assured quality antimicrobials and diagnostics, travel, and migration.
 
 Antimicrobials are among the most commonly prescribed drugs used in human medicine, yet up to 50% of all antibiotic prescriptions are consideredunnecessary. This use, misuse, or overuse of antimicrobial drugs is considered to be a major catalyst of increasing antimicrobial resistance. Globally, the use of antimicrobials is accelerating worldwide, particularly in LMICs as antimicrobials become readily accessible and affordable. The use of [WHO Watch antibiotics](https://www.who.int/news/item/01-10-2019-who-releases-the-2019-aware-classification-antibiotics) increased 90.0% worldwide and 165% in LMICs between 2000 and 2015. (See [How can the effectiveness of antimicrobials be preserved?])
 
