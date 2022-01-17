@@ -6,7 +6,7 @@ bibliography: references.bib
 
 <center>
 
-![](images/antibiotics.png){width="800"}
+![](images/antibiotics.png){width="600"}
 
 </center>
 
@@ -26,7 +26,7 @@ The emergence and rapid spread of these beta-lactamases was problematic because 
 
 <center>
 
-![](images/betalactamases.png){width="800"}
+![](images/betalactamases.png){width="600"}
 
 <figcaption>
 
@@ -131,7 +131,7 @@ LMICs with limited drug regulatory capacity may have limited control of antibiot
 
 <center>
 
-![](images/clinical%20trial.png){width="800"}
+![](images/clinical%20trial.png){width="600"}
 
 </center>
 
@@ -167,15 +167,15 @@ From a public health perspective, new antimicrobial agents with an improved micr
 
 If we define "not worse" as "better than control minus a specific margin", then we end up in a non-inferiority trial.
 
-The effect of the treatment can be established by showing that the lower bound of the 1-sided 97.5% confidence interval (equivalent to a 2-sided 95% confidence interval) of C-T is either above zero or above M. Establishing non-inferiority margin M is one of the challenges of non-inferiority trials, the other is to establish Assay Sensitivity (AS). The margin M should be chosen as the largest clinically acceptable loss in efficacy and may depend on the medical indication of the drug. In most trials this margin is chosen to be of fixed size and is determined in advance. Antibiotic treatment success rates of 80% or more are common and thus acceptable loss in efficacy is usually 10-15%. Noninferiority trials primarily aim to establish that at worst a clinically acceptable decrement in efficacy between a standard and experimental therapy could exist, expressed as a non-inferiority margin of Δ. Any tradeoff in efficacy might potentially be compensated by decreased toxicity, more convenience, lower cost, and/or a broader (or narrower) spectrum of activity.
+The effect of the treatment can be established by showing that the lower bound of the 1-sided 97.5% confidence interval (equivalent to a 2-sided 95% confidence interval) of C-T is either above zero or above M. Establishing non-inferiority margin M is one of the challenges of non-inferiority trials, the other is to establish Assay Sensitivity (AS). The margin M should be chosen as the largest clinically acceptable loss in efficacy and may depend on the medical indication of the drug. In most trials this margin is chosen to be of fixed size and is determined in advance. Antibiotic treatment success rates of 80% or more are common and thus acceptable loss in efficacy is usually 10-15%. Non-inferiority trials primarily aim to establish that at worst a clinically acceptable decrement in efficacy between a standard and experimental therapy could exist, expressed as a non-inferiority margin of Δ. Any trade-off in efficacy might potentially be compensated by decreased toxicity, more convenience, lower cost, and/or a broader (or narrower) spectrum of activity.
 
-What constitutes a fair noninferiority margin (Δ) is often a matter of debate and typically established with the regulatory agency (e.g., US FDA, EMA) before the trial is started. For life-threatening illness, caregivers may find the prospect of any decrement in efficacy unconscionable unless clearly outweighed (or at minimum counterbalanced) by improved safety and tolerability. Serial application of non.inferiority margins could theoretically lead to creeping erosion of the control referent if each standard bearer is progressively (albeit slightly) less active than its predecessor- a phenomena known as "biocreep."
+What constitutes a fair non-inferiority margin (Δ) is often a matter of debate and typically established with the regulatory agency (e.g., US FDA, EMA) before the trial is started. For life-threatening illness, caregivers may find the prospect of any decrement in efficacy unconscionable unless clearly outweighed (or at minimum counterbalanced) by improved safety and tolerability. Serial application of non.inferiority margins could theoretically lead to creeping erosion of the control referent if each standard bearer is progressively (albeit slightly) less active than its predecessor- a phenomena known as "biocreep."
 
 <figure>
 
 <center>
 
-![](images/non-inferiority.jpeg)
+![](images/non-inferiority.jpeg){width="600"}
 
 <figcaption>
 
@@ -187,7 +187,7 @@ Despite the high risk and costs of developing antibiotics, the returns to the in
 
 <center>
 
-![](images/antibioticprofit.png)
+![](images/antibioticprofit.png){width="600"}
 
 </center>
 
@@ -223,7 +223,7 @@ The only way to recover the investment in antibiotics is to either charge very h
 
 <br>
 
-![](images/profitability.png){width="800"}
+![](images/profitability.png){width="600"}
 
 <figcaption>
 
@@ -288,7 +288,7 @@ These push incentives have led to some progress in antibiotic development. The p
 
 <center>
 
-![](images/push.png)
+![](images/push.png){width="600"}
 
 </center>
 
@@ -324,8 +324,6 @@ Pull incentives are increasingly becoming the focus of of new initiatives to dev
 
 <center>
 
-![](images/fire%20extinguisher-01.png)
-
 </center>
 
 </figure>
@@ -353,7 +351,7 @@ Although much of the focus on antibiotic availability is focused on new drugs fo
 
 <br>
 
-![](images/drugshortages.jpg){width="800"}
+![](images/drugshortages.jpg){width="600"}
 
 </center>
 
@@ -373,7 +371,7 @@ Although much of the focus on antibiotic availability is focused on new drugs fo
 
 <center>
 
-![](images/LMIC.jpeg){width="800"}
+![](images/LMIC.jpeg){width="600"}
 
 </center>
 

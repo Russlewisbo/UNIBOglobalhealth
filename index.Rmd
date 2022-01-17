@@ -1,6 +1,7 @@
 ---
 title: "97039 - GLOBAL HEALTH, ANTIMICROBIAL DRUGS AND VACCINES"
 author: "Russell E. Lewis, Associate Professor, Infectious Diseases, University of Bologna"
+date: "17 January 2022"
 site: bookdown::bookdown_site
 output: bookdown:gitbook
 toolbar:

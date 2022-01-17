@@ -6,7 +6,7 @@ bibliography: references.bib
 
 <center>
 
-![](images/Screenshot%202021-12-24%20at%2016.39.18.png){width="800"}
+![](images/Screenshot%202021-12-24%20at%2016.39.18.png){width="600"}
 
 ## A brief history of antimicrobial resistance (AMR) {.unnumbered}
 
@@ -56,7 +56,7 @@ Initially, antibiotic discovery seemed to keep pace with resistance, as a host o
 
 </center>
 
-![](images/ab-discovery-timeline.png){width="800"}
+![](images/ab-discovery-timeline.png){width="600"}
 
 <figcaption>
 
@@ -151,7 +151,7 @@ More antimicrobials are used in food production than in human beings, with marke
 
 <center>
 
-![](images/modifiablerisk.png){width="800"}
+![](images/modifiablerisk.png){width="600"}
 
 <figcaption>
 
@@ -213,7 +213,7 @@ LMICs are particularly susceptible to the emergence and rapid spread of AMR for 
 
 <center>
 
-![](images/ft_vaccine%20differences.png){width="1200"}
+![](images/ft_vaccine%20differences.png){width="600"}
 
 </center>
 
@@ -246,7 +246,7 @@ Optimizing infection prevention on farms and making improvements to housing cond
 
 </center>
 
-![](images/worldwideresistance.png){width="3000"}
+![](images/worldwideresistance.png){width="600"}
 
 <figcaption>
 
@@ -262,7 +262,7 @@ Optimizing infection prevention on farms and making improvements to housing cond
 
 <br>
 
-![](images/DRI.png){width="1200"}
+![](images/DRI.png){width="600"}
 
 <figcaption>
 
@@ -292,9 +292,9 @@ Strategies for the prevention and containment of AMR often focus on:
 
 Antimicrobial stewardship is a coordinated program that promotes and focuses on the appropriate use of antimicrobials and strategies to improve patient outcomes, reduces antimicrobial resistance, and seeks to decrease the spread of infections caused by multidrug-resistant organisms. These programs may be implemented through the use of institution-specific treatment guidelines and an antibiotic stewardship team (typically infectious diseases physicians with a clinical pharmacist) who carry out full-time activities to promote and encourage appropriate antibiotic use. While these programs have been shown to be successful in many academic hospitals, gaps remain in the knowledge of how to optimally design and sustain these programs. Stewardship programs are less-frequently implemented in community settings where most antibiotic prescribing takes place.
 
-![](images/stewardship%20actions.png){width="800"}
+![](images/stewardship%20actions.png){width="600"}
 
-![](images/stewardship_impl.png){width="800"}
+![](images/stewardship_impl.png){width="600"}
 
 <figcaption>
 
@@ -373,7 +373,7 @@ The program also had many simple but innovative community health interventions. 
 
 <center>
 
-![](images/mirror.png){width="800"}
+![](images/mirror.png){width="600"}
 
 <figcaption>
 
@@ -438,7 +438,7 @@ Southern Europe, including Italy, has among the highest rates of resistance for 
 
 <center>
 
-![](images/AMR_deaths_2050.png){width="800"}
+![](images/AMR_deaths_2050.png){width="600"}
 
 <figcaption>
 
@@ -458,7 +458,7 @@ Because the drivers of antimicrobial resistance lie in humans, animals, plants, 
 
 <figure>
 
-![](images/onehealth.jpg){width="1200"}
+![](images/onehealth.jpg){width="600"}
 
 <figcaption>
 
@@ -472,7 +472,7 @@ Because the drivers of antimicrobial resistance lie in humans, animals, plants, 
 
 ### Antibiotic use in animal food production {.unnumbered}
 
-Few antimicrobial classes are reserved exclusively for humans. The vast majority of antibiotics are used both in humans and animals, including domestic mammals, birds, farmed fish and shellfish, honeybees and others. As noted earlier, **73% of all antibiotic consumption per weight is used for food production in animals.**\[@VanBoeckelEtAl2017\] Critically, two-third of all human infectious diseases that have emerged or re-emerged in recent decades are zoonotic-i.e. they originated in animals.\[@WoolhouseGowtage-Sequeria2005\] Therefore the transmission of antibiotic resistance organisms from the foodchain to humans is a major health concern.
+Few antimicrobial classes are reserved exclusively for humans. The vast majority of antibiotics are used both in humans and animals, including domestic mammals, birds, farmed fish and shellfish, honeybees and others. As noted earlier, **73% of all antibiotic consumption per weight is used for food production in animals.**[@VanBoeckelEtAl2017] Critically, two-third of all human infectious diseases that have emerged or re-emerged in recent decades are zoonotic-i.e. they originated in animals.[@WoolhouseGowtage-Sequeria2005] Therefore the transmission of antibiotic resistance organisms from the foodchain to humans is a major health concern.
 
 In horticulture, tetracyclines, streptomycin, and other antimicrobials are used for the prophylaxis and treatment of bacterial infections that affect plants (e.g., "fire blight" caused by *Erwinea amylovora* afflicting apple and pear trees).
 
@@ -484,7 +484,7 @@ The most controversial type of group treatment in food animals is long-term, low
 
 <center>
 
-![](images/pigs.png){width="700"}
+![](images/pigs.png){width="600"}
 
 <figcaption>
 
@@ -545,7 +545,7 @@ In some chicken producing enterprises, ceftiofur is injected in small quantities
 
 <center>
 
-![](images/chicken_farm.png){width="800"}
+![](images/chicken_farm.png){width="600"}
 
 </center>
 
@@ -557,7 +557,7 @@ In some chicken producing enterprises, ceftiofur is injected in small quantities
 
 </figure>
 
-An example of the link between ceftiofur metaphylaxis and infections in humans is illustrated by experience from Canada. Studies conducted by the Canadian Integrated Program for Antimicrobial Resistance Surveillance detected a high degree of temporal correlation in trends of resistance to ceftiofur and ceftriaxone (a drug of choice for the treatment of severe cases of salmonelloses in children and pregnant women) from *Salmonella* Heidelberg strains isolated from patients with clinical infections amd poultry samples collected at retail stores.[@Canada2009] Voluntary termination of ceftiofur metaphylaxis in hatcheries in the province of Quebec was followed by a precipitous drop in the prevalence of resistance to ceftiofur; subsequent reintroduction of ceftiofur in a more limited way was followed by a return to higher levels of resistance.
+An example of the link between ceftiofur metaphylaxis and infections in humans is illustrated by experience from Canada. Studies conducted by the Canadian Integrated Program for Antimicrobial Resistance Surveillance detected a high degree of temporal correlation in trends of resistance to ceftiofur and ceftriaxone (a drug of choice for the treatment of severe cases of salmonelloses in children and pregnant women) from *Salmonella* Heidelberg strains isolated from patients with clinical infections and poultry samples collected at retail stores.[@Canada2009] Voluntary termination of ceftiofur metaphylaxis in hatcheries in the province of Quebec was followed by a precipitous drop in the prevalence of resistance to ceftiofur; subsequent reintroduction of ceftiofur in a more limited way was followed by a return to higher levels of resistance.
 
 <figure>
 
@@ -565,7 +565,7 @@ An example of the link between ceftiofur metaphylaxis and infections in humans i
 
 <center>
 
-![](images/Canada_ecoli.png){width="700"}
+![](images/Canada_ecoli.png){width="600"}
 
 <figcaption>
 
@@ -589,13 +589,13 @@ Colistin is a member of the polymixin class of antibiotics, which have been used
 
 -   In 2014, colistin use in EU member states in animals was higher than humans with a reported 485 tonnes- 99.7% in oral form or oral medicated feed. In China, with the world's largest production of pigs and poultry, an estimated 12,000 tonnes of colistin was used in the food production industry.[@LiuEtAl2016b]
 
--   In 2015, Lui and colleagues reported plasmid-mediated colistin-resistance gene, *mcr-1*, in *Escherichia coli* isolates obtained from animals, food and human bloodstream infections in China.\[@LiuEtAl2016b\] Alarmingly, the resistance gene has also been detected in 5% of healthy travellers from China in other parts of the world.[@LaxminarayanEtAl2013a]
+-   In 2015, Lui and colleagues reported plasmid-mediated colistin-resistance gene, *mcr-1*, in *Escherichia coli* isolates obtained from animals, food and human bloodstream infections in China.[@LiuEtAl2016b] Alarmingly, the resistance gene has also been detected in 5% of healthy travellers from China in other parts of the world.[@LaxminarayanEtAl2013a]
 
 -   The *mcr-1* gene has also been detected in isolates obtained from wildlife and surface water samples, demonstrating environmental contamination.[@ZurfuhEtAl]
 
 -   Additional plasmid-mediated colistin-resistance genes have been reported in many other bacterial species and countries, including *mcr-2* from pigs in Belgium, and *mcr-3,4,5* in other countries.[@BorowiakEtAl2017]
 
--   Colistin illustrates important *One-Health Dimensions* *of AMR* that differ from third generation cephalosporins.\[@FrostEtAl2019\] Use of large quantities of colistin for group treatment or growth promotion in animals has probably lead to antimicrobial resistance problems in human health, even through colistin was considered in the past to be less important because other less toxic treatments were still available.
+-   Colistin illustrates important *One-Health Dimensions* *of AMR* that differ from third generation cephalosporins.[@FrostEtAl2019] Use of large quantities of colistin for group treatment or growth promotion in animals has probably lead to antimicrobial resistance problems in human health, even through colistin was considered in the past to be less important because other less toxic treatments were still available.
 
 -   In 2017, China banned the use of colistin as a food additive for animals. Colistin is currently not approved as a food additive in Europe or the United States, but is still be used in LMICs as a growth promoting agent because of its low cost.
 
@@ -652,7 +652,7 @@ General measures to address antimicrobial resistance in the wider environment in
 
 <center>
 
-![](images/hotspots.png){width="1000"}
+![](images/hotspots.png){width="600"}
 
 <figcaption>
 
@@ -670,7 +670,7 @@ General measures to address antimicrobial resistance in the wider environment in
 
 <center>
 
-![](images/worldairlineroute2014.png){width="800"}
+![](images/worldairlineroute2014.png){width="600"}
 
 <figcaption>
 
