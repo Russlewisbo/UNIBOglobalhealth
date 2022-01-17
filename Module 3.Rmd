@@ -60,7 +60,7 @@ According to the WHO, over 11 billion people must be vaccinated against COVID-19
 
 <figure>
 
-![](images/Omicron.png){width="800"}
+![](images/Omicron.png){width="500"}
 
 <figcaption>
 
@@ -133,7 +133,7 @@ Gavi shares the cost that implementing countries pay for vaccines, which has res
 
 <br>
 
-![](images/LMIC_vaccination.jpg){width="600"}
+![](images/LMIC_vaccination.jpg){width="500"}
 
 <figcaption>
 
@@ -195,7 +195,7 @@ Identifying inexpensive, widely available, and effective therapies against COVID
 
 <center>
 
-![](images/COVID_vaccination.png){width="600"}
+![](images/COVID_vaccination.png){width="500"}
 
 <figcaption>
 
@@ -215,7 +215,7 @@ The [Medicines Patent Pool (MPP)](https://medicinespatentpool.org/) is a United 
 
 <figure>
 
-![](images/mpp_1.png)
+![](images/mpp_1.png){width="700"}
 
 <figcaption>
 
@@ -235,7 +235,7 @@ The advantages are three fold:
 2.  Generic companies have access to manufacture and distribute innovative medicines that are still on patient
 3.  Patients get access to affordable and more effective medications that saves lives
 
-![](images/mpp_2.png){width="800"}
+![](images/mpp_2.png){width="500"}
 
 **Figure 4. How the Medicines Patient Pool licences medicines for public health.**
 
@@ -269,7 +269,7 @@ Generic competition is making a difference in fostering lower prices and improvi
 
 <figure>
 
-![](images/MMP_outcomes.png)
+![](images/MMP_outcomes.png){width="600"}
 
 <figcaption>
 
@@ -313,7 +313,7 @@ The globalisation of the pharmaceutical industry has made tracking fake and subs
 
 <figure>
 
-![](images/counterfits.png)
+![](images/counterfits.png){width="500"}
 
 <figcaption>
 

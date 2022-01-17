@@ -181,14 +181,10 @@ What constitutes a fair noninferiority margin (Δ) is often a matter of debate a
 
 <figure>
 
-<center>
 
 ![](images/non-inferiority.jpeg)
 
-</center>
-
 <figcaption>
-
 **Figure 3. Possible results of noninferiority trials demonstrated by 2-sided 95% confidence intervals.** Five distinct outcomes of noninferiority studies are diagramed using 2-sided 95% confidence intervals. The null hypothesis for the study is that the experimental treatment is inferior to the standard comparator, leaving noninferiority of the new treatment as the alternate hypothesis if the null hypothesis is rejected. Failure to reject the null hypothesis does not necessarily imply that the alternate hypothesis has been excluded. The specific point estimate within limits does not alter the qualitative conclusion. On the other hand, both the upper and lower bounds of the confidence interval can provide critical information depending on the circumstances. Each panel indicates the appropriate interpretation (A--E). Figure is from DiNubile et al.[@DiNubile2016]
 
 </figcaption>
@@ -209,7 +205,7 @@ A 2017 estimate puts the cost of developing an antibiotic at around US\$1.5 bill
 
 <figcaption>
 
-**Figure 3 Pathway from drug discovery to regulatory approval and estimated costs.** ADMET- studies to document drug absorption, distribution, metabolism and elimination, and toxicity in animals. PK/PD pharmacokinetic/ pharmacodynamic relationships- i.e. dose response and toxicity relationships from animals. Figure is from Ardal et al.[@ArdalEtAl2020a]
+**Figure 4. Pathway from drug discovery to regulatory approval and estimated costs.** ADMET- studies to document drug absorption, distribution, metabolism and elimination, and toxicity in animals. PK/PD pharmacokinetic/ pharmacodynamic relationships- i.e. dose response and toxicity relationships from animals. Figure is from Ardal et al.[@ArdalEtAl2020a]
 
 </figcaption>
 
@@ -248,7 +244,7 @@ These efforts are succeeding. The preclinical pipeline is shifting to higher qua
 
 <figcaption>
 
-**Figure 3. Push versus pull incentives for antibiotic development.**
+**Figure 5. Push versus pull incentives for antibiotic development.**
 
 </figcaption>
 
@@ -264,7 +260,7 @@ Pull incentives are being actively discussed in the United States and Europe, bu
 
 <figcaption>
 
-**Figure 4. The "Netlfix Model" of Pull Incentives for antibiotic development and reimbursement.**
+**Figure 6. The "Netlfix Model" of Pull Incentives for antibiotic development and reimbursement.**
 
 </figcaption>
 
@@ -354,7 +350,7 @@ The program also had many simple but innovative community health interventions. 
 
 </center>
 
-**Figure 4. Mirror toolkit for patients to self-assess their sore throat symptoms in Thai Pharmacies**
+**Figure 7. Mirror toolkit for patients to self-assess their sore throat symptoms in Thai Pharmacies**
 
 </figcaption>
 
